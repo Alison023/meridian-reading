@@ -641,6 +641,7 @@ body.is-turning{overflow:hidden}
 
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 
+<script src="data/articles.js"></script>
 <script>
 /* ============================================================
    DATA
@@ -774,8 +775,15 @@ function fallbackDay(){
 }
 
 async function loadData(){
+  // 1) data/articles.js 由管道生成，双击本地文件也能直接读
+  const inline = window.__MERIDIAN_DATA__;
+  if (inline && inline.days && inline.days.length){
+    DAYS = inline.days;
+    currentDate = DAYS[0].date;
+    return;
+  }
+  // 2) 走 HTTP 时尝试 JSON（便于以后部署到服务器）
   try{
-    if (location.protocol === "file:") throw new Error("file protocol");
     const r = await fetch("data/articles.json", { cache: "no-store" });
     if (!r.ok) throw new Error("http " + r.status);
     const j = await r.json();

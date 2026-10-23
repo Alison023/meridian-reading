@@ -1,12 +1,15 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-The Meridian 每日摘录管道：
-RSS 订阅 -> 全文提取 -> 段落切分 -> 机翻(谷歌/ MyMemory 兜底) -> 词表标注 -> data/articles.json
+The Meridian 每日摘录管道（本地版）：
+RSS 订阅 -> 全文提取 -> 段落切分 -> 机翻 -> 词表标注 -> data/articles.json + data/articles.js
 
 用法:
     python pipeline/build.py              # 抓今天的 5 篇
     python pipeline/build.py --date 2026-10-24
+
+说明：本机网络可直连 NPR / phys.org / ScienceDaily / Ars Technica，
+其他外媒（Guardian、BBC、Al Jazeera）与 Google 翻译均被阻断，故只用可达源。
 """
 import argparse
 import json
@@ -25,79 +28,156 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from vocab import VOCAB, FORM2BASE  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
-DATA_FILE = ROOT / "data" / "articles.json"
+DATA_DIR = ROOT / "data"
+JSON_FILE = DATA_DIR / "articles.json"
+JS_FILE = DATA_DIR / "articles.js"
 KEEP_DAYS = 7
-MIN_WORDS, TARGET_WORDS, MAX_PARAS = 360, 650, 10
+MIN_WORDS, TARGET_WORDS, MAX_PARAS = 240, 520, 9
 
 SECTIONS = [
     ("World", "国际", [
-        "https://www.theguardian.com/world/rss",
-        "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "https://feeds.npr.org/1004/rss.xml",
     ]),
     ("Business", "商业 · 财经", [
-        "https://www.theguardian.com/uk/business/rss",
-        "https://feeds.bbci.co.uk/news/business/rss.xml",
+        "https://feeds.npr.org/1006/rss.xml",
     ]),
     ("Technology", "科技", [
-        "https://www.theguardian.com/uk/technology/rss",
-        "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "https://feeds.npr.org/1019/rss.xml",
+        "https://feeds.arstechnica.com/arstechnica/index",
     ]),
     ("Science", "科学", [
-        "https://www.theguardian.com/science/rss",
-        "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+        "https://feeds.npr.org/1025/rss.xml",
+        "https://www.sciencedaily.com/rss/all.xml",
     ]),
     ("Culture", "文化", [
-        "https://www.theguardian.com/uk/culture/rss",
-        "https://www.aljazeera.com/xml/rss/all.xml",
+        "https://feeds.npr.org/1008/rss.xml",
     ]),
 ]
 
 SKIP_PAT = re.compile(
     r"live blog|live updates|podcast|video|gallery|in pictures|audio|"
-    r"picture essay|quiz|crossword|newsletter sign", re.I)
+    r"picture essay|quiz|crossword|newsletter|up first|briefing", re.I)
 PARA_BAD = re.compile(
     r"sign up|subscribe|newsletter|follow us|all rights reserved|"
-    r"this article was amended|click here|read more", re.I)
-UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) TheMeridianBot/1.0"}
+    r"sponsor message|this article was amended|click here|read more|"
+    r"© copyright|npr terms|support npr", re.I)
+UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) MeridianBot/1.0"}
 
 
 # ---------------------------------------------------------------- 翻译
-def translate_gtx(text):
-    r = requests.get(
-        "https://translate.googleapis.com/translate_a/single",
-        params={"client": "gtx", "sl": "en", "tl": "zh-CN", "dt": "t", "q": text},
-        headers=UA, timeout=25)
-    r.raise_for_status()
-    return "".join(seg[0] for seg in r.json()[0] if seg[0])
+def split_sentences(text):
+    return [s for s in re.split(r"(?<=[.!?])\s+", text) if s.strip()]
+
+
+def chunk_text(text, limit=450):
+    """MyMemory 单次请求有长度上限，按句聚合到 limit 以内。"""
+    chunks, buf = [], ""
+    for s in split_sentences(text) or [text]:
+        while len(s) > limit:
+            chunks.append(s[:limit])
+            s = s[limit:]
+        if len(buf) + len(s) + 1 <= limit:
+            buf = (buf + " " + s).strip()
+        else:
+            if buf:
+                chunks.append(buf)
+            buf = s
+    if buf:
+        chunks.append(buf)
+    return chunks
 
 
 def translate_mymemory(text):
-    parts = split_sentences(text) if len(text) > 450 else [text]
     out = []
-    for p in parts:
-        r = requests.get(
-            "https://api.mymemory.translated.net/get",
-            params={"q": p, "langpair": "en|zh-CN"},
-            headers=UA, timeout=25)
-        r.raise_for_status()
-        out.append(r.json()["responseData"]["translatedText"])
-        time.sleep(0.4)
+    for piece in chunk_text(text):
+        body = ""
+        for attempt in range(2):
+            try:
+                r = requests.get(
+                    "https://api.mymemory.translated.net/get",
+                    params={"q": piece, "langpair": "en|zh-CN"},
+                    headers=UA, timeout=40)
+                if r.status_code == 200:
+                    j = r.json()
+                    if str(j.get("responseStatus")) == "200":
+                        body = j["responseData"]["translatedText"]
+                        break
+            except Exception:
+                pass
+            time.sleep(1.5 + attempt)
+        if not body:
+            return ""
+        out.append(body)
+        time.sleep(0.3)
     return "".join(out)
 
 
+# ---------------------------------------------------------------- Bing 翻译（主用，国内可直连）
+class BingTranslator:
+    """cn.bing.com 网页版翻译接口：免密钥，质量接近商业机翻。"""
+
+    def __init__(self):
+        self.sess = None
+        self.ig = self.key = self.token = None
+
+    def refresh(self):
+        self.sess = requests.Session()
+        page = self.sess.get("https://cn.bing.com/translator", headers=UA, timeout=20)
+        txt = page.text
+        ig = re.search(r'IG:"([0-9A-Fa-f]+)"', txt)
+        helper = re.search(r'params_AbusePreventionHelper\s*=\s*\[(\d+),"([^"]+)"', txt)
+        if not (ig and helper):
+            raise RuntimeError("bing token parse failed")
+        self.ig, self.key, self.token = ig.group(1), helper.group(1), helper.group(2)
+
+    def translate(self, text):
+        for attempt in range(3):
+            if not self.ig:
+                self.refresh()
+            url = (f"https://cn.bing.com/ttranslatev3?isVertical=1"
+                   f"&&IG={self.ig}&IID=translator.5023.1")
+            try:
+                r = self.sess.post(
+                    url,
+                    data={"fromLang": "en", "to": "zh-Hans", "text": text,
+                          "token": self.token, "key": self.key},
+                    headers={**UA, "Referer": "https://cn.bing.com/translator",
+                             "Origin": "https://cn.bing.com",
+                             "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"},
+                    timeout=30)
+                if r.status_code == 200 and r.text.strip():
+                    return r.json()[0]["translations"][0]["text"]
+            except Exception:
+                pass
+            self.ig = None  # token 失效，下次重取
+            time.sleep(1.0)
+        raise RuntimeError("bing translate empty")
+
+    def translate_long(self, text, limit=1800):
+        if len(text) <= limit:
+            return self.translate(text)
+        parts = chunk_text(text, limit - 50)
+        return "".join(self.translate(p) for p in parts)
+
+
+BING = BingTranslator()
+
+
 def translate(text):
-    for fn in (translate_gtx, translate_mymemory):
-        try:
-            zh = fn(text).strip()
-            if zh and zh.lower() != text.lower():
-                return zh
-        except Exception as e:
-            print(f"    translate via {fn.__name__} failed: {e}")
+    try:
+        zh = BING.translate_long(text).strip()
+        if zh and zh.lower() != text.lower():
+            time.sleep(0.15)
+            return zh
+    except Exception as e:
+        print(f"    bing failed: {e}")
+    try:
+        zh = translate_mymemory(text).strip()
+        if zh and zh.lower() != text.lower():
+            return zh
+    except Exception as e:
+        print(f"    mymemory failed: {e}")
     return ""
-
-
-def split_sentences(text):
-    return [s for s in re.split(r"(?<=[.!?])\s+", text) if s.strip()]
 
 
 # ---------------------------------------------------------------- 抓取
@@ -110,12 +190,13 @@ def fetch_fulltext(url, entry):
     try:
         html_doc = trafilatura.fetch_url(url)
         if html_doc:
-            return trafilatura.extract(
+            text = trafilatura.extract(
                 html_doc, include_comments=False, include_tables=False,
-                favor_recall=True) or ""
+                favor_recall=True)
+            if text and len(text) > 400:
+                return text
     except Exception:
         pass
-    # RSS 正文兜底（Guardian 的 description 常含全文）
     for key in ("content", "summary", "description"):
         val = entry.get(key)
         if not val:
@@ -141,27 +222,27 @@ def clean_paragraphs(text):
 def pick_paragraphs(paras):
     chosen, words = [], 0
     for p in paras:
-        if len(chosen) >= MAX_PARAS or words >= TARGET_WORDS + 250:
+        if len(chosen) >= MAX_PARAS:
             break
         chosen.append(p)
         words += len(p.split())
-        if words >= TARGET_WORDS and len(chosen) >= 6:
+        if words >= TARGET_WORDS and len(chosen) >= 5:
             break
     return chosen, words
 
 
 def source_name(feed, url):
     t = (feed.feed.get("title") or "").lower()
-    if "guardian" in t or "theguardian" in url:
-        return "The Guardian"
-    if "bbc" in t or "bbci" in url:
-        return "BBC News"
-    if "aljazeera" in url or "al jazeera" in t:
-        return "Al Jazeera"
+    if "npr" in t or "npr.org" in url:
+        return "NPR"
+    if "ars" in t or "arstechnica" in url:
+        return "Ars Technica"
+    if "science" in t and "daily" in t or "sciencedaily" in url:
+        return "ScienceDaily"
     return feed.feed.get("title") or "RSS"
 
 
-def fetch_section(section, section_zh, feeds, limit=1):
+def fetch_section(section, section_zh, feeds, used_titles, limit=1):
     got = []
     for feed_url in feeds:
         if len(got) >= limit:
@@ -178,20 +259,25 @@ def fetch_section(section, section_zh, feeds, limit=1):
             link = entry.get("link", "")
             if not title or not link or SKIP_PAT.search(title) or SKIP_PAT.search(link):
                 continue
-            text = fetch_fulltext(link, entry)
-            paras = clean_paragraphs(text)
-            chosen, words = pick_paragraphs(paras)
-            if words < MIN_WORDS or len(chosen) < 4:
+            if title.lower() in used_titles:
                 continue
-            byline = entry.get("author") or ""
+            text = fetch_fulltext(link, entry)
+            chosen, words = pick_paragraphs(clean_paragraphs(text))
+            # NPR 常把标题原样作为首段，去掉以免正文与标题重复
+            if len(chosen) > 3 and title.strip().lower() in chosen[0].strip().lower():
+                chosen = chosen[1:]
+                words = sum(len(p.split()) for p in chosen)
+            if words < MIN_WORDS or len(chosen) < 3:
+                continue
+            used_titles.add(title.lower())
             got.append({
                 "section": section, "sectionZh": section_zh,
                 "title": title, "url": link,
                 "source": source_name(feed, link),
-                "byline": byline,
+                "byline": entry.get("author") or "",
                 "paragraphs_en": chosen, "words": words,
             })
-            print(f"  [{section}] {title[:70]}  ({words}w, {len(chosen)}p) <- {source_name(feed, link)}")
+            print(f"  [{section}] {title[:66]}  ({words}w, {len(chosen)}p) <- {source_name(feed, link)}")
     return got
 
 
@@ -200,7 +286,7 @@ WORD_RE = re.compile(r"[A-Za-z][a-z]+(?:[-'][a-z]+)?")
 
 
 def annotate(text_all):
-    found = {}  # base -> {"forms": set, "pos0": idx}
+    found = {}
     for m in WORD_RE.finditer(text_all.lower()):
         base = FORM2BASE.get(m.group(0))
         if base and base in VOCAB:
@@ -223,7 +309,6 @@ def annotate(text_all):
     return items
 
 
-# ---------------------------------------------------------------- 主流程
 def level_of(text_all):
     sents = split_sentences(text_all)
     if not sents:
@@ -236,20 +321,26 @@ def level_of(text_all):
     return "C2", "Proficient"
 
 
+# ---------------------------------------------------------------- 主流程
 def build_day(date_str):
-    articles = []
+    articles, used_titles = [], set()
     for section, section_zh, feeds in SECTIONS:
         print(f"Fetching {section} ...")
-        for raw in fetch_section(section, section_zh, feeds):
+        for raw in fetch_section(section, section_zh, feeds, used_titles):
             text_all = " ".join(raw["paragraphs_en"])
             level, level_en = level_of(text_all)
             paras = []
             for p in raw["paragraphs_en"]:
-                zh = translate(p)
-                paras.append({"en": p, "zh": zh})
-                time.sleep(0.25)
+                paras.append({"en": p, "zh": translate(p)})
             vocab = annotate(text_all)
-            dek = raw["paragraphs_en"][0]
+            dek = ""
+            for p in raw["paragraphs_en"]:
+                if raw["title"].strip().lower() in p.strip().lower():
+                    continue
+                dek = p
+                break
+            if not dek:
+                dek = raw["paragraphs_en"][0]
             if len(dek) > 200:
                 dek = dek[:197].rsplit(" ", 1)[0] + "…"
             articles.append({
@@ -258,6 +349,7 @@ def build_day(date_str):
                 "title": raw["title"], "dek": dek,
                 "source": raw["source"], "sourceUrl": raw["url"],
                 "byline": raw["byline"],
+                "dateLabel": date_str,
                 "words": raw["words"],
                 "readTime": max(3, round(raw["words"] / 200)),
                 "level": level, "levelEn": level_en,
@@ -280,20 +372,24 @@ def main():
         sys.exit(1)
 
     days = []
-    if DATA_FILE.exists():
+    if JSON_FILE.exists():
         try:
-            days = json.loads(DATA_FILE.read_text(encoding="utf-8")).get("days", [])
+            days = json.loads(JSON_FILE.read_text(encoding="utf-8")).get("days", [])
         except Exception:
             days = []
     days = [d for d in days if d.get("date") != args.date]
     days.insert(0, day)
     days = days[:KEEP_DAYS]
+    payload = {"updated": datetime.now(timezone.utc).isoformat(), "days": days}
 
-    DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
-    DATA_FILE.write_text(json.dumps(
-        {"updated": datetime.now(timezone.utc).isoformat(), "days": days},
-        ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"Wrote {DATA_FILE} · {len(day['articles'])} articles · {len(days)} days kept")
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+    text = json.dumps(payload, ensure_ascii=False, indent=1)
+    JSON_FILE.write_text(text, encoding="utf-8")
+    # 同步产出一份 JS，便于直接双击 index.html 打开（file:// 不支持 fetch）
+    JS_FILE.write_text(
+        "window.__MERIDIAN_DATA__ = " + text + ";\n", encoding="utf-8")
+    print(f"Wrote {JSON_FILE.name} + {JS_FILE.name} · "
+          f"{len(day['articles'])} articles · {len(days)} days kept")
 
 
 if __name__ == "__main__":

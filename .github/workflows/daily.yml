@@ -28,6 +28,6 @@ jobs:
         run: |
           git config user.name "meridian-bot"
           git config user.email "meridian-bot@users.noreply.github.com"
-          git add data/articles.json
+          git add data/articles.json data/articles.js
           git diff --cached --quiet || git commit -m "data: daily articles $(date -u +%F)"
           git push
