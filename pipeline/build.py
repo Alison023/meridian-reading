@@ -114,43 +114,49 @@ def translate_mymemory(text):
 
 # ---------------------------------------------------------------- Bing 翻译（主用，国内可直连）
 class BingTranslator:
-    """cn.bing.com 网页版翻译接口：免密钥，质量接近商业机翻。"""
+    """Bing 网页版翻译接口：免密钥，国内走 cn.bing.com，境外 Actions 走 www.bing.com。"""
+
+    HOSTS = ("cn.bing.com", "www.bing.com")
 
     def __init__(self):
+        self.host = None
         self.sess = None
         self.ig = self.key = self.token = None
 
-    def refresh(self):
+    def refresh(self, host):
         self.sess = requests.Session()
-        page = self.sess.get("https://cn.bing.com/translator", headers=UA, timeout=20)
+        page = self.sess.get(f"https://{host}/translator", headers=UA, timeout=20)
         txt = page.text
         ig = re.search(r'IG:"([0-9A-Fa-f]+)"', txt)
         helper = re.search(r'params_AbusePreventionHelper\s*=\s*\[(\d+),"([^"]+)"', txt)
         if not (ig and helper):
-            raise RuntimeError("bing token parse failed")
-        self.ig, self.key, self.token = ig.group(1), helper.group(1), helper.group(2)
+            raise RuntimeError(f"token parse failed on {host}")
+        self.host, self.ig = host, ig.group(1)
+        self.key, self.token = helper.group(1), helper.group(2)
 
     def translate(self, text):
-        for attempt in range(3):
-            if not self.ig:
-                self.refresh()
-            url = (f"https://cn.bing.com/ttranslatev3?isVertical=1"
-                   f"&&IG={self.ig}&IID=translator.5023.1")
-            try:
-                r = self.sess.post(
-                    url,
-                    data={"fromLang": "en", "to": "zh-Hans", "text": text,
-                          "token": self.token, "key": self.key},
-                    headers={**UA, "Referer": "https://cn.bing.com/translator",
-                             "Origin": "https://cn.bing.com",
-                             "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"},
-                    timeout=30)
-                if r.status_code == 200 and r.text.strip():
-                    return r.json()[0]["translations"][0]["text"]
-            except Exception:
-                pass
-            self.ig = None  # token 失效，下次重取
-            time.sleep(1.0)
+        order = ([self.host] if self.host else []) + list(self.HOSTS)
+        for host in order:
+            for _ in range(2):
+                try:
+                    if self.host != host or not self.ig:
+                        self.refresh(host)
+                    url = (f"https://{host}/ttranslatev3?isVertical=1"
+                           f"&&IG={self.ig}&IID=translator.5023.1")
+                    r = self.sess.post(
+                        url,
+                        data={"fromLang": "en", "to": "zh-Hans", "text": text,
+                              "token": self.token, "key": self.key},
+                        headers={**UA, "Referer": f"https://{host}/translator",
+                                 "Origin": f"https://{host}",
+                                 "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"},
+                        timeout=30)
+                    if r.status_code == 200 and r.text.strip():
+                        return r.json()[0]["translations"][0]["text"]
+                except Exception:
+                    pass
+                self.ig = None
+                time.sleep(0.8)
         raise RuntimeError("bing translate empty")
 
     def translate_long(self, text, limit=1800):
