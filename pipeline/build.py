@@ -248,7 +248,7 @@ def source_name(feed, url):
     return feed.feed.get("title") or "RSS"
 
 
-def fetch_section(section, section_zh, feeds, used_titles, limit=1):
+def fetch_section(section, section_zh, feeds, used_titles, seen_urls=None, limit=1):
     got = []
     for feed_url in feeds:
         if len(got) >= limit:
@@ -267,6 +267,9 @@ def fetch_section(section, section_zh, feeds, used_titles, limit=1):
                 continue
             if title.lower() in used_titles:
                 continue
+            # 跳过近几天已用过的文章，避免同一篇连续两日出现
+            if seen_urls is not None and link in seen_urls:
+                continue
             text = fetch_fulltext(link, entry)
             chosen, words = pick_paragraphs(clean_paragraphs(text))
             # NPR 常把标题原样作为首段，去掉以免正文与标题重复
@@ -276,6 +279,8 @@ def fetch_section(section, section_zh, feeds, used_titles, limit=1):
             if words < MIN_WORDS or len(chosen) < 3:
                 continue
             used_titles.add(title.lower())
+            if seen_urls is not None:
+                seen_urls.add(link)
             got.append({
                 "section": section, "sectionZh": section_zh,
                 "title": title, "url": link,
@@ -328,11 +333,11 @@ def level_of(text_all):
 
 
 # ---------------------------------------------------------------- 主流程
-def build_day(date_str):
+def build_day(date_str, seen_urls=None):
     articles, used_titles = [], set()
     for section, section_zh, feeds in SECTIONS:
         print(f"Fetching {section} ...")
-        for raw in fetch_section(section, section_zh, feeds, used_titles):
+        for raw in fetch_section(section, section_zh, feeds, used_titles, seen_urls):
             text_all = " ".join(raw["paragraphs_en"])
             level, level_en = level_of(text_all)
             paras = []
@@ -372,18 +377,25 @@ def main():
     ap.add_argument("--date", default=datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d"))
     args = ap.parse_args()
 
-    day = build_day(args.date)
-    if not day["articles"]:
-        print("No articles fetched; keep existing data.")
-        sys.exit(1)
-
     days = []
     if JSON_FILE.exists():
         try:
             days = json.loads(JSON_FILE.read_text(encoding="utf-8")).get("days", [])
         except Exception:
             days = []
+    # 去掉当天旧数据，只拿更早日期的 URL 做去重，重跑当天不会被自己挡住
     days = [d for d in days if d.get("date") != args.date]
+    seen_urls = {
+        a.get("sourceUrl")
+        for d in days for a in d.get("articles", [])
+        if a.get("sourceUrl")
+    }
+
+    day = build_day(args.date, seen_urls)
+    if not day["articles"]:
+        print("No articles fetched; keep existing data.")
+        sys.exit(1)
+
     days.insert(0, day)
     days = days[:KEEP_DAYS]
     payload = {"updated": datetime.now(timezone.utc).isoformat(), "days": days}
