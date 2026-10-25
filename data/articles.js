@@ -1394,39 +1394,39 @@ window.__MERIDIAN_DATA__ = {
      "paragraphs": [
       {
        "en": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths",
-       "zh": ""
+       "zh": "当局正在调查肯尼亚和尼日利亚首例埃博拉病例是否有交集"
       },
       {
        "en": "JOHANNESBURG – The first Ebola patient confirmed in Nigeria may have crossed paths with the first Kenyan Ebola patient at a Ugandan airport, health officials said Thursday.",
-       "zh": ""
+       "zh": "约翰内斯堡——周四，卫生官员表示，尼日利亚首例确诊埃博拉病例可能在乌干达的一座机场与肯尼亚的首例埃博拉患者相遇。"
       },
       {
        "en": "Nigeria announced its first case of Ebola in more than a decade on Tuesday. Nigerian health authorities said the patient is the Ugandan-born wife of a diplomat based in Abuja who had vacationed in Uganda in September and returned to Nigeria earlier this month.",
-       "zh": ""
+       "zh": "尼日利亚周二宣布了十多年来的首例埃博拉病例。尼日利亚卫生当局表示，该患者是驻阿布贾一名外交官的乌干达出生的妻子，她在九月份曾前往乌干达度假，并于本月早些时候返回尼日利亚。"
       },
       {
        "en": "She is being treated and 44 people she had close contact with have been quarantined, Dr. Wessam Mankoula, head of emergency preparedness and response at the Africa Centers for Disease Control and Prevention, told a press briefing on Thursday.",
-       "zh": ""
+       "zh": "非洲疾病控制与预防中心应急准备与响应负责人韦萨姆·曼库拉医生周四在新闻发布会上表示，她正在接受治疗，与她有密切接触的44人已被隔离。"
       },
       {
        "en": "Authorities are now investigating what the source of her exposure was.",
-       "zh": ""
+       "zh": "当局目前正在调查她接触来源的原因。"
       },
       {
        "en": "Nigeria, Africa's most populous country, is the fourth on the continent to record an Ebola case during the current outbreak, but it's the first in West Africa and the furthest away from the epicenter in the Democratic Republic of Congo.",
-       "zh": ""
+       "zh": "尼日利亚，非洲人口最多的国家，在当前疫情期间是该大陆第四个记录埃博拉病例的国家，但它是西非的第一个病例，也是距离刚果民主共和国疫情中心最远的国家。"
       },
       {
        "en": "Congo's current Ebola outbreak began in May in the country's east. It has become the fastest spreading on record. At least 4,600 people have died and about 9,700 have been infected in Congo.",
-       "zh": ""
+       "zh": "刚果当前的埃博拉疫情始于该国东部的五月。它已成为有记录以来传播最快的疫情。刚果至少有4600人死亡，约9700人感染。"
       },
       {
        "en": "Neighboring Uganda initially recorded about 20 cases but was declared Ebola-free in August.",
-       "zh": ""
+       "zh": "邻近的乌干达最初记录了大约20例病例，但在八月被宣布为无埃博拉病毒地区。"
       },
       {
        "en": "The first case in Kenya was recorded in early October and since then eight other cases have been confirmed in the east African nation.",
-       "zh": ""
+       "zh": "肯尼亚的首例病例记录于十月初，此后这个位于东非的国家又确认了八例病例。"
       }
      ],
      "vocab": [
@@ -1537,35 +1537,35 @@ window.__MERIDIAN_DATA__ = {
      "paragraphs": [
       {
        "en": "Outside of Atlanta, two gas stations got into a price war. The Atlanta TV station WSB-TV reported that, over the course of a day, prices dropped from $2.54 down to $1.44, $1.39 and eventually down to just 97 cents. When drivers took notice, the traffic jam began and police intervened. BUT while it was happening, one driver said she only spent $15 to fill up her truck. It usually costs $90. \"Look at God, baby! Look at God!\" she said.",
-       "zh": ""
+       "zh": "在亚特兰大以外，两家加油站陷入了价格战。据亚特兰大电视台WSB-TV报道，在一天之内，油价从每加仑2.54美元降至1.44美元，再降至1.39美元，最终降至仅97美分。当司机注意到时，交通堵塞开始，警方介入。但就在这一过程中，一名司机说她只花了15美元就给卡车加满了油。通常这需要90美元。她说：“看看上帝，宝贝！看看上帝！”"
       },
       {
        "en": "In our team's Slack, co-host Wailin Wong responded to the low prices, \"make it up on volume!?\" Jeff Guo wrote, \"how is this real.\" But like, actually. How is this real?",
-       "zh": ""
+       "zh": "在我们团队的 Slack 上，共同主持人 Wailin Wong 对低价作出了回应，‘靠销量来补吗！？’ Jeff Guo 写道，‘这怎么可能是真的。’但是，真的，这怎么可能是真的？"
       },
       {
        "en": "- How fake data centers can still drive up electricity costs",
-       "zh": ""
+       "zh": "- 虚假数据中心如何仍然能推高电费"
       },
       {
        "en": "What To Know: Social media sites don't love it when users leave. If you've ever used Instagram, it's not the easiest place to post links. You need to include them in bios, or through a special button on stories. Well now, if you run a Facebook page, you can only post TWO hyperlinks for free per month. $49.99/month will get you a Meta One Advanced plan, allowing you to include eight hyperlinks in posts or reels. With the $499/month Max plan, you can post an unlimited amount. Ashley Gullen, who runs a game design company, posted on Mastodon, a decentralized social media platform, \"Facebook achieving absurd new heights of enshittification\" in response to the news. This isn't totally unique. Nieman Lab did a whole study finding that posting links hurts news publishers on X.",
-       "zh": ""
+       "zh": "需要了解的情况：社交媒体网站不喜欢用户离开。如果你曾经使用过Instagram，你会发现它并不是一个容易发布链接的地方。你需要把链接放在个人简介中，或者通过故事中的一个特殊按钮发布。现在，如果你运营一个Facebook页面，你每个月只能免费发布两个超链接。每月支付49.99美元，你可以获得Meta One高级计划，允许你在帖子或短视频中包含八个超链接。每月支付499美元的Max计划，可以无限发布超链接。经营一家游戏设计公司的Ashley Gullen在去中心化社交媒体平台Mastodon上发布回应此消息时写道：“Facebook达到了荒谬的新低”。这并非完全独特。Nieman Lab做过一项完整研究，发现发布链接会对X上的新闻出版商造成影响。"
       },
       {
        "en": "Why are companies doing this?: Attention is money for social media sites. They want to keep you inside their walls! David Evans, managing director at BRG, a consulting firm, wrote a simple explanation as to why platforms want you to stay on their site: \"Attention platforms use content to get consumers to spend time on their platform and sell marketers the ability to expose these consumers to messages.\"",
-       "zh": ""
+       "zh": "公司为什么会这样做？：注意力就是社交媒体网站的金钱。他们想让你留在他们的“墙”内！咨询公司BRG的董事总经理大卫·埃文斯（David Evans）写下了一个简单的解释，说明了为什么平台希望你留在他们的网站上：“注意力平台使用内容让消费者在其平台上花时间，并向营销人员出售向这些消费者传递信息的能力。”"
       },
       {
        "en": "Even FAKE data centers could be driving up electricity costs - The Wall Street Journal",
-       "zh": ""
+       "zh": "即使是假的数据中心也可能在推高电费——《华尔街日报》"
       },
       {
        "en": "What To Know: Developers are desperate to get their data centers up and running. They need it to help power their precious AI and whatever other computing is needed. BUT, developers won't just say, \"This is the only location we'll accept for this project.\" No, they'll put out requests to all sorts of locations for their centers. The problem is, utilities are still considering data centers that likely WON'T GET BUILT in their electricity forecasts. Energy research firm Wood Mackenzie estimates that only a mere 23% of data-center requests are considered \"high confidence,\" according to The Wall Street Journal. The rest are speculative!",
-       "zh": ""
+       "zh": "需要了解的内容：开发者迫切希望让他们的数据中心投入运行。他们需要这些数据中心来为他们宝贵的人工智能以及其他所需的计算提供支持。但是，开发者不会只是简单地说：“这是我们这个项目唯一可接受的位置。”不，他们会向各种地区提出数据中心建设请求。问题是，公共事业公司在电力预测中仍在考虑那些很可能不会建成的数据中心。能源研究公司伍德麦肯齐（Wood Mackenzie）估计，据《华尔街日报》报道，只有区区23%的数据中心请求被认为是“高置信度”，其余的都是推测性的！"
       },
       {
        "en": "How this affects YOU: Electricity costs could rise even if the data centers don't get built. Hoowwwwww does that work now? Because utilities are still planning for expected demand. They can't just suddenly integrate a wildly power-demanding data center without new substations or transmission lines. It's possible for the utility to pass on some of those grid investments onto consumers, even if the data centers never come to pass. Some power markets also set prices based on future demand so… There are lots of ways these projects could mess with your electricity bill.",
-       "zh": ""
+       "zh": "这对你的影响：即使数据中心没有建成，电费也可能会上涨。这是怎么回事呢？因为公用事业公司仍在为预计的需求做规划。他们不能在没有新的变电站或输电线路的情况下，突然接入一个耗电量巨大的数据中心。公用事业公司可能会将部分电网投资转嫁给消费者，即使数据中心最终没有建成。一些电力市场也会根据未来需求来设定价格，所以……这些项目有很多方式可能会影响你的电费账单。"
       }
      ],
      "vocab": [
@@ -1697,39 +1697,39 @@ window.__MERIDIAN_DATA__ = {
      "paragraphs": [
       {
        "en": "Hacking attempts rise after flaws found in program affecting 70 percent of websites",
-       "zh": ""
+       "zh": "程序漏洞影响70%的网站后，黑客攻击尝试增加"
       },
       {
        "en": "A few months ago AI caused global alarm after autonomous agents were found to have cheated on evaluations and then tried to cover it up, in what became known as the \"Hugging Face hack.\"",
-       "zh": ""
+       "zh": "几个月前，人工智能引发了全球恐慌，因为发现自主代理在评估中作弊，并试图掩盖，这就是后来被称为“Hugging Face 黑客事件”的事情。"
       },
       {
        "en": "This week, AI and hacking are back in the spotlight with AI technology credited to have helped prevent a global cybersecurity crisis.",
-       "zh": ""
+       "zh": "本周，人工智能和黑客再次成为焦点，人工智能技术被认为帮助防止了一场全球网络安全危机。"
       },
       {
        "en": "Cyber-security firm Wiz Research, using OpenAI technology, announced on Wednesday it had discovered security flaws in a computer programming language that helps run some 70 percent of the world's websites.",
-       "zh": ""
+       "zh": "网络安全公司Wiz Research利用OpenAI技术，于周三宣布，他们发现了一种计算机编程语言中的安全漏洞，这种语言帮助运行全球约70%的网站。"
       },
       {
        "en": "OpenAI called the bug \"one of the most impactful vulnerabilities in recent memory.\" Wiz Research warned that its \"successful exploitation could allow attackers to take control of affected servers, steal sensitive data, and deface the websites running on them.\"",
-       "zh": ""
+       "zh": "OpenAI称该漏洞是“近来记忆中最具影响力的漏洞之一”。Wiz Research警告说，其“成功利用可能允许攻击者控制受影响的服务器、窃取敏感数据，并篡改运行其上的网站。”"
       },
       {
        "en": "Corporations and governments from the U.K. to Japan are now rushing to prevent hackers from capitalizing on the flaws.",
-       "zh": ""
+       "zh": "从英国到日本的公司和政府如今都在争相阻止黑客利用这些漏洞牟利。"
       },
       {
        "en": "The flaws were discovered in a major programming language called PHP, short for Hypertext Preprocessor. Wiz Research calls PHP \"the backbone of the web,\" saying the technology has underpinned much of the internet since the 1990s.",
-       "zh": ""
+       "zh": "这些漏洞是在一种名为 PHP 的主要编程语言中发现的，PHP 是 Hypertext Preprocessor（超文本预处理器）的缩写。Wiz Research 称 PHP 为“网络的支柱”，表示自 1990 年代以来，这项技术一直支撑着大部分互联网。"
       },
       {
        "en": "\"These findings rank among the most severe vulnerabilities discovered in PHP, and arguably in software history,\" the firm said, adding that before publicly disclosing the flaw, teams had worked on building a solution that's now available to websites to protect themselves.",
-       "zh": ""
+       "zh": "该公司表示：“这些发现是 PHP 中发现的最严重的漏洞之一，可以说在软件历史上也是如此，”并补充说，在公开披露该漏洞之前，团队一直在研究解决方案，该解决方案现在可供网站使用以保护自己。"
       },
       {
        "en": "As countries scrambled to prevent cyberattacks, numerous websites and pages were taken offline in the past few days. The U.S. National Security Agency warned organizations using PHP to \"maintain heightened awareness\" over the coming weeks. The U.K.'s National Cyber Security Center called on organizations to \"take immediate action\" to update their websites to the latest fixed or patched version.",
-       "zh": ""
+       "zh": "随着各国争相防止网络攻击，过去几天许多网站和页面被下线。美国国家安全局警告使用 PHP 的组织在接下来的几周内“保持高度警惕”。英国国家网络安全中心呼吁各组织“立即采取行动”，将其网站更新到最新的修复或补丁版本。"
       }
      ],
      "vocab": [
@@ -1861,39 +1861,39 @@ window.__MERIDIAN_DATA__ = {
      "paragraphs": [
       {
        "en": "Arizona adds U.S.'s newest national park, but National Park Service remains underfunded",
-       "zh": ""
+       "zh": "亚利桑那州新增美国最新的国家公园，但国家公园管理局仍然资金不足"
       },
       {
        "en": "President Trump, famous for stripping protections from national monuments, is signing a bill to turn one into a national park. The land in southern Arizona is biologically rich and scenic.",
-       "zh": ""
+       "zh": "特朗普总统以取消国家纪念碑保护而闻名，他正在签署一项法案，将其中一个纪念碑改为国家公园。位于亚利桑那州南部的这片土地生物多样性丰富，风景优美。"
       },
       {
        "en": "A few states over, the U.S. has a new national park. Yesterday, President Trump signed the Chiricahua National Park Act, elevating a national monument in Arizona to national park status. But there are concerns about its future, as Arizona Public Media's Katya Mendoza reports.",
-       "zh": ""
+       "zh": "在几个州之外，美国有了一个新的国家公园。昨天，总统特朗普签署了奇里卡瓦国家公园法案，将亚利桑那州的一处国家纪念地提升为国家公园。但人们对其未来表示担忧，正如亚利桑那公共媒体的卡蒂娅·门多萨报道的那样。"
       },
       {
        "en": "KATYA MENDOZA, BYLINE: The new park is part of the Chiricahua Mountains, about a two hours' drive southeast of Tucson, accessed by a winding road surrounded by a sea of grasslands. The mountains are one of several so called sky island ranges that rise from the deserts here. They serve as a crossroads for four major ecosystems, where the Sonoran and Chihuahuan deserts, Rocky Mountains and the Sierra Madres converge.",
-       "zh": ""
+       "zh": "卡蒂亚·门多萨，署名：这个新公园是奇里卡瓦山脉的一部分，位于图森东南约两小时车程的地方，通过一条被草原环绕的弯曲道路进入。这些山脉是所谓的“天空之岛”山脉之一，从这里的沙漠中耸立而起。它们是四大主要生态系统的交汇点，索诺兰沙漠、奇瓦瓦沙漠、落基山脉和西拉马德雷山脉在此汇聚。"
       },
       {
        "en": "ARMAND SANTILLI: It's like the Arizona version of Bryce Canyon.",
-       "zh": ""
+       "zh": "阿尔芒·桑蒂利：这就像是布莱斯峡谷的亚利桑那版。"
       },
       {
        "en": "MENDOZA: Armand Santilli came to visit what people call a wonderland of rocks, which was designated a national monument in 1924 by President Calvin Coolidge. Santilli had no idea he'd be the first visitor to the new national park.",
-       "zh": ""
+       "zh": "MENDOZA: Armand Santilli 来参观人们所称的岩石仙境，这里在1924年由总统卡尔文·柯立芝指定为国家纪念地。Santilli 根本不知道他将成为新国家公园的第一位游客。"
       },
       {
        "en": "SANTILLI: I figured I'd come on through while I was visiting the rest of the mountain range. I figured I had to see the monument, and what a time to pick.",
-       "zh": ""
+       "zh": "桑蒂利：我想既然我在参观山脉的其他部分，就顺便过来看看。我觉得我必须去看看这个纪念碑，真是时候选得巧啊。"
       },
       {
        "en": "JUAN CISCOMANI: Please help me welcome United States Interior Secretary Doug Burgum.",
-       "zh": ""
+       "zh": "胡安·西斯科马尼：请大家欢迎美国内政部长道格·伯格姆。"
       },
       {
        "en": "MENDOZA: Arizona Republican Congressman Juan Ciscomani introduced Secretary Burgum at a ceremony establishing the park, now America's 64th national park.",
-       "zh": ""
+       "zh": "门多萨：亚利桑那州共和党众议员胡安·西斯科马尼在一场建立公园的仪式上介绍了伯格姆部长，这个公园现已成为美国第64个国家公园。"
       }
      ],
      "vocab": [
@@ -2007,35 +2007,35 @@ window.__MERIDIAN_DATA__ = {
      "paragraphs": [
       {
        "en": "Actor Tom Skerritt, who played dads, cops and commanding officers, has died",
-       "zh": ""
+       "zh": "饰演过爸爸、警察和指挥官的演员汤姆·斯凯里特去世了"
       },
       {
        "en": "There's no avoiding the word rugged with Tom Skerritt. There was the mustache, the jaw, the crinkly eyes, and the cool authoritarian bearing he brought to memorable roles as commanding officers, dads and cops.",
-       "zh": ""
+       "zh": "谈到汤姆·斯凯里特，就无法避免使用“粗犷”这个词。有他的胡子，下巴，皱起的眼睛，以及他在扮演指挥官、父亲和警察等令人难忘的角色时所展现的冷静权威气质。"
       },
       {
        "en": "Skerritt died of natural causes on Wednesday, according to a statement from a representative. He was 93 years old.",
-       "zh": ""
+       "zh": "据一位发言人声明，斯凯里特于周三死于自然原因。他享年93岁。"
       },
       {
        "en": "He was Captain Dallas in Alien. Viper in Top Gun. An enlistee in the original movie M*A*S*H (playing one of the few characters who didn't transition to the later television series.) A Vietnam vet in the Cheech and Chong stoner classic, Up In Smoke. He played small town sheriffs in the movie The Dead Zone and on the TV series Picket Fences, for which he won an Emmy in 1993.",
-       "zh": ""
+       "zh": "他在《异形》中饰演达拉斯上尉。在《壮志凌云》中饰演毒蛇。在原版电影《M*A*S*H》中饰演一名士兵（扮演少数几个没有转到后来的电视剧的角色之一）。在奇奇与钟的嬉皮经典电影《烟雾弥漫》中饰演越战老兵。他在电影《死区》和电视剧《环保先锋》中饰演小镇警长，并因此在1993年赢得了艾美奖。"
       },
       {
        "en": "Tom Skerritt Grapples With His Own Death In 'East Of The Mountains'",
-       "zh": ""
+       "zh": "汤姆·斯凯里特在《东山》里与自己的死亡作斗争"
       },
       {
        "en": "And he was a dad in Ice Castles, Steel Magnolias and A River Runs Through It.",
-       "zh": ""
+       "zh": "他在《冰雪城堡》《钢铁木兰》和《河流贯穿它》中饰演父亲。"
       },
       {
        "en": "Skerritt described himself as a blue-collar kid from Detroit who served in the Air Force before attending UCLA and turning to theater. He spent his early days in Hollywood appearing in television shows, from My Three Sons to The Alfred Hitchcock Hour, and hanging out with the likes of Robert Redford and director Hal Ashby, who cast Skerritt in Harold and Maude (as a cop, of course).",
-       "zh": ""
+       "zh": "斯克里特形容自己是来自底特律的蓝领孩子，曾在空军服役，然后进入UCLA学习，随后投身于戏剧。他在好莱坞的早期日子里出现在各种电视节目中，从《我的三个儿子》到《阿尔弗雷德·希区柯克时刻》，并与罗伯特·雷德福以及导演哈尔·阿什比等人交往，后者在《哈罗德与莫德》中（当然是扮演警察）选中了斯克里特。"
       },
       {
        "en": "In real life, Skerritt promoted independent film and theater in the Pacific Northwest, where he lived. He co-founded The Red Badge Project, a program for veterans to take storytelling courses and share their experiences.",
-       "zh": ""
+       "zh": "在现实生活中，斯凯里特在他居住的太平洋西北地区推广独立电影和戏剧。他共同创立了“红徽章项目”，这是一个为退伍军人开设讲故事课程并分享他们经历的项目。"
       }
      ],
      "vocab": [
