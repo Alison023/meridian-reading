@@ -1,5 +1,5 @@
 window.__MERIDIAN_DATA__ = {
- "updated": "2026-10-25T00:51:06.880316+00:00",
+ "updated": "2026-10-25T05:01:00.371374+00:00",
  "days": [
   {
    "date": "2026-10-25",
@@ -8,331 +8,330 @@ window.__MERIDIAN_DATA__ = {
      "id": "2026-10-25-world",
      "section": "World",
      "sectionZh": "国际",
-     "title": "European student protests take aim at Serbia's elections",
-     "dek": "Students have been protesting across Europe. In Serbia, they've selected candidates to run for parliament in Sunday's elections. And they're aiming to end 14 years of government by the populist…",
+     "title": "Protests roil France once again as police seek to quell violence",
+     "dek": "Hundreds of thousands turned out across France to protest everything from the lack of school funding to economic inequality. Police also were out in force to prevent a repeat of last week's violence.",
      "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/24/nx-s1-6012799/european-student-protests-take-aim-at-serbias-elections",
-     "byline": "Hannah Bloch",
+     "sourceUrl": "https://www.npr.org/2026/10/24/nx-s1-6014520/protests-roil-france-once-again-as-police-seek-to-quell-violence",
+     "byline": "Eleanor Beardsley",
      "dateLabel": "2026-10-25",
-     "words": 371,
+     "words": 315,
      "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
+     "level": "B2",
+     "levelEn": "Upper-intermediate",
      "paragraphs": [
       {
-       "en": "Students have been protesting across Europe. In Serbia, they've selected candidates to run for parliament in Sunday's elections. And they're aiming to end 14 years of government by the populist leader Aleksandar Vucic.",
-       "zh": "学生们一直在欧洲各地抗议。在塞尔维亚，他们已经选出了候选人参加周日的议会选举。他们的目标是结束民粹主义领导人亚历山大·武契奇执政的14年。"
+       "en": "Hundreds of thousands turned out across France to protest everything from the lack of school funding to economic inequality. Police also were out in force to prevent a repeat of last week's violence.",
+       "zh": "成千上万的人在法国各地上街抗议，从学校资金不足到经济不平等等各种问题。警方也大举出动，以防范上周暴力事件的重演。"
       },
       {
-       "en": "Students across Europe have been taking to the streets in protest. In Serbia, they're taking their movement to the ballot box, with a list of candidates ranging from academics and economists to athletes and engineers who are running in Sunday's parliamentary elections. They hope to end 14 years of rule by a populist leader in the Serbian Progressive Party. Guy De Launey reports from Serbia's capital, Belgrade.",
-       "zh": "整个欧洲的学生都走上街头抗议。在塞尔维亚，他们把运动带到了投票箱前，一份候选人名单从学者和经济学家到运动员和工程师，他们将在周日的议会选举中参选。他们希望结束塞尔维亚进步党民粹领导人14年的统治。盖·德·劳内从塞尔维亚首都贝尔格莱德报道。"
+       "en": "In France today, about 400,000 people came out in cities across the country to demonstrate. The movement began last month with students demanding better facilities. It's now morphed into a broader protest over the high cost of living and social inequality. In response, the French government put in place a massive security operation with more than 70,000 police. NPR's Eleanor Beardsley reports.",
+       "zh": "今天在法国，全国各地的城市约有40万人走上街头示威。这场运动始于上个月，最初是学生们要求改善设施。现在它已经演变为对高生活成本和社会不平等的更广泛抗议。作为回应，法国政府实施了一项大规模的安保行动，动员了超过7万名警察。NPR的埃莉诺·比尔兹利报道。"
       },
       {
-       "en": "GUY DE LAUNEY, BYLINE: Tens of thousands of people are gathering here at Slavija Square in the center of Serbia's capital, Belgrade. They're turning out for the final pre-election rally of the Student List. That's the opposition movement, which emerged from the long-running student-led protests. Now it's posing the most serious challenge to Serbia's long-serving leader, Aleksandar Vucic, since his Progressive Party took power in 2012.",
-       "zh": "盖伊·德·洛内，署名：成千上万的人正在塞尔维亚首都贝尔格莱德的斯拉维亚广场聚集。他们是来参加学生名单的最后一次选前集会的。这是反对派运动，由长期的学生领导抗议活动中产生。现在，它对自2012年进步党执政以来长期执政的塞尔维亚领导人亚历山大·武契奇构成了最严重的挑战。"
+       "en": "UNIDENTIFIED PROTESTERS: (Chanting in non-English language).",
+       "zh": "身份不明的抗议者：（用非英语语言高呼口号）。"
       },
       {
-       "en": "MIHAIL DUDAS: I want people to be free - to be free to say whatever they want, to be free to talk about the political situation, to talk about the solutions.",
-       "zh": "米哈伊尔·杜达斯：我希望人们能够自由——自由地说他们想说的话，自由地讨论政治形势，讨论解决方案。"
+       "en": "ELEANOR BEARDSLEY, BYLINE: Protesters of all ages and backgrounds coursed down a Paris boulevard - students, workers, parents, retirees, and yellow vests, the largely white working-class movement that bedeviled French president Emmanuel Macron in his first term. These left-wing demonstrators held placards calling to tax the rich and for Macron to resign. Dimitry Knoll explains why there is such anger.",
+       "zh": "埃莉诺·比尔兹利，署名：各年龄和背景的抗议者涌向巴黎的一条大道——学生、工人、父母、退休人员以及“黄背心”运动，这个主要由白人工人阶级组成的运动在法国总统埃马纽埃尔·马克龙的第一任期内困扰了他。这些左翼示威者手举标语牌，呼吁对富人征税，并要求马克龙辞职。迪米特里·诺尔解释了为什么会有如此大的愤怒。"
       },
       {
-       "en": "LAUNEY: Mihail Dudas represented Serbia in the decathlon at two Olympic Games. Now he's among the people running for parliament on the Student List.",
-       "zh": "LAUNEY：米哈伊尔·杜达斯曾代表塞尔维亚参加两届奥运会的十项全能比赛。现在，他是学生名单上竞选议会的候选人之一。"
+       "en": "BEARDSLEY: \"We hate Macron,\" he says, \"because he's been leading these ultra-capitalist policies for 10 years that are just widening inequalities, and young people have less hope for the future.\" Knoll doesn't buy the government's line that France's public debt prevents it from doing more for its people. There's money, he says. It's just in the hands of the rich.",
+       "zh": "比尔兹利：“我们讨厌马克龙，”他说，“因为他领导了这些极端资本主义政策已经有10年了，这些政策只是在加剧不平等，而年轻人对未来的希望越来越少。”诺尔不相信政府所说的法国公共债务阻止其为人民做更多的说法。他说，有钱的，只是掌握在富人手里。"
       },
       {
-       "en": "DUDAS: I am very honored to be selected to be in 250 very, very smart, good, powerful people who are ready to basically change the direction in - for Serbia in the right direction.",
-       "zh": "杜达斯：我非常荣幸被选为250位非常、非常聪明、优秀、有影响力的人之一，他们已经准备好基本上将塞尔维亚引向正确的方向。"
+       "en": "BEARDSLEY: \"We pay our taxes, yet everything is declining, and we're giving massive payouts to multinational companies,\" says Sandrine Delorie. Fellow protester Sarah Meloul says they all deplore the violence, but police aggression fueled it. And sometimes violence is necessary.",
+       "zh": "比尔兹利：“我们缴纳税款，但一切都在下滑，同时我们还向跨国公司支付巨额款项，”桑德琳·德洛里说。另一位抗议者莎拉·梅卢尔表示，他们都谴责暴力，但警察的侵略行为助长了暴力。有时暴力是必要的。"
       },
       {
-       "en": "LAUNEY: Around 150,000 people attended the Student List rally this week, marking the culmination of a protest movement that started two years ago. That's when a concrete canopy collapsed at the recently renovated railway station in Novi Sad, Serbia's second-largest city. Sixteen people died, and the disaster sparked student-led protests accusing Aleksandar Vucic of presiding over endemic corruption. He'd made infrastructure improvements a key part of his image as the strong leader steering Serbia into the future. So the station disaster has been hard for him to shake off.",
-       "zh": "LAUNEY：本周，大约有15万人参加了学生名单集会，这标志着两年前开始的抗议运动的高潮。两年前，塞尔维亚第二大城市诺维萨德最近翻修的火车站发生了混凝土顶棚坍塌事故。16人死亡，这场灾难引发了以学生为主导的抗议，指责亚历山大·武契奇主导下的体制性腐败。他将基础设施改善作为自己作为引领塞尔维亚走向未来的强有力领导者形象的关键部分。因此，这起车站灾难对他来说一直难以摆脱。"
+       "en": "BEARDSLEY: \"How did they take the bastille? With violence,\" she says. The student protests of May '68 succeeded because of violence. Meloul says, the government is finally listening.",
+       "zh": "比尔兹利：“他们是如何攻占巴士底狱的？用暴力，”她说。1968年5月的学生抗议之所以成功，是因为暴力。梅路说，政府终于在听取意见了。"
       },
       {
-       "en": "MAGDA ANASTASIJEVIC: The government expected the protests to die down after the initial spark.",
-       "zh": "马格达·阿纳斯塔西耶维奇：政府预计抗议在最初的火花之后会平息。"
-      },
-      {
-       "en": "LAUNEY: Magda Anastasijevic is the Eastern Europe analyst for the conflict monitor ACLED.",
-       "zh": "LAUNEY：Magda Anastasijevic 是冲突监测机构 ACLED 的东欧分析师。"
+       "en": "BEARDSLEY: A different France gathered today 100 miles south of Paris in the town of Orleans, where the far right was holding its annual party Congress.",
+       "zh": "比尔兹利：今天，在巴黎以南100英里的奥尔良镇，一个不同的法国聚集在这里，极右翼正在举行其年度党代表大会。"
       }
      ],
      "vocab": [
       {
+       "w": "protest",
+       "pos": "n.",
+       "zh": "抗议",
+       "ex": "Hundreds of thousands turned out across France to protest everything from the lack of school funding to economic inequality.",
+       "forms": [
+        "protests"
+       ]
+      },
+      {
+       "w": "school",
+       "pos": "n.",
+       "zh": "学校",
+       "ex": "Hundreds of thousands turned out across France to protest everything from the lack of school funding to economic inequality.",
+       "forms": []
+      },
+      {
+       "w": "fund",
+       "pos": "n.",
+       "zh": "基金；资金",
+       "ex": "Hundreds of thousands turned out across France to protest everything from the lack of school funding to economic inequality.",
+       "forms": [
+        "funding"
+       ]
+      },
+      {
+       "w": "economic",
+       "pos": "adj.",
+       "zh": "经济的",
+       "ex": "Hundreds of thousands turned out across France to protest everything from the lack of school funding to economic inequality.",
+       "forms": []
+      },
+      {
+       "w": "inequality",
+       "pos": "n.",
+       "zh": "不平等；差距",
+       "ex": "Hundreds of thousands turned out across France to protest everything from the lack of school funding to economic inequality.",
+       "forms": [
+        "inequalities"
+       ]
+      },
+      {
+       "w": "police",
+       "pos": "n.",
+       "zh": "警察",
+       "ex": "Police also were out in force to prevent a repeat of last week's violence.",
+       "forms": []
+      },
+      {
        "w": "student",
        "pos": "n.",
        "zh": "学生",
-       "ex": "Students have been protesting across Europe.",
+       "ex": "The movement began last month with students demanding better facilities.",
        "forms": [
         "students"
        ]
       },
       {
-       "w": "protest",
+       "w": "demand",
        "pos": "n.",
-       "zh": "抗议",
-       "ex": "Students have been protesting across Europe.",
+       "zh": "需求",
+       "ex": "The movement began last month with students demanding better facilities.",
        "forms": [
-        "protesting",
-        "protests"
-       ]
-      },
-      {
-       "w": "candidate",
-       "pos": "n.",
-       "zh": "候选人",
-       "ex": "In Serbia, they've selected candidates to run for parliament in Sunday's elections.",
-       "forms": [
-        "candidates"
-       ]
-      },
-      {
-       "w": "parliament",
-       "pos": "n.",
-       "zh": "议会",
-       "ex": "In Serbia, they've selected candidates to run for parliament in Sunday's elections.",
-       "forms": []
-      },
-      {
-       "w": "election",
-       "pos": "n.",
-       "zh": "选举",
-       "ex": "In Serbia, they've selected candidates to run for parliament in Sunday's elections.",
-       "forms": [
-        "elections"
-       ]
-      },
-      {
-       "w": "leader",
-       "pos": "n.",
-       "zh": "领导人",
-       "ex": "And they're aiming to end 14 years of government by the populist leader Aleksandar Vucic.",
-       "forms": []
-      },
-      {
-       "w": "ballot",
-       "pos": "n.",
-       "zh": "选票；投票",
-       "ex": "In Serbia, they're taking their movement to the ballot box, with a list of candidates ranging from academics and economists to athletes and engineers who are running in Sunday's parliamentary elections.",
-       "forms": []
-      },
-      {
-       "w": "party",
-       "pos": "n.",
-       "zh": "政党；一方",
-       "ex": "They hope to end 14 years of rule by a populist leader in the Serbian Progressive Party.",
-       "forms": []
-      },
-      {
-       "w": "report",
-       "pos": "n.",
-       "zh": "报告；报道",
-       "ex": "Guy De Launey reports from Serbia's capital, Belgrade.",
-       "forms": [
-        "reports"
-       ]
-      },
-      {
-       "w": "rally",
-       "pos": "n.",
-       "zh": "反弹；集会",
-       "ex": "They're turning out for the final pre-election rally of the Student List.",
-       "forms": []
-      },
-      {
-       "w": "opposition",
-       "pos": "n.",
-       "zh": "反对派；反对",
-       "ex": "That's the opposition movement, which emerged from the long-running student-led protests.",
-       "forms": []
-      },
-      {
-       "w": "emerge",
-       "pos": "v.",
-       "zh": "出现；浮现",
-       "ex": "That's the opposition movement, which emerged from the long-running student-led protests.",
-       "forms": [
-        "emerged"
-       ]
-      }
-     ],
-     "homeWords": [
-      "student",
-      "protest",
-      "candidate",
-      "parliament",
-      "election"
-     ],
-     "keyVocab": [
-      "student",
-      "protest",
-      "candidate",
-      "parliament",
-      "election",
-      "leader",
-      "ballot",
-      "party"
-     ]
-    },
-    {
-     "id": "2026-10-25-business",
-     "section": "Business",
-     "sectionZh": "商业 · 财经",
-     "title": "Gen Z is 'in the thick' of high housing costs. These candidates aim to solve it",
-     "dek": "WEST HARTFORD, Conn. — \"My bus is running slightly behind,\" Olaleye Onikuyide texted ahead of our meeting at a coffee shop on West Hartford's main street. The 28-year-old Democrat running for…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/23/nx-s1-5983813/gen-z-candidates-midterms-housing-affordability",
-     "byline": "Jennifer Ludden",
-     "dateLabel": "2026-10-25",
-     "words": 316,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "WEST HARTFORD, Conn. — \"My bus is running slightly behind,\" Olaleye Onikuyide texted ahead of our meeting at a coffee shop on West Hartford's main street. The 28-year-old Democrat running for Connecticut state representative still made it on time and said he loved riding public transit.",
-       "zh": "康涅狄格州西哈特福德——“我的公交车稍微晚一点，”奥拉莱耶·奥尼库伊德在我们在西哈特福德主街的一家咖啡店会面前发短信通知。现年28岁的民主党人，正在竞选康涅狄格州州代表，仍然准时到达，并表示他喜欢乘坐公共交通工具。"
-      },
-      {
-       "en": "Onikuyide also lives with his parents, though he said that's by choice to save money, unlike the many young adults who can't afford to live on their own.",
-       "zh": "Onikuyide 也和他的父母住在一起，虽然他说这是为了省钱而自愿选择的，这与许多无法独立生活的年轻人不同。"
-      },
-      {
-       "en": "Still, as part of a generation that faces record-high housing unaffordability, he started obsessing years ago over how to make it cheaper. Now that the cripplingly high cost of both rent and homes has become an urgent national conversation, he likens it to being a fan of a niche music group before everyone else caught on.",
-       "zh": "尽管如此，作为面临历史最高住房负担困境的一代人，他早在多年前就开始痴迷于如何让住房更便宜。如今，租金和房价的高企已成为全国紧迫的话题，他将自己比作在别人都还没意识到之前就喜欢上小众音乐组合的粉丝。"
-      },
-      {
-       "en": "\"All of a sudden, it's blown up and everybody's at the concerts and you're like, 'OK, this is a bit of a crowd here now,'\" he said with a broad smile.",
-       "zh": "“突然间，它爆红了，每个人都去看演唱会，而你就像，‘好吧，现在这里的人有点多了，’”他带着灿烂的笑容说道。"
-      },
-      {
-       "en": "Nationwide, housing costs are a top issue for voters in a midterms season laser focused on affordability. A chronic housing shortage has pushed up prices, and the fallout cuts across generations.",
-       "zh": "在全国范围内，住房成本是选民在以可负担性为核心的中期选举季节中的首要问题。长期的住房短缺推动了价格上涨，其影响波及各代人。"
-      },
-      {
-       "en": "Younger people are renting with roommates into their 30s. They're struggling to save for a down payment and wondering whether it even makes sense to buy, given today's sky-high prices. Empty nesters looking to downsize can't find an affordable place to go, and longtime homeowners are reluctant to move at all, given current high mortgage rates.",
-       "zh": "年轻人一直与室友合租到三十多岁。他们难以攒够首付，并且在考虑如今极高的房价下是否真的值得买房。希望缩小住房规模的空巢老人找不到负担得起的地方，而老房主们由于目前高昂的抵押贷款利率，也不愿意搬家。"
-      },
-      {
-       "en": "Generation Z candidates from both major parties said their age group has a lot at stake and is uniquely positioned to help create solutions for everyone.",
-       "zh": "来自两大主要政党的Z世代候选人表示，他们的年龄群体有很多利益相关，同时也处于独特位置，可以帮助为所有人创造解决方案。"
-      },
-      {
-       "en": "\"We're in the thick of it,\" Onikuyide said, citing not only high housing and gas prices but also student loan debt and a tough labor market. \"We might be the generation that is more educated and yet worse off than our parents.\"",
-       "zh": "“我们正处于困境中，”奥尼库耶德说，他不仅提到了高昂的房价和油价，还提到了学生贷款债务以及严峻的就业市场。“我们可能是这一代人，受教育程度更高，但生活状况却比父母更差。”"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "public",
-       "pos": "adj.",
-       "zh": "公共的；公众的",
-       "ex": "The 28-year-old Democrat running for Connecticut state representative still made it on time and said he loved riding public transit.",
-       "forms": []
-      },
-      {
-       "w": "young",
-       "pos": "adj.",
-       "zh": "年轻的",
-       "ex": "Onikuyide also lives with his parents, though he said that's by choice to save money, unlike the many young adults who can't afford to live on their own.",
-       "forms": []
-      },
-      {
-       "w": "generation",
-       "pos": "n.",
-       "zh": "一代人；世代",
-       "ex": "Still, as part of a generation that faces record-high housing unaffordability, he started obsessing years ago over how to make it cheaper.",
-       "forms": [
-        "generations"
+        "demanding"
        ]
       },
       {
        "w": "cost",
        "pos": "n.",
        "zh": "成本；代价",
-       "ex": "Now that the cripplingly high cost of both rent and homes has become an urgent national conversation, he likens it to being a fan of a niche music group before everyone else caught on.",
-       "forms": [
-        "costs"
-       ]
+       "ex": "It's now morphed into a broader protest over the high cost of living and social inequality.",
+       "forms": []
       },
       {
-       "w": "national",
+       "w": "social",
        "pos": "adj.",
-       "zh": "国家的；全国的",
-       "ex": "Now that the cripplingly high cost of both rent and homes has become an urgent national conversation, he likens it to being a fan of a niche music group before everyone else caught on.",
+       "zh": "社会的；社交的",
+       "ex": "It's now morphed into a broader protest over the high cost of living and social inequality.",
        "forms": []
       },
       {
-       "w": "issue",
+       "w": "report",
        "pos": "n.",
-       "zh": "议题；问题",
-       "ex": "Nationwide, housing costs are a top issue for voters in a midterms season laser focused on affordability.",
-       "forms": []
-      },
-      {
-       "w": "shortage",
-       "pos": "n.",
-       "zh": "短缺；不足",
-       "ex": "A chronic housing shortage has pushed up prices, and the fallout cuts across generations.",
-       "forms": []
-      },
-      {
-       "w": "price",
-       "pos": "n.",
-       "zh": "价格",
-       "ex": "A chronic housing shortage has pushed up prices, and the fallout cuts across generations.",
+       "zh": "报告；报道",
+       "ex": "NPR's Eleanor Beardsley reports.",
        "forms": [
-        "prices"
+        "reports"
        ]
       },
       {
-       "w": "reluctant",
-       "pos": "adj.",
-       "zh": "不情愿的；勉强的",
-       "ex": "Empty nesters looking to downsize can't find an affordable place to go, and longtime homeowners are reluctant to move at all, given current high mortgage rates.",
-       "forms": []
-      },
-      {
-       "w": "mortgage",
+       "w": "worker",
        "pos": "n.",
-       "zh": "抵押贷款；按揭",
-       "ex": "Empty nesters looking to downsize can't find an affordable place to go, and longtime homeowners are reluctant to move at all, given current high mortgage rates.",
-       "forms": []
-      },
-      {
-       "w": "rate",
-       "pos": "n.",
-       "zh": "比率；速度",
-       "ex": "Empty nesters looking to downsize can't find an affordable place to go, and longtime homeowners are reluctant to move at all, given current high mortgage rates.",
+       "zh": "工人；员工",
+       "ex": "ELEANOR BEARDSLEY, BYLINE: Protesters of all ages and backgrounds coursed down a Paris boulevard - students, workers, parents, retirees, and yellow vests, the largely white working-class movement that bedeviled French president Emmanuel Macron in his first term.",
        "forms": [
-        "rates"
-       ]
-      },
-      {
-       "w": "candidate",
-       "pos": "n.",
-       "zh": "候选人",
-       "ex": "Generation Z candidates from both major parties said their age group has a lot at stake and is uniquely positioned to help create solutions for everyone.",
-       "forms": [
-        "candidates"
+        "workers"
        ]
       }
      ],
      "homeWords": [
-      "public",
-      "young",
-      "generation",
-      "cost",
-      "national"
+      "protest",
+      "school",
+      "fund",
+      "economic",
+      "inequality"
      ],
      "keyVocab": [
-      "public",
-      "young",
-      "generation",
-      "cost",
-      "national",
-      "issue",
-      "shortage",
-      "price"
+      "protest",
+      "school",
+      "fund",
+      "economic",
+      "inequality",
+      "police",
+      "student",
+      "demand"
+     ]
+    },
+    {
+     "id": "2026-10-25-business",
+     "section": "Business",
+     "sectionZh": "商业 · 财经",
+     "title": "Trade tariffs cause whiplash at Port Milwaukee",
+     "dek": "Sacha Pfeiffer visits Port Milwaukee to see how President Trump's tariffs have affected the flow of goods and impacted the regional economy.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/10/24/nx-s1-6011193/trade-tariffs-cause-whiplash-at-port-milwaukee",
+     "byline": "Sacha Pfeiffer",
+     "dateLabel": "2026-10-25",
+     "words": 387,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "Sacha Pfeiffer visits Port Milwaukee to see how President Trump's tariffs have affected the flow of goods and impacted the regional economy.",
+       "zh": "萨查·菲佛访问密尔沃基港，了解特朗普总统的关税如何影响货物流动并对区域经济产生影响。"
+      },
+      {
+       "en": "As we heard from those early voters in Texas and from coverage of the protests in France, the economy and affordability are surging concerns globally. It's also a concern locally in Milwaukee, where I'm hosting this program tonight. If you look at a map, you realize the city is located on a massive superhighway of water. Milwaukee is on Lake Michigan, part of the Great Lakes region, and that region is its own economy. Cargo from around the world is shipped across the Great Lakes, and all that maritime trade contributes to a regional economy worth about $9 trillion.",
+       "zh": "正如我们从德克萨斯州的早期选民那里听到的，以及从法国抗议活动的报道中所看到的，经济和可负担性正在成为全球关注的焦点。在本地的密尔沃基，这也是一个关注点，我今晚就在这里主持这个节目。如果你看一看地图，你会发现这座城市位于一条巨大的水上高速公路上。密尔沃基位于密歇根湖上，属于五大湖地区，而那个地区本身就是一个经济体。来自世界各地的货物通过五大湖运输，所有这些海运贸易为一个价值约9万亿美元的地区经济作出了贡献。"
+      },
+      {
+       "en": "Now look at that map again. Four of the five great lakes are shared between the United States and Canada. Those two countries are now in an economic battle due to President Trump's tariffs, and that fight is harming port cities like Milwaukee. That is why I found myself this week on a long concrete pier on the port of Milwaukee, overlooking the vast expanse of Lake Michigan and talking with port director Benji Timm.",
+       "zh": "现在再看看那张地图。五大湖中有四个是美国和加拿大共有的。这两个国家现在由于特朗普总统的关税而陷入经济争斗，而这场争斗正在伤害像密尔沃基这样的港口城市。这就是为什么我本周会站在密尔沃基港的一个长长的混凝土码头上，俯瞰密歇根湖的广阔水面，并与港口主管本吉·蒂姆交谈的原因。"
+      },
+      {
+       "en": "BENJI TIMM: So the boat is coming from the East. You can see the breakwater. There's a break in the breakwater out there. And there's...",
+       "zh": "本吉·蒂姆：所以船是从东方过来的。你可以看到防波堤。那边的防波堤有个缺口。还有……"
+      },
+      {
+       "en": "TIMM: Yes, between the light - the two lighthouses. That's where the vessels would come in. And if they're going into our inner mooring basin, they'd pass underneath the Hoan Bridge in the highway. If they're coming into one of our terminals here, they'd come straight in into one of these slips.",
+       "zh": "TIMM：是的，在灯光之间——两个灯塔之间。船只会从那里驶入。如果它们进入我们的内锚泊区，它们会从公路下的Hoan桥下经过。如果它们要进入我们这里的某个码头，它们会直接进入这些船位中的一个。"
+      },
+      {
+       "en": "PFEIFFER: So whether they're coming from Canada or Europe, that is the way they get in.",
+       "zh": "PFEIFFER：所以无论他们是来自加拿大还是欧洲，这就是他们进入的方式。"
+      },
+      {
+       "en": "PFEIFFER: Port Milwaukee does business with more than 300 ships a year that import goods from all over.",
+       "zh": "PFEIFFER：密尔沃基港每年与300多艘船舶开展业务，这些船舶从世界各地进口货物。"
+      },
+      {
+       "en": "TIMM: So there are steel beams on the terminal, and this steel came in from Luxembourg. It came in for a hospital project from Minnesota. It's unloaded from a vessel here, and then it's loaded up onto trucks and then trucked over to Minnesota.",
+       "zh": "TIMM：所以航站楼上有钢梁，这些钢是从卢森堡运来的。它是为明尼苏达的一个医院项目运来的。它从船上卸下来，然后装上卡车，再运到明尼苏达。"
+      },
+      {
+       "en": "PFEIFFER: I mean, and is that partly what the Trump administration hopes for eventually, is that we can make this steel at home? And by these tariffs, we won't have to bring it in from Europe?",
+       "zh": "普费弗：我的意思是，这是否部分是特朗普政府最终所希望的，即我们可以在国内生产这种钢材？通过这些关税，我们就不必从欧洲进口了吗？"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "Sacha Pfeiffer visits Port Milwaukee to see how President Trump's tariffs have affected the flow of goods and impacted the regional economy.",
+       "forms": []
+      },
+      {
+       "w": "tariff",
+       "pos": "n.",
+       "zh": "关税",
+       "ex": "Sacha Pfeiffer visits Port Milwaukee to see how President Trump's tariffs have affected the flow of goods and impacted the regional economy.",
+       "forms": [
+        "tariffs"
+       ]
+      },
+      {
+       "w": "impact",
+       "pos": "n.",
+       "zh": "影响；冲击",
+       "ex": "Sacha Pfeiffer visits Port Milwaukee to see how President Trump's tariffs have affected the flow of goods and impacted the regional economy.",
+       "forms": [
+        "impacted"
+       ]
+      },
+      {
+       "w": "economy",
+       "pos": "n.",
+       "zh": "经济",
+       "ex": "Sacha Pfeiffer visits Port Milwaukee to see how President Trump's tariffs have affected the flow of goods and impacted the regional economy.",
+       "forms": []
+      },
+      {
+       "w": "protest",
+       "pos": "n.",
+       "zh": "抗议",
+       "ex": "As we heard from those early voters in Texas and from coverage of the protests in France, the economy and affordability are surging concerns globally.",
+       "forms": [
+        "protests"
+       ]
+      },
+      {
+       "w": "surge",
+       "pos": "n.",
+       "zh": "激增；飙升",
+       "ex": "As we heard from those early voters in Texas and from coverage of the protests in France, the economy and affordability are surging concerns globally.",
+       "forms": [
+        "surging"
+       ]
+      },
+      {
+       "w": "water",
+       "pos": "n.",
+       "zh": "水",
+       "ex": "If you look at a map, you realize the city is located on a massive superhighway of water.",
+       "forms": []
+      },
+      {
+       "w": "region",
+       "pos": "n.",
+       "zh": "地区；区域",
+       "ex": "Milwaukee is on Lake Michigan, part of the Great Lakes region, and that region is its own economy.",
+       "forms": []
+      },
+      {
+       "w": "economic",
+       "pos": "adj.",
+       "zh": "经济的",
+       "ex": "Those two countries are now in an economic battle due to President Trump's tariffs, and that fight is harming port cities like Milwaukee.",
+       "forms": []
+      },
+      {
+       "w": "vast",
+       "pos": "adj.",
+       "zh": "巨大的；广阔的",
+       "ex": "That is why I found myself this week on a long concrete pier on the port of Milwaukee, overlooking the vast expanse of Lake Michigan and talking with port director Benji Timm.",
+       "forms": []
+      },
+      {
+       "w": "import",
+       "pos": "n.",
+       "zh": "进口",
+       "ex": "PFEIFFER: Port Milwaukee does business with more than 300 ships a year that import goods from all over.",
+       "forms": []
+      },
+      {
+       "w": "hospital",
+       "pos": "n.",
+       "zh": "医院",
+       "ex": "It came in for a hospital project from Minnesota.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "president",
+      "tariff",
+      "impact",
+      "economy",
+      "protest"
+     ],
+     "keyVocab": [
+      "president",
+      "tariff",
+      "impact",
+      "economy",
+      "protest",
+      "surge",
+      "water",
+      "region"
      ]
     },
     {
@@ -352,7 +351,7 @@ window.__MERIDIAN_DATA__ = {
      "paragraphs": [
       {
        "en": "AI discovered a vulnerability in part of the internet's architecture, called PHP2SHELL. Security researchers rushed to fix it, but news of the vulnerability leaked and hackers have swooped in.",
-       "zh": "人工智能发现了互联网架构的一部分漏洞，称为 PHP2SHELL。安全研究人员赶忙修复它，但漏洞的消息泄露了，黑客迅速介入。"
+       "zh": "人工智能在互联网上的一个架构部分中发现了一个名为 PHP2SHELL 的漏洞。安全研究人员争相修复它，但关于该漏洞的消息泄露了，黑客趁机入侵。"
       },
       {
        "en": "Internet security researchers made a startling discovery a couple of months ago - a vulnerability in the code that most internet servers use. They tried to keep it secret and sprinted to fix it, but they couldn't stop the chaos that spread across the internet the past couple of days. Kevin Roose co-hosts a new podcast from NPR called Machine Gods, and he joins us right now. Kevin, thanks so much for being with us.",
@@ -360,7 +359,7 @@ window.__MERIDIAN_DATA__ = {
       },
       {
        "en": "ROOSE: Well, we found out this week that there was a big bug in a very important piece of decades-old software called PHP. Now, for nontechnical people, PHP runs on something like 70% of the websites on the internet. And this week we learned it had two flaws that would let someone take over any computer that was running a website without a password and without leaving any fingerprints. So basically, imagine that 70% of the doors in the world ran on the same locks, and then we figured out that there was a way to pry open that lock and get in. And we need a bunch of new locks for a bunch of doors.",
-       "zh": "ROOSE：嗯，我们这周发现，在一款有几十年历史、非常重要的软件 PHP 中存在一个重大漏洞。对于非技术人员来说，PHP 运行着互联网大约 70% 的网站。这周我们得知，它存在两个缺陷，可以让任何人接管运行网站的电脑，而无需密码且不会留下任何痕迹。基本上，想象一下，世界上 70% 的门都使用相同的锁，而我们发现有办法撬开这些锁进入。我们需要为这些门换上一大批新锁。"
+       "zh": "ROOSE：嗯，我们这周发现，在一款名为 PHP 的几十年历史的重要软件中存在一个重大漏洞。对于非技术人员来说，PHP 大约运行在互联网上 70% 的网站上。而这周我们了解到，它有两个漏洞，可以让任何运行网站的电脑在没有密码且不留任何痕迹的情况下被接管。基本上，想象一下，全世界 70% 的门都使用同一种锁，然后我们发现有人可以撬开这种锁进入。我们需要为许多门换一批新锁。"
       },
       {
        "en": "SIMON: And as I understand it, researchers used AI to discover this hole?",
@@ -368,7 +367,7 @@ window.__MERIDIAN_DATA__ = {
       },
       {
        "en": "ROOSE: They did, yes. Researchers used AI to discover this hole. The issue is that you need to now patch all of the systems that are running PHP, maybe on an older version, because now we also have these AI tools that can quickly exploit vulnerabilities like this. So there's a little bit of a cat-and-mouse game going on. Defenders try to patch the systems before the offenders can get in.",
-       "zh": "ROOSE：是的，他们确实这样做了。研究人员使用人工智能发现了这个漏洞。问题是你现在需要修补所有运行PHP的系统，也许是旧版本的，因为现在我们还有这些可以快速利用此类漏洞的人工智能工具。所以这里有一点猫捉老鼠的游戏。防御者试图在攻击者入侵之前修补系统。"
+       "zh": "ROOSE：是的，他们确实这样做了。研究人员使用人工智能发现了这个漏洞。问题是你现在需要修补所有运行PHP的系统，也许是旧版本的，因为现在我们也有这些可以快速利用类似漏洞的人工智能工具。所以这里有一点猫捉老鼠的游戏。防御者试图在攻击者入侵之前修补系统。"
       },
       {
        "en": "SIMON: So it sounds like you have two or maybe more rivalrous groups, all of them using AI, half of them to cause problems, half of them to solve them.",
@@ -376,7 +375,7 @@ window.__MERIDIAN_DATA__ = {
       },
       {
        "en": "ROOSE: Yeah. I hope it's something like only, you know, half and half. But what we're seeing now...",
-       "zh": "鲁斯：是的。我希望它类似于，只是，你知道，半半吧。但我们现在看到的……"
+       "zh": "鲁斯：是的。我希望它类似于，只是，你知道，一半一半。但我们现在看到的……"
       },
       {
        "en": "ROOSE: ...Is a much bigger problem because it is not just PHP.",
@@ -494,7 +493,7 @@ window.__MERIDIAN_DATA__ = {
       },
       {
        "en": "JOHN CONSOLI: Oh, this one's heavy. Hold on. This is when I need my son. Hold on (laughter).",
-       "zh": "约翰·康索利：哦，这个很重。等等。我需要我儿子的帮助。等等（笑声）。"
+       "zh": "约翰·康索利：哦，这个很重。等等。这时候我需要我儿子。等等（笑声）。"
       },
       {
        "en": "DANIEL: Consoli pulls a mesh the size of a pillowcase onto the pier. It's packed with oysters - not for eating, but rather to be grown to help the bay.",
@@ -502,11 +501,11 @@ window.__MERIDIAN_DATA__ = {
       },
       {
        "en": "J CONSOLI: When I got them, they weighed nothing. And this is just three months of growth. And just the net is chock-full. I can hardly pull it up.",
-       "zh": "J CONSOLI：当我收到它们的时候，它们几乎没有重量。这只是生长了三个月。而且网满得都快装不下了。我几乎拉不起来。"
+       "zh": "J CONSOLI：当我收到它们的时候，它们几乎没有重量。这只是生长了三个月。而且网满得都快挤不下了。我几乎拉不起来。"
       },
       {
        "en": "J CONSOLI: I think I'm more enthusiastic about something that's like a rock than anybody else could possibly be. I mean, I really can't think of many more creatures that do the good that oysters do.",
-       "zh": "J CONSOLI：我想我对像岩石一样的东西比任何人可能更充满热情。我的意思是，我真的想不出还有多少生物能像牡蛎那样做好事。"
+       "zh": "J CONSOLI：我想我对像岩石一样的东西比任何人都要热情。我的意思是，我真的想不出还有多少生物能像牡蛎那样行善。"
       },
       {
        "en": "DANIEL: Oysters underpin this ecosystem. First off, each adult filters up to 50 gallons of water a day. Cleaner water leads to a healthier bay for the other creatures here.",
