@@ -1,5 +1,5 @@
 window.__MERIDIAN_DATA__ = {
- "updated": "2026-10-25T00:47:02.075765+00:00",
+ "updated": "2026-10-25T00:51:06.880316+00:00",
  "days": [
   {
    "date": "2026-10-25",
@@ -29,7 +29,7 @@ window.__MERIDIAN_DATA__ = {
       },
       {
        "en": "GUY DE LAUNEY, BYLINE: Tens of thousands of people are gathering here at Slavija Square in the center of Serbia's capital, Belgrade. They're turning out for the final pre-election rally of the Student List. That's the opposition movement, which emerged from the long-running student-led protests. Now it's posing the most serious challenge to Serbia's long-serving leader, Aleksandar Vucic, since his Progressive Party took power in 2012.",
-       "zh": "盖伊·德·洛内，署名：成千上万的人正在塞尔维亚首都贝尔格莱德的斯拉维亚广场聚集。他们是来参加学生名单的最后一次选前集会的。这是一个反对派运动，起源于长期的学生主导抗议活动。现在，它对自2012年进步党执政以来的长期领导人亚历山大·武契奇构成了最严峻的挑战。"
+       "zh": "盖伊·德·洛内，署名：成千上万的人正在塞尔维亚首都贝尔格莱德的斯拉维亚广场聚集。他们是来参加学生名单的最后一次选前集会的。这是反对派运动，由长期的学生领导抗议活动中产生。现在，它对自2012年进步党执政以来长期执政的塞尔维亚领导人亚历山大·武契奇构成了最严重的挑战。"
       },
       {
        "en": "MIHAIL DUDAS: I want people to be free - to be free to say whatever they want, to be free to talk about the political situation, to talk about the solutions.",
@@ -37,15 +37,15 @@ window.__MERIDIAN_DATA__ = {
       },
       {
        "en": "LAUNEY: Mihail Dudas represented Serbia in the decathlon at two Olympic Games. Now he's among the people running for parliament on the Student List.",
-       "zh": "LAUNEY：米哈伊尔·杜达斯曾代表塞尔维亚参加两届奥运会的十项全能比赛。现在，他是学生名单上参选议会的人之一。"
+       "zh": "LAUNEY：米哈伊尔·杜达斯曾代表塞尔维亚参加两届奥运会的十项全能比赛。现在，他是学生名单上竞选议会的候选人之一。"
       },
       {
        "en": "DUDAS: I am very honored to be selected to be in 250 very, very smart, good, powerful people who are ready to basically change the direction in - for Serbia in the right direction.",
-       "zh": "DUDAS: 我非常荣幸被选为250位非常、非常聪明、优秀、有影响力的人之一，他们已经准备好基本上将塞尔维亚引向正确的方向。"
+       "zh": "杜达斯：我非常荣幸被选为250位非常、非常聪明、优秀、有影响力的人之一，他们已经准备好基本上将塞尔维亚引向正确的方向。"
       },
       {
        "en": "LAUNEY: Around 150,000 people attended the Student List rally this week, marking the culmination of a protest movement that started two years ago. That's when a concrete canopy collapsed at the recently renovated railway station in Novi Sad, Serbia's second-largest city. Sixteen people died, and the disaster sparked student-led protests accusing Aleksandar Vucic of presiding over endemic corruption. He'd made infrastructure improvements a key part of his image as the strong leader steering Serbia into the future. So the station disaster has been hard for him to shake off.",
-       "zh": "LAUNEY：本周，大约有150,000人参加了学生名单集会，这标志着两年前开始的抗议运动的高潮。那时，塞尔维亚第二大城市诺维萨德最近翻修的火车站的混凝土顶棚倒塌。16人死亡，这场灾难引发了由学生领导的抗议，指责亚历山大·武契奇主持下普遍存在的腐败。他曾将基础设施建设的改善作为他作为带领塞尔维亚走向未来的强势领导者形象的重要组成部分。因此，这次车站灾难对他来说一直难以摆脱。"
+       "zh": "LAUNEY：本周，大约有15万人参加了学生名单集会，这标志着两年前开始的抗议运动的高潮。两年前，塞尔维亚第二大城市诺维萨德最近翻修的火车站发生了混凝土顶棚坍塌事故。16人死亡，这场灾难引发了以学生为主导的抗议，指责亚历山大·武契奇主导下的体制性腐败。他将基础设施改善作为自己作为引领塞尔维亚走向未来的强有力领导者形象的关键部分。因此，这起车站灾难对他来说一直难以摆脱。"
       },
       {
        "en": "MAGDA ANASTASIJEVIC: The government expected the protests to die down after the initial spark.",
@@ -177,160 +177,162 @@ window.__MERIDIAN_DATA__ = {
      "id": "2026-10-25-business",
      "section": "Business",
      "sectionZh": "商业 · 财经",
-     "title": "Why Meta is charging to post more hyperlinks",
-     "dek": "Outside of Atlanta, two gas stations got into a price war. The Atlanta TV station WSB-TV reported that, over the course of a day, prices dropped from $2.54 down to $1.44, $1.39 and eventually down…",
+     "title": "Gen Z is 'in the thick' of high housing costs. These candidates aim to solve it",
+     "dek": "WEST HARTFORD, Conn. — \"My bus is running slightly behind,\" Olaleye Onikuyide texted ahead of our meeting at a coffee shop on West Hartford's main street. The 28-year-old Democrat running for…",
      "source": "NPR",
-     "sourceUrl": "https://www.npr.org/sections/planet-money/2026/10/23/nx-s1-6012726/why-meta-is-charging-to-post-more-hyperlinks",
-     "byline": "Cooper Katz McKim",
+     "sourceUrl": "https://www.npr.org/2026/10/23/nx-s1-5983813/gen-z-candidates-midterms-housing-affordability",
+     "byline": "Jennifer Ludden",
      "dateLabel": "2026-10-25",
-     "words": 535,
+     "words": 316,
      "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
+     "level": "C2",
+     "levelEn": "Proficient",
      "paragraphs": [
       {
-       "en": "Outside of Atlanta, two gas stations got into a price war. The Atlanta TV station WSB-TV reported that, over the course of a day, prices dropped from $2.54 down to $1.44, $1.39 and eventually down to just 97 cents. When drivers took notice, the traffic jam began and police intervened. BUT while it was happening, one driver said she only spent $15 to fill up her truck. It usually costs $90. \"Look at God, baby! Look at God!\" she said.",
-       "zh": "在亚特兰大以外，两家加油站展开了价格战。亚特兰大电视台WSB-TV报道说，在一天之内，油价从每加仑2.54美元降至1.44美元，再降至1.39美元，最终降至仅97美分。当司机注意到时，交通堵塞开始，警方介入。但就在这一过程中，一名司机说她只花了15美元就给卡车加满了油。通常这需要90美元。她说：“看看上帝，宝贝！看看上帝！”"
+       "en": "WEST HARTFORD, Conn. — \"My bus is running slightly behind,\" Olaleye Onikuyide texted ahead of our meeting at a coffee shop on West Hartford's main street. The 28-year-old Democrat running for Connecticut state representative still made it on time and said he loved riding public transit.",
+       "zh": "康涅狄格州西哈特福德——“我的公交车稍微晚一点，”奥拉莱耶·奥尼库伊德在我们在西哈特福德主街的一家咖啡店会面前发短信通知。现年28岁的民主党人，正在竞选康涅狄格州州代表，仍然准时到达，并表示他喜欢乘坐公共交通工具。"
       },
       {
-       "en": "In our team's Slack, co-host Wailin Wong responded to the low prices, \"make it up on volume!?\" Jeff Guo wrote, \"how is this real.\" But like, actually. How is this real?",
-       "zh": "在我们团队的 Slack 上，共同主持人 Wailin Wong 对低价作出了回应，‘靠销量来补吗！？’ Jeff Guo 写道，‘这怎么可能是真的。’但是，真的，这怎么可能是真的？"
+       "en": "Onikuyide also lives with his parents, though he said that's by choice to save money, unlike the many young adults who can't afford to live on their own.",
+       "zh": "Onikuyide 也和他的父母住在一起，虽然他说这是为了省钱而自愿选择的，这与许多无法独立生活的年轻人不同。"
       },
       {
-       "en": "- How fake data centers can still drive up electricity costs",
-       "zh": "- 虚假数据中心如何仍然能推高电费"
+       "en": "Still, as part of a generation that faces record-high housing unaffordability, he started obsessing years ago over how to make it cheaper. Now that the cripplingly high cost of both rent and homes has become an urgent national conversation, he likens it to being a fan of a niche music group before everyone else caught on.",
+       "zh": "尽管如此，作为面临历史最高住房负担困境的一代人，他早在多年前就开始痴迷于如何让住房更便宜。如今，租金和房价的高企已成为全国紧迫的话题，他将自己比作在别人都还没意识到之前就喜欢上小众音乐组合的粉丝。"
       },
       {
-       "en": "What To Know: Social media sites don't love it when users leave. If you've ever used Instagram, it's not the easiest place to post links. You need to include them in bios, or through a special button on stories. Well now, if you run a Facebook page, you can only post TWO hyperlinks for free per month. $49.99/month will get you a Meta One Advanced plan, allowing you to include eight hyperlinks in posts or reels. With the $499/month Max plan, you can post an unlimited amount. Ashley Gullen, who runs a game design company, posted on Mastodon, a decentralized social media platform, \"Facebook achieving absurd new heights of enshittification\" in response to the news. This isn't totally unique. Nieman Lab did a whole study finding that posting links hurts news publishers on X.",
-       "zh": "需要了解的情况：社交媒体平台不喜欢用户离开。如果你曾经使用过Instagram，你会发现它并不是一个容易发布链接的地方。你需要把链接放在个人简介中，或者通过故事中的特殊按钮来发布。现在，如果你经营一个Facebook页面，每个月只能免费发布两个超链接。每月49.99美元，你可以获得Meta One高级计划，允许在帖子或短视频中包含八个超链接。每月499美元的Max计划则可以无限量发布。经营游戏设计公司的Ashley Gullen在去中心化社交平台Mastodon上发布消息回应这一新闻：“Facebook达到了荒谬的新恶化高度”。这并非完全独特。尼曼实验室（Nieman Lab）做过一项完整研究，发现发布链接会对X上的新闻出版商造成影响。"
+       "en": "\"All of a sudden, it's blown up and everybody's at the concerts and you're like, 'OK, this is a bit of a crowd here now,'\" he said with a broad smile.",
+       "zh": "“突然间，它爆红了，每个人都去看演唱会，而你就像，‘好吧，现在这里的人有点多了，’”他带着灿烂的笑容说道。"
       },
       {
-       "en": "Why are companies doing this?: Attention is money for social media sites. They want to keep you inside their walls! David Evans, managing director at BRG, a consulting firm, wrote a simple explanation as to why platforms want you to stay on their site: \"Attention platforms use content to get consumers to spend time on their platform and sell marketers the ability to expose these consumers to messages.\"",
-       "zh": "公司为什么会这样做？：注意力就是社交媒体网站的金钱。他们想让你留在他们的“墙”内！咨询公司BRG的董事总经理大卫·埃文斯（David Evans）给出了一个简单的解释，说明为什么平台希望你留在他们的网站上：“注意力平台利用内容让消费者花时间在他们的平台上，并向营销人员出售将这些消费者暴露于信息的能力。”"
+       "en": "Nationwide, housing costs are a top issue for voters in a midterms season laser focused on affordability. A chronic housing shortage has pushed up prices, and the fallout cuts across generations.",
+       "zh": "在全国范围内，住房成本是选民在以可负担性为核心的中期选举季节中的首要问题。长期的住房短缺推动了价格上涨，其影响波及各代人。"
       },
       {
-       "en": "Even FAKE data centers could be driving up electricity costs - The Wall Street Journal",
-       "zh": "即使是虚假的数据中心也可能在推高电费——《华尔街日报》"
+       "en": "Younger people are renting with roommates into their 30s. They're struggling to save for a down payment and wondering whether it even makes sense to buy, given today's sky-high prices. Empty nesters looking to downsize can't find an affordable place to go, and longtime homeowners are reluctant to move at all, given current high mortgage rates.",
+       "zh": "年轻人一直与室友合租到三十多岁。他们难以攒够首付，并且在考虑如今极高的房价下是否真的值得买房。希望缩小住房规模的空巢老人找不到负担得起的地方，而老房主们由于目前高昂的抵押贷款利率，也不愿意搬家。"
       },
       {
-       "en": "What To Know: Developers are desperate to get their data centers up and running. They need it to help power their precious AI and whatever other computing is needed. BUT, developers won't just say, \"This is the only location we'll accept for this project.\" No, they'll put out requests to all sorts of locations for their centers. The problem is, utilities are still considering data centers that likely WON'T GET BUILT in their electricity forecasts. Energy research firm Wood Mackenzie estimates that only a mere 23% of data-center requests are considered \"high confidence,\" according to The Wall Street Journal. The rest are speculative!",
-       "zh": "需要了解的内容：开发者迫切希望让他们的数据中心投入运行。他们需要这些数据中心来为他们宝贵的人工智能以及其他所需的计算提供支持。但是，开发者不会只是简单地说：“这是我们这个项目唯一可接受的位置。”不，他们会向各种地区提出数据中心建设请求。问题是，公共事业公司在电力预测中仍在考虑那些很可能不会建成的数据中心。能源研究公司伍德麦肯齐（Wood Mackenzie）估计，据《华尔街日报》报道，只有区区23%的数据中心请求被认为是“高度可信”的，其余的都是猜测性的！"
+       "en": "Generation Z candidates from both major parties said their age group has a lot at stake and is uniquely positioned to help create solutions for everyone.",
+       "zh": "来自两大主要政党的Z世代候选人表示，他们的年龄群体有很多利益相关，同时也处于独特位置，可以帮助为所有人创造解决方案。"
       },
       {
-       "en": "How this affects YOU: Electricity costs could rise even if the data centers don't get built. Hoowwwwww does that work now? Because utilities are still planning for expected demand. They can't just suddenly integrate a wildly power-demanding data center without new substations or transmission lines. It's possible for the utility to pass on some of those grid investments onto consumers, even if the data centers never come to pass. Some power markets also set prices based on future demand so… There are lots of ways these projects could mess with your electricity bill.",
-       "zh": "这对你的影响：即使数据中心没有建成，电费也可能会上涨。这到底是怎么回事呢？因为公用事业公司仍在根据预期需求进行规划。他们不能在没有新的变电站或输电线路的情况下突然接入一个耗电量巨大的数据中心。即使数据中心最终没有建成，公用事业公司也可能将部分电网投资成本转嫁给消费者。一些电力市场也会根据未来需求来设定价格，所以……这些项目有很多方式可能会影响你的电费。"
+       "en": "\"We're in the thick of it,\" Onikuyide said, citing not only high housing and gas prices but also student loan debt and a tough labor market. \"We might be the generation that is more educated and yet worse off than our parents.\"",
+       "zh": "“我们正处于困境中，”奥尼库耶德说，他不仅提到了高昂的房价和油价，还提到了学生贷款债务以及严峻的就业市场。“我们可能是这一代人，受教育程度更高，但生活状况却比父母更差。”"
       }
      ],
      "vocab": [
       {
-       "w": "gas",
+       "w": "public",
+       "pos": "adj.",
+       "zh": "公共的；公众的",
+       "ex": "The 28-year-old Democrat running for Connecticut state representative still made it on time and said he loved riding public transit.",
+       "forms": []
+      },
+      {
+       "w": "young",
+       "pos": "adj.",
+       "zh": "年轻的",
+       "ex": "Onikuyide also lives with his parents, though he said that's by choice to save money, unlike the many young adults who can't afford to live on their own.",
+       "forms": []
+      },
+      {
+       "w": "generation",
        "pos": "n.",
-       "zh": "天然气；气体",
-       "ex": "Outside of Atlanta, two gas stations got into a price war.",
+       "zh": "一代人；世代",
+       "ex": "Still, as part of a generation that faces record-high housing unaffordability, he started obsessing years ago over how to make it cheaper.",
+       "forms": [
+        "generations"
+       ]
+      },
+      {
+       "w": "cost",
+       "pos": "n.",
+       "zh": "成本；代价",
+       "ex": "Now that the cripplingly high cost of both rent and homes has become an urgent national conversation, he likens it to being a fan of a niche music group before everyone else caught on.",
+       "forms": [
+        "costs"
+       ]
+      },
+      {
+       "w": "national",
+       "pos": "adj.",
+       "zh": "国家的；全国的",
+       "ex": "Now that the cripplingly high cost of both rent and homes has become an urgent national conversation, he likens it to being a fan of a niche music group before everyone else caught on.",
+       "forms": []
+      },
+      {
+       "w": "issue",
+       "pos": "n.",
+       "zh": "议题；问题",
+       "ex": "Nationwide, housing costs are a top issue for voters in a midterms season laser focused on affordability.",
+       "forms": []
+      },
+      {
+       "w": "shortage",
+       "pos": "n.",
+       "zh": "短缺；不足",
+       "ex": "A chronic housing shortage has pushed up prices, and the fallout cuts across generations.",
        "forms": []
       },
       {
        "w": "price",
        "pos": "n.",
        "zh": "价格",
-       "ex": "Outside of Atlanta, two gas stations got into a price war.",
+       "ex": "A chronic housing shortage has pushed up prices, and the fallout cuts across generations.",
        "forms": [
         "prices"
        ]
       },
       {
-       "w": "report",
-       "pos": "n.",
-       "zh": "报告；报道",
-       "ex": "The Atlanta TV station WSB-TV reported that, over the course of a day, prices dropped from $2.54 down to $1.44, $1.39 and eventually down to just 97 cents.",
-       "forms": [
-        "reported"
-       ]
-      },
-      {
-       "w": "police",
-       "pos": "n.",
-       "zh": "警察",
-       "ex": "When drivers took notice, the traffic jam began and police intervened.",
-       "forms": []
-      },
-      {
-       "w": "cost",
-       "pos": "n.",
-       "zh": "成本；代价",
-       "ex": "It usually costs $90.",
-       "forms": [
-        "costs"
-       ]
-      },
-      {
-       "w": "data",
-       "pos": "n.",
-       "zh": "数据",
-       "ex": "- How fake data centers can still drive up electricity costs What To Know: Social media sites don't love it when users leave.",
-       "forms": []
-      },
-      {
-       "w": "electricity",
-       "pos": "n.",
-       "zh": "电力",
-       "ex": "- How fake data centers can still drive up electricity costs What To Know: Social media sites don't love it when users leave.",
-       "forms": []
-      },
-      {
-       "w": "social",
+       "w": "reluctant",
        "pos": "adj.",
-       "zh": "社会的；社交的",
-       "ex": "- How fake data centers can still drive up electricity costs What To Know: Social media sites don't love it when users leave.",
+       "zh": "不情愿的；勉强的",
+       "ex": "Empty nesters looking to downsize can't find an affordable place to go, and longtime homeowners are reluctant to move at all, given current high mortgage rates.",
        "forms": []
       },
       {
-       "w": "media",
+       "w": "mortgage",
        "pos": "n.",
-       "zh": "媒体",
-       "ex": "- How fake data centers can still drive up electricity costs What To Know: Social media sites don't love it when users leave.",
+       "zh": "抵押贷款；按揭",
+       "ex": "Empty nesters looking to downsize can't find an affordable place to go, and longtime homeowners are reluctant to move at all, given current high mortgage rates.",
        "forms": []
       },
       {
-       "w": "platform",
+       "w": "rate",
        "pos": "n.",
-       "zh": "平台",
-       "ex": "Ashley Gullen, who runs a game design company, posted on Mastodon, a decentralized social media platform, \"Facebook achieving absurd new heights of enshittification\" in response to the news.",
+       "zh": "比率；速度",
+       "ex": "Empty nesters looking to downsize can't find an affordable place to go, and longtime homeowners are reluctant to move at all, given current high mortgage rates.",
        "forms": [
-        "platforms"
+        "rates"
        ]
       },
       {
-       "w": "news",
+       "w": "candidate",
        "pos": "n.",
-       "zh": "新闻",
-       "ex": "Ashley Gullen, who runs a game design company, posted on Mastodon, a decentralized social media platform, \"Facebook achieving absurd new heights of enshittification\" in response to the news.",
-       "forms": []
-      },
-      {
-       "w": "study",
-       "pos": "n.",
-       "zh": "研究；学习",
-       "ex": "Nieman Lab did a whole study finding that posting links hurts news publishers on X.",
-       "forms": []
+       "zh": "候选人",
+       "ex": "Generation Z candidates from both major parties said their age group has a lot at stake and is uniquely positioned to help create solutions for everyone.",
+       "forms": [
+        "candidates"
+       ]
       }
      ],
      "homeWords": [
-      "gas",
-      "price",
-      "report",
-      "police",
-      "cost"
+      "public",
+      "young",
+      "generation",
+      "cost",
+      "national"
      ],
      "keyVocab": [
-      "gas",
-      "price",
-      "report",
-      "police",
+      "public",
+      "young",
+      "generation",
       "cost",
-      "data",
-      "electricity",
-      "social"
+      "national",
+      "issue",
+      "shortage",
+      "price"
      ]
     },
     {
@@ -350,7 +352,7 @@ window.__MERIDIAN_DATA__ = {
      "paragraphs": [
       {
        "en": "AI discovered a vulnerability in part of the internet's architecture, called PHP2SHELL. Security researchers rushed to fix it, but news of the vulnerability leaked and hackers have swooped in.",
-       "zh": "人工智能在互联网上的一个架构部分中发现了一个漏洞，称为 PHP2SHELL。安全研究人员争相修复它，但关于该漏洞的消息泄露了，黑客趁机入侵。"
+       "zh": "人工智能发现了互联网架构的一部分漏洞，称为 PHP2SHELL。安全研究人员赶忙修复它，但漏洞的消息泄露了，黑客迅速介入。"
       },
       {
        "en": "Internet security researchers made a startling discovery a couple of months ago - a vulnerability in the code that most internet servers use. They tried to keep it secret and sprinted to fix it, but they couldn't stop the chaos that spread across the internet the past couple of days. Kevin Roose co-hosts a new podcast from NPR called Machine Gods, and he joins us right now. Kevin, thanks so much for being with us.",
@@ -358,7 +360,7 @@ window.__MERIDIAN_DATA__ = {
       },
       {
        "en": "ROOSE: Well, we found out this week that there was a big bug in a very important piece of decades-old software called PHP. Now, for nontechnical people, PHP runs on something like 70% of the websites on the internet. And this week we learned it had two flaws that would let someone take over any computer that was running a website without a password and without leaving any fingerprints. So basically, imagine that 70% of the doors in the world ran on the same locks, and then we figured out that there was a way to pry open that lock and get in. And we need a bunch of new locks for a bunch of doors.",
-       "zh": "ROOSE：嗯，我们这周发现，在一款名为 PHP 的几十年历史的重要软件中存在一个重大漏洞。对于非技术人员来说，PHP 大约运行在互联网上 70% 的网站上。而这周我们了解到，它有两个漏洞，可以让任何运行网站的电脑在没有密码且不留任何痕迹的情况下被接管。基本上，想象一下，全世界 70% 的门都使用同一种锁，然后我们发现有人可以撬开这种锁进入。我们需要为许多门换一批新锁。"
+       "zh": "ROOSE：嗯，我们这周发现，在一款有几十年历史、非常重要的软件 PHP 中存在一个重大漏洞。对于非技术人员来说，PHP 运行着互联网大约 70% 的网站。这周我们得知，它存在两个缺陷，可以让任何人接管运行网站的电脑，而无需密码且不会留下任何痕迹。基本上，想象一下，世界上 70% 的门都使用相同的锁，而我们发现有办法撬开这些锁进入。我们需要为这些门换上一大批新锁。"
       },
       {
        "en": "SIMON: And as I understand it, researchers used AI to discover this hole?",
@@ -366,7 +368,7 @@ window.__MERIDIAN_DATA__ = {
       },
       {
        "en": "ROOSE: They did, yes. Researchers used AI to discover this hole. The issue is that you need to now patch all of the systems that are running PHP, maybe on an older version, because now we also have these AI tools that can quickly exploit vulnerabilities like this. So there's a little bit of a cat-and-mouse game going on. Defenders try to patch the systems before the offenders can get in.",
-       "zh": "ROOSE：是的，他们确实这样做了。研究人员使用人工智能发现了这个漏洞。问题是你现在需要修补所有运行PHP的系统，也许是旧版本的，因为现在我们也有这些可以快速利用此类漏洞的AI工具。所以这里有一点猫捉老鼠的游戏。防御者试图在攻击者入侵之前修补系统。"
+       "zh": "ROOSE：是的，他们确实这样做了。研究人员使用人工智能发现了这个漏洞。问题是你现在需要修补所有运行PHP的系统，也许是旧版本的，因为现在我们还有这些可以快速利用此类漏洞的人工智能工具。所以这里有一点猫捉老鼠的游戏。防御者试图在攻击者入侵之前修补系统。"
       },
       {
        "en": "SIMON: So it sounds like you have two or maybe more rivalrous groups, all of them using AI, half of them to cause problems, half of them to solve them.",
@@ -467,135 +469,104 @@ window.__MERIDIAN_DATA__ = {
      "id": "2026-10-25-science",
      "section": "Science",
      "sectionZh": "科学",
-     "title": "Arizona adds U.S.'s newest national park, but National Park Service remains underfunded",
-     "dek": "President Trump, famous for stripping protections from national monuments, is signing a bill to turn one into a national park. The land in southern Arizona is biologically rich and scenic.",
+     "title": "Oyster aid efforts in the Chesapeake",
+     "dek": "Two people — an eco-evangelist and an engineer — are taking different approaches to support the same critical ingredient in the Chesapeake Bay: oysters.",
      "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/21/nx-s1-5988049/arizona-adds-u-s-s-newest-national-park-but-national-park-service-remains-underfunded",
-     "byline": "Katya Mendoza",
+     "sourceUrl": "https://www.npr.org/2026/10/20/nx-s1-6005286/oyster-aid-efforts-in-the-chesapeake",
+     "byline": "Ari Daniel",
      "dateLabel": "2026-10-25",
-     "words": 256,
+     "words": 264,
      "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
+     "level": "B2",
+     "levelEn": "Upper-intermediate",
      "paragraphs": [
       {
-       "en": "President Trump, famous for stripping protections from national monuments, is signing a bill to turn one into a national park. The land in southern Arizona is biologically rich and scenic.",
-       "zh": "特朗普总统以取消国家纪念地保护而闻名，他正在签署一项法案，将其中一个纪念地改为国家公园。位于亚利桑那州南部的这片土地生物多样性丰富，风景优美。"
+       "en": "Two people — an eco-evangelist and an engineer — are taking different approaches to support the same critical ingredient in the Chesapeake Bay: oysters.",
+       "zh": "两个人——一位生态传教士和一位工程师——正在采取不同的方法来支持切萨皮克湾的同一种关键成分：牡蛎。"
       },
       {
-       "en": "A few states over, the U.S. has a new national park. Yesterday, President Trump signed the Chiricahua National Park Act, elevating a national monument in Arizona to national park status. But there are concerns about its future, as Arizona Public Media's Katya Mendoza reports.",
-       "zh": "在几个州之外，美国有了一个新的国家公园。昨天，总统特朗普签署了奇里卡瓦国家公园法案，将亚利桑那州的一处国家纪念地提升为国家公园。但人们对其未来表示担忧，正如亚利桑那公共媒体的卡蒂娅·门多萨报道的那样。"
+       "en": "Our next story is about two people, an eco evangelist and an engineer, who are taking different approaches to support the same critical ingredient in the Chesapeake Bay - that's oysters. Here's NPR's Ari Daniel.",
+       "zh": "我们的下一个故事是关于两个人，一位生态传道者和一位工程师，他们正在采取不同的方法来支持切萨皮克湾的同一种关键成分——那就是牡蛎。以下是NPR的Ari Daniel报道。"
       },
       {
-       "en": "KATYA MENDOZA, BYLINE: The new park is part of the Chiricahua Mountains, about a two hours' drive southeast of Tucson, accessed by a winding road surrounded by a sea of grasslands. The mountains are one of several so called sky island ranges that rise from the deserts here. They serve as a crossroads for four major ecosystems, where the Sonoran and Chihuahuan deserts, Rocky Mountains and the Sierra Madres converge.",
-       "zh": "卡蒂亚·门多萨，署名：这个新公园是奇里卡瓦山脉的一部分，位于图森东南约两小时车程的地方，通过一条被草原环绕的弯曲道路进入。这些山脉是所谓的“天空之岛”山脉之一，从这里的沙漠中耸立而起。它们是四大主要生态系统的交汇点，索诺兰沙漠、奇瓦瓦沙漠、落基山脉和西拉马德雷山脉在此汇聚。"
+       "en": "ARI DANIEL, BYLINE: John Consoli stands on the edge of his pier on the southern tip of Kent Island in eastern Maryland, where he's hoisting something out of the water.",
+       "zh": "ARI DANIEL，署名：John Consoli站在马里兰州东部肯特岛南端的码头边缘，他正在从水中提起某物。"
       },
       {
-       "en": "ARMAND SANTILLI: It's like the Arizona version of Bryce Canyon.",
-       "zh": "阿尔芒·桑蒂利：这就像是布莱斯峡谷的亚利桑那版。"
+       "en": "JOHN CONSOLI: Oh, this one's heavy. Hold on. This is when I need my son. Hold on (laughter).",
+       "zh": "约翰·康索利：哦，这个很重。等等。我需要我儿子的帮助。等等（笑声）。"
       },
       {
-       "en": "MENDOZA: Armand Santilli came to visit what people call a wonderland of rocks, which was designated a national monument in 1924 by President Calvin Coolidge. Santilli had no idea he'd be the first visitor to the new national park.",
-       "zh": "MENDOZA: Armand Santilli 来参观人们所称的岩石仙境，这里在1924年由总统卡尔文·柯立芝指定为国家纪念地。Santilli 根本不知道他将成为新国家公园的第一位游客。"
+       "en": "DANIEL: Consoli pulls a mesh the size of a pillowcase onto the pier. It's packed with oysters - not for eating, but rather to be grown to help the bay.",
+       "zh": "丹尼尔：康索利把一个枕套大小的网拖到码头上。里面装满了牡蛎——不是为了吃，而是为了养殖，以帮助海湾。"
       },
       {
-       "en": "SANTILLI: I figured I'd come on through while I was visiting the rest of the mountain range. I figured I had to see the monument, and what a time to pick.",
-       "zh": "桑蒂利：我想既然我在参观山脉的其他部分，就顺便过来看看。我想我必须去看看这个纪念碑，真是时候选择得巧啊。"
+       "en": "J CONSOLI: When I got them, they weighed nothing. And this is just three months of growth. And just the net is chock-full. I can hardly pull it up.",
+       "zh": "J CONSOLI：当我收到它们的时候，它们几乎没有重量。这只是生长了三个月。而且网满得都快装不下了。我几乎拉不起来。"
       },
       {
-       "en": "JUAN CISCOMANI: Please help me welcome United States Interior Secretary Doug Burgum.",
-       "zh": "胡安·西斯科马尼：请大家欢迎美国内政部长道格·伯格姆。"
+       "en": "J CONSOLI: I think I'm more enthusiastic about something that's like a rock than anybody else could possibly be. I mean, I really can't think of many more creatures that do the good that oysters do.",
+       "zh": "J CONSOLI：我想我对像岩石一样的东西比任何人可能更充满热情。我的意思是，我真的想不出还有多少生物能像牡蛎那样做好事。"
       },
       {
-       "en": "MENDOZA: Arizona Republican Congressman Juan Ciscomani introduced Secretary Burgum at a ceremony establishing the park, now America's 64th national park.",
-       "zh": "门多萨：亚利桑那州共和党众议员胡安·西斯科马尼在一场建立公园的仪式上介绍了伯格姆部长，这个公园现在是美国第64个国家公园。"
+       "en": "DANIEL: Oysters underpin this ecosystem. First off, each adult filters up to 50 gallons of water a day. Cleaner water leads to a healthier bay for the other creatures here.",
+       "zh": "丹尼尔：牡蛎支撑着这个生态系统。首先，每只成牡蛎每天可以过滤多达50加仑的水。水质更清洁会让这里其他生物的海湾更健康。"
+      },
+      {
+       "en": "J CONSOLI: A lot of small fish and crabs live and eat amongst them and hide. I even found a seahorse, which was incredible. I've never seen a seahorse in my life.",
+       "zh": "J CONSOLI：许多小鱼和螃蟹生活在它们之间，寻找食物并隐藏。我甚至发现了一只海马，这太不可思议了。我这一生都没见过海马。"
       }
      ],
      "vocab": [
       {
-       "w": "president",
-       "pos": "n.",
-       "zh": "总统；总裁",
-       "ex": "President Trump, famous for stripping protections from national monuments, is signing a bill to turn one into a national park.",
+       "w": "support",
+       "pos": "v.",
+       "zh": "支持",
+       "ex": "Two people — an eco-evangelist and an engineer — are taking different approaches to support the same critical ingredient in the Chesapeake Bay: oysters.",
        "forms": []
       },
       {
-       "w": "national",
+       "w": "critical",
        "pos": "adj.",
-       "zh": "国家的；全国的",
-       "ex": "President Trump, famous for stripping protections from national monuments, is signing a bill to turn one into a national park.",
+       "zh": "关键的；批评的",
+       "ex": "Two people — an eco-evangelist and an engineer — are taking different approaches to support the same critical ingredient in the Chesapeake Bay: oysters.",
        "forms": []
       },
       {
-       "w": "park",
+       "w": "water",
        "pos": "n.",
-       "zh": "公园；园区",
-       "ex": "President Trump, famous for stripping protections from national monuments, is signing a bill to turn one into a national park.",
+       "zh": "水",
+       "ex": "ARI DANIEL, BYLINE: John Consoli stands on the edge of his pier on the southern tip of Kent Island in eastern Maryland, where he's hoisting something out of the water.",
        "forms": []
       },
       {
-       "w": "land",
+       "w": "growth",
        "pos": "n.",
-       "zh": "土地；陆地",
-       "ex": "The land in southern Arizona is biologically rich and scenic.",
-       "forms": []
-      },
-      {
-       "w": "future",
-       "pos": "n.",
-       "zh": "未来",
-       "ex": "But there are concerns about its future, as Arizona Public Media's Katya Mendoza reports.",
-       "forms": []
-      },
-      {
-       "w": "public",
-       "pos": "adj.",
-       "zh": "公共的；公众的",
-       "ex": "But there are concerns about its future, as Arizona Public Media's Katya Mendoza reports.",
-       "forms": []
-      },
-      {
-       "w": "report",
-       "pos": "n.",
-       "zh": "报告；报道",
-       "ex": "But there are concerns about its future, as Arizona Public Media's Katya Mendoza reports.",
-       "forms": [
-        "reports"
-       ]
-      },
-      {
-       "w": "rise",
-       "pos": "n.",
-       "zh": "上升；上涨",
-       "ex": "The mountains are one of several so called sky island ranges that rise from the deserts here.",
+       "zh": "增长",
+       "ex": "And this is just three months of growth.",
        "forms": []
       },
       {
        "w": "ecosystem",
        "pos": "n.",
        "zh": "生态系统",
-       "ex": "They serve as a crossroads for four major ecosystems, where the Sonoran and Chihuahuan deserts, Rocky Mountains and the Sierra Madres converge.",
-       "forms": [
-        "ecosystems"
-       ]
+       "ex": "DANIEL: Oysters underpin this ecosystem.",
+       "forms": []
       }
      ],
      "homeWords": [
-      "president",
-      "national",
-      "park",
-      "land",
-      "future"
+      "support",
+      "critical",
+      "water",
+      "growth",
+      "ecosystem"
      ],
      "keyVocab": [
-      "president",
-      "national",
-      "park",
-      "land",
-      "future",
-      "public",
-      "report",
-      "rise"
+      "support",
+      "critical",
+      "water",
+      "growth",
+      "ecosystem"
      ]
     },
     {
@@ -639,7 +610,7 @@ window.__MERIDIAN_DATA__ = {
       },
       {
        "en": "This is one of the largest settlements in the Catholic church related to sexual abuse claims. In 2024, the Archdiocese of Los Angeles agreed to a $880 million settlement to victims of sexual abuse by its clergy.",
-       "zh": "这是天主教会与性侵指控相关的最大和解之一。2024年，洛杉矶总教区同意向其神职人员性侵受害者支付8.8亿美元的和解金。"
+       "zh": "这是天主教会与性侵索赔相关的最大和解之一。2024年，洛杉矶总教区同意向其神职人员性侵受害者支付8.8亿美元的和解金。"
       },
       {
        "en": "In December 2025, the Archdiocese of New York agreed to mediation to settle the 1,300 sexual abuse claims and said it had laid off staff and planned to sell some of its Manhattan properties in effort to raise $300 million to pay survivors.",
