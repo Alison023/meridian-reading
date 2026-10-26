@@ -1,6 +1,790 @@
 window.__MERIDIAN_DATA__ = {
- "updated": "2026-10-25T05:01:00.371374+00:00",
+ "updated": "2026-10-26T00:54:17.445135+00:00",
  "days": [
+  {
+   "date": "2026-10-26",
+   "articles": [
+    {
+     "id": "2026-10-26-world",
+     "section": "World",
+     "sectionZh": "国际",
+     "title": "Brazil's left-wing President Lula elected for fourth term",
+     "dek": "BRASILIA, Brazil — In a stunning comeback, President Luiz Inácio Lula da Silva has been elected president of Brazil, according to official results from Sunday's runoff, with more than 96% of votes…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
+     "byline": "Catherine Osborn",
+     "dateLabel": "2026-10-26",
+     "words": 355,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "BRASILIA, Brazil — In a stunning comeback, President Luiz Inácio Lula da Silva has been elected president of Brazil, according to official results from Sunday's runoff, with more than 96% of votes counted. Lula won more than 51% of the vote, while Sen. Flávio Bolsonaro received more than 48%.",
+       "zh": "巴西利亚，巴西——根据周日决选的官方结果，在超过96%的选票计入后，总统卢拉·伊纳西奥·卢拉·达席尔瓦惊人逆转，再次当选巴西总统。卢拉赢得了超过51%的选票，而参议员弗拉维奥·博尔索纳罗获得了超过48%的选票。"
+      },
+      {
+       "en": "Lula defeated 45-year-old Bolsonaro, fending off a right-wing political dynasty that had promised closer relations with President Trump and extending a career that has already included three nonconsecutive presidential terms.",
+       "zh": "卢拉击败了45岁的博尔索纳罗，挫败了一个承诺与特朗普总统建立更紧密关系的右翼政治世家，并延续了已经包括三个非连续总统任期的职业生涯。"
+      },
+      {
+       "en": "Election day unfolded chaotically. Around midday, Lula's campaign requested an extension of voting hours, arguing that some local governments had reduced bus service, making it harder for voters to reach polling stations. Bolsonaro also sought an extension, citing heavy rain in some states.",
+       "zh": "选举日混乱地展开。大约在中午，卢拉的竞选团队请求延长投票时间，理由是一些地方政府减少了公交服务，使选民更难到达投票站。博索纳罗也寻求延长投票时间，理由是一些州出现了大雨。"
+      },
+      {
+       "en": "Supreme Court Justice Cristiano Zanin eventually ordered voting extended by two hours beyond its normal 5 p.m. closing time. But the order reached some polling stations after officials had deactivated their electronic voting machines, meaning voting could not resume there.",
+       "zh": "最高法院大法官克里斯蒂亚诺·扎宁最终下令将投票时间延长两小时，超过正常的下午5点关闭时间。但这一命令在一些投票站到达时，工作人员已经关闭了电子投票机，这意味着该处无法继续进行投票。"
+      },
+      {
+       "en": "At one polling station in Rio de Janeiro, 36-year-old accountant Manuela Tunas arrived shortly after 6 p.m., hoping to vote after her flight into the city was delayed. She was unable to cast a ballot. \"This is absurd,\" she said. \"If some people can vote, and others can't, it's unfair.\"",
+       "zh": "在里约热内卢的一个投票站，36岁的会计师马努埃拉·图纳斯在下午6点刚过不久就到了，希望在她飞抵该市的航班延误后投票。她无法投票。“这太荒谬了，”她说。“如果有人可以投票，而有人不能，那是不公平的。”"
+      },
+      {
+       "en": "The closely-fought election drew international attention for its implications for a growing right-wing movement in Latin America, the future of the Amazon rainforest and the fate of Brazil's roughly 40-year-old democracy.",
+       "zh": "这场激烈的选举因其对拉丁美洲日益增长的右翼运动、亚马逊雨林的未来以及巴西大约40年历史的民主命运的影响而引起了国际关注。"
+      },
+      {
+       "en": "Flávio Bolsonaro is the son of former President Jair Bolsonaro, who narrowly lost to Lula in 2022 and is serving a 27-year prison sentence for plotting a coup to overturn that result. His son had pledged to pardon him.",
+       "zh": "弗拉维奥·博尔索纳罗是前总统雅伊尔·博尔索纳罗的儿子，雅伊尔在2022年以微弱差距输给卢拉，并因密谋政变推翻选举结果而被判入狱27年。他的儿子曾承诺赦免他。"
+      },
+      {
+       "en": "Because the election pitted two well-established political camps against each other, Brazilians showed little enthusiasm for street campaigning in the early months. But Bolsonaro's first-place finish in the first round of voting on Oct. 4 energized the contest, and in recent days supporters of both candidates have filled rallies and flooded social media in an effort to sway voters.",
+       "zh": "由于选举将两个历史悠久的政治阵营对立起来，巴西人在最初几个月对街头拉票表现出很少的热情。但博索纳罗在10月4日第一轮投票中获得第一名，激发了竞选活动的活力，最近几天，两位候选人的支持者纷纷参加集会并在社交媒体上积极互动，以争取选民支持。"
+      },
+      {
+       "en": "In the end, Lula's message of continuity and a focus on social spending prevailed.",
+       "zh": "最终，卢拉关于延续性和关注社会支出的信息占了上风。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "BRASILIA, Brazil — In a stunning comeback, President Luiz Inácio Lula da Silva has been elected president of Brazil, according to official results from Sunday's runoff, with more than 96% of votes counted.",
+       "forms": []
+      },
+      {
+       "w": "official",
+       "pos": "n.",
+       "zh": "官员；adj. 官方的",
+       "ex": "BRASILIA, Brazil — In a stunning comeback, President Luiz Inácio Lula da Silva has been elected president of Brazil, according to official results from Sunday's runoff, with more than 96% of votes counted.",
+       "forms": [
+        "officials"
+       ]
+      },
+      {
+       "w": "result",
+       "pos": "n.",
+       "zh": "结果",
+       "ex": "BRASILIA, Brazil — In a stunning comeback, President Luiz Inácio Lula da Silva has been elected president of Brazil, according to official results from Sunday's runoff, with more than 96% of votes counted.",
+       "forms": [
+        "results"
+       ]
+      },
+      {
+       "w": "vote",
+       "pos": "n.",
+       "zh": "投票；表决",
+       "ex": "BRASILIA, Brazil — In a stunning comeback, President Luiz Inácio Lula da Silva has been elected president of Brazil, according to official results from Sunday's runoff, with more than 96% of votes counted.",
+       "forms": [
+        "votes",
+        "voting"
+       ]
+      },
+      {
+       "w": "career",
+       "pos": "n.",
+       "zh": "职业；生涯",
+       "ex": "Lula defeated 45-year-old Bolsonaro, fending off a right-wing political dynasty that had promised closer relations with President Trump and extending a career that has already included three nonconsecutive presidential terms.",
+       "forms": []
+      },
+      {
+       "w": "election",
+       "pos": "n.",
+       "zh": "选举",
+       "ex": "Election day unfolded chaotically.",
+       "forms": []
+      },
+      {
+       "w": "campaign",
+       "pos": "n.",
+       "zh": "竞选；运动",
+       "ex": "Around midday, Lula's campaign requested an extension of voting hours, arguing that some local governments had reduced bus service, making it harder for voters to reach polling stations.",
+       "forms": [
+        "campaigning"
+       ]
+      },
+      {
+       "w": "argue",
+       "pos": "v.",
+       "zh": "主张；争论",
+       "ex": "Around midday, Lula's campaign requested an extension of voting hours, arguing that some local governments had reduced bus service, making it harder for voters to reach polling stations.",
+       "forms": [
+        "arguing"
+       ]
+      },
+      {
+       "w": "local",
+       "pos": "adj.",
+       "zh": "当地的",
+       "ex": "Around midday, Lula's campaign requested an extension of voting hours, arguing that some local governments had reduced bus service, making it harder for voters to reach polling stations.",
+       "forms": []
+      },
+      {
+       "w": "service",
+       "pos": "n.",
+       "zh": "服务",
+       "ex": "Around midday, Lula's campaign requested an extension of voting hours, arguing that some local governments had reduced bus service, making it harder for voters to reach polling stations.",
+       "forms": []
+      },
+      {
+       "w": "poll",
+       "pos": "n.",
+       "zh": "民意调查",
+       "ex": "Around midday, Lula's campaign requested an extension of voting hours, arguing that some local governments had reduced bus service, making it harder for voters to reach polling stations.",
+       "forms": [
+        "polling"
+       ]
+      },
+      {
+       "w": "cite",
+       "pos": "v.",
+       "zh": "引用；援引",
+       "ex": "Bolsonaro also sought an extension, citing heavy rain in some states.",
+       "forms": [
+        "citing"
+       ]
+      }
+     ],
+     "homeWords": [
+      "president",
+      "official",
+      "result",
+      "vote",
+      "career"
+     ],
+     "keyVocab": [
+      "president",
+      "official",
+      "result",
+      "vote",
+      "career",
+      "election",
+      "campaign",
+      "argue"
+     ]
+    },
+    {
+     "id": "2026-10-26-business",
+     "section": "Business",
+     "sectionZh": "商业 · 财经",
+     "title": "Netflix lays off 6% of workforce amidst slowing growth",
+     "dek": "Netflix is regrouping after the release of its latest quarterly earnings this week. Revenue growth at the streaming giant has slowed as the company works to overhaul its programming unit.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/10/25/nx-s1-6009274/netflix-lays-off-6-of-workforce-amidst-slowing-growth",
+     "byline": "Ayesha Rascoe",
+     "dateLabel": "2026-10-26",
+     "words": 361,
+     "readTime": 3,
+     "level": "B2",
+     "levelEn": "Upper-intermediate",
+     "paragraphs": [
+      {
+       "en": "Netflix is regrouping after the release of its latest quarterly earnings this week. Revenue growth at the streaming giant has slowed as the company works to overhaul its programming unit.",
+       "zh": "在本周发布最新季度财报后，Netflix 正在重新整合。随着公司努力改组其节目部门，这家流媒体巨头的收入增长已经放缓。"
+      },
+      {
+       "en": "Netflix has had a tough couple of weeks. The streaming giant laid off workers and fired some of its top executives. The reorganization comes as Netflix reported slower quarterly revenue growth and engagement in the U.S. NPR's Mandalit del Barco joins us from Los Angeles to round it all up. Thanks for being with us.",
+       "zh": "Netflix 最近经历了艰难的几周。这家流媒体巨头裁员，并解雇了一些高管。这次重组是在 Netflix 报告美国季度收入增长和用户参与度放缓之际进行的。NPR 的 Mandalit del Barco 从洛杉矶加入我们，为我们总结这一切。感谢你与我们同在。"
+      },
+      {
+       "en": "RASCOE: Let's start with those layoffs and firings. What happened?",
+       "zh": "拉斯科：让我们从那些裁员和解雇开始吧。发生了什么？"
+      },
+      {
+       "en": "DEL BARCO: Well, It was actually a surprise move. A thousand people were laid off. That's 6% of Netflix's workforce. And after handing them their pink slips, the chief content officer was fired. Then the chair of Netflix film and six other top executives were let go. The company's leaders said that they had to make some tough decisions about where to trim or redirect their investments. And even though they beat Wall Street expectations in this latest quarter, Netflix's growth has slowed. Co-CEO Ted Sarandos told investors this week that viewer engagement in the U.S. is slowing down.",
+       "zh": "DEL BARCO：嗯，这实际上是一次意外的行动。共有一千人被裁员，占Netflix员工总数的6%。在发放解雇通知后，首席内容官也被解雇。随后，Netflix电影部门的董事长及其他六位高管也被解职。公司的领导们表示，他们不得不就削减或重新调整投资方向做出一些艰难的决定。尽管在最新季度中Netflix超出华尔街的预期，但公司的增长已经放缓。联合CEO泰德·萨兰多斯本周告诉投资者，美国的观众参与度正在下降。"
+      },
+      {
+       "en": "TED SARANDOS: We do need better execution in the U.S. It's just not growing as fast as it could or as fast as we'd like.",
+       "zh": "特德·萨兰多斯：我们确实需要在美国有更好的执行力。它的增长速度并没有我们预期的那么快，也没有我们希望的那么快。"
+      },
+      {
+       "en": "RASCOE: OK. So growth is slowing in the U.S. But Netflix is global, right?",
+       "zh": "RASCOE: 好的。所以美国的增长正在放缓。但是 Netflix 是全球性的，对吗？"
+      },
+      {
+       "en": "DEL BARCO: Yeah. Netflix is actually available in 190 countries, and Sarandos credited the outgoing chief content officer Bela Bajaria for expanding the company's global reach. Her replacement, Peter Rice, is by all accounts beloved in Hollywood. He's the former president of 21st Century Fox, and when he headed Fox Searchlight, he greenlit films like \"Slumdog Millionaire,\" \"Juno\" and \"Little Miss Sunshine.\"",
+       "zh": "DEL BARCO：是的。Netflix 实际上在 190 个国家都有提供服务，Sarandos 将公司全球影响力的扩展归功于即将离任的首席内容官 Bela Bajaria。她的接任者 Peter Rice，据说在好莱坞深受喜爱。他是 21 世纪福克斯的前总裁，当他领导福克斯探照灯（Fox Searchlight）时，批准了《贫民窟的百万富翁》、《朱诺》和《阳光小美女》等影片。"
+      },
+      {
+       "en": "RASCOE: Can you tell us more about this new leadership and the reboot at Netflix?",
+       "zh": "RASCOE：你能告诉我们更多关于这次Netflix的新领导层和重启的信息吗？"
+      },
+      {
+       "en": "DEL BARCO: It will be interesting to see if and how Netflix's content changes, eventually. The streamer hasn't had a water-cooler hit in a while. And as for the layoffs and firings, here's what Natalie Jarvey, who covers the creator economy in Hollywood, had to say on \"The Ankler Agenda\" podcast.",
+       "zh": "DEL BARCO：看看Netflix的内容是否以及如何最终改变将会很有趣。这家流媒体公司已经有一段时间没有出现引发话题的热门作品了。至于裁员和解雇问题，《安克勒议程》播客中报道好莱坞创作者经济的Natalie Jarvey是这样说的。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "revenue",
+       "pos": "n.",
+       "zh": "收入；营收",
+       "ex": "Revenue growth at the streaming giant has slowed as the company works to overhaul its programming unit.",
+       "forms": []
+      },
+      {
+       "w": "growth",
+       "pos": "n.",
+       "zh": "增长",
+       "ex": "Revenue growth at the streaming giant has slowed as the company works to overhaul its programming unit.",
+       "forms": []
+      },
+      {
+       "w": "streaming",
+       "pos": "n.",
+       "zh": "流媒体",
+       "ex": "Revenue growth at the streaming giant has slowed as the company works to overhaul its programming unit.",
+       "forms": []
+      },
+      {
+       "w": "worker",
+       "pos": "n.",
+       "zh": "工人；员工",
+       "ex": "The streaming giant laid off workers and fired some of its top executives.",
+       "forms": [
+        "workers"
+       ]
+      },
+      {
+       "w": "report",
+       "pos": "n.",
+       "zh": "报告；报道",
+       "ex": "The reorganization comes as Netflix reported slower quarterly revenue growth and engagement in the U.S.",
+       "forms": [
+        "reported"
+       ]
+      },
+      {
+       "w": "layoff",
+       "pos": "n.",
+       "zh": "裁员；解雇",
+       "ex": "RASCOE: Let's start with those layoffs and firings.",
+       "forms": [
+        "layoffs"
+       ]
+      },
+      {
+       "w": "workforce",
+       "pos": "n.",
+       "zh": "劳动力；员工总数",
+       "ex": "That's 6% of Netflix's workforce.",
+       "forms": []
+      },
+      {
+       "w": "film",
+       "pos": "n.",
+       "zh": "电影；影片",
+       "ex": "Then the chair of Netflix film and six other top executives were let go.",
+       "forms": [
+        "films"
+       ]
+      },
+      {
+       "w": "leader",
+       "pos": "n.",
+       "zh": "领导人",
+       "ex": "The company's leaders said that they had to make some tough decisions about where to trim or redirect their investments.",
+       "forms": [
+        "leaders"
+       ]
+      },
+      {
+       "w": "investment",
+       "pos": "n.",
+       "zh": "投资",
+       "ex": "The company's leaders said that they had to make some tough decisions about where to trim or redirect their investments.",
+       "forms": [
+        "investments"
+       ]
+      },
+      {
+       "w": "investor",
+       "pos": "n.",
+       "zh": "投资者",
+       "ex": "Co-CEO Ted Sarandos told investors this week that viewer engagement in the U.S.",
+       "forms": [
+        "investors"
+       ]
+      },
+      {
+       "w": "global",
+       "pos": "adj.",
+       "zh": "全球的",
+       "ex": "But Netflix is global, right?",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "revenue",
+      "growth",
+      "streaming",
+      "worker",
+      "report"
+     ],
+     "keyVocab": [
+      "revenue",
+      "growth",
+      "streaming",
+      "worker",
+      "report",
+      "layoff",
+      "workforce",
+      "film"
+     ]
+    },
+    {
+     "id": "2026-10-26-technology",
+     "section": "Technology",
+     "sectionZh": "科技",
+     "title": "When a teen posts a selfie, how much filter is 'too much' filter?",
+     "dek": "How much filter is too much filter for kids and teens posting selfies on social media?",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/10/25/nx-s1-6011190/meta-facebook-settlement-beauty-filters-ai",
+     "byline": "Chloe Veltman",
+     "dateLabel": "2026-10-26",
+     "words": 315,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "How much filter is too much filter for kids and teens posting selfies on social media?",
+       "zh": "对于在社交媒体上发布自拍的儿童和青少年来说，滤镜多少才算太多？"
+      },
+      {
+       "en": "That is the question state attorneys general across the country are grappling with following a landmark settlement with Meta this summer. As part of the agreement, the social media giant agreed to block some digital beauty filters for minors — specifically those mimicking extreme transformations like cosmetic procedures or heavy makeup.",
+       "zh": "这是全国各地州总检察官在今年夏天与Meta达成的具有里程碑意义的和解后正在努力解决的问题。作为协议的一部分，这家社交媒体巨头同意阻止未成年人使用某些数字美化滤镜——特别是那些模拟例如整形手术或浓妆等极端变化的滤镜。"
+      },
+      {
+       "en": "Now, the burden falls on state officials to tell Meta where to draw the line. But defining where harmless fun ends and harmful manipulation begins is far from straightforward.",
+       "zh": "现在，责任落在国家官员身上，告诉 Meta 应该划定界限在哪里。但界定无害的乐趣何时结束、有害的操控何时开始远非易事。"
+      },
+      {
+       "en": "For teenagers navigating the digital landscape, the pressure of online perfection is a daily reality. Much of that pressure has been driven by online beauty trends like \"Instagram face.\" Coined in 2019 by The New Yorker writer Jia Tolentino, the phrase refers to a look characterized by a small button nose, high cheekbones and pouty lips. While traditionally only achievable in real life through plastic surgery or extreme makeup, it can be applied instantly online using beauty filters.",
+       "zh": "对于在数字环境中成长的青少年来说，追求线上完美的压力已成为日常现实。很大一部分压力来自于诸如“Instagram脸”这样的网络美妆潮流。这个词由《纽约客》作家贾·托伦蒂诺（Jia Tolentino）于2019年创造，指的是一种以小巧的鼻子、高颧骨和丰唇为特征的外貌。虽然在现实生活中通常只有通过整形手术或极端化妆才能实现，但在线上可以通过美颜滤镜立即呈现出来。"
+      },
+      {
+       "en": "Mia Lerner, a 17-year-old high school senior in California and a youth body image activist, knows the toll these digital tools can take. She told NPR experimenting with beauty filters contributed to her eating disorder and left her struggling with her self-image.",
+       "zh": "米娅·勒纳，17岁的加利福尼亚高中高年级学生和青年身体形象活动家，了解这些数字工具可能带来的影响。她告诉NPR，尝试美颜滤镜促成了她的饮食失调，并使她在自我形象上挣扎。"
+      },
+      {
+       "en": "\"I've even tried to fix my nose with AI,\" Lerner said. \"My face looks a lot better, I think, in [the] photo that I manipulated with these beauty filters. But I'm still living with this nose that I see in the mirror.\"",
+       "zh": "“我甚至尝试过用人工智能来修整我的鼻子，”勒尔纳说。“我觉得，在我用这些美颜滤镜处理过的照片里，我的脸看起来好多了。但我依然得面对镜子里看到的这个鼻子。”"
+      },
+      {
+       "en": "Lerner welcomes the aspect of the Meta settlement that aims to restrict beauty filters for minors. \"It's a very important step in the right direction,\" Lerner said.",
+       "zh": "勒纳欢迎 Meta 和解中旨在限制未成年人使用美颜滤镜的部分。勒纳说：“这是朝着正确方向迈出的非常重要的一步。”"
+      },
+      {
+       "en": "However, the agreement reached in August between Meta and 47 U.S. states — plus Washington D.C. and three territories — does not institute a blanket ban on all digital effects.",
+       "zh": "然而，Meta与47个美国州——加上华盛顿特区和三个领地——在八月份达成的协议，并没有对所有数字效果实行全面禁令。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "social",
+       "pos": "adj.",
+       "zh": "社会的；社交的",
+       "ex": "How much filter is too much filter for kids and teens posting selfies on social media?",
+       "forms": []
+      },
+      {
+       "w": "media",
+       "pos": "n.",
+       "zh": "媒体",
+       "ex": "How much filter is too much filter for kids and teens posting selfies on social media?",
+       "forms": []
+      },
+      {
+       "w": "digital",
+       "pos": "adj.",
+       "zh": "数字的",
+       "ex": "As part of the agreement, the social media giant agreed to block some digital beauty filters for minors — specifically those mimicking extreme transformations like cosmetic procedures or heavy makeup.",
+       "forms": []
+      },
+      {
+       "w": "fall",
+       "pos": "n.",
+       "zh": "下降；下跌",
+       "ex": "Now, the burden falls on state officials to tell Meta where to draw the line.",
+       "forms": [
+        "falls"
+       ]
+      },
+      {
+       "w": "official",
+       "pos": "n.",
+       "zh": "官员；adj. 官方的",
+       "ex": "Now, the burden falls on state officials to tell Meta where to draw the line.",
+       "forms": [
+        "officials"
+       ]
+      },
+      {
+       "w": "online",
+       "pos": "adj.",
+       "zh": "在线的",
+       "ex": "For teenagers navigating the digital landscape, the pressure of online perfection is a daily reality.",
+       "forms": []
+      },
+      {
+       "w": "school",
+       "pos": "n.",
+       "zh": "学校",
+       "ex": "Mia Lerner, a 17-year-old high school senior in California and a youth body image activist, knows the toll these digital tools can take.",
+       "forms": []
+      },
+      {
+       "w": "activist",
+       "pos": "n.",
+       "zh": "活动家；积极分子",
+       "ex": "Mia Lerner, a 17-year-old high school senior in California and a youth body image activist, knows the toll these digital tools can take.",
+       "forms": []
+      },
+      {
+       "w": "experiment",
+       "pos": "n.",
+       "zh": "实验",
+       "ex": "She told NPR experimenting with beauty filters contributed to her eating disorder and left her struggling with her self-image.",
+       "forms": [
+        "experimenting"
+       ]
+      },
+      {
+       "w": "restrict",
+       "pos": "v.",
+       "zh": "限制",
+       "ex": "But I'm still living with this nose that I see in the mirror.\" Lerner welcomes the aspect of the Meta settlement that aims to restrict beauty filters for minors.",
+       "forms": []
+      },
+      {
+       "w": "territory",
+       "pos": "n.",
+       "zh": "领土",
+       "ex": "and three territories — does not institute a blanket ban on all digital effects.",
+       "forms": [
+        "territories"
+       ]
+      },
+      {
+       "w": "effect",
+       "pos": "n.",
+       "zh": "影响；效果",
+       "ex": "and three territories — does not institute a blanket ban on all digital effects.",
+       "forms": [
+        "effects"
+       ]
+      }
+     ],
+     "homeWords": [
+      "social",
+      "media",
+      "digital",
+      "fall",
+      "official"
+     ],
+     "keyVocab": [
+      "social",
+      "media",
+      "digital",
+      "fall",
+      "official",
+      "online",
+      "school",
+      "activist"
+     ]
+    },
+    {
+     "id": "2026-10-26-science",
+     "section": "Science",
+     "sectionZh": "科学",
+     "title": "This summer's fire season was bigger and deadlier than most",
+     "dek": "Historic drought had western states entering summer anxious about wildfires. Some suffered significant destruction and death, but there were wins, too.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/10/19/nx-s1-5995649/this-summers-fire-season-was-bigger-and-deadlier-than-most",
+     "byline": "Murphy Woodhouse",
+     "dateLabel": "2026-10-26",
+     "words": 331,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "Historic drought had western states entering summer anxious about wildfires. Some suffered significant destruction and death, but there were wins, too.",
+       "zh": "历史性干旱使西部各州在夏季对野火感到焦虑。一些地方遭受了严重的破坏和人员伤亡，但也有胜利的地方。"
+      },
+      {
+       "en": "It has been a dramatic summer fire season in the Western United States. Dozens of wildfires destroyed hundreds of homes, breaking records, and 20 people died fighting them. Wildfires are still very much a threat in Southern California, but relief has finally come for inland states and regions. The Mountain West News Bureau's Murphy Woodhouse reports.",
+       "zh": "今年夏天，美国西部的火灾季异常激烈。数十场野火摧毁了数百所房屋，打破了记录，有20人在扑灭火灾时丧生。野火在南加州依然是一个严重威胁，但内陆各州和地区终于迎来了缓解。山地西部新闻局的墨菲·伍德豪斯报道。"
+      },
+      {
+       "en": "MURPHY WOODHOUSE, BYLINE: In a dusty, cavernous garage, rancher Tom Sharp watches a mechanic work on a military surplus Humvee painted red and retrofitted to fight wildfires. It was damaged in the lightning-caused Second Flat Fire.",
+       "zh": "墨菲·伍德豪斯，署名：在一个尘土飞扬的、像洞穴一样的车库里，牧场主汤姆·夏普观看一名机械师修理一辆涂成红色、改装用于扑灭野火的军用剩余悍马车。它是在闪电引发的第二次弗拉特火灾中受损的。"
+      },
+      {
+       "en": "TOM SHARP: And we lost all of our transmission fluid somewhere in the sage.",
+       "zh": "汤姆·夏普：我们的所有变速箱油都不知不觉地洒在了鼠尾草丛里。"
+      },
+      {
+       "en": "WOODHOUSE: It burned more than 100,000 acres of sage and pine in late July. Sharp heads up a local firefighting nonprofit. They're volunteer firefighters, mostly ranchers, who use surplus government gear in vehicles. Driven by big fires like the Second Flat, Oregonians have seen nearly 2.4 million acres burned - more than a quarter of the 9 million acres burned nationwide. That's more than any other year at this time in at least a decade.",
+       "zh": "伍德豪斯：在七月底，它烧毁了超过100,000英亩的鼠尾草和松树林。当地一家消防非营利组织提醒大家注意。他们是志愿消防员，大多数是牧场主，使用政府的剩余装备和车辆。由于像第二平原大火这样的大火，俄勒冈州的人们已经看到近240万英亩被烧毁——占全国烧毁的900万英亩的四分之一多。这是至少十年来同期最多的一年。"
+      },
+      {
+       "en": "SHARP: When we lose our rangelands to wildfire, we're losing natural resources that, you know, support the agricultural industry here.",
+       "zh": "夏普：当我们的牧场因野火而受损时，我们就在失去自然资源，而这些资源，你知道，支撑着这里的农业产业。"
+      },
+      {
+       "en": "WOODHOUSE: It was also one of the worst smoke years in decades and destroyed hundreds of homes in several states. In Colorado, the Aspen Acres Fire was one of the state's largest ever, consuming hundreds of homes. In Washington, 833 homes burned in Spokane in early August, totaling more than $1 billion in losses - the most costly wildfire disaster in state history. In Nevada, Reno and surrounding Washoe County were besieged by fire in August.",
+       "zh": "伍德豪斯：那也是几十年来最严重的烟雾年份之一，摧毁了几个州的数百栋住宅。在科罗拉多州，阿斯本农庄大火是该州有史以来最大的一次火灾之一，吞噬了数百栋住宅。在华盛顿州，8月初斯波坎市烧毁了833栋住宅，总损失超过10亿美元——这是该州历史上最昂贵的野火灾害。在内华达州，里诺及周边的沃肖县在8月遭遇火灾围困。"
+      },
+      {
+       "en": "WOODHOUSE: Whipping winds blind a fire engine crew with smoke in the shaky nighttime video shared on social media by firefighters.",
+       "zh": "伍德豪斯：社交媒体上消防员分享的夜间摇晃视频中，呼啸的狂风将消防车队笼罩在烟雾中，使其几乎看不清。"
+      },
+      {
+       "en": "WOODHOUSE: Richard Edwards is chief of the Truckee Meadows Fire Protection District.",
+       "zh": "伍德豪斯：理查德·爱德华兹是特拉基草原消防保护区的负责人。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "drought",
+       "pos": "n.",
+       "zh": "干旱",
+       "ex": "Historic drought had western states entering summer anxious about wildfires.",
+       "forms": []
+      },
+      {
+       "w": "wildfire",
+       "pos": "n.",
+       "zh": "野火",
+       "ex": "Historic drought had western states entering summer anxious about wildfires.",
+       "forms": [
+        "wildfires"
+       ]
+      },
+      {
+       "w": "significant",
+       "pos": "adj.",
+       "zh": "显著的；重要的",
+       "ex": "Some suffered significant destruction and death, but there were wins, too.",
+       "forms": []
+      },
+      {
+       "w": "dramatic",
+       "pos": "adj.",
+       "zh": "戏剧性的；巨大的",
+       "ex": "It has been a dramatic summer fire season in the Western United States.",
+       "forms": []
+      },
+      {
+       "w": "threat",
+       "pos": "n.",
+       "zh": "威胁",
+       "ex": "Wildfires are still very much a threat in Southern California, but relief has finally come for inland states and regions.",
+       "forms": []
+      },
+      {
+       "w": "region",
+       "pos": "n.",
+       "zh": "地区；区域",
+       "ex": "Wildfires are still very much a threat in Southern California, but relief has finally come for inland states and regions.",
+       "forms": [
+        "regions"
+       ]
+      },
+      {
+       "w": "news",
+       "pos": "n.",
+       "zh": "新闻",
+       "ex": "The Mountain West News Bureau's Murphy Woodhouse reports.",
+       "forms": []
+      },
+      {
+       "w": "report",
+       "pos": "n.",
+       "zh": "报告；报道",
+       "ex": "The Mountain West News Bureau's Murphy Woodhouse reports.",
+       "forms": [
+        "reports"
+       ]
+      },
+      {
+       "w": "sharp",
+       "pos": "adj.",
+       "zh": "急剧的；锋利的",
+       "ex": "MURPHY WOODHOUSE, BYLINE: In a dusty, cavernous garage, rancher Tom Sharp watches a mechanic work on a military surplus Humvee painted red and retrofitted to fight wildfires.",
+       "forms": []
+      },
+      {
+       "w": "military",
+       "pos": "n.",
+       "zh": "军队；军方",
+       "ex": "MURPHY WOODHOUSE, BYLINE: In a dusty, cavernous garage, rancher Tom Sharp watches a mechanic work on a military surplus Humvee painted red and retrofitted to fight wildfires.",
+       "forms": []
+      },
+      {
+       "w": "surplus",
+       "pos": "n.",
+       "zh": "盈余；顺差",
+       "ex": "MURPHY WOODHOUSE, BYLINE: In a dusty, cavernous garage, rancher Tom Sharp watches a mechanic work on a military surplus Humvee painted red and retrofitted to fight wildfires.",
+       "forms": []
+      },
+      {
+       "w": "local",
+       "pos": "adj.",
+       "zh": "当地的",
+       "ex": "Sharp heads up a local firefighting nonprofit.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "drought",
+      "wildfire",
+      "significant",
+      "dramatic",
+      "threat"
+     ],
+     "keyVocab": [
+      "drought",
+      "wildfire",
+      "significant",
+      "dramatic",
+      "threat",
+      "region",
+      "news",
+      "report"
+     ]
+    },
+    {
+     "id": "2026-10-26-culture",
+     "section": "Culture",
+     "sectionZh": "文化",
+     "title": "What makes a good spine-tingler? Stephen Graham Jones says it's all in the ending",
+     "dek": "\"I only planned to drive a tractor and be a farmer,\" he says.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/10/25/nx-s1-6007348/what-makes-a-good-spine-tingler-stephen-graham-jones-says-its-all-in-the-ending",
+     "byline": "Ryan Benk",
+     "dateLabel": "2026-10-26",
+     "words": 322,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "\"I only planned to drive a tractor and be a farmer,\" he says.",
+       "zh": "他说：“我本来只打算开拖拉机，做个农民。”"
+      },
+      {
+       "en": "Jones, a member of the Blackfeet Nation from Midland, Texas, saw either oil fields or cornfields in his future. But he always knew he had the chops to tell a good story.",
+       "zh": "琼斯，来自德克萨斯州米德兰的布莱克菲特族成员，看到了自己未来可能是油田或玉米田。但他一直知道自己有讲好故事的本事。"
+      },
+      {
+       "en": "\"I was always spilling Kool-Aid on the couch and telling my mom a story that my little brother did it,\" he says. \"It was all self-preservation, of course, but to tell you the truth, I was reading novels since third or fourth grade and I would get to the end of those novels and I would think, 'I can do that, I can end a story like that.'\"",
+       "zh": "“我总是把Kool-Aid弄洒在沙发上，然后跟我妈妈编一个故事说是我弟弟干的，”他说。“当然，这完全是自我保护，但说实话，我从三四年级起就开始读小说，我读到小说的结尾时，会想，‘我也能做到，我也能像这样结束一个故事。’”"
+      },
+      {
+       "en": "All month, Weekend Edition has been exploring why people are drawn to scary stories, how horror has become big business, and now Jones, a professor of English at the University of Colorado Boulder, shares with us how to create a good spine-tingler.",
+       "zh": "整个这个月，《周末版》一直在探讨人们为什么会被恐怖故事吸引，恐怖题材是如何成为大生意的，现在科罗拉多大学博尔德分校的英语教授琼斯与我们分享了如何创作一个令人毛骨悚然的好故事。"
+      },
+      {
+       "en": "\"I think craft can get you through 95% of a novel,\" Jones says. \"The craft is mechanics. It's the little techniques you use to achieve this or that, and situate the story and the reader. That's all crafting technique.\"",
+       "zh": "琼斯说：“我认为技巧可以帮助你完成小说的95%。技巧就是机械性操作。它是你用来实现这个或那个目标、安排故事和读者的位置的小技巧。这就是所有的创作技巧。”"
+      },
+      {
+       "en": "Jones says the actual art of writing a good story doesn't really come into focus until you get to the wrap-up.",
+       "zh": "琼斯说，真正写好一个故事的艺术实际上要到结尾部分才会真正显现出来。"
+      },
+      {
+       "en": "\"I always think of it like the story is running along the top of a flat mesa, and it's nighttime and 95% of it is even-footing. But then at the very end, you jump off into the night, into the darkness, and you trust that there's going to be another toe hold out there,\" he says.",
+       "zh": "“我总是把它想象成故事在一个平坦的高原顶上运行，而且是夜晚，95%的路面都很平稳。但在最后，你会跳入夜色，进入黑暗，并且相信那里会有另一个立足点，”他说。"
+      },
+      {
+       "en": "Experts studying fear have theorized that one of the major reasons people are flocking to horror experiences lately — whether theme parks, novels or movies — is that the world feels so uncertain. Jones agrees and says \"whether that ending is up or down, that ending is what we're here for.\"",
+       "zh": "研究恐惧的专家理论认为，近来人们纷纷涌向恐怖体验——无论是主题公园、小说还是电影——的一个主要原因是世界感觉如此不确定。琼斯同意这一点，并表示“无论结局是高还是低，那个结局正是我们来到这里的目的。”"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "oil",
+       "pos": "n.",
+       "zh": "石油",
+       "ex": "Jones, a member of the Blackfeet Nation from Midland, Texas, saw either oil fields or cornfields in his future.",
+       "forms": []
+      },
+      {
+       "w": "future",
+       "pos": "n.",
+       "zh": "未来",
+       "ex": "Jones, a member of the Blackfeet Nation from Midland, Texas, saw either oil fields or cornfields in his future.",
+       "forms": []
+      },
+      {
+       "w": "university",
+       "pos": "n.",
+       "zh": "大学",
+       "ex": "\"It was all self-preservation, of course, but to tell you the truth, I was reading novels since third or fourth grade and I would get to the end of those novels and I would think, 'I can do that, I can end a story like that.'\" All month, Weekend Edition has been exploring why people are drawn to scary stories, how horror has become big business, and now Jones, a professor of English at the University of Colorado Boulder, shares with us how to create a good spine-tingler.",
+       "forms": []
+      },
+      {
+       "w": "study",
+       "pos": "n.",
+       "zh": "研究；学习",
+       "ex": "Experts studying fear have theorized that one of the major reasons people are flocking to horror experiences lately — whether theme parks, novels or movies — is that the world feels so uncertain.",
+       "forms": [
+        "studying"
+       ]
+      },
+      {
+       "w": "reason",
+       "pos": "n.",
+       "zh": "原因；理由",
+       "ex": "Experts studying fear have theorized that one of the major reasons people are flocking to horror experiences lately — whether theme parks, novels or movies — is that the world feels so uncertain.",
+       "forms": [
+        "reasons"
+       ]
+      },
+      {
+       "w": "park",
+       "pos": "n.",
+       "zh": "公园；园区",
+       "ex": "Experts studying fear have theorized that one of the major reasons people are flocking to horror experiences lately — whether theme parks, novels or movies — is that the world feels so uncertain.",
+       "forms": [
+        "parks"
+       ]
+      }
+     ],
+     "homeWords": [
+      "oil",
+      "future",
+      "university",
+      "study",
+      "reason"
+     ],
+     "keyVocab": [
+      "oil",
+      "future",
+      "university",
+      "study",
+      "reason",
+      "park"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-10-25",
    "articles": [
