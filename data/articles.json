@@ -1,6 +1,748 @@
 {
- "updated": "2026-10-26T05:09:46.101600+00:00",
+ "updated": "2026-10-27T05:20:29.071467+00:00",
  "days": [
+  {
+   "date": "2026-10-27",
+   "articles": [
+    {
+     "id": "2026-10-27-world",
+     "section": "World",
+     "sectionZh": "国际",
+     "title": "A quick guide to Israel's high-stakes elections",
+     "dek": "TEL AVIV, Israel — Israel is holding pivotal elections on Tuesday in what many Israelis call the most consequential vote in their country's history after the last few years of war.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/10/27/g-s1-149944/israel-election-guide",
+     "byline": "Itay Stern",
+     "dateLabel": "2026-10-27",
+     "words": 303,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "TEL AVIV, Israel — Israel is holding pivotal elections on Tuesday in what many Israelis call the most consequential vote in their country's history after the last few years of war.",
+       "zh": "以色列特拉维夫——以色列将在周二举行关键选举，许多以色列人称这是该国历史上最重要的投票，此前几年经历了战争。"
+      },
+      {
+       "en": "Polls show Prime Minister Benjamin Netanyahu trailing in the race behind his main challenger, former military chief Gadi Eisenkot. But it may take weeks or months before it's clear who will be designated the winner.",
+       "zh": "民意调查显示，总理本杰明·内塔尼亚胡在竞选中落后于他的主要竞争对手、前军方首长加迪·埃泽科特。但可能需要数周或数月时间才能明确谁将被指定为胜利者。"
+      },
+      {
+       "en": "That's because voters will not directly choose between Netanyahu and Eisenkot. Instead, they will vote for one of a dozen main parties running for office in the 120-seat parliament, known as the Knesset.",
+       "zh": "那是因为选民不会直接在内塔尼亚胡和艾森科特之间做出选择。相反，他们会投票给参加120个议席议会（称为克内塞特）选举的十几个主要政党之一。"
+      },
+      {
+       "en": "The real contest will begin after election day, when party leaders try to assemble a governing coalition of at least 61 lawmakers.",
+       "zh": "真正的较量将在选举日之后开始，那时各党派领导人将尝试组建至少有61名议员的执政联盟。"
+      },
+      {
+       "en": "Here is a guide to the leading candidates, the issues shaping the vote and what could happen next.",
+       "zh": "这里是关于主要候选人、影响投票的议题以及接下来可能发生的情况的指南。"
+      },
+      {
+       "en": "Benjamin Netanyahu, Israel's longest-serving prime minister, is seeking another term in office.",
+       "zh": "以色列历任最久的总理本杰明·内塔尼亚胡正在寻求连任。"
+      },
+      {
+       "en": "Netanyahu has led the most right-wing government in Israel's history. His coalition has included Itamar Ben-Gvir and Bezalel Smotrich, leaders of far-right, religious nationalist parties that are also running in this election, as well as two ultra-Orthodox Jewish parties.",
+       "zh": "内塔尼亚胡领导了以色列历史上最右翼的政府。他的联盟包括伊塔马尔·本-格维尔和贝扎列尔·斯莫特里奇，这两位极右翼宗教民族主义党派的领导人也在参加此次选举，以及两个极端正统犹太党派。"
+      },
+      {
+       "en": "Netanyahu has led Israel through more than three years of war and regional conflict, from the Hamas-led attacks on Oct. 7, 2023, and the war in Gaza to fighting involving Lebanon, Iran, Syria and Yemen. He is campaigning on Israel's military achievements and his close relationship with President Trump, who recently endorsed him. Netanyahu has also made confronting Iran, and ultimately seeking the fall of its regime, a central part of his campaign.",
+       "zh": "内塔尼亚胡领导以色列度过了三年多的战争和地区冲突，从2023年10月7日哈马斯发动的袭击和加沙战争，到涉及黎巴嫩、伊朗、叙利亚和也门的战斗。他的竞选以色列的军事成就以及他与特朗普总统的密切关系为基础，特朗普最近还对他表示支持。内塔尼亚胡还将对抗伊朗、最终寻求其政权倒台作为竞选的核心部分。"
+      },
+      {
+       "en": "His principal challenger is Gadi Eisenkot, a former chief of staff of the Israeli military who is running for prime minister for the first time as the leader of a new center-right party called Yashar, Hebrew for \"Straight\" or \"Upright.\"",
+       "zh": "他的主要挑战者是加迪·艾森科特，以色列军方前参谋长，他首次以新成立的中右翼政党“雅沙尔”（希伯来语意为“正直”或“直立”）的领导人身份竞选总理。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "pivotal",
+       "pos": "adj.",
+       "zh": "关键的；枢纽性的",
+       "ex": "TEL AVIV, Israel — Israel is holding pivotal elections on Tuesday in what many Israelis call the most consequential vote in their country's history after the last few years of war.",
+       "forms": []
+      },
+      {
+       "w": "election",
+       "pos": "n.",
+       "zh": "选举",
+       "ex": "TEL AVIV, Israel — Israel is holding pivotal elections on Tuesday in what many Israelis call the most consequential vote in their country's history after the last few years of war.",
+       "forms": [
+        "elections"
+       ]
+      },
+      {
+       "w": "vote",
+       "pos": "n.",
+       "zh": "投票；表决",
+       "ex": "TEL AVIV, Israel — Israel is holding pivotal elections on Tuesday in what many Israelis call the most consequential vote in their country's history after the last few years of war.",
+       "forms": []
+      },
+      {
+       "w": "history",
+       "pos": "n.",
+       "zh": "历史",
+       "ex": "TEL AVIV, Israel — Israel is holding pivotal elections on Tuesday in what many Israelis call the most consequential vote in their country's history after the last few years of war.",
+       "forms": []
+      },
+      {
+       "w": "poll",
+       "pos": "n.",
+       "zh": "民意调查",
+       "ex": "Polls show Prime Minister Benjamin Netanyahu trailing in the race behind his main challenger, former military chief Gadi Eisenkot.",
+       "forms": [
+        "polls"
+       ]
+      },
+      {
+       "w": "minister",
+       "pos": "n.",
+       "zh": "部长；大臣",
+       "ex": "Polls show Prime Minister Benjamin Netanyahu trailing in the race behind his main challenger, former military chief Gadi Eisenkot.",
+       "forms": []
+      },
+      {
+       "w": "military",
+       "pos": "n.",
+       "zh": "军队；军方",
+       "ex": "Polls show Prime Minister Benjamin Netanyahu trailing in the race behind his main challenger, former military chief Gadi Eisenkot.",
+       "forms": []
+      },
+      {
+       "w": "party",
+       "pos": "n.",
+       "zh": "政党；一方",
+       "ex": "Instead, they will vote for one of a dozen main parties running for office in the 120-seat parliament, known as the Knesset.",
+       "forms": [
+        "parties"
+       ]
+      },
+      {
+       "w": "parliament",
+       "pos": "n.",
+       "zh": "议会",
+       "ex": "Instead, they will vote for one of a dozen main parties running for office in the 120-seat parliament, known as the Knesset.",
+       "forms": []
+      },
+      {
+       "w": "leader",
+       "pos": "n.",
+       "zh": "领导人",
+       "ex": "The real contest will begin after election day, when party leaders try to assemble a governing coalition of at least 61 lawmakers.",
+       "forms": [
+        "leaders"
+       ]
+      },
+      {
+       "w": "coalition",
+       "pos": "n.",
+       "zh": "联合政府；联盟",
+       "ex": "The real contest will begin after election day, when party leaders try to assemble a governing coalition of at least 61 lawmakers.",
+       "forms": []
+      },
+      {
+       "w": "candidate",
+       "pos": "n.",
+       "zh": "候选人",
+       "ex": "Here is a guide to the leading candidates, the issues shaping the vote and what could happen next.",
+       "forms": [
+        "candidates"
+       ]
+      }
+     ],
+     "homeWords": [
+      "pivotal",
+      "election",
+      "vote",
+      "history",
+      "poll"
+     ],
+     "keyVocab": [
+      "pivotal",
+      "election",
+      "vote",
+      "history",
+      "poll",
+      "minister",
+      "military",
+      "party"
+     ]
+    },
+    {
+     "id": "2026-10-27-business",
+     "section": "Business",
+     "sectionZh": "商业 · 财经",
+     "title": "AI giant Anthropic files for an IPO that could break records",
+     "dek": "The artificial intelligence startup Anthropic, maker of the hugely popular Claude AI models, has taken a major step toward holding an initial public offering that analysts expect to be one of the…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records",
+     "byline": "John Ruwitch",
+     "dateLabel": "2026-10-27",
+     "words": 355,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "The artificial intelligence startup Anthropic, maker of the hugely popular Claude AI models, has taken a major step toward holding an initial public offering that analysts expect to be one of the biggest ever.",
+       "zh": "人工智能初创公司Anthropic，Claude AI模型的制造商，本已迈出了走向首次公开募股的重要一步，分析师预计这将成为有史以来最大的一次公开募股之一。"
+      },
+      {
+       "en": "Anthropic filed final paperwork with regulators on Monday for an IPO under the ticker symbol ANT that reports have said could value the company at between $1.5 trillion and $2 trillion.",
+       "zh": "Anthropic周一向监管机构提交了首次公开募股（IPO）的最终文件，股票代码为ANT，据报道，这次IPO可能使公司的估值在1.5万亿到2万亿美元之间。"
+      },
+      {
+       "en": "That would put it in league with Elon Musk's rocketry and AI company SpaceX, which was valued at around $1.8 trillion when it listed in June. Anthropic's listing prospectus did not say how many shares the company will offer or at what price range.",
+       "zh": "这将使其与埃隆·马斯克的火箭和人工智能公司SpaceX齐名，SpaceX在6月上市时的估值约为1.8万亿美元。Anthropic的上市招股说明书没有说明公司将提供多少股份或价格区间。"
+      },
+      {
+       "en": "The filing of a public version of a registration statement called a Form S-1 with the Securities and Exchange Commission is a major milestone in Anthropic's meteoric rise. It was launched just five years ago by a breakaway group of OpenAI researchers, led by Dario Amodei, who were concerned that that company, run by Sam Altman, was not on a path to develop AI safely.",
+       "zh": "向证券交易委员会提交一份名为S-1表格的注册声明的公开版本，是Anthropic快速崛起的一个重要里程碑。该公司仅在五年前由一群脱离OpenAI的研究人员创立，领导者是Dario Amodei，他们担心由Sam Altman管理的公司并未走在安全开发人工智能的道路上。"
+      },
+      {
+       "en": "Anthropic has since become a juggernaut, and OpenAI's biggest competitor, with some of the most widely used AI models on the market. But the company has faced controversy, including a conflict with the Pentagon over how its models can be used and questions about Amodei's dire warnings on AI risks.",
+       "zh": "自那以后，Anthropic 已经成为一个巨头，也是 OpenAI 最大的竞争对手，拥有一些市场上最广泛使用的 AI 模型。但该公司也面临争议，包括与五角大楼就其模型的使用方式发生冲突，以及关于 Amodei 对 AI 风险的严重警告提出的问题。"
+      },
+      {
+       "en": "Still, the prospectus highlighted Anthropic's bullishness about the technology. \"We believe this abundance of AI will rapidly transform every sector of the global economy in ways greater than the impact of industrialization, electricity, semiconductors, and the internet,\" it said.",
+       "zh": "尽管如此，招股说明书仍强调了Anthropic对该技术的乐观态度。招股说明书中写道：“我们相信，这种人工智能的丰富性将迅速以比工业化、电力、半导体和互联网更大的方式改变全球经济的各个领域。”"
+      },
+      {
+       "en": "In its prospectus, Anthropic highlighted breakneck growth — in revenue, income and losses. The company said its revenue in the first half of the year rose 1,300% at $16.3 billion, while its adjusted operating income — a measure of potential profitability — hit $1.6 billion during the period, vs. a loss of $1.8 billion the year before.",
+       "zh": "在其招股说明书中，Anthropic 强调了其收入、收益和亏损的极速增长。公司表示，今年上半年其收入增长了 1300%，达到 163 亿美元，而其调整后的营业收入——一种潜在盈利能力的衡量标准——在此期间达到了 16 亿美元，而去年同期则为 18 亿美元的亏损。"
+      },
+      {
+       "en": "Anthropic has yet to turn an annual profit, and said it booked a loss of nearly $81 billion in the January to June period, up from $13 billion during the same six months last year.",
+       "zh": "Anthropic 目前尚未实现年度盈利，并表示在一月至六月期间录得近 810 亿美元的亏损，相较于去年同期的 130 亿美元有所上升。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "artificial",
+       "pos": "adj.",
+       "zh": "人工的；人造的",
+       "ex": "The artificial intelligence startup Anthropic, maker of the hugely popular Claude AI models, has taken a major step toward holding an initial public offering that analysts expect to be one of the biggest ever.",
+       "forms": []
+      },
+      {
+       "w": "intelligence",
+       "pos": "n.",
+       "zh": "情报；智能",
+       "ex": "The artificial intelligence startup Anthropic, maker of the hugely popular Claude AI models, has taken a major step toward holding an initial public offering that analysts expect to be one of the biggest ever.",
+       "forms": []
+      },
+      {
+       "w": "startup",
+       "pos": "n.",
+       "zh": "初创公司",
+       "ex": "The artificial intelligence startup Anthropic, maker of the hugely popular Claude AI models, has taken a major step toward holding an initial public offering that analysts expect to be one of the biggest ever.",
+       "forms": []
+      },
+      {
+       "w": "public",
+       "pos": "adj.",
+       "zh": "公共的；公众的",
+       "ex": "The artificial intelligence startup Anthropic, maker of the hugely popular Claude AI models, has taken a major step toward holding an initial public offering that analysts expect to be one of the biggest ever.",
+       "forms": []
+      },
+      {
+       "w": "expect",
+       "pos": "v.",
+       "zh": "预期；期待",
+       "ex": "The artificial intelligence startup Anthropic, maker of the hugely popular Claude AI models, has taken a major step toward holding an initial public offering that analysts expect to be one of the biggest ever.",
+       "forms": []
+      },
+      {
+       "w": "regulator",
+       "pos": "n.",
+       "zh": "监管机构",
+       "ex": "Anthropic filed final paperwork with regulators on Monday for an IPO under the ticker symbol ANT that reports have said could value the company at between $1.5 trillion and $2 trillion.",
+       "forms": [
+        "regulators"
+       ]
+      },
+      {
+       "w": "report",
+       "pos": "n.",
+       "zh": "报告；报道",
+       "ex": "Anthropic filed final paperwork with regulators on Monday for an IPO under the ticker symbol ANT that reports have said could value the company at between $1.5 trillion and $2 trillion.",
+       "forms": [
+        "reports"
+       ]
+      },
+      {
+       "w": "price",
+       "pos": "n.",
+       "zh": "价格",
+       "ex": "Anthropic's listing prospectus did not say how many shares the company will offer or at what price range.",
+       "forms": []
+      },
+      {
+       "w": "statement",
+       "pos": "n.",
+       "zh": "声明；陈述",
+       "ex": "The filing of a public version of a registration statement called a Form S-1 with the Securities and Exchange Commission is a major milestone in Anthropic's meteoric rise.",
+       "forms": []
+      },
+      {
+       "w": "rise",
+       "pos": "n.",
+       "zh": "上升；上涨",
+       "ex": "The filing of a public version of a registration statement called a Form S-1 with the Securities and Exchange Commission is a major milestone in Anthropic's meteoric rise.",
+       "forms": []
+      },
+      {
+       "w": "researcher",
+       "pos": "n.",
+       "zh": "研究人员",
+       "ex": "It was launched just five years ago by a breakaway group of OpenAI researchers, led by Dario Amodei, who were concerned that that company, run by Sam Altman, was not on a path to develop AI safely.",
+       "forms": [
+        "researchers"
+       ]
+      },
+      {
+       "w": "market",
+       "pos": "n.",
+       "zh": "市场",
+       "ex": "Anthropic has since become a juggernaut, and OpenAI's biggest competitor, with some of the most widely used AI models on the market.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "artificial",
+      "intelligence",
+      "startup",
+      "public",
+      "expect"
+     ],
+     "keyVocab": [
+      "artificial",
+      "intelligence",
+      "startup",
+      "public",
+      "expect",
+      "regulator",
+      "report",
+      "price"
+     ]
+    },
+    {
+     "id": "2026-10-27-technology",
+     "section": "Technology",
+     "sectionZh": "科技",
+     "title": "Fired OpenAI researchers say independent safety audits aren't going well",
+     "dek": "In their first interview since being fired, OpenAI safety researchers Mikita Balesni and Tomek Korbak say they were terminated for prioritizing safety over the short-term interests of the company.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/10/23/nx-s1-6012235/fired-openai-researchers-say-independent-safety-audits-arent-going-well",
+     "byline": "Kevin Roose",
+     "dateLabel": "2026-10-27",
+     "words": 373,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "In their first interview since being fired, OpenAI safety researchers Mikita Balesni and Tomek Korbak say they were terminated for prioritizing safety over the short-term interests of the company.",
+       "zh": "在被解雇后的第一次采访中，OpenAI 的安全研究员米基塔·巴莱斯尼和托梅克·科尔巴克表示，他们是因为将安全置于公司短期利益之上而被解雇的。"
+      },
+      {
+       "en": "We're going to hear now from two former safety researchers at OpenAI. They were let go earlier this month because OpenAI says an internal investigation found they mishandled sensitive information.",
+       "zh": "现在我们将听取两位前 OpenAI 安全研究人员的意见。由于 OpenAI 表示内部调查发现他们处理敏感信息不当，他们本月早些时候被解雇。"
+      },
+      {
+       "en": "But the researchers say they were following standard practices in communicating with outside groups, including an independent nonprofit organization called METR that audits the work of AI companies. That group was investigating what went wrong this summer when autonomous OpenAI agents went rogue and launched a coordinated cyberattack against another AI platform, Hugging Face.",
+       "zh": "但研究人员表示，他们在与外部机构沟通时遵循了标准做法，包括一个名为 METR 的独立非营利组织，该组织审计 AI 公司的工作。该组织正在调查今年夏天自动化 OpenAI 代理失控并对另一个 AI 平台 Hugging Face 发动协调网络攻击时出错的原因。"
+      },
+      {
+       "en": "Now the researchers, Mikita Balesni and Tomek Korbak, have spoken to tech journalists Kevin Roose and Casey Newton. They are the hosts of Machine Gods, a new podcast from NPR. Let's listen to a little bit of their conversation.",
+       "zh": "现在，研究人员Mikita Balesni和Tomek Korbak已经与科技记者Kevin Roose和Casey Newton进行了交谈。他们是NPR新播客《Machine Gods》的主持人。让我们听一听他们的一小段对话。"
+      },
+      {
+       "en": "CASEY NEWTON: So let's talk about one of the key events that it seems like, you know, may have led to you guys being fired, which is this Hugging Face incident. I'd love to hear a little bit about what it was like to be working at OpenAI when that happened. Do you remember where you were when you learned what was going on, and what was the reaction?",
+       "zh": "CASEY NEWTON：那么让我们来谈谈其中一个关键事件，这个事件似乎可能导致你们被解雇，那就是 Hugging Face 事件。我很想了解一下那个时候在 OpenAI 工作是什么感觉。你还记得你当时在哪里得知发生了什么吗？大家的反应是怎样的？"
+      },
+      {
+       "en": "TOMEK KORBAK: Yeah, it was a very intense time. I remember telling Mikita that everything that I was preparing for earlier in my career was finally real. Everything before was a drill. And now that thing is actually happening, and it actually matters a lot.",
+       "zh": "托梅克·科尔巴克：是的，那是一段非常紧张的时期。我记得我告诉米基塔，我早期职业生涯中所准备的一切终于成真了。以前的一切都是演习。而现在这件事真的发生了，而且真的非常重要。"
+      },
+      {
+       "en": "ROOSE: Right. And around that time, OpenAI decides to invite in these researchers from METR and Redwood Research to study this event. How were you both working with these outside researchers who were invited in to do this investigation?",
+       "zh": "ROOSE：没错。就在那个时候，OpenAI 决定邀请 METR 和 Redwood Research 的这些研究人员来研究这次事件。你们俩是如何与这些被邀请来进行调查的外部研究人员合作的？"
+      },
+      {
+       "en": "KORBAK: So initially METR was supposed to be on premises just for two days. And then when they started looking at the data, our understanding of the scale of incident was still evolving, so we've actually been learning that there is actually more, so we invited them for a second visit. When they realized that there is actually even more, and we invited them for a third visit.",
+       "zh": "KORBAK：所以最初METR本来只打算在现场待两天。然后，当他们开始查看数据时，我们对事件规模的理解仍在不断发展，所以我们实际上了解到情况比想象的更多，因此我们邀请他们进行了第二次访问。当他们意识到情况实际上更严重时，我们又邀请他们进行了第三次访问。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "interview",
+       "pos": "n.",
+       "zh": "采访；面试",
+       "ex": "In their first interview since being fired, OpenAI safety researchers Mikita Balesni and Tomek Korbak say they were terminated for prioritizing safety over the short-term interests of the company.",
+       "forms": []
+      },
+      {
+       "w": "researcher",
+       "pos": "n.",
+       "zh": "研究人员",
+       "ex": "In their first interview since being fired, OpenAI safety researchers Mikita Balesni and Tomek Korbak say they were terminated for prioritizing safety over the short-term interests of the company.",
+       "forms": [
+        "researchers"
+       ]
+      },
+      {
+       "w": "investigation",
+       "pos": "n.",
+       "zh": "调查",
+       "ex": "They were let go earlier this month because OpenAI says an internal investigation found they mishandled sensitive information.",
+       "forms": []
+      },
+      {
+       "w": "platform",
+       "pos": "n.",
+       "zh": "平台",
+       "ex": "That group was investigating what went wrong this summer when autonomous OpenAI agents went rogue and launched a coordinated cyberattack against another AI platform, Hugging Face.",
+       "forms": []
+      },
+      {
+       "w": "journalist",
+       "pos": "n.",
+       "zh": "记者；新闻工作者",
+       "ex": "Now the researchers, Mikita Balesni and Tomek Korbak, have spoken to tech journalists Kevin Roose and Casey Newton.",
+       "forms": [
+        "journalists"
+       ]
+      },
+      {
+       "w": "career",
+       "pos": "n.",
+       "zh": "职业；生涯",
+       "ex": "I remember telling Mikita that everything that I was preparing for earlier in my career was finally real.",
+       "forms": []
+      },
+      {
+       "w": "research",
+       "pos": "n.",
+       "zh": "研究",
+       "ex": "And around that time, OpenAI decides to invite in these researchers from METR and Redwood Research to study this event.",
+       "forms": []
+      },
+      {
+       "w": "study",
+       "pos": "n.",
+       "zh": "研究；学习",
+       "ex": "And around that time, OpenAI decides to invite in these researchers from METR and Redwood Research to study this event.",
+       "forms": []
+      },
+      {
+       "w": "data",
+       "pos": "n.",
+       "zh": "数据",
+       "ex": "And then when they started looking at the data, our understanding of the scale of incident was still evolving, so we've actually been learning that there is actually more, so we invited them for a second visit.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "interview",
+      "researcher",
+      "investigation",
+      "platform",
+      "journalist"
+     ],
+     "keyVocab": [
+      "interview",
+      "researcher",
+      "investigation",
+      "platform",
+      "journalist",
+      "career",
+      "research",
+      "study"
+     ]
+    },
+    {
+     "id": "2026-10-27-science",
+     "section": "Science",
+     "sectionZh": "科学",
+     "title": "A Kelvin wave raised sea levels on the West Coast. More are coming",
+     "dek": "One of the first major signs of this year's \"Super El Niño\" has reached the U.S. It's called a Kelvin wave – a deep ocean wave that's currently raising sea levels along the West Coast.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/10/19/nx-s1-6001744/el-nino-kelvin-wave-west-coast",
+     "byline": "Ava Berger",
+     "dateLabel": "2026-10-27",
+     "words": 248,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "One of the first major signs of this year's \"Super El Niño\" has reached the U.S. It's called a Kelvin wave – a deep ocean wave that's currently raising sea levels along the West Coast.",
+       "zh": "今年“超级厄尔尼诺”的第一个主要迹象已经到达美国。这被称为开尔文波——一种深海波，目前正在抬高西海岸的海平面。"
+      },
+      {
+       "en": "Scientists have long known about Kelvin waves, but this year, the phenomena grabbed the public's attention with video explanations receiving thousands of views across TikTok and X.",
+       "zh": "科学家们早就知道开尔文波，但今年，这一现象通过视频讲解吸引了公众的注意，在抖音和X上获得了数千次观看。"
+      },
+      {
+       "en": "\"It does surprise me – I mean, here it's been around all this time,\" says Mark Cane, who created one of the first models to forecast and predict El Niño. \"I'm sure Lord Kelvin is happy in his grave.\"",
+       "zh": "“这确实让我感到惊讶——我是说，这里一直存在了这么久，”曾创建最早的厄尔尼诺预测模型之一的马克·凯恩说。“我敢肯定开尔文勋爵在坟墓里也会感到高兴。”"
+      },
+      {
+       "en": "(Lord Kelvin, the British physicist who also developed the Kelvin temperature scale, first described the wave back in the late 1800s.)",
+       "zh": "(英国物理学家开尔文勋爵，同时也是开尔文温度计量表的发明者，最早在19世纪末描述了这种波动。)"
+      },
+      {
+       "en": "Kelvin waves can develop along the equator during El Niño years, when a vast region of water in the Pacific Ocean becomes much warmer than usual.",
+       "zh": "在厄尔尼诺年份，当太平洋的一个广阔水域比平常温暖得多时，开尔文波可以沿赤道发展。"
+      },
+      {
+       "en": "Some of this warm water, in the form of a Kelvin wave that stretches thousands of miles, moves slowly east beneath the ocean's surface until it reaches South America. Then it splits, traveling north along the West Coast and as far south as Chile.",
+       "zh": "其中一些暖水以跨越数千英里的开尔文波形式，缓慢地沿着海洋表面下向东移动，直到到达南美洲。然后它分开，一部分沿西海岸向北移动，另一部分向南移动，直至智利。"
+      },
+      {
+       "en": "\"It's like an enormous bathtub sloshing around,\" Cane says, professor emeritus of earth and climate sciences at Columbia University. \"But the slosh is very peculiar, because it only goes west to east along the equator in a Kelvin wave.\"",
+       "zh": "“这就像一个巨大的浴缸在晃动，”哥伦比亚大学地球与气候科学名誉教授凯恩说。“但这种晃动非常特殊，因为它只沿赤道从西向东移动，是一种开尔文波。”"
+      },
+      {
+       "en": "These are not the massive, highly visible waves that crash into shorelines during major storms and hurricanes.",
+       "zh": "这些并不是在重大风暴和飓风期间冲击海岸线的巨大、非常明显的浪潮。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "level",
+       "pos": "n.",
+       "zh": "水平；层级",
+       "ex": "It's called a Kelvin wave – a deep ocean wave that's currently raising sea levels along the West Coast.",
+       "forms": [
+        "levels"
+       ]
+      },
+      {
+       "w": "scientist",
+       "pos": "n.",
+       "zh": "科学家",
+       "ex": "Scientists have long known about Kelvin waves, but this year, the phenomena grabbed the public's attention with video explanations receiving thousands of views across TikTok and X.",
+       "forms": [
+        "scientists"
+       ]
+      },
+      {
+       "w": "forecast",
+       "pos": "n.",
+       "zh": "预测；预报",
+       "ex": "\"It does surprise me – I mean, here it's been around all this time,\" says Mark Cane, who created one of the first models to forecast and predict El Niño.",
+       "forms": []
+      },
+      {
+       "w": "predict",
+       "pos": "v.",
+       "zh": "预测",
+       "ex": "\"It does surprise me – I mean, here it's been around all this time,\" says Mark Cane, who created one of the first models to forecast and predict El Niño.",
+       "forms": []
+      },
+      {
+       "w": "describe",
+       "pos": "v.",
+       "zh": "描述",
+       "ex": "\"I'm sure Lord Kelvin is happy in his grave.\" (Lord Kelvin, the British physicist who also developed the Kelvin temperature scale, first described the wave back in the late 1800s.) Kelvin waves can develop along the equator during El Niño years, when a vast region of water in the Pacific Ocean becomes much warmer than usual.",
+       "forms": [
+        "described"
+       ]
+      },
+      {
+       "w": "vast",
+       "pos": "adj.",
+       "zh": "巨大的；广阔的",
+       "ex": "\"I'm sure Lord Kelvin is happy in his grave.\" (Lord Kelvin, the British physicist who also developed the Kelvin temperature scale, first described the wave back in the late 1800s.) Kelvin waves can develop along the equator during El Niño years, when a vast region of water in the Pacific Ocean becomes much warmer than usual.",
+       "forms": []
+      },
+      {
+       "w": "region",
+       "pos": "n.",
+       "zh": "地区；区域",
+       "ex": "\"I'm sure Lord Kelvin is happy in his grave.\" (Lord Kelvin, the British physicist who also developed the Kelvin temperature scale, first described the wave back in the late 1800s.) Kelvin waves can develop along the equator during El Niño years, when a vast region of water in the Pacific Ocean becomes much warmer than usual.",
+       "forms": []
+      },
+      {
+       "w": "water",
+       "pos": "n.",
+       "zh": "水",
+       "ex": "\"I'm sure Lord Kelvin is happy in his grave.\" (Lord Kelvin, the British physicist who also developed the Kelvin temperature scale, first described the wave back in the late 1800s.) Kelvin waves can develop along the equator during El Niño years, when a vast region of water in the Pacific Ocean becomes much warmer than usual.",
+       "forms": []
+      },
+      {
+       "w": "enormous",
+       "pos": "adj.",
+       "zh": "巨大的；庞大的",
+       "ex": "\"It's like an enormous bathtub sloshing around,\" Cane says, professor emeritus of earth and climate sciences at Columbia University.",
+       "forms": []
+      },
+      {
+       "w": "climate",
+       "pos": "n.",
+       "zh": "气候",
+       "ex": "\"It's like an enormous bathtub sloshing around,\" Cane says, professor emeritus of earth and climate sciences at Columbia University.",
+       "forms": []
+      },
+      {
+       "w": "university",
+       "pos": "n.",
+       "zh": "大学",
+       "ex": "\"It's like an enormous bathtub sloshing around,\" Cane says, professor emeritus of earth and climate sciences at Columbia University.",
+       "forms": []
+      },
+      {
+       "w": "crash",
+       "pos": "n.",
+       "zh": "崩盘；暴跌",
+       "ex": "\"But the slosh is very peculiar, because it only goes west to east along the equator in a Kelvin wave.\" These are not the massive, highly visible waves that crash into shorelines during major storms and hurricanes.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "level",
+      "scientist",
+      "forecast",
+      "predict",
+      "describe"
+     ],
+     "keyVocab": [
+      "level",
+      "scientist",
+      "forecast",
+      "predict",
+      "describe",
+      "vast",
+      "region",
+      "water"
+     ]
+    },
+    {
+     "id": "2026-10-27-culture",
+     "section": "Culture",
+     "sectionZh": "文化",
+     "title": "These 'Seven Stories About Tammy' add up to one brilliant piece of writing",
+     "dek": "I've been thinking a lot lately about the famous opening sequence of Up, the Pixar animated film. That movie begins with a wordless montage of a marriage, Carl and Ellie's marriage: its youthful…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/10/26/nx-s1-6017155/seven-stories-about-tammy-elizabeth-mccracken-review",
+     "byline": "Maureen Corrigan",
+     "dateLabel": "2026-10-27",
+     "words": 418,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "I've been thinking a lot lately about the famous opening sequence of Up, the Pixar animated film. That movie begins with a wordless montage of a marriage, Carl and Ellie's marriage: its youthful giddiness, the pain of infertility and the long goodbye of Ellie's death in old age.",
+       "zh": "最近我一直在思考皮克斯动画电影《飞屋环游记》中著名的开场序列。那部电影以一段无言的蒙太奇开始，讲述了卡尔和埃莉的婚姻：年轻时的喜悦、不孕的痛苦，以及埃莉老去去世时的长久告别。"
+      },
+      {
+       "en": "The montage takes less than four-and-a-half minutes and, yet, contains the emotional depths of a much longer film or novel about a marriage. Relying solely on words, Elizabeth McCracken's Seven Stories About Tammy does much the same for the family saga.",
+       "zh": "这个蒙太奇不到四分半钟，但却包含了关于婚姻的更长电影或小说所具有的情感深度。仅仅依靠文字，伊丽莎白·麦克雷肯的《七个关于泰米的故事》也为家族传奇做了同样的事情。"
+      },
+      {
+       "en": "As its title bluntly announces, Seven Stories About Tammy is composed of seven interrelated short stories about a family's encounters with their eldest son's girlfriend and eventual wife, an older woman named Tammy. McCracken's story sequence has appeared earlier in a literary magazine, as well as in the 2025 anthology of The Best American Short Stories. But, having it available in standalone book form is just the right vessel for this family montage. Not every piece of fiction, after all, fits into the prefab format of a novel or a single short story. The only downside is that this 70-page book is so tiny — the size of a pamphlet, really — that I misplaced it repeatedly around my house. Whenever I found it again, though, I felt like something rich and strange had been returned to me out of the jumble of the mundane.",
+       "zh": "正如其标题直言不讳地宣告的那样，《七个关于塔米的故事》由七个相互关联的短篇小说组成，讲述了一个家庭与长子女友、最终成为他妻子的年长女子塔米的遭遇。麦克拉肯的故事系列此前已在文学杂志上发表，并收录在2025年的《美国最佳短篇小说选集中》。不过，将其作为单行本出版，是呈现这个家庭群像的最佳形式。毕竟，并非每一篇小说都适合套用小说或单篇短篇小说的现成格式。唯一的缺点是，这本70页的小书实在太小——实际上只有小册子的大小——以至于我在家里经常把它放错地方。但每次再次找到它时，我都感觉像一些丰富而奇异的东西从日常的杂乱中归还给了我。"
+      },
+      {
+       "en": "We first meet Tammy when the Harkin family does: in the mid-1970s when eldest son, Morris, who's been living in Florida, brings her home to Boston for dinner. Here's our omniscient narrator describing that first encounter:",
+       "zh": "我们第一次见到塔米，是和哈金家族一起：在1970年代中期，当长子莫里斯——一直住在佛罗里达——带她回波士顿吃晚饭时。以下是我们无所不知的叙述者对那次初次相遇的描述："
+      },
+      {
+       "en": "They had never met anyone from Florida, only people who ended up there, as if by gravity. Tammy was tall and angular, stood with her hands in her own back pockets — blue jeans, ironed. Morris’s jeans were ironed now, too. By her? Or had she put Morris to work at the ironing board? She seemed like that sort of woman, efficient and ruthless, with beautiful manners.",
+       "zh": "他们从未遇到过佛罗里达的人，只遇到那些最后落到那里的人的，好像被引力吸引一样。塔米高挑且骨感，双手插在自己后面的口袋里——蓝色牛仔裤，熨得平整。莫里斯的牛仔裤现在也熨平了。是她弄的吗？还是她让莫里斯去熨裤子了？她看起来就是那种女人，高效而无情，举止优雅。"
+      },
+      {
+       "en": "On that evening, the family \"parlor game\" of \"how old is she?\" will begin, because, we're flatly told: \"Morris was twenty-seven. She wasn't.\"",
+       "zh": "在那个晚上，家里的“客厅游戏”——“她几岁了？”——将会开始，因为我们被明确告知：“莫里斯二十七岁。她不是。”"
+      },
+      {
+       "en": "In the third story, set about 15 years later, insecure middle child, Victoria, visits Tammy and Morris, now married, at their high-rise apartment in Philadelphia. Victoria, who's struggled with see-sawing weight all her young life, is served a shallow bowl of soup. Here's some dinner table dialogue:",
+       "zh": "在第三个故事中，时间大约设定在15年后，不自信的中间孩子维多利亚拜访了塔米和莫里斯，他们现在已经结婚，住在费城的高层公寓里。维多利亚一生中一直为体重的上下波动而烦恼，她被端来一个浅浅的汤碗。以下是餐桌上的一些对话："
+      },
+      {
+       "en": "“Oh, no thank you!” [Victoria] said. “I’m saving room for dinner.”",
+       "zh": "“哦，不，谢谢！”[维多利亚]说。“我得留肚子吃晚饭。”"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "film",
+       "pos": "n.",
+       "zh": "电影；影片",
+       "ex": "I've been thinking a lot lately about the famous opening sequence of Up, the Pixar animated film.",
+       "forms": []
+      },
+      {
+       "w": "family",
+       "pos": "n.",
+       "zh": "家庭",
+       "ex": "Relying solely on words, Elizabeth McCracken's Seven Stories About Tammy does much the same for the family saga.",
+       "forms": []
+      },
+      {
+       "w": "announce",
+       "pos": "v.",
+       "zh": "宣布；公布",
+       "ex": "As its title bluntly announces, Seven Stories About Tammy is composed of seven interrelated short stories about a family's encounters with their eldest son's girlfriend and eventual wife, an older woman named Tammy.",
+       "forms": [
+        "announces"
+       ]
+      },
+      {
+       "w": "fiction",
+       "pos": "n.",
+       "zh": "小说；虚构",
+       "ex": "Not every piece of fiction, after all, fits into the prefab format of a novel or a single short story.",
+       "forms": []
+      },
+      {
+       "w": "describe",
+       "pos": "v.",
+       "zh": "描述",
+       "ex": "Here's our omniscient narrator describing that first encounter: They had never met anyone from Florida, only people who ended up there, as if by gravity.",
+       "forms": [
+        "describing"
+       ]
+      },
+      {
+       "w": "child",
+       "pos": "n.",
+       "zh": "儿童；孩子",
+       "ex": "She wasn't.\" In the third story, set about 15 years later, insecure middle child, Victoria, visits Tammy and Morris, now married, at their high-rise apartment in Philadelphia.",
+       "forms": []
+      },
+      {
+       "w": "young",
+       "pos": "adj.",
+       "zh": "年轻的",
+       "ex": "Victoria, who's struggled with see-sawing weight all her young life, is served a shallow bowl of soup.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "film",
+      "family",
+      "announce",
+      "fiction",
+      "describe"
+     ],
+     "keyVocab": [
+      "film",
+      "family",
+      "announce",
+      "fiction",
+      "describe",
+      "child",
+      "young"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-10-26",
    "articles": [
