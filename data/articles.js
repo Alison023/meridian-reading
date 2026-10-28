@@ -1,6 +1,756 @@
 window.__MERIDIAN_DATA__ = {
- "updated": "2026-10-27T05:20:29.071467+00:00",
+ "updated": "2026-10-28T06:03:35.150100+00:00",
  "days": [
+  {
+   "date": "2026-10-28",
+   "articles": [
+    {
+     "id": "2026-10-28-world",
+     "section": "World",
+     "sectionZh": "国际",
+     "title": "U.S. to issue visas to Flávio Bolsonaro as his whereabouts remain unclear",
+     "dek": "RIO DE JANEIRO, Brazil — The United States says it will issue visas to Flávio Bolsonaro and his family, amid multiple reports that the defeated Brazilian presidential candidate has left the…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/10/27/nx-s1-6019678/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear",
+     "byline": "Carrie Kahn",
+     "dateLabel": "2026-10-28",
+     "words": 314,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "RIO DE JANEIRO, Brazil — The United States says it will issue visas to Flávio Bolsonaro and his family, amid multiple reports that the defeated Brazilian presidential candidate has left the country following Sunday's election. His whereabouts have not been independently confirmed.",
+       "zh": "巴西里约热内卢--美国表示将向弗拉维奥·博尔索纳罗（ Flávio Bolsonaro ）及其家人发放签证，多起报道称，这位被击败的巴西总统候选人在周日大选后离开了该国。他的下落尚未得到独立证实。"
+      },
+      {
+       "en": "Bolsonaro, a conservative politician and ally of President Donald Trump, lost Sunday's presidential election to incumbent Luiz Inácio Lula da Silva by more than four million votes, just three weeks after winning the first round. While Bolsonaro's Liberal Party has since recognized Lula's victory, Bolsonaro has refused to concede defeat.",
+       "zh": "保守派政治家、唐纳德·特朗普(Donald Trump)总统的盟友博尔索纳罗(Bolsonaro)在周日的总统选举中输给了现任总统路易斯·伊纳西奥·卢拉·达席尔瓦(Luiz Inácio Lula da Silva) ，在赢得第一轮投票仅三周后虽然博尔索纳罗的自由党此后承认了卢拉的胜利，但博尔索纳罗拒绝承认失败。"
+      },
+      {
+       "en": "On Tuesday a senior U.S. administration official said that the State Department would issue visas to Bolsonaro and his family, allowing them to enter the country.",
+       "zh": "周二，美国政府一名高级官员表示，国务院将向博尔索纳罗及其家人发放签证，允许他们入境。"
+      },
+      {
+       "en": "The visa announcement comes as Bolsonaro faces multiple investigations in Brazil, including allegations of money laundering and tax evasion, which he denies. On Monday Brazil's Supreme Court ordered him to surrender his passports within 24 hours and barred him from leaving the country.",
+       "zh": "签证公告发布之际， Bolsonaro在巴西面临多项调查，包括洗钱和逃税指控，他对此予以否认。周一，巴西最高法院命令他在24小时内交出护照，并禁止他离开该国。"
+      },
+      {
+       "en": "The order followed comments by Bolsonaro's brother Eduardo, who lives in self-imposed exile in Florida, suggesting Flávio should leave Brazil if he lost the election.",
+       "zh": "该命令是在博尔索纳罗的兄弟爱德华多发表评论之后发布的，他住在佛罗里达州的自我流放中，他建议弗拉维奥如果他输掉选举，应该离开巴西。"
+      },
+      {
+       "en": "In a video released that day, Bolsonaro said federal police officers had stopped him outside the home of his father, former president Jair Bolsonaro, and ordered him to surrender his passports. The former far-right leader is under house arrest after being sentenced to 27 years in prison for plotting a coup following his own defeat by Lula in the 2022 presidential election.",
+       "zh": "在当天发布的一段视频中，博尔索纳罗说，联邦警察在他父亲、前总统贾尔·博尔索纳罗（ Jair Bolsonaro ）的家外拦住了他，并命令他交出护照。这位前极右翼领导人因在2022年总统大选中被卢拉击败后策划政变而被判处27年监禁后被软禁。"
+      },
+      {
+       "en": "\"I never thought about leaving the country,\" Flávio Bolsonaro said in the video. \"I will hand over my passports and defend myself against this aberration.\" He described the order as an attempt to intimidate him.",
+       "zh": "“我从未想过要离开这个国家，”弗拉维奥·博尔索纳罗在视频中说。“我将交出我的护照，保护自己免受这种失常的影响。“他将这一命令描述为企图恐吓他。"
+      },
+      {
+       "en": "On Tuesday, Brazilian media reported that Bolsonaro had left for the United States. His campaign manager, his lawyer and other political allies had earlier said they did not know his whereabouts.",
+       "zh": "周二，巴西媒体报道称，博尔索纳罗已前往美国。他的竞选经理、律师和其他政治盟友早些时候曾表示，他们不知道他的下落。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "issue",
+       "pos": "n.",
+       "zh": "议题；问题",
+       "ex": "RIO DE JANEIRO, Brazil — The United States says it will issue visas to Flávio Bolsonaro and his family, amid multiple reports that the defeated Brazilian presidential candidate has left the country following Sunday's election.",
+       "forms": []
+      },
+      {
+       "w": "family",
+       "pos": "n.",
+       "zh": "家庭",
+       "ex": "RIO DE JANEIRO, Brazil — The United States says it will issue visas to Flávio Bolsonaro and his family, amid multiple reports that the defeated Brazilian presidential candidate has left the country following Sunday's election.",
+       "forms": []
+      },
+      {
+       "w": "report",
+       "pos": "n.",
+       "zh": "报告；报道",
+       "ex": "RIO DE JANEIRO, Brazil — The United States says it will issue visas to Flávio Bolsonaro and his family, amid multiple reports that the defeated Brazilian presidential candidate has left the country following Sunday's election.",
+       "forms": [
+        "reported",
+        "reports"
+       ]
+      },
+      {
+       "w": "candidate",
+       "pos": "n.",
+       "zh": "候选人",
+       "ex": "RIO DE JANEIRO, Brazil — The United States says it will issue visas to Flávio Bolsonaro and his family, amid multiple reports that the defeated Brazilian presidential candidate has left the country following Sunday's election.",
+       "forms": []
+      },
+      {
+       "w": "election",
+       "pos": "n.",
+       "zh": "选举",
+       "ex": "RIO DE JANEIRO, Brazil — The United States says it will issue visas to Flávio Bolsonaro and his family, amid multiple reports that the defeated Brazilian presidential candidate has left the country following Sunday's election.",
+       "forms": []
+      },
+      {
+       "w": "confirm",
+       "pos": "v.",
+       "zh": "证实；确认",
+       "ex": "His whereabouts have not been independently confirmed.",
+       "forms": [
+        "confirmed"
+       ]
+      },
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "Bolsonaro, a conservative politician and ally of President Donald Trump, lost Sunday's presidential election to incumbent Luiz Inácio Lula da Silva by more than four million votes, just three weeks after winning the first round.",
+       "forms": []
+      },
+      {
+       "w": "incumbent",
+       "pos": "n.",
+       "zh": "现任者；在职者",
+       "ex": "Bolsonaro, a conservative politician and ally of President Donald Trump, lost Sunday's presidential election to incumbent Luiz Inácio Lula da Silva by more than four million votes, just three weeks after winning the first round.",
+       "forms": []
+      },
+      {
+       "w": "million",
+       "pos": "n.",
+       "zh": "百万",
+       "ex": "Bolsonaro, a conservative politician and ally of President Donald Trump, lost Sunday's presidential election to incumbent Luiz Inácio Lula da Silva by more than four million votes, just three weeks after winning the first round.",
+       "forms": []
+      },
+      {
+       "w": "vote",
+       "pos": "n.",
+       "zh": "投票；表决",
+       "ex": "Bolsonaro, a conservative politician and ally of President Donald Trump, lost Sunday's presidential election to incumbent Luiz Inácio Lula da Silva by more than four million votes, just three weeks after winning the first round.",
+       "forms": [
+        "votes"
+       ]
+      },
+      {
+       "w": "party",
+       "pos": "n.",
+       "zh": "政党；一方",
+       "ex": "While Bolsonaro's Liberal Party has since recognized Lula's victory, Bolsonaro has refused to concede defeat.",
+       "forms": []
+      },
+      {
+       "w": "refuse",
+       "pos": "v.",
+       "zh": "拒绝",
+       "ex": "While Bolsonaro's Liberal Party has since recognized Lula's victory, Bolsonaro has refused to concede defeat.",
+       "forms": [
+        "refused"
+       ]
+      }
+     ],
+     "homeWords": [
+      "issue",
+      "family",
+      "report",
+      "candidate",
+      "election"
+     ],
+     "keyVocab": [
+      "issue",
+      "family",
+      "report",
+      "candidate",
+      "election",
+      "confirm",
+      "president",
+      "incumbent"
+     ]
+    },
+    {
+     "id": "2026-10-28-business",
+     "section": "Business",
+     "sectionZh": "商业 · 财经",
+     "title": "How Aldi is pushing down grocery prices",
+     "dek": "In the summer of 2020, I lived briefly in Ithaca, New York. It's the only time I've lived near Aldi, the grocery store known for low prices. I went twice, and I thought it was fine, but…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/sections/planet-money/2026/10/27/g-s1-149358/how-aldi-is-pushing-down-grocery-prices",
+     "byline": "Alex Mayyasi",
+     "dateLabel": "2026-10-28",
+     "words": 546,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "In the summer of 2020, I lived briefly in Ithaca, New York. It's the only time I've lived near Aldi, the grocery store known for low prices. I went twice, and I thought it was fine, but underwhelming. I appreciated the low prices, but it didn't have everything I needed. The store was small and a bit shabby.",
+       "zh": "2020年夏天，我短暂地住在纽约伊萨卡。这是我唯一一次住在以低价闻名的杂货店Aldi附近。我去过两次，我觉得没关系，但很平淡。我很欣赏低廉的价格，但它没有我所需要的一切。商店很小，有点破旧。"
+      },
+      {
+       "en": "I didn't know it yet, but those are the exact ingredients that have made Aldi the fastest-growing grocery chain in America. Per Bloomberg, Aldi plans to have more than 3,000 American locations by the end of 2028, which would be more than any other chain but Walmart. In 2024, Aldi generated some $29 billion in U.S. sales, which is more than Trader Joe's.",
+       "zh": "我还不知道，但这些正是使Aldi成为美国增长最快的杂货连锁店的原因。据彭博社报道， Aldi计划到2028年底在美国拥有3,000多家门店，这将超过沃尔玛以外的任何其他连锁店。2024年， Aldi在美国的销售额约为290 $ ，超过了Trader Joe's。"
+      },
+      {
+       "en": "Aldi is a German company known for having low, low prices, and it deserves that reputation. Food reporter Deena Shanker told me for my podcast Gastronomics that her experience comparison shopping over many months was that Aldi either matched Walmart on price or was a bit cheaper. Grocers like Wegmans and Kroger have announced defensive price reductions, and an analysis published in late 2023 of Lidl, another German grocer with a very similar model to Aldi's but fewer U.S. stores, found that grocery chains reduced their markups ~7 percent in areas where Lidl stores opened.",
+       "zh": "Aldi是一家以低价、低价而闻名的德国公司，它理应享有这样的声誉。美食记者Deena Shanker为我的播客Gastronomics告诉我，她几个月的购物体验比较表明， Aldi要么在价格上与沃尔玛相匹配，要么更便宜。像Wegmans和Kroger这样的杂货商已经宣布了防御性降价，另一家与Aldi的模式非常相似但美国商店较少的德国杂货商Lidl在2023年底发布的一项分析发现，在Lidl商店开业的地区，杂货连锁店的加价降低了约7%。"
+      },
+      {
+       "en": "All to say: Aldi is disrupting the grocery business and actually lowering prices even as the cost of food—at restaurants and other grocery stores—goes up and up.",
+       "zh": "总而言之： Aldi正在扰乱生鲜杂货业务，实际上正在降低价格，即使餐厅和其他生鲜杂货店的食品成本不断上涨。"
+      },
+      {
+       "en": "Maybe this sounds a bit humdrum. But I found it totally intriguing and perplexing, because…",
+       "zh": "也许这听起来有点单调乏味。但我发现它非常有趣和令人困惑，因为……"
+      },
+      {
+       "en": "- Walmart and Costco's business models depend on low prices, too, and they can offer low prices by having huge stores, giant warehouses, and incredible economies of scale that allow them to pay less for Oreo's, baby carrots, and Jif peanut butter than other grocers. So how the heck is Aldi matching or beating them on price?",
+       "zh": "-沃尔玛和Costco的商业模式也依赖于低价，他们可以通过拥有大型商店、巨型仓库和令人难以置信的规模经济来提供低价，这使他们能够比其他杂货店支付更少的奥利奥、小胡萝卜和Jif花生酱的费用。那么， Aldi在价格上是如何匹配或击败他们的呢？"
+      },
+      {
+       "en": "- When a company disrupts a longstanding industry, it's typically a startup enabled by new technology—like Netflix using online streaming to disrupt Blockbuster and video rental. But Aldi is not staffed by futuristic robots. Its stores just look like grocery stores, and Aldi was founded 80 years ago, in post-war Germany. So what's going on?",
+       "zh": "-当一家公司颠覆一个长期存在的行业时，它通常是由新技术支持的创业公司，例如Netflix使用在线流媒体来颠覆Blockbuster和视频租赁。但Aldi没有未来主义机器人。它的商店看起来就像杂货店， Aldi于80年前在战后德国成立。到底是怎么回事？"
+      },
+      {
+       "en": "- One of the proudest achievements of America's capitalistic market economy is providing its citizens an abundance of increasingly affordable food. Somewhat famously, Soviet leader Boris Yeltsin toured a grocery store in Houston during the Cold War and was amazed that the average American enjoyed more variety than top Soviet politicians. From 1960 to 2019, Americans spent less and less of their income on food each year, even as they enjoyed more frequent restaurant meals, more sushi, and far better beer. But since the pandemic, food has become less affordable. Can American markets no longer provide cheap groceries? Did something break?",
+       "zh": "-美国资本主义市场经济最自豪的成就之一是为其公民提供越来越实惠的食物。众所周知，苏联领导人鲍里斯·叶利钦（ Boris Yeltsin ）在冷战期间参观了休斯顿的一家杂货店，并惊讶地发现，普通美国人比苏联顶级政治家更喜欢多样化。从1960年到2019年，美国人每年花在食品上的收入越来越少，尽管他们在餐厅用餐更频繁，寿司更多，啤酒更好。但自疫情爆发以来，食物变得越来越便宜。美国市场能否不再提供廉价的生鲜杂货？有什么东西坏了吗？"
+      },
+      {
+       "en": "One necessary but not sufficient explanation for Aldi's low prices is that management is obsessed with efficiency and cutting unnecessary costs. There's no music in stores, because speakers (and licensing fees for muzak) cost money. The staff places products on shelves still in the cardboard boxes they were trucked in on, because artfully unpacking fruits, bread, and jerky sticks would mean higher labor costs. The shabbiness is intentional — it's the cost of cheaper groceries.",
+       "zh": "Aldi低价的一个必要但不充分的解释是，管理层痴迷于效率和削减不必要的成本。商店里没有音乐，因为扬声器（以及muzak的许可费）需要花钱。工作人员仍将产品放在货架上的纸箱中，因为巧妙地拆开水果、面包和肉干棒意味着更高的劳动力成本。破旧是故意的—这是更便宜的生鲜杂货的成本。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "price",
+       "pos": "n.",
+       "zh": "价格",
+       "ex": "It's the only time I've lived near Aldi, the grocery store known for low prices.",
+       "forms": [
+        "prices"
+       ]
+      },
+      {
+       "w": "billion",
+       "pos": "n.",
+       "zh": "十亿",
+       "ex": "In 2024, Aldi generated some $29 billion in U.S.",
+       "forms": []
+      },
+      {
+       "w": "food",
+       "pos": "n.",
+       "zh": "食物",
+       "ex": "Food reporter Deena Shanker told me for my podcast Gastronomics that her experience comparison shopping over many months was that Aldi either matched Walmart on price or was a bit cheaper.",
+       "forms": []
+      },
+      {
+       "w": "announce",
+       "pos": "v.",
+       "zh": "宣布；公布",
+       "ex": "Grocers like Wegmans and Kroger have announced defensive price reductions, and an analysis published in late 2023 of Lidl, another German grocer with a very similar model to Aldi's but fewer U.S.",
+       "forms": [
+        "announced"
+       ]
+      },
+      {
+       "w": "analysis",
+       "pos": "n.",
+       "zh": "分析",
+       "ex": "Grocers like Wegmans and Kroger have announced defensive price reductions, and an analysis published in late 2023 of Lidl, another German grocer with a very similar model to Aldi's but fewer U.S.",
+       "forms": []
+      },
+      {
+       "w": "percent",
+       "pos": "n.",
+       "zh": "百分比",
+       "ex": "stores, found that grocery chains reduced their markups ~7 percent in areas where Lidl stores opened.",
+       "forms": []
+      },
+      {
+       "w": "cost",
+       "pos": "n.",
+       "zh": "成本；代价",
+       "ex": "All to say: Aldi is disrupting the grocery business and actually lowering prices even as the cost of food—at restaurants and other grocery stores—goes up and up.",
+       "forms": [
+        "costs"
+       ]
+      },
+      {
+       "w": "economy",
+       "pos": "n.",
+       "zh": "经济",
+       "ex": "But I found it totally intriguing and perplexing, because… - Walmart and Costco's business models depend on low prices, too, and they can offer low prices by having huge stores, giant warehouses, and incredible economies of scale that allow them to pay less for Oreo's, baby carrots, and Jif peanut butter than other grocers.",
+       "forms": [
+        "economies"
+       ]
+      },
+      {
+       "w": "industry",
+       "pos": "n.",
+       "zh": "行业；工业",
+       "ex": "- When a company disrupts a longstanding industry, it's typically a startup enabled by new technology—like Netflix using online streaming to disrupt Blockbuster and video rental.",
+       "forms": []
+      },
+      {
+       "w": "startup",
+       "pos": "n.",
+       "zh": "初创公司",
+       "ex": "- When a company disrupts a longstanding industry, it's typically a startup enabled by new technology—like Netflix using online streaming to disrupt Blockbuster and video rental.",
+       "forms": []
+      },
+      {
+       "w": "technology",
+       "pos": "n.",
+       "zh": "技术；科技",
+       "ex": "- When a company disrupts a longstanding industry, it's typically a startup enabled by new technology—like Netflix using online streaming to disrupt Blockbuster and video rental.",
+       "forms": []
+      },
+      {
+       "w": "online",
+       "pos": "adj.",
+       "zh": "在线的",
+       "ex": "- When a company disrupts a longstanding industry, it's typically a startup enabled by new technology—like Netflix using online streaming to disrupt Blockbuster and video rental.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "price",
+      "billion",
+      "food",
+      "announce",
+      "analysis"
+     ],
+     "keyVocab": [
+      "price",
+      "billion",
+      "food",
+      "announce",
+      "analysis",
+      "percent",
+      "cost",
+      "economy"
+     ]
+    },
+    {
+     "id": "2026-10-28-technology",
+     "section": "Technology",
+     "sectionZh": "科技",
+     "title": "Polymarket has investigated 'dozens' of election-related cases",
+     "dek": "Polymarket has investigated \"dozens\" of bets on its prediction markets related to the midterm election, according to the company's head of global intelligence and investigations, Shana Bautista.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/10/27/nx-s1-6012304/polymarket-election-betting-surveillance",
+     "byline": "Luke Garrett",
+     "dateLabel": "2026-10-28",
+     "words": 323,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "Polymarket has investigated \"dozens\" of bets on its prediction markets related to the midterm election, according to the company's head of global intelligence and investigations, Shana Bautista.",
+       "zh": "Polymarket的全球情报和调查主管Shana Bautista表示，该公司已经调查了与中期选举相关的“数十个”预测市场押注。"
+      },
+      {
+       "en": "At least two of these Polymarket investigations have been referred to its regulator, the U.S. Commodity Futures Trading Commission, according to a person who is familiar with the probes, but not authorized to speak publicly about them.",
+       "zh": "据一位熟悉调查的人士称，这些Polymarket调查中至少有两项已提交给其监管机构美国商品期货交易委员会，但无权公开谈论这些调查。"
+      },
+      {
+       "en": "These investigations into election insider trading and manipulation come as prediction market Polymarket — and its chief competitor Kalshi — have exploded in popularity over the past year. But the fast-growing industry also faces significant legal challenges from states and political pushback from lawmakers who argue betting on the outcome of elections poses serious risks to the democratic process.",
+       "zh": "这些对选举内幕交易和操纵的调查是在预测市场Polymarket及其主要竞争对手Kalshi在过去一年中爆发的情况下进行的。但快速增长的行业也面临着来自各州的重大法律挑战，以及来自立法者的政治阻力，他们认为押注选举结果对民主进程构成严重风险。"
+      },
+      {
+       "en": "In April, Kalshi banned and fined a handful of political candidates from betting on themselves. A month later, NPR reported that campaign staffers had made \"thousands\" using insider polling information to bet on their own candidates on platforms like Polymarket and PredictIt.",
+       "zh": "今年4月， Kalshi禁止并罚款了一些政治候选人对自己下注。一个月后， NPR报道称，竞选工作人员利用内幕民意调查信息在Polymarket和PredictIt等平台上对自己的候选人下注。"
+      },
+      {
+       "en": "Polymarket's Bautista — a former FBI official and cryptocurrency analyst — told NPR her team of 16 and a new election surveillance system are actively policing election bets ahead of the Nov. 3 midterms.",
+       "zh": "Polymarket的包蒂斯塔（ Bautista ）是前联邦调查局官员和加密货币分析师，她告诉NPR ，她的16人团队和一个新的选举监控系统正在积极监督11月3日中期选举之前的选举投注。"
+      },
+      {
+       "en": "\"If you have information that you have a duty to protect, don't trade on it,\" Bautista said. \"It's explicitly against our terms of use on both platforms, but also is against the law. If you decide that you are smarter and can do it, we will find you.\"",
+       "zh": "包蒂斯塔说： “如果你有责任保护的信息，不要利用这些信息进行交易。” “这明显违反了我们在这两个平台上的使用条款，但也违反了法律。如果你认为自己更聪明，可以做到，我们会找到你。”"
+      },
+      {
+       "en": "Bautista joined Polymarket in June. She oversees information gathered from both the U.S.-regulated version of Polymarket, which requires users to provide their real identities, and its bigger brother, Polymarket International, which is essentially unregulated and where trading can be done anonymously and with cryptocurrency. Despite this, Bautista said crypto trades are rarely completely anonymous.",
+       "zh": "Bautista于6月加入Polymarket。她负责监督从美国监管版本的Polymarket （要求用户提供真实身份）和其较大的兄弟Polymarket International （基本上不受监管，可以匿名使用加密货币进行交易）收集的信息。尽管如此， Bautista表示，加密货币交易很少是完全匿名的。"
+      },
+      {
+       "en": "\"There's never been a case that we work where we haven't been able to identify, potentially, who these people are,\" Bautista said.",
+       "zh": "Bautista说： “从来没有一个案例是我们无法确定这些人是谁。”"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "market",
+       "pos": "n.",
+       "zh": "市场",
+       "ex": "Polymarket has investigated \"dozens\" of bets on its prediction markets related to the midterm election, according to the company's head of global intelligence and investigations, Shana Bautista.",
+       "forms": [
+        "markets"
+       ]
+      },
+      {
+       "w": "election",
+       "pos": "n.",
+       "zh": "选举",
+       "ex": "Polymarket has investigated \"dozens\" of bets on its prediction markets related to the midterm election, according to the company's head of global intelligence and investigations, Shana Bautista.",
+       "forms": [
+        "elections"
+       ]
+      },
+      {
+       "w": "global",
+       "pos": "adj.",
+       "zh": "全球的",
+       "ex": "Polymarket has investigated \"dozens\" of bets on its prediction markets related to the midterm election, according to the company's head of global intelligence and investigations, Shana Bautista.",
+       "forms": []
+      },
+      {
+       "w": "intelligence",
+       "pos": "n.",
+       "zh": "情报；智能",
+       "ex": "Polymarket has investigated \"dozens\" of bets on its prediction markets related to the midterm election, according to the company's head of global intelligence and investigations, Shana Bautista.",
+       "forms": []
+      },
+      {
+       "w": "investigation",
+       "pos": "n.",
+       "zh": "调查",
+       "ex": "Polymarket has investigated \"dozens\" of bets on its prediction markets related to the midterm election, according to the company's head of global intelligence and investigations, Shana Bautista.",
+       "forms": [
+        "investigations"
+       ]
+      },
+      {
+       "w": "regulator",
+       "pos": "n.",
+       "zh": "监管机构",
+       "ex": "At least two of these Polymarket investigations have been referred to its regulator, the U.S.",
+       "forms": []
+      },
+      {
+       "w": "commodity",
+       "pos": "n.",
+       "zh": "商品；大宗商品",
+       "ex": "Commodity Futures Trading Commission, according to a person who is familiar with the probes, but not authorized to speak publicly about them.",
+       "forms": []
+      },
+      {
+       "w": "future",
+       "pos": "n.",
+       "zh": "未来",
+       "ex": "Commodity Futures Trading Commission, according to a person who is familiar with the probes, but not authorized to speak publicly about them.",
+       "forms": [
+        "futures"
+       ]
+      },
+      {
+       "w": "industry",
+       "pos": "n.",
+       "zh": "行业；工业",
+       "ex": "But the fast-growing industry also faces significant legal challenges from states and political pushback from lawmakers who argue betting on the outcome of elections poses serious risks to the democratic process.",
+       "forms": []
+      },
+      {
+       "w": "significant",
+       "pos": "adj.",
+       "zh": "显著的；重要的",
+       "ex": "But the fast-growing industry also faces significant legal challenges from states and political pushback from lawmakers who argue betting on the outcome of elections poses serious risks to the democratic process.",
+       "forms": []
+      },
+      {
+       "w": "challenge",
+       "pos": "n.",
+       "zh": "挑战",
+       "ex": "But the fast-growing industry also faces significant legal challenges from states and political pushback from lawmakers who argue betting on the outcome of elections poses serious risks to the democratic process.",
+       "forms": [
+        "challenges"
+       ]
+      },
+      {
+       "w": "argue",
+       "pos": "v.",
+       "zh": "主张；争论",
+       "ex": "But the fast-growing industry also faces significant legal challenges from states and political pushback from lawmakers who argue betting on the outcome of elections poses serious risks to the democratic process.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "market",
+      "election",
+      "global",
+      "intelligence",
+      "investigation"
+     ],
+     "keyVocab": [
+      "market",
+      "election",
+      "global",
+      "intelligence",
+      "investigation",
+      "regulator",
+      "commodity",
+      "future"
+     ]
+    },
+    {
+     "id": "2026-10-28-science",
+     "section": "Science",
+     "sectionZh": "科学",
+     "title": "When an invasive fish is also tasty, Maryland schoolkids can help 'eat the problem'",
+     "dek": "PRESTON, Md. — It's lunchtime at Preston Elementary School, on Maryland's Eastern Shore. Kids file in, get dollops of food on their segmented trays, and maybe grab a chocolate milk. But one option…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/10/26/nx-s1-5954211/invasive-blue-catfish-solution-schools-chesapeake-bay",
+     "byline": "Bill Chappell",
+     "dateLabel": "2026-10-28",
+     "words": 256,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "PRESTON, Md. — It's lunchtime at Preston Elementary School, on Maryland's Eastern Shore. Kids file in, get dollops of food on their segmented trays, and maybe grab a chocolate milk. But one option on today's menu is special, served alongside grapes and broccoli.",
+       "zh": "马里兰州普雷斯顿—现在是马里兰州东海岸普雷斯顿小学的午餐时间。孩子们挤进来，在他们的分段托盘上放一些食物，也许还会拿一杯巧克力牛奶。但今天菜单上的一种选择是特别的，与葡萄和西兰花一起供应。"
+      },
+      {
+       "en": "\"I got a catfish sandwich!\" announces Ben Rochon, a second-grader. Between mouthfuls, he tells me how it is: \"It's yummy.\"",
+       "zh": "二年级学生Ben Rochon说： “我有一个鲶鱼三明治！”在两口之间，他告诉我是怎么回事： “真好吃。”"
+      },
+      {
+       "en": "He's eating a catfish cake, also known by its nickname, the \"catty patty.\" Some kids like it with ketchup or mayo. Fifth-grader Teagan Donovan goes minimal.",
+       "zh": "他正在吃一个鲶鱼蛋糕，也被称为“鲶鱼馅饼”。“有些孩子喜欢吃番茄酱或蛋黄酱。五年级学生Teagan Donovan的成绩很低。"
+      },
+      {
+       "en": "\"I like it by itself with no toppings, because it's pretty good by itself,\" she says. In Teagan's case, \"by itself\" is literal: \"I ignore the bun.\"",
+       "zh": "“我喜欢它本身没有配料，因为它本身就很好，”她说。在Teagan的案例中， “本身”是字面上的： “我忽略了面包。”"
+      },
+      {
+       "en": "Not everyone's into the fish cake — after all, this sunny Friday is also pizza day at Preston, and cheese slices are tough competition. But more kids have been trying catfish when it's served a couple of times a month. That's good news to Beth Brewster, who oversees food services for Caroline County Public Schools.",
+       "zh": "不是每个人都喜欢吃鱼饼--毕竟，这个阳光明媚的星期五也是普雷斯顿的披萨日，奶酪片是激烈的竞争。但越来越多的孩子每月都会尝试几次鲶鱼。这对负责卡罗琳县公立学校餐饮服务的Beth Brewster来说是个好消息。"
+      },
+      {
+       "en": "\"It tastes great. It's great for you,\" she says of the fish cake.",
+       "zh": "“味道很棒，对你来说很棒，”她谈到鱼饼时说。"
+      },
+      {
+       "en": "It has another benefit: It's made with blue catfish. Since spreading to the Chesapeake Bay in recent decades, the fish has become an apex predator. It can grow to more than 100 pounds; its voracious appetite is fueling worries that it's eating too many native species.",
+       "zh": "它还有另一个好处：它是用蓝鲶鱼制成的。自从最近几十年蔓延到切萨皮克湾以来，这种鱼已经成为顶级捕食者。它可以长到100磅以上；它贪婪的食欲加剧了人们对它吃太多本土物种的担忧。"
+      },
+      {
+       "en": "\"It tastes so good because it eats everything we love — crabs and rockfish, and all kinds of things that we love to eat,\" Brewster says.",
+       "zh": "“它味道好极了，因为它吃我们爱吃的一切——螃蟹、石斑鱼，以及我们爱吃的各种东西，”布鲁斯特说。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "school",
+       "pos": "n.",
+       "zh": "学校",
+       "ex": "— It's lunchtime at Preston Elementary School, on Maryland's Eastern Shore.",
+       "forms": [
+        "schools"
+       ]
+      },
+      {
+       "w": "food",
+       "pos": "n.",
+       "zh": "食物",
+       "ex": "Kids file in, get dollops of food on their segmented trays, and maybe grab a chocolate milk.",
+       "forms": []
+      },
+      {
+       "w": "announce",
+       "pos": "v.",
+       "zh": "宣布；公布",
+       "ex": "\"I got a catfish sandwich!\" announces Ben Rochon, a second-grader.",
+       "forms": [
+        "announces"
+       ]
+      },
+      {
+       "w": "news",
+       "pos": "n.",
+       "zh": "新闻",
+       "ex": "That's good news to Beth Brewster, who oversees food services for Caroline County Public Schools.",
+       "forms": []
+      },
+      {
+       "w": "service",
+       "pos": "n.",
+       "zh": "服务",
+       "ex": "That's good news to Beth Brewster, who oversees food services for Caroline County Public Schools.",
+       "forms": [
+        "services"
+       ]
+      },
+      {
+       "w": "public",
+       "pos": "adj.",
+       "zh": "公共的；公众的",
+       "ex": "That's good news to Beth Brewster, who oversees food services for Caroline County Public Schools.",
+       "forms": []
+      },
+      {
+       "w": "species",
+       "pos": "n.",
+       "zh": "物种",
+       "ex": "It can grow to more than 100 pounds; its voracious appetite is fueling worries that it's eating too many native species.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "school",
+      "food",
+      "announce",
+      "news",
+      "service"
+     ],
+     "keyVocab": [
+      "school",
+      "food",
+      "announce",
+      "news",
+      "service",
+      "public",
+      "species"
+     ]
+    },
+    {
+     "id": "2026-10-28-culture",
+     "section": "Culture",
+     "sectionZh": "文化",
+     "title": "Romantasy fans turn out for 'Midnight Maas' release event",
+     "dek": "The latest book in Sarah J. Maas' A Court of Thorns and Roses (known as ACOTAR by its fans) series came out on Tues., October 27. The night before its release, thousands of fans flooded big box…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/10/27/nx-s1-6011109/acotar-a-court-of-splintered-harmony-sarah-j-maas",
+     "byline": "Dhanika Pineda",
+     "dateLabel": "2026-10-28",
+     "words": 391,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "The latest book in Sarah J. Maas' A Court of Thorns and Roses (known as ACOTAR by its fans) series came out on Tues., October 27. The night before its release, thousands of fans flooded big box and indie bookshops alike for midnight release parties across the country.",
+       "zh": "莎拉· J ·马斯（ Sarah J. Maas ）的《荆棘与玫瑰的宫廷》（ A Court of Thorns and Roses ，粉丝们称之为ACOTAR ）系列的最新， 10月27日。发行前一天晚上，成千上万的粉丝涌入大盒子和独立书店，参加全国各地的午夜发行派对。"
+      },
+      {
+       "en": "At Politics and Prose in Washington, D.C., dozens of fans perused the bookshelves in tight leather costumes, pointy faerie ears and sparkly tiaras, waiting to get their hands on A Court of Splintered Harmony.",
+       "zh": "在华盛顿特区的Politics and Prose ，数十名粉丝穿着紧身皮革服装、尖尖的仙女耳朵和闪闪发光的头饰仔细阅读书架，等待着获得A Court of Splintered Harmony。"
+      },
+      {
+       "en": "Dalia Luque is one of the eager readers who attended the event. A Monday night might not sound like the opportune time for a party running from 10 p.m. to midnight — after all, she could have preordered the book online — but Luque said she wanted to experience this moment with other fans.",
+       "zh": "Dalia Luque是参加此次活动的热心读者之一。对于从晚上10点到午夜的派对来说，周一晚上听起来可能不是合适的时间--毕竟，她本可以在网上预订这本书--但卢克说，她想和其他粉丝一起体验这一时刻。"
+      },
+      {
+       "en": "\"I just want to have fun with the community and get to share with my friends as we read along,\" Luque said.",
+       "zh": "卢克说：“我只是想和社区一起玩得开心，并且在我们一起阅读的过程中与朋友们分享。”"
+      },
+      {
+       "en": "Fans waiting to get their hands on the new book passed the time playing trivia, making friendship bracelets, getting their faces painted and enjoying champagne.",
+       "zh": "等待拿到新书的粉丝们通过玩问答游戏、制作友谊手链、化脸妆和享用香槟来打发时间。"
+      },
+      {
+       "en": "Luque found herself in the face paint line, where staffer Amber Lovold painted green shrubbery onto her face. The design is meant to represent the Summer Court, one of the seven territories that make up the ACOTAR world. Each Court is ruled by a High Lord and has a trademark color palette and vibe, allowing fans to self-select which Courts they'd be part of in a way that's similar to identifying with an astrological sign or a specific faction in Veronica Roth's Divergent series.",
+       "zh": "卢克发现自己排在面部彩绘队伍中，工作人员安伯·洛沃尔在她的脸上画上了绿色的灌木。这个设计意在代表夏之庭，这是构成《ACOTAR》世界的七个领域之一。每个庭院都有一位高等领主统治，并拥有独特的色彩搭配和氛围，让粉丝们可以像认同星座或维罗尼卡·罗斯《分歧者》系列中的特定派系一样，自行选择他们想要属于哪个庭院。"
+      },
+      {
+       "en": "Hot guys are a mainstay in ACOTAR, which is one of the most popular in the genre known as Romantasy, a mix of romance and fantasy. The series follows a lineup of attractive faeries and humans as they engage in battle, embark on quests and, of course, fall in love.",
+       "zh": "帅哥是《ACOTAR》中的常客，该系列是浪漫奇幻（Romantasy）类型中最受欢迎的作品之一，这种类型是浪漫与奇幻的混合。该系列讲述了一群迷人的精灵和人类在战斗、冒险任务中经历种种事情，并且当然还会坠入爱河。"
+      },
+      {
+       "en": "\"I've always enjoyed stepping into a new reality, or a different version of reality,\" Luque said. \"And so I think these books create a whole new world, and that's pretty exciting.\"",
+       "zh": "“我一直很喜欢踏入一个新的现实，或者现实的不同版本，”卢克说。“所以我认为这些书创造了一个全新的世界，这非常令人兴奋。”"
+      },
+      {
+       "en": "The ACOTAR saga has been on hiatus for almost five years. The first book in the series came out in 2015, and new installments from author Sarah J. Maas came out pretty regularly until she took a break from the series in 2021.",
+       "zh": "《ACOTAR》系列已经休刊将近五年。该系列的第一本书于2015年出版，作者莎拉·J·马斯的新作一直相对规律地发布，直到她在2021年从该系列中休息。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "court",
+       "pos": "n.",
+       "zh": "法院；法庭",
+       "ex": "Maas' A Court of Thorns and Roses (known as ACOTAR by its fans) series came out on Tues., October 27.",
+       "forms": [
+        "courts"
+       ]
+      },
+      {
+       "w": "flood",
+       "pos": "n.",
+       "zh": "洪水",
+       "ex": "The night before its release, thousands of fans flooded big box and indie bookshops alike for midnight release parties across the country.",
+       "forms": [
+        "flooded"
+       ]
+      },
+      {
+       "w": "party",
+       "pos": "n.",
+       "zh": "政党；一方",
+       "ex": "The night before its release, thousands of fans flooded big box and indie bookshops alike for midnight release parties across the country.",
+       "forms": [
+        "parties"
+       ]
+      },
+      {
+       "w": "online",
+       "pos": "adj.",
+       "zh": "在线的",
+       "ex": "to midnight — after all, she could have preordered the book online — but Luque said she wanted to experience this moment with other fans.",
+       "forms": []
+      },
+      {
+       "w": "community",
+       "pos": "n.",
+       "zh": "社区；群体",
+       "ex": "\"I just want to have fun with the community and get to share with my friends as we read along,\" Luque said.",
+       "forms": []
+      },
+      {
+       "w": "territory",
+       "pos": "n.",
+       "zh": "领土",
+       "ex": "The design is meant to represent the Summer Court, one of the seven territories that make up the ACOTAR world.",
+       "forms": [
+        "territories"
+       ]
+      },
+      {
+       "w": "genre",
+       "pos": "n.",
+       "zh": "类型；流派",
+       "ex": "Hot guys are a mainstay in ACOTAR, which is one of the most popular in the genre known as Romantasy, a mix of romance and fantasy.",
+       "forms": []
+      },
+      {
+       "w": "fall",
+       "pos": "n.",
+       "zh": "下降；下跌",
+       "ex": "The series follows a lineup of attractive faeries and humans as they engage in battle, embark on quests and, of course, fall in love.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "court",
+      "flood",
+      "party",
+      "online",
+      "community"
+     ],
+     "keyVocab": [
+      "court",
+      "flood",
+      "party",
+      "online",
+      "community",
+      "territory",
+      "genre",
+      "fall"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-10-27",
    "articles": [
