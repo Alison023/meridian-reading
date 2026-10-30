@@ -1,6 +1,734 @@
 window.__MERIDIAN_DATA__ = {
- "updated": "2026-10-29T06:06:24.760529+00:00",
+ "updated": "2026-10-30T06:07:59.239896+00:00",
  "days": [
+  {
+   "date": "2026-10-30",
+   "articles": [
+    {
+     "id": "2026-10-30-world",
+     "section": "World",
+     "sectionZh": "国际",
+     "title": "US and Japan agree to establish a Japanese facility for joint missile production",
+     "dek": "CEBU, Philippines — The United States and Japan have agreed to establish a Japanese facility for the joint production of advanced medium-range air-to-air missiles, the Japanese defense chief said.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
+     "byline": "The Associated Press",
+     "dateLabel": "2026-10-30",
+     "words": 349,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "CEBU, Philippines — The United States and Japan have agreed to establish a Japanese facility for the joint production of advanced medium-range air-to-air missiles, the Japanese defense chief said.",
+       "zh": "菲律宾宿务——日本防卫负责人表示，美国和日本已同意建立一个用于联合生产先进中程空对空导弹的日本设施。"
+      },
+      {
+       "en": "It is the latest move by the allies, which have repeatedly expressed alarm over China's growing assertiveness in Asia.",
+       "zh": "这是盟友的最新举动，他们已多次对中国在亚洲日益增长的自信表示担忧。"
+      },
+      {
+       "en": "Japanese Defense Minister Shinjiro Koizumi made the announcement in a news conference Wednesday night in the central Philippine province of Cebu, where he met U.S. Defense Secretary Pete Hegseth on the sidelines of an annual meeting of Southeast Asian defense chiefs and their major Asian and Western counterparts.",
+       "zh": "日本防卫大臣小泉进次郎在周三晚上于菲律宾中部宿务省举行的新闻发布会上宣布此消息，他在那里在东南亚防长及其主要亚洲和西方同行年度会议的间隙会见了美国国防部长皮特·赫格塞斯。"
+      },
+      {
+       "en": "Koizumi raised concern Thursday about China's increasing naval activity in southwestern Japan. He said that three Chinese destroyers and a coast guard ship together crossed the Osumi Strait south of the southern main island of Kyushu and headed east to the Pacific Ocean this week. It was the first such fleet configuration his ministry has spotted, he said.",
+       "zh": "小泉周四对中国在日本西南部日益增加的海军活动表示关注。他说，本周有三艘中国驱逐舰和一艘海警船一起穿过九州南部主岛以南的大隅海峡，向东驶向太平洋。他表示，这是他所在部门首次发现这样的舰队配置。"
+      },
+      {
+       "en": "Koizumi said he cited the incident as \"an example illustrating the challenging security environment in the region\" in his remark at a session Thursday. His ministry will keep watching the Chinese activity with high level of interest, he said. Japan has been accelerating military buildup in southwestern Japan to deter China.",
+       "zh": "小泉在周四的一个会议上表示，他引用这一事件是“作为说明该地区安全环境严峻的一个例子”。他表示，政府将以高度关注继续观察中国的活动。日本一直在加速加强西南日本的军事建设，以威慑中国。"
+      },
+      {
+       "en": "The annual meetings aim to avert a major regional conflict and strengthen defense cooperation. On the sidelines of the meetings, however, the U.S. and China and their allies have often traded criticisms.",
+       "zh": "年度会议旨在避免重大地区冲突并加强防务合作。然而，在会议期间，美国和中国及其盟友经常互相批评。"
+      },
+      {
+       "en": "The missiles that will be produced as part of a joint effort called \"Operation Supercharge\" are essential for the F-35 fighter jets, Koizumi said. The two sides agreed to build a final assembly and inspection plant for the Advanced Medium-Range Air-to-Air Missile, or AMRAAM, in Japan, he said. The U.S.-made F-35s are one of the world's most advanced aircraft and are also used by the Japanese military.",
+       "zh": "小泉表示，作为名为“超级充能行动”的联合努力一部分将生产的导弹对于F-35战斗机至关重要。他说，双方同意在日本建造一座先进中程空对空导弹（AMRAAM）的最终装配和检查工厂。美国制造的F-35是世界上最先进的飞机之一，也被日本军方使用。"
+      },
+      {
+       "en": "During his brief meeting with Hegseth in Cebu, Koizumi said he \"shared a sense of crisis … regarding the increasingly severe regional situation and we agreed to strengthen the deterrence and response capabilities of the Japan-U.S. alliance with greater speed and intensity than ever before.\"",
+       "zh": "在他与赫格塞斯在宿务的简短会面中，小泉表示，他“对日益严峻的地区局势有共同的危机感……我们同意比以往任何时候都更快、更强地加强日美联盟的威慑和应对能力。”"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "missile",
+       "pos": "n.",
+       "zh": "导弹",
+       "ex": "CEBU, Philippines — The United States and Japan have agreed to establish a Japanese facility for the joint production of advanced medium-range air-to-air missiles, the Japanese defense chief said.",
+       "forms": [
+        "missiles"
+       ]
+      },
+      {
+       "w": "minister",
+       "pos": "n.",
+       "zh": "部长；大臣",
+       "ex": "Japanese Defense Minister Shinjiro Koizumi made the announcement in a news conference Wednesday night in the central Philippine province of Cebu, where he met U.S.",
+       "forms": []
+      },
+      {
+       "w": "announcement",
+       "pos": "n.",
+       "zh": "公告；声明",
+       "ex": "Japanese Defense Minister Shinjiro Koizumi made the announcement in a news conference Wednesday night in the central Philippine province of Cebu, where he met U.S.",
+       "forms": []
+      },
+      {
+       "w": "news",
+       "pos": "n.",
+       "zh": "新闻",
+       "ex": "Japanese Defense Minister Shinjiro Koizumi made the announcement in a news conference Wednesday night in the central Philippine province of Cebu, where he met U.S.",
+       "forms": []
+      },
+      {
+       "w": "increase",
+       "pos": "v.",
+       "zh": "增加",
+       "ex": "Koizumi raised concern Thursday about China's increasing naval activity in southwestern Japan.",
+       "forms": [
+        "increasing"
+       ]
+      },
+      {
+       "w": "cite",
+       "pos": "v.",
+       "zh": "引用；援引",
+       "ex": "Koizumi said he cited the incident as \"an example illustrating the challenging security environment in the region\" in his remark at a session Thursday.",
+       "forms": [
+        "cited"
+       ]
+      },
+      {
+       "w": "challenge",
+       "pos": "n.",
+       "zh": "挑战",
+       "ex": "Koizumi said he cited the incident as \"an example illustrating the challenging security environment in the region\" in his remark at a session Thursday.",
+       "forms": [
+        "challenging"
+       ]
+      },
+      {
+       "w": "region",
+       "pos": "n.",
+       "zh": "地区；区域",
+       "ex": "Koizumi said he cited the incident as \"an example illustrating the challenging security environment in the region\" in his remark at a session Thursday.",
+       "forms": []
+      },
+      {
+       "w": "level",
+       "pos": "n.",
+       "zh": "水平；层级",
+       "ex": "His ministry will keep watching the Chinese activity with high level of interest, he said.",
+       "forms": []
+      },
+      {
+       "w": "accelerate",
+       "pos": "v.",
+       "zh": "加速",
+       "ex": "Japan has been accelerating military buildup in southwestern Japan to deter China.",
+       "forms": [
+        "accelerating"
+       ]
+      },
+      {
+       "w": "military",
+       "pos": "n.",
+       "zh": "军队；军方",
+       "ex": "Japan has been accelerating military buildup in southwestern Japan to deter China.",
+       "forms": []
+      },
+      {
+       "w": "conflict",
+       "pos": "n.",
+       "zh": "冲突",
+       "ex": "The annual meetings aim to avert a major regional conflict and strengthen defense cooperation.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "missile",
+      "minister",
+      "announcement",
+      "news",
+      "increase"
+     ],
+     "keyVocab": [
+      "missile",
+      "minister",
+      "announcement",
+      "news",
+      "increase",
+      "cite",
+      "challenge",
+      "region"
+     ]
+    },
+    {
+     "id": "2026-10-30-business",
+     "section": "Business",
+     "sectionZh": "商业 · 财经",
+     "title": "With days to go before the midterms, data shows the U.S. economy is doing well",
+     "dek": "The U.S. economy grew faster in the summer compared to the spring, driven by consumer spending as well as investments in AI.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/10/29/nx-s1-6021008/economy-gdp-inflation-midterms-voters-affordability",
+     "byline": "Stephan Bisaha",
+     "dateLabel": "2026-10-30",
+     "words": 252,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "The U.S. economy grew faster in the summer compared to the spring, driven by consumer spending as well as investments in AI.",
+       "zh": "美国经济在夏季的增长速度比春季更快，这得益于消费者支出以及对人工智能的投资。"
+      },
+      {
+       "en": "Gross domestic product, which broadly measures economic activity, grew at an annual rate of 3.4% July through September, according to a report from the Commerce Department released Thursday. The previous quarter GDP grew at a 2.2% annual pace.",
+       "zh": "根据商务部周四发布的一份报告，从七月到九月，广泛衡量经济活动的国内生产总值以3.4%的年增长率增长。上一季度国内生产总值的年增长速度为2.2%。"
+      },
+      {
+       "en": "A big driver for GDP growth in the third quarter was the strong investments from AI companies, which continue to build out data centers and spend big money in developing the technology.",
+       "zh": "第三季度 GDP 增长的一个重要驱动力是人工智能公司的强劲投资，这些公司继续建设数据中心，并在技术开发上投入大量资金。"
+      },
+      {
+       "en": "Meanwhile, consumer spending was another of the big drivers of GDP growth, led in part by higher-income Americans who are better able to withstand stubbornly high inflation.",
+       "zh": "与此同时，消费者支出是国内生产总值增长的另一个重要推动力，部分原因是高收入的美国人能够更好地应对持续高企的通货膨胀。"
+      },
+      {
+       "en": "The sturdy GDP data comes just days before the midterm elections, with many Americans saying they feel gloomy about the economy as inflation jacks up the costs of many day-to-day necessities, while the ongoing conflict with Iran drives up energy costs like gasoline.",
+       "zh": "坚挺的国内生产总值数据发布就在中期选举前几天，许多美国人表示他们对经济感到悲观，因为通货膨胀推高了许多日常必需品的成本，而与伊朗的持续冲突又推高了汽油等能源成本。"
+      },
+      {
+       "en": "Although consumer spending has been growing steadily, it has not spread out evenly across households, with lower-income Americans struggling more than high-earners. Wage growth has also fallen behind inflation, further squeezing many Americans.",
+       "zh": "尽管消费者支出一直在稳步增长，但它在各家庭之间的分布并不均匀，低收入美国人的困难比高收入者更多。工资增长也落后于通货膨胀，进一步压缩了许多美国人的生活空间。"
+      },
+      {
+       "en": "Siri Steven, a manager at a resale store in Decorah, Iowa, says she and her husband are putting off fixing up their more than 130-year-old house.",
+       "zh": "爱荷华州德科拉一家转售店的经理Siri Steven说，她和她的丈夫正在推迟修缮他们那座已有130多年历史的房子。"
+      },
+      {
+       "en": "\"We barely go out to eat now,\" Steven said. \"I really have to be mindful of our budget and make sure that we can pay all our bills and not overdraft.\"",
+       "zh": "“我们现在几乎不出去吃饭了，”史蒂文说。“我真的必须注意我们的预算，确保我们能支付所有账单，避免透支。”"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "economy",
+       "pos": "n.",
+       "zh": "经济",
+       "ex": "economy grew faster in the summer compared to the spring, driven by consumer spending as well as investments in AI.",
+       "forms": []
+      },
+      {
+       "w": "consumer",
+       "pos": "n.",
+       "zh": "消费者",
+       "ex": "economy grew faster in the summer compared to the spring, driven by consumer spending as well as investments in AI.",
+       "forms": []
+      },
+      {
+       "w": "investment",
+       "pos": "n.",
+       "zh": "投资",
+       "ex": "economy grew faster in the summer compared to the spring, driven by consumer spending as well as investments in AI.",
+       "forms": [
+        "investments"
+       ]
+      },
+      {
+       "w": "domestic",
+       "pos": "adj.",
+       "zh": "国内的；家庭的",
+       "ex": "Gross domestic product, which broadly measures economic activity, grew at an annual rate of 3.4% July through September, according to a report from the Commerce Department released Thursday.",
+       "forms": []
+      },
+      {
+       "w": "product",
+       "pos": "n.",
+       "zh": "产品",
+       "ex": "Gross domestic product, which broadly measures economic activity, grew at an annual rate of 3.4% July through September, according to a report from the Commerce Department released Thursday.",
+       "forms": []
+      },
+      {
+       "w": "economic",
+       "pos": "adj.",
+       "zh": "经济的",
+       "ex": "Gross domestic product, which broadly measures economic activity, grew at an annual rate of 3.4% July through September, according to a report from the Commerce Department released Thursday.",
+       "forms": []
+      },
+      {
+       "w": "rate",
+       "pos": "n.",
+       "zh": "比率；速度",
+       "ex": "Gross domestic product, which broadly measures economic activity, grew at an annual rate of 3.4% July through September, according to a report from the Commerce Department released Thursday.",
+       "forms": []
+      },
+      {
+       "w": "report",
+       "pos": "n.",
+       "zh": "报告；报道",
+       "ex": "Gross domestic product, which broadly measures economic activity, grew at an annual rate of 3.4% July through September, according to a report from the Commerce Department released Thursday.",
+       "forms": []
+      },
+      {
+       "w": "growth",
+       "pos": "n.",
+       "zh": "增长",
+       "ex": "A big driver for GDP growth in the third quarter was the strong investments from AI companies, which continue to build out data centers and spend big money in developing the technology.",
+       "forms": []
+      },
+      {
+       "w": "data",
+       "pos": "n.",
+       "zh": "数据",
+       "ex": "A big driver for GDP growth in the third quarter was the strong investments from AI companies, which continue to build out data centers and spend big money in developing the technology.",
+       "forms": []
+      },
+      {
+       "w": "technology",
+       "pos": "n.",
+       "zh": "技术；科技",
+       "ex": "A big driver for GDP growth in the third quarter was the strong investments from AI companies, which continue to build out data centers and spend big money in developing the technology.",
+       "forms": []
+      },
+      {
+       "w": "inflation",
+       "pos": "n.",
+       "zh": "通货膨胀",
+       "ex": "Meanwhile, consumer spending was another of the big drivers of GDP growth, led in part by higher-income Americans who are better able to withstand stubbornly high inflation.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "economy",
+      "consumer",
+      "investment",
+      "domestic",
+      "product"
+     ],
+     "keyVocab": [
+      "economy",
+      "consumer",
+      "investment",
+      "domestic",
+      "product",
+      "economic",
+      "rate",
+      "report"
+     ]
+    },
+    {
+     "id": "2026-10-30-technology",
+     "section": "Technology",
+     "sectionZh": "科技",
+     "title": "Who benefits when massive AI data centers come to town?",
+     "dek": "The battle over data centers is hitting the ballot box. Brookings scholar Darrell West talks about how the backlash against the AI boom, flock cameras and tech companies is crossing party lines.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/10/29/nx-s1-6022096/who-benefits-when-massive-ai-data-centers-come-to-town",
+     "byline": "Tonya Mosley",
+     "dateLabel": "2026-10-30",
+     "words": 435,
+     "readTime": 3,
+     "level": "B2",
+     "levelEn": "Upper-intermediate",
+     "paragraphs": [
+      {
+       "en": "The battle over data centers is hitting the ballot box. Brookings scholar Darrell West talks about how the backlash against the AI boom, flock cameras and tech companies is crossing party lines.",
+       "zh": "围绕数据中心的争斗正影响到投票箱。布鲁金斯学者达雷尔·韦斯特谈到，对人工智能热潮、聚众摄像头和科技公司的反弹正跨越党派界限。"
+      },
+      {
+       "en": "This is FRESH AIR. I'm Tonya Mosley. The AI boom has a problem. It has to be built somewhere, and to power it, tech companies are building massive data centers. They need land, enormous amounts of electricity, and in many cases, water. In exchange, they promise jobs and community investment. But people who live in these communities are demanding to know, what's this going to cost us? There's also another question, who gets to decide? In communities from Wisconsin to Louisiana, residents say local officials are negotiating data center deals without their input.",
+       "zh": "这里是《清新空气》。我是托尼娅·莫斯利。人工智能热潮存在一个问题。它必须在某个地方建造，而为了为其提供动力，科技公司正在建设庞大的数据中心。他们需要土地、大量的电力，并且在很多情况下，还需要水资源。作为交换，他们承诺提供就业机会和社区投资。但住在这些社区的人们要求知道，这将花费我们什么代价？还有另一个问题，谁有权决定？从威斯康星到路易斯安那的社区，居民们表示，当地官员在未经他们参与的情况下，正在协商数据中心的交易。"
+      },
+      {
+       "en": "This midterm election, voters in more than 40 cities and towns across eight states will decide ballot measures on data center bans, moratoriums and requirements that residents get a vote before one is built. And Democrats and Republicans are going after their opponents for what used to be a bragging right, the ability to bring billions of dollars in investment to town. My guest is Darrell West, a senior fellow at the Brookings Institution. He and his colleague, Nicol Turner Lee, write about the backlash against AI data centers and how these local fights are becoming part of something much bigger, a challenge to the enormous power of the tech industry and who gets to decide what our future looks like. And, Darrell West, welcome to FRESH AIR.",
+       "zh": "在这次中期选举中，来自八个州的40多个城市和城镇的选民将决定关于数据中心禁止、暂停建设以及居民在数据中心建成前必须投票表决的选票措施。民主党人和共和党人现在相互攻击对手，而批评的焦点曾经是他们的骄傲所在——能够为城镇带来数十亿美元的投资。我的嘉宾是布鲁金斯学会的高级研究员达雷尔·韦斯特。他和同事尼科尔·特纳·李撰文讨论了针对人工智能数据中心的反弹，以及这些地方斗争如何成为更大事物的一部分——对科技行业巨大力量的挑战，以及谁来决定我们的未来会是什么样子。达雷尔·韦斯特，欢迎来到《新鲜空气》节目。"
+      },
+      {
+       "en": "MOSLEY: Well, I actually want to start with a couple of political ads. And the first one is from Ohio, where Democrat Sherrod Brown is challenging Republican Senator Jon Husted. And Brown accuses Husted of aggressively courting data centers and backing corporate tax breaks while residents face rising electricity bills. Let's listen.",
+       "zh": "莫斯利：好吧，我实际上想从几条政治广告开始。第一条来自俄亥俄州，民主党人谢罗德·布朗正在挑战共和党参议员乔恩·赫斯特。布朗指责赫斯特积极争取数据中心，并支持企业减税，而居民则面临不断上涨的电费账单。让我们来听听。"
+      },
+      {
+       "en": "UNIDENTIFIED NARRATOR #1: He's been called the face of data centers in Ohio. Why? Because Jon Husted spent years aggressively recruiting data centers to the state, cutting sweetheart tax deals and fast-tracking approvals while ordinary residents watch their electricity bills explode.",
+       "zh": "未确认叙述者 #1：他被称为俄亥俄州数据中心的代言人。为什么？因为Jon Husted花了多年时间积极招揽数据中心落户该州，提供优惠税收协议并加快审批流程，而普通居民却眼睁睁看着自己的电费飙升。"
+      },
+      {
+       "en": "UNIDENTIFIED JOURNALIST: We're here with Ohio Senator Jon Husted. You have a lot of experience with something called data centers.",
+       "zh": "身份不明的记者：我们现在与俄亥俄州参议员乔恩·休斯特在一起。您在一种叫做数据中心的事物上有很多经验。"
+      },
+      {
+       "en": "UNIDENTIFIED NARRATOR #1: Jon Husted, who's he really working for?",
+       "zh": "未知叙述者 #1：乔恩·赫斯特德，他到底为谁工作？"
+      },
+      {
+       "en": "SHERROD BROWN: I'm Sherrod Brown and I approve this message.",
+       "zh": "谢罗德·布朗：我是谢罗德·布朗，我批准这则信息。"
+      },
+      {
+       "en": "MOSLEY: OK, now listen to this one. And it comes out of Wisconsin. Republican Tom Tiffany is running for governor against Democrat David Crowley. And Tiffany accuses Crowley of wanting to turn Wisconsin into a global data center hub at the expense of taxpayers and local communities. Let's listen.",
+       "zh": "MOSLEY：好，现在听这个。这来自威斯康星州。共和党人汤姆·蒂芬尼正在与民主党人大卫·克劳利竞选州长。蒂芬尼指责克劳利想把威斯康星州变成全球数据中心的枢纽，而代价是纳税人和当地社区。我们来听听。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "data",
+       "pos": "n.",
+       "zh": "数据",
+       "ex": "The battle over data centers is hitting the ballot box.",
+       "forms": []
+      },
+      {
+       "w": "ballot",
+       "pos": "n.",
+       "zh": "选票；投票",
+       "ex": "The battle over data centers is hitting the ballot box.",
+       "forms": []
+      },
+      {
+       "w": "boom",
+       "pos": "n.",
+       "zh": "繁荣；激增",
+       "ex": "Brookings scholar Darrell West talks about how the backlash against the AI boom, flock cameras and tech companies is crossing party lines.",
+       "forms": []
+      },
+      {
+       "w": "party",
+       "pos": "n.",
+       "zh": "政党；一方",
+       "ex": "Brookings scholar Darrell West talks about how the backlash against the AI boom, flock cameras and tech companies is crossing party lines.",
+       "forms": []
+      },
+      {
+       "w": "problem",
+       "pos": "n.",
+       "zh": "问题",
+       "ex": "The AI boom has a problem.",
+       "forms": []
+      },
+      {
+       "w": "power",
+       "pos": "n.",
+       "zh": "权力；电力",
+       "ex": "It has to be built somewhere, and to power it, tech companies are building massive data centers.",
+       "forms": []
+      },
+      {
+       "w": "land",
+       "pos": "n.",
+       "zh": "土地；陆地",
+       "ex": "They need land, enormous amounts of electricity, and in many cases, water.",
+       "forms": []
+      },
+      {
+       "w": "enormous",
+       "pos": "adj.",
+       "zh": "巨大的；庞大的",
+       "ex": "They need land, enormous amounts of electricity, and in many cases, water.",
+       "forms": []
+      },
+      {
+       "w": "electricity",
+       "pos": "n.",
+       "zh": "电力",
+       "ex": "They need land, enormous amounts of electricity, and in many cases, water.",
+       "forms": []
+      },
+      {
+       "w": "water",
+       "pos": "n.",
+       "zh": "水",
+       "ex": "They need land, enormous amounts of electricity, and in many cases, water.",
+       "forms": []
+      },
+      {
+       "w": "community",
+       "pos": "n.",
+       "zh": "社区；群体",
+       "ex": "In exchange, they promise jobs and community investment.",
+       "forms": [
+        "communities"
+       ]
+      },
+      {
+       "w": "investment",
+       "pos": "n.",
+       "zh": "投资",
+       "ex": "In exchange, they promise jobs and community investment.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "data",
+      "ballot",
+      "boom",
+      "party",
+      "problem"
+     ],
+     "keyVocab": [
+      "data",
+      "ballot",
+      "boom",
+      "party",
+      "problem",
+      "power",
+      "land",
+      "enormous"
+     ]
+    },
+    {
+     "id": "2026-10-30-science",
+     "section": "Science",
+     "sectionZh": "科学",
+     "title": "Even birds get jet lagged, study shows",
+     "dek": "New research shows that humans are not the only species to get jet lag: Some birds appear to experience it too.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/10/29/nx-s1-6019228/manx-shearwater-jet-lag-birds",
+     "byline": "Geoff Brumfiel",
+     "dateLabel": "2026-10-30",
+     "words": 267,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "New research shows that humans are not the only species to get jet lag: Some birds appear to experience it too.",
+       "zh": "新的研究表明，人类并不是唯一会经历时差反应的物种：一些鸟类似乎也会经历时差反应。"
+      },
+      {
+       "en": "A study published in the journal Science found that a type of seabird known as the Manx shearwater appears to become slightly disoriented during long flights across the Atlantic Ocean. That disorientation, the authors say, is due to the bird's internal clock falling out of sync with the sun's position in the sky.",
+       "zh": "发表在《科学》杂志上的一项研究发现，一种被称为曼岛剪尾鸥的海鸟在穿越大西洋的长途飞行中似乎会稍微迷失方向。作者表示，这种迷失方向是由于鸟类的生物钟与太阳在天空中的位置不同步所导致的。"
+      },
+      {
+       "en": "Manx shearwaters are a common bird in the British Isles. They look a little like seagulls, but \"they're actually very closely related to an albatross,\" said Patrick Lewin, a behavioral ecologist at the University of Oxford.",
+       "zh": "曼岛海燕是英伦群岛常见的鸟类。它们看起来有点像海鸥，但“它们实际上与信天翁关系非常密切，”牛津大学行为生态学家帕特里克·卢因说。"
+      },
+      {
+       "en": "Shearwaters mate for life, and when they breed, a couple lays just one egg.",
+       "zh": "海燕终生配偶，当它们繁殖时，一对只会下一个蛋。"
+      },
+      {
+       "en": "Then they take turns incubating it: \"One partner will sit on the egg nonstop while the other one goes out to sea,\" Lewin said.",
+       "zh": "然后它们轮流孵蛋：“一只伴侣会一直坐在蛋上，而另一只则出海，”卢因说道。"
+      },
+      {
+       "en": "For up to two weeks the hunting partners scour the North Atlantic for fish and squid, often travelling hundreds of miles from their nests.",
+       "zh": "在长达两周的时间里，捕猎伙伴在北大西洋寻找鱼类和鱿鱼，常常从它们的巢穴出发，行程达数百英里。"
+      },
+      {
+       "en": "Once these birds' bellies are full \"they absolutely bomb it back to their colony,\" Lewin said. Often they make the long journey home in just a day or so.",
+       "zh": "Lewin 说，一旦这些鸟的肚子吃饱了，它们就会“立即飞回它们的巢穴”。它们通常只需一天左右就能完成漫长的回家旅程。"
+      },
+      {
+       "en": "Which raised an interesting question: Do Manx shearwaters feel jet lag (or perhaps more aptly, flap lag)?",
+       "zh": "这就引出了一个有趣的问题：马恩岛剪尾海燕会感到时差反应（或者更恰当地说，拍翅疲劳）吗？"
+      },
+      {
+       "en": "To see if these little birds really did feel the effects of flying through time zones like humans do, Lewin used a remarkable tool – for 20 years, his colleagues had been tagging birds with GPS trackers and collecting data on their flights out to the Atlantic and back.",
+       "zh": "为了看看这些小鸟是否真的像人类一样感受到穿越时区的影响，刘文使用了一种非凡的工具——在过去20年里，他的同事们一直在给鸟类装上GPS追踪器，并收集它们往返大西洋的飞行数据。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "research",
+       "pos": "n.",
+       "zh": "研究",
+       "ex": "New research shows that humans are not the only species to get jet lag: Some birds appear to experience it too.",
+       "forms": []
+      },
+      {
+       "w": "species",
+       "pos": "n.",
+       "zh": "物种",
+       "ex": "New research shows that humans are not the only species to get jet lag: Some birds appear to experience it too.",
+       "forms": []
+      },
+      {
+       "w": "lag",
+       "pos": "v.",
+       "zh": "落后",
+       "ex": "New research shows that humans are not the only species to get jet lag: Some birds appear to experience it too.",
+       "forms": []
+      },
+      {
+       "w": "study",
+       "pos": "n.",
+       "zh": "研究；学习",
+       "ex": "A study published in the journal Science found that a type of seabird known as the Manx shearwater appears to become slightly disoriented during long flights across the Atlantic Ocean.",
+       "forms": []
+      },
+      {
+       "w": "fall",
+       "pos": "n.",
+       "zh": "下降；下跌",
+       "ex": "That disorientation, the authors say, is due to the bird's internal clock falling out of sync with the sun's position in the sky.",
+       "forms": [
+        "falling"
+       ]
+      },
+      {
+       "w": "university",
+       "pos": "n.",
+       "zh": "大学",
+       "ex": "They look a little like seagulls, but \"they're actually very closely related to an albatross,\" said Patrick Lewin, a behavioral ecologist at the University of Oxford.",
+       "forms": []
+      },
+      {
+       "w": "effect",
+       "pos": "n.",
+       "zh": "影响；效果",
+       "ex": "To see if these little birds really did feel the effects of flying through time zones like humans do, Lewin used a remarkable tool – for 20 years, his colleagues had been tagging birds with GPS trackers and collecting data on their flights out to the Atlantic and back.",
+       "forms": [
+        "effects"
+       ]
+      },
+      {
+       "w": "remarkable",
+       "pos": "adj.",
+       "zh": "非凡的；引人注目的",
+       "ex": "To see if these little birds really did feel the effects of flying through time zones like humans do, Lewin used a remarkable tool – for 20 years, his colleagues had been tagging birds with GPS trackers and collecting data on their flights out to the Atlantic and back.",
+       "forms": []
+      },
+      {
+       "w": "data",
+       "pos": "n.",
+       "zh": "数据",
+       "ex": "To see if these little birds really did feel the effects of flying through time zones like humans do, Lewin used a remarkable tool – for 20 years, his colleagues had been tagging birds with GPS trackers and collecting data on their flights out to the Atlantic and back.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "research",
+      "species",
+      "lag",
+      "study",
+      "fall"
+     ],
+     "keyVocab": [
+      "research",
+      "species",
+      "lag",
+      "study",
+      "fall",
+      "university",
+      "effect",
+      "remarkable"
+     ]
+    },
+    {
+     "id": "2026-10-30-culture",
+     "section": "Culture",
+     "sectionZh": "文化",
+     "title": "Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86",
+     "dek": "Sir Patrick Stewart's most famous characters tackled concepts such as honor, morality and courage. He played Professor X in the X-Men franchise and Jean-Luc Picard, captain of the starship USS…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/10/29/1230906945/patrick-stewart-dead",
+     "byline": "Adwoa Gyimah-Brempong",
+     "dateLabel": "2026-10-30",
+     "words": 359,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "Sir Patrick Stewart's most famous characters tackled concepts such as honor, morality and courage. He played Professor X in the X-Men franchise and Jean-Luc Picard, captain of the starship USS Enterprise, on the show Star Trek: The Next Generation and its later spinoff, Picard.",
+       "zh": "帕特里克·斯图尔特爵士最著名的角色探讨了荣誉、道德和勇气等概念。他在《X 战警》系列中饰演了X教授，在电视剧《星际迷航：下一代》及其后来的衍生剧《皮卡德》中饰演了星舰企业号的船长让-卢克·皮卡尔。"
+      },
+      {
+       "en": "Stewart died Wednesday at 86. A post on his Facebook and Instagram pages said he died at home in Los Angeles after a \"brief and poignant journey with Alzheimer's Disease and Lewy Body Dementia.\"",
+       "zh": "斯图尔特于周三去世，享年86岁。他的Facebook和Instagram页面上的一则帖子称，他在洛杉矶的家中去世，死因是在经历了“与阿尔茨海默病和路易体痴呆症的短暂而深刻的旅程”之后。"
+      },
+      {
+       "en": "Although he was beloved for playing compassionate father figures who united families of misfits, Stewart's own upbringing in Yorkshire, England, was harsh. He remembered his father as alcoholic and abusive. He found solace in school and, eventually, in Shakespeare. He joined the Royal Shakespeare Company in 1966 and debuted on Broadway in 1970 in A Midsummer Night's Dream.",
+       "zh": "尽管他因扮演充满同情心、能够团结各种怪人家庭的父亲角色而受到喜爱，但斯图尔特自己在英国约克郡的成长经历却十分艰难。他记得自己的父亲酗酒且虐待人。他在学校找到了慰藉，最终在莎士比亚的作品中找到了安慰。他于1966年加入皇家莎士比亚剧团，并于1970年在百老汇的《仲夏夜之梦》中首次登台演出。"
+      },
+      {
+       "en": "\"To stand in the middle of an empty stage in an empty theater and feel that I was at home was everything,\" he told NPR in 2023. \"But it took a while for me to get there.\"",
+       "zh": "他在2023年告诉NPR：“站在一座空剧院的空舞台中央，感受到自己仿佛在家里，这就是一切。但我花了一段时间才达到那个状态。”"
+      },
+      {
+       "en": "Stewart played alongside some of the best Shakespeareans of his time, including Judi Dench and Ian McKellen. He was lecturing on Shakespeare at UCLA when his name came up for the lead in a new series of Star Trek.",
+       "zh": "斯图尔特与他那个时代的一些最优秀的莎士比亚演员一起演出，包括朱迪·丹奇和伊恩·麦克莱恩。当他在加州大学洛杉矶分校讲授莎士比亚时，他的名字被提名为新一季《星际迷航》的主角。"
+      },
+      {
+       "en": "\"Don't do this, Patrick,\" he remembered McKellen advising him. \"You're a very good stage actor. That's where you ought to be. Don't do it.\"",
+       "zh": "“别这么做，帕特里克，”他记得麦克凯伦曾劝告他。“你是个非常好的舞台演员。你应该待在舞台上。别做这件事。”"
+      },
+      {
+       "en": "But Stewart's agent had reassured him that the show was unlikely to make it past the first season. As the actor recalled to NPR, he was encouraged to take what he believed to be a quick and easy job. \"'Do six months' work. Make some money for the first time in your life and get well known. Get a suntan, and go home.' And I thought, 'Yeah, that doesn't sound too bad. I could live with that.'\"",
+       "zh": "但斯图尔特的经纪人向他保证，这部剧不太可能超过第一季。正如这位演员向NPR回忆的那样，他被鼓励去接他认为是一个快速且轻松的工作。‘干六个月的活。第一次赚钱并让自己出名。晒晒太阳，然后回家。’我当时心想，‘是啊，这听起来还不错。我能接受这个。’"
+      },
+      {
+       "en": "But Star Trek: The Next Generation was a tremendous hit. It aired for seven seasons, from 1987 to 1994. Stewart was embraced by fans, who adored the character's penchant for Earl Grey tea and cool-headed leadership, with such signature phrases as \"Engage!\" and \"Make it so!\"",
+       "zh": "但是《星际迷航：下一代》取得了巨大的成功。它从1987年播出到1994年，共播出七季。斯图尔特受到了粉丝的喜爱，粉丝们喜爱这个角色对伯爵茶的偏爱以及冷静的领导风格，以及他标志性的台词，如“出发！”和“照办！”"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "generation",
+       "pos": "n.",
+       "zh": "一代人；世代",
+       "ex": "He played Professor X in the X-Men franchise and Jean-Luc Picard, captain of the starship USS Enterprise, on the show Star Trek: The Next Generation and its later spinoff, Picard.",
+       "forms": []
+      },
+      {
+       "w": "disease",
+       "pos": "n.",
+       "zh": "疾病",
+       "ex": "A post on his Facebook and Instagram pages said he died at home in Los Angeles after a \"brief and poignant journey with Alzheimer's Disease and Lewy Body Dementia.\" Although he was beloved for playing compassionate father figures who united families of misfits, Stewart's own upbringing in Yorkshire, England, was harsh.",
+       "forms": []
+      },
+      {
+       "w": "family",
+       "pos": "n.",
+       "zh": "家庭",
+       "ex": "A post on his Facebook and Instagram pages said he died at home in Los Angeles after a \"brief and poignant journey with Alzheimer's Disease and Lewy Body Dementia.\" Although he was beloved for playing compassionate father figures who united families of misfits, Stewart's own upbringing in Yorkshire, England, was harsh.",
+       "forms": [
+        "families"
+       ]
+      },
+      {
+       "w": "school",
+       "pos": "n.",
+       "zh": "学校",
+       "ex": "He found solace in school and, eventually, in Shakespeare.",
+       "forms": []
+      },
+      {
+       "w": "theater",
+       "pos": "n.",
+       "zh": "剧院；戏剧",
+       "ex": "\"To stand in the middle of an empty stage in an empty theater and feel that I was at home was everything,\" he told NPR in 2023.",
+       "forms": []
+      },
+      {
+       "w": "actor",
+       "pos": "n.",
+       "zh": "演员",
+       "ex": "\"You're a very good stage actor.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "generation",
+      "disease",
+      "family",
+      "school",
+      "theater"
+     ],
+     "keyVocab": [
+      "generation",
+      "disease",
+      "family",
+      "school",
+      "theater",
+      "actor"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-10-29",
    "articles": [
@@ -4402,734 +5130,6 @@ window.__MERIDIAN_DATA__ = {
       "film"
      ],
      "keyVocab": [
-      "authoritarian",
-      "statement",
-      "describe",
-      "theater",
-      "film"
-     ]
-    }
-   ]
-  },
-  {
-   "date": "2026-10-23",
-   "articles": [
-    {
-     "id": "2026-10-23-world",
-     "section": "World",
-     "sectionZh": "国际",
-     "title": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths",
-     "dek": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak",
-     "byline": "Kate Bartlett",
-     "dateLabel": "2026-10-23",
-     "words": 242,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths",
-       "zh": "当局正在调查肯尼亚和尼日利亚首例埃博拉病例是否有交集"
-      },
-      {
-       "en": "JOHANNESBURG – The first Ebola patient confirmed in Nigeria may have crossed paths with the first Kenyan Ebola patient at a Ugandan airport, health officials said Thursday.",
-       "zh": "约翰内斯堡——周四，卫生官员表示，尼日利亚首例确诊埃博拉病例可能在乌干达的一座机场与肯尼亚的首例埃博拉患者相遇。"
-      },
-      {
-       "en": "Nigeria announced its first case of Ebola in more than a decade on Tuesday. Nigerian health authorities said the patient is the Ugandan-born wife of a diplomat based in Abuja who had vacationed in Uganda in September and returned to Nigeria earlier this month.",
-       "zh": "尼日利亚周二宣布了十多年来的首例埃博拉病例。尼日利亚卫生当局表示，该患者是驻阿布贾一名外交官的乌干达出生的妻子，她在九月份曾前往乌干达度假，并于本月早些时候返回尼日利亚。"
-      },
-      {
-       "en": "She is being treated and 44 people she had close contact with have been quarantined, Dr. Wessam Mankoula, head of emergency preparedness and response at the Africa Centers for Disease Control and Prevention, told a press briefing on Thursday.",
-       "zh": "非洲疾病控制与预防中心应急准备与响应负责人韦萨姆·曼库拉医生周四在新闻发布会上表示，她正在接受治疗，与她有密切接触的44人已被隔离。"
-      },
-      {
-       "en": "Authorities are now investigating what the source of her exposure was.",
-       "zh": "当局目前正在调查她接触来源的原因。"
-      },
-      {
-       "en": "Nigeria, Africa's most populous country, is the fourth on the continent to record an Ebola case during the current outbreak, but it's the first in West Africa and the furthest away from the epicenter in the Democratic Republic of Congo.",
-       "zh": "尼日利亚，非洲人口最多的国家，在当前疫情期间是该大陆第四个记录埃博拉病例的国家，但它是西非的第一个病例，也是距离刚果民主共和国疫情中心最远的国家。"
-      },
-      {
-       "en": "Congo's current Ebola outbreak began in May in the country's east. It has become the fastest spreading on record. At least 4,600 people have died and about 9,700 have been infected in Congo.",
-       "zh": "刚果当前的埃博拉疫情始于该国东部的五月。它已成为有记录以来传播最快的疫情。刚果至少有4600人死亡，约9700人感染。"
-      },
-      {
-       "en": "Neighboring Uganda initially recorded about 20 cases but was declared Ebola-free in August.",
-       "zh": "邻近的乌干达最初记录了大约20例病例，但在八月被宣布为无埃博拉病毒地区。"
-      },
-      {
-       "en": "The first case in Kenya was recorded in early October and since then eight other cases have been confirmed in the east African nation.",
-       "zh": "肯尼亚的首例病例记录于十月初，此后这个位于东非的国家又确认了八例病例。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "authority",
-       "pos": "n.",
-       "zh": "当局；权威机构",
-       "ex": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths JOHANNESBURG – The first Ebola patient confirmed in Nigeria may have crossed paths with the first Kenyan Ebola patient at a Ugandan airport, health officials said Thursday.",
-       "forms": [
-        "authorities"
-       ]
-      },
-      {
-       "w": "patient",
-       "pos": "n.",
-       "zh": "病人；患者",
-       "ex": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths JOHANNESBURG – The first Ebola patient confirmed in Nigeria may have crossed paths with the first Kenyan Ebola patient at a Ugandan airport, health officials said Thursday.",
-       "forms": []
-      },
-      {
-       "w": "confirm",
-       "pos": "v.",
-       "zh": "证实；确认",
-       "ex": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths JOHANNESBURG – The first Ebola patient confirmed in Nigeria may have crossed paths with the first Kenyan Ebola patient at a Ugandan airport, health officials said Thursday.",
-       "forms": [
-        "confirmed"
-       ]
-      },
-      {
-       "w": "health",
-       "pos": "n.",
-       "zh": "健康；卫生",
-       "ex": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths JOHANNESBURG – The first Ebola patient confirmed in Nigeria may have crossed paths with the first Kenyan Ebola patient at a Ugandan airport, health officials said Thursday.",
-       "forms": []
-      },
-      {
-       "w": "official",
-       "pos": "n.",
-       "zh": "官员；adj. 官方的",
-       "ex": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths JOHANNESBURG – The first Ebola patient confirmed in Nigeria may have crossed paths with the first Kenyan Ebola patient at a Ugandan airport, health officials said Thursday.",
-       "forms": [
-        "officials"
-       ]
-      },
-      {
-       "w": "announce",
-       "pos": "v.",
-       "zh": "宣布；公布",
-       "ex": "Nigeria announced its first case of Ebola in more than a decade on Tuesday.",
-       "forms": [
-        "announced"
-       ]
-      },
-      {
-       "w": "diplomat",
-       "pos": "n.",
-       "zh": "外交官",
-       "ex": "Nigerian health authorities said the patient is the Ugandan-born wife of a diplomat based in Abuja who had vacationed in Uganda in September and returned to Nigeria earlier this month.",
-       "forms": []
-      },
-      {
-       "w": "disease",
-       "pos": "n.",
-       "zh": "疾病",
-       "ex": "Wessam Mankoula, head of emergency preparedness and response at the Africa Centers for Disease Control and Prevention, told a press briefing on Thursday.",
-       "forms": []
-      },
-      {
-       "w": "outbreak",
-       "pos": "n.",
-       "zh": "暴发；疫情暴发",
-       "ex": "Nigeria, Africa's most populous country, is the fourth on the continent to record an Ebola case during the current outbreak, but it's the first in West Africa and the furthest away from the epicenter in the Democratic Republic of Congo.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "authority",
-      "patient",
-      "confirm",
-      "health",
-      "official"
-     ],
-     "keyVocab": [
-      "authority",
-      "patient",
-      "confirm",
-      "health",
-      "official",
-      "announce",
-      "diplomat",
-      "disease"
-     ]
-    },
-    {
-     "id": "2026-10-23-business",
-     "section": "Business",
-     "sectionZh": "商业 · 财经",
-     "title": "Why Meta is charging to post more hyperlinks",
-     "dek": "Outside of Atlanta, two gas stations got into a price war. The Atlanta TV station WSB-TV reported that, over the course of a day, prices dropped from $2.54 down to $1.44, $1.39 and eventually down…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/sections/planet-money/2026/10/23/nx-s1-6012726/why-meta-is-charging-to-post-more-hyperlinks",
-     "byline": "Cooper Katz McKim",
-     "dateLabel": "2026-10-23",
-     "words": 535,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "Outside of Atlanta, two gas stations got into a price war. The Atlanta TV station WSB-TV reported that, over the course of a day, prices dropped from $2.54 down to $1.44, $1.39 and eventually down to just 97 cents. When drivers took notice, the traffic jam began and police intervened. BUT while it was happening, one driver said she only spent $15 to fill up her truck. It usually costs $90. \"Look at God, baby! Look at God!\" she said.",
-       "zh": "在亚特兰大以外，两家加油站陷入了价格战。据亚特兰大电视台WSB-TV报道，在一天之内，油价从每加仑2.54美元降至1.44美元，再降至1.39美元，最终降至仅97美分。当司机注意到时，交通堵塞开始，警方介入。但就在这一过程中，一名司机说她只花了15美元就给卡车加满了油。通常这需要90美元。她说：“看看上帝，宝贝！看看上帝！”"
-      },
-      {
-       "en": "In our team's Slack, co-host Wailin Wong responded to the low prices, \"make it up on volume!?\" Jeff Guo wrote, \"how is this real.\" But like, actually. How is this real?",
-       "zh": "在我们团队的 Slack 上，共同主持人 Wailin Wong 对低价作出了回应，‘靠销量来补吗！？’ Jeff Guo 写道，‘这怎么可能是真的。’但是，真的，这怎么可能是真的？"
-      },
-      {
-       "en": "- How fake data centers can still drive up electricity costs",
-       "zh": "- 虚假数据中心如何仍然能推高电费"
-      },
-      {
-       "en": "What To Know: Social media sites don't love it when users leave. If you've ever used Instagram, it's not the easiest place to post links. You need to include them in bios, or through a special button on stories. Well now, if you run a Facebook page, you can only post TWO hyperlinks for free per month. $49.99/month will get you a Meta One Advanced plan, allowing you to include eight hyperlinks in posts or reels. With the $499/month Max plan, you can post an unlimited amount. Ashley Gullen, who runs a game design company, posted on Mastodon, a decentralized social media platform, \"Facebook achieving absurd new heights of enshittification\" in response to the news. This isn't totally unique. Nieman Lab did a whole study finding that posting links hurts news publishers on X.",
-       "zh": "需要了解的情况：社交媒体网站不喜欢用户离开。如果你曾经使用过Instagram，你会发现它并不是一个容易发布链接的地方。你需要把链接放在个人简介中，或者通过故事中的一个特殊按钮发布。现在，如果你运营一个Facebook页面，你每个月只能免费发布两个超链接。每月支付49.99美元，你可以获得Meta One高级计划，允许你在帖子或短视频中包含八个超链接。每月支付499美元的Max计划，可以无限发布超链接。经营一家游戏设计公司的Ashley Gullen在去中心化社交媒体平台Mastodon上发布回应此消息时写道：“Facebook达到了荒谬的新低”。这并非完全独特。Nieman Lab做过一项完整研究，发现发布链接会对X上的新闻出版商造成影响。"
-      },
-      {
-       "en": "Why are companies doing this?: Attention is money for social media sites. They want to keep you inside their walls! David Evans, managing director at BRG, a consulting firm, wrote a simple explanation as to why platforms want you to stay on their site: \"Attention platforms use content to get consumers to spend time on their platform and sell marketers the ability to expose these consumers to messages.\"",
-       "zh": "公司为什么会这样做？：注意力就是社交媒体网站的金钱。他们想让你留在他们的“墙”内！咨询公司BRG的董事总经理大卫·埃文斯（David Evans）写下了一个简单的解释，说明了为什么平台希望你留在他们的网站上：“注意力平台使用内容让消费者在其平台上花时间，并向营销人员出售向这些消费者传递信息的能力。”"
-      },
-      {
-       "en": "Even FAKE data centers could be driving up electricity costs - The Wall Street Journal",
-       "zh": "即使是假的数据中心也可能在推高电费——《华尔街日报》"
-      },
-      {
-       "en": "What To Know: Developers are desperate to get their data centers up and running. They need it to help power their precious AI and whatever other computing is needed. BUT, developers won't just say, \"This is the only location we'll accept for this project.\" No, they'll put out requests to all sorts of locations for their centers. The problem is, utilities are still considering data centers that likely WON'T GET BUILT in their electricity forecasts. Energy research firm Wood Mackenzie estimates that only a mere 23% of data-center requests are considered \"high confidence,\" according to The Wall Street Journal. The rest are speculative!",
-       "zh": "需要了解的内容：开发者迫切希望让他们的数据中心投入运行。他们需要这些数据中心来为他们宝贵的人工智能以及其他所需的计算提供支持。但是，开发者不会只是简单地说：“这是我们这个项目唯一可接受的位置。”不，他们会向各种地区提出数据中心建设请求。问题是，公共事业公司在电力预测中仍在考虑那些很可能不会建成的数据中心。能源研究公司伍德麦肯齐（Wood Mackenzie）估计，据《华尔街日报》报道，只有区区23%的数据中心请求被认为是“高置信度”，其余的都是推测性的！"
-      },
-      {
-       "en": "How this affects YOU: Electricity costs could rise even if the data centers don't get built. Hoowwwwww does that work now? Because utilities are still planning for expected demand. They can't just suddenly integrate a wildly power-demanding data center without new substations or transmission lines. It's possible for the utility to pass on some of those grid investments onto consumers, even if the data centers never come to pass. Some power markets also set prices based on future demand so… There are lots of ways these projects could mess with your electricity bill.",
-       "zh": "这对你的影响：即使数据中心没有建成，电费也可能会上涨。这是怎么回事呢？因为公用事业公司仍在为预计的需求做规划。他们不能在没有新的变电站或输电线路的情况下，突然接入一个耗电量巨大的数据中心。公用事业公司可能会将部分电网投资转嫁给消费者，即使数据中心最终没有建成。一些电力市场也会根据未来需求来设定价格，所以……这些项目有很多方式可能会影响你的电费账单。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "gas",
-       "pos": "n.",
-       "zh": "天然气；气体",
-       "ex": "Outside of Atlanta, two gas stations got into a price war.",
-       "forms": []
-      },
-      {
-       "w": "price",
-       "pos": "n.",
-       "zh": "价格",
-       "ex": "Outside of Atlanta, two gas stations got into a price war.",
-       "forms": [
-        "prices"
-       ]
-      },
-      {
-       "w": "report",
-       "pos": "n.",
-       "zh": "报告；报道",
-       "ex": "The Atlanta TV station WSB-TV reported that, over the course of a day, prices dropped from $2.54 down to $1.44, $1.39 and eventually down to just 97 cents.",
-       "forms": [
-        "reported"
-       ]
-      },
-      {
-       "w": "police",
-       "pos": "n.",
-       "zh": "警察",
-       "ex": "When drivers took notice, the traffic jam began and police intervened.",
-       "forms": []
-      },
-      {
-       "w": "cost",
-       "pos": "n.",
-       "zh": "成本；代价",
-       "ex": "It usually costs $90.",
-       "forms": [
-        "costs"
-       ]
-      },
-      {
-       "w": "data",
-       "pos": "n.",
-       "zh": "数据",
-       "ex": "- How fake data centers can still drive up electricity costs What To Know: Social media sites don't love it when users leave.",
-       "forms": []
-      },
-      {
-       "w": "electricity",
-       "pos": "n.",
-       "zh": "电力",
-       "ex": "- How fake data centers can still drive up electricity costs What To Know: Social media sites don't love it when users leave.",
-       "forms": []
-      },
-      {
-       "w": "social",
-       "pos": "adj.",
-       "zh": "社会的；社交的",
-       "ex": "- How fake data centers can still drive up electricity costs What To Know: Social media sites don't love it when users leave.",
-       "forms": []
-      },
-      {
-       "w": "media",
-       "pos": "n.",
-       "zh": "媒体",
-       "ex": "- How fake data centers can still drive up electricity costs What To Know: Social media sites don't love it when users leave.",
-       "forms": []
-      },
-      {
-       "w": "platform",
-       "pos": "n.",
-       "zh": "平台",
-       "ex": "Ashley Gullen, who runs a game design company, posted on Mastodon, a decentralized social media platform, \"Facebook achieving absurd new heights of enshittification\" in response to the news.",
-       "forms": [
-        "platforms"
-       ]
-      },
-      {
-       "w": "news",
-       "pos": "n.",
-       "zh": "新闻",
-       "ex": "Ashley Gullen, who runs a game design company, posted on Mastodon, a decentralized social media platform, \"Facebook achieving absurd new heights of enshittification\" in response to the news.",
-       "forms": []
-      },
-      {
-       "w": "study",
-       "pos": "n.",
-       "zh": "研究；学习",
-       "ex": "Nieman Lab did a whole study finding that posting links hurts news publishers on X.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "gas",
-      "price",
-      "report",
-      "police",
-      "cost"
-     ],
-     "keyVocab": [
-      "gas",
-      "price",
-      "report",
-      "police",
-      "cost",
-      "data",
-      "electricity",
-      "social"
-     ]
-    },
-    {
-     "id": "2026-10-23-technology",
-     "section": "Technology",
-     "sectionZh": "科技",
-     "title": "Hacking attempts rise after flaws found in program affecting 70 percent of websites",
-     "dek": "Hacking attempts rise after flaws found in program affecting 70 percent of websites",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws",
-     "byline": "Kate Bartlett",
-     "dateLabel": "2026-10-23",
-     "words": 293,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "Hacking attempts rise after flaws found in program affecting 70 percent of websites",
-       "zh": "程序漏洞影响70%的网站后，黑客攻击尝试增加"
-      },
-      {
-       "en": "A few months ago AI caused global alarm after autonomous agents were found to have cheated on evaluations and then tried to cover it up, in what became known as the \"Hugging Face hack.\"",
-       "zh": "几个月前，人工智能引发了全球恐慌，因为发现自主代理在评估中作弊，并试图掩盖，这就是后来被称为“Hugging Face 黑客事件”的事情。"
-      },
-      {
-       "en": "This week, AI and hacking are back in the spotlight with AI technology credited to have helped prevent a global cybersecurity crisis.",
-       "zh": "本周，人工智能和黑客再次成为焦点，人工智能技术被认为帮助防止了一场全球网络安全危机。"
-      },
-      {
-       "en": "Cyber-security firm Wiz Research, using OpenAI technology, announced on Wednesday it had discovered security flaws in a computer programming language that helps run some 70 percent of the world's websites.",
-       "zh": "网络安全公司Wiz Research利用OpenAI技术，于周三宣布，他们发现了一种计算机编程语言中的安全漏洞，这种语言帮助运行全球约70%的网站。"
-      },
-      {
-       "en": "OpenAI called the bug \"one of the most impactful vulnerabilities in recent memory.\" Wiz Research warned that its \"successful exploitation could allow attackers to take control of affected servers, steal sensitive data, and deface the websites running on them.\"",
-       "zh": "OpenAI称该漏洞是“近来记忆中最具影响力的漏洞之一”。Wiz Research警告说，其“成功利用可能允许攻击者控制受影响的服务器、窃取敏感数据，并篡改运行其上的网站。”"
-      },
-      {
-       "en": "Corporations and governments from the U.K. to Japan are now rushing to prevent hackers from capitalizing on the flaws.",
-       "zh": "从英国到日本的公司和政府如今都在争相阻止黑客利用这些漏洞牟利。"
-      },
-      {
-       "en": "The flaws were discovered in a major programming language called PHP, short for Hypertext Preprocessor. Wiz Research calls PHP \"the backbone of the web,\" saying the technology has underpinned much of the internet since the 1990s.",
-       "zh": "这些漏洞是在一种名为 PHP 的主要编程语言中发现的，PHP 是 Hypertext Preprocessor（超文本预处理器）的缩写。Wiz Research 称 PHP 为“网络的支柱”，表示自 1990 年代以来，这项技术一直支撑着大部分互联网。"
-      },
-      {
-       "en": "\"These findings rank among the most severe vulnerabilities discovered in PHP, and arguably in software history,\" the firm said, adding that before publicly disclosing the flaw, teams had worked on building a solution that's now available to websites to protect themselves.",
-       "zh": "该公司表示：“这些发现是 PHP 中发现的最严重的漏洞之一，可以说在软件历史上也是如此，”并补充说，在公开披露该漏洞之前，团队一直在研究解决方案，该解决方案现在可供网站使用以保护自己。"
-      },
-      {
-       "en": "As countries scrambled to prevent cyberattacks, numerous websites and pages were taken offline in the past few days. The U.S. National Security Agency warned organizations using PHP to \"maintain heightened awareness\" over the coming weeks. The U.K.'s National Cyber Security Center called on organizations to \"take immediate action\" to update their websites to the latest fixed or patched version.",
-       "zh": "随着各国争相防止网络攻击，过去几天许多网站和页面被下线。美国国家安全局警告使用 PHP 的组织在接下来的几周内“保持高度警惕”。英国国家网络安全中心呼吁各组织“立即采取行动”，将其网站更新到最新的修复或补丁版本。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "hacking",
-       "pos": "n.",
-       "zh": "黑客攻击",
-       "ex": "Hacking attempts rise after flaws found in program affecting 70 percent of websites A few months ago AI caused global alarm after autonomous agents were found to have cheated on evaluations and then tried to cover it up, in what became known as the \"Hugging Face hack.\" This week, AI and hacking are back in the spotlight with AI technology credited to have helped prevent a global cybersecurity crisis.",
-       "forms": []
-      },
-      {
-       "w": "rise",
-       "pos": "n.",
-       "zh": "上升；上涨",
-       "ex": "Hacking attempts rise after flaws found in program affecting 70 percent of websites A few months ago AI caused global alarm after autonomous agents were found to have cheated on evaluations and then tried to cover it up, in what became known as the \"Hugging Face hack.\" This week, AI and hacking are back in the spotlight with AI technology credited to have helped prevent a global cybersecurity crisis.",
-       "forms": []
-      },
-      {
-       "w": "percent",
-       "pos": "n.",
-       "zh": "百分比",
-       "ex": "Hacking attempts rise after flaws found in program affecting 70 percent of websites A few months ago AI caused global alarm after autonomous agents were found to have cheated on evaluations and then tried to cover it up, in what became known as the \"Hugging Face hack.\" This week, AI and hacking are back in the spotlight with AI technology credited to have helped prevent a global cybersecurity crisis.",
-       "forms": []
-      },
-      {
-       "w": "global",
-       "pos": "adj.",
-       "zh": "全球的",
-       "ex": "Hacking attempts rise after flaws found in program affecting 70 percent of websites A few months ago AI caused global alarm after autonomous agents were found to have cheated on evaluations and then tried to cover it up, in what became known as the \"Hugging Face hack.\" This week, AI and hacking are back in the spotlight with AI technology credited to have helped prevent a global cybersecurity crisis.",
-       "forms": []
-      },
-      {
-       "w": "technology",
-       "pos": "n.",
-       "zh": "技术；科技",
-       "ex": "Hacking attempts rise after flaws found in program affecting 70 percent of websites A few months ago AI caused global alarm after autonomous agents were found to have cheated on evaluations and then tried to cover it up, in what became known as the \"Hugging Face hack.\" This week, AI and hacking are back in the spotlight with AI technology credited to have helped prevent a global cybersecurity crisis.",
-       "forms": []
-      },
-      {
-       "w": "credit",
-       "pos": "n.",
-       "zh": "信贷；信用",
-       "ex": "Hacking attempts rise after flaws found in program affecting 70 percent of websites A few months ago AI caused global alarm after autonomous agents were found to have cheated on evaluations and then tried to cover it up, in what became known as the \"Hugging Face hack.\" This week, AI and hacking are back in the spotlight with AI technology credited to have helped prevent a global cybersecurity crisis.",
-       "forms": [
-        "credited"
-       ]
-      },
-      {
-       "w": "cybersecurity",
-       "pos": "n.",
-       "zh": "网络安全",
-       "ex": "Hacking attempts rise after flaws found in program affecting 70 percent of websites A few months ago AI caused global alarm after autonomous agents were found to have cheated on evaluations and then tried to cover it up, in what became known as the \"Hugging Face hack.\" This week, AI and hacking are back in the spotlight with AI technology credited to have helped prevent a global cybersecurity crisis.",
-       "forms": []
-      },
-      {
-       "w": "research",
-       "pos": "n.",
-       "zh": "研究",
-       "ex": "Cyber-security firm Wiz Research, using OpenAI technology, announced on Wednesday it had discovered security flaws in a computer programming language that helps run some 70 percent of the world's websites.",
-       "forms": []
-      },
-      {
-       "w": "announce",
-       "pos": "v.",
-       "zh": "宣布；公布",
-       "ex": "Cyber-security firm Wiz Research, using OpenAI technology, announced on Wednesday it had discovered security flaws in a computer programming language that helps run some 70 percent of the world's websites.",
-       "forms": [
-        "announced"
-       ]
-      },
-      {
-       "w": "warn",
-       "pos": "v.",
-       "zh": "警告",
-       "ex": "OpenAI called the bug \"one of the most impactful vulnerabilities in recent memory.\" Wiz Research warned that its \"successful exploitation could allow attackers to take control of affected servers, steal sensitive data, and deface the websites running on them.\" Corporations and governments from the U.K.",
-       "forms": [
-        "warned"
-       ]
-      },
-      {
-       "w": "server",
-       "pos": "n.",
-       "zh": "服务器",
-       "ex": "OpenAI called the bug \"one of the most impactful vulnerabilities in recent memory.\" Wiz Research warned that its \"successful exploitation could allow attackers to take control of affected servers, steal sensitive data, and deface the websites running on them.\" Corporations and governments from the U.K.",
-       "forms": [
-        "servers"
-       ]
-      },
-      {
-       "w": "data",
-       "pos": "n.",
-       "zh": "数据",
-       "ex": "OpenAI called the bug \"one of the most impactful vulnerabilities in recent memory.\" Wiz Research warned that its \"successful exploitation could allow attackers to take control of affected servers, steal sensitive data, and deface the websites running on them.\" Corporations and governments from the U.K.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "hacking",
-      "rise",
-      "percent",
-      "global",
-      "technology"
-     ],
-     "keyVocab": [
-      "hacking",
-      "rise",
-      "percent",
-      "global",
-      "technology",
-      "credit",
-      "cybersecurity",
-      "research"
-     ]
-    },
-    {
-     "id": "2026-10-23-science",
-     "section": "Science",
-     "sectionZh": "科学",
-     "title": "Arizona adds U.S.'s newest national park, but National Park Service remains underfunded",
-     "dek": "Arizona adds U.S.'s newest national park, but National Park Service remains underfunded",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/21/nx-s1-5988049/arizona-adds-u-s-s-newest-national-park-but-national-park-service-remains-underfunded",
-     "byline": "Katya Mendoza",
-     "dateLabel": "2026-10-23",
-     "words": 268,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "Arizona adds U.S.'s newest national park, but National Park Service remains underfunded",
-       "zh": "亚利桑那州新增美国最新的国家公园，但国家公园管理局仍然资金不足"
-      },
-      {
-       "en": "President Trump, famous for stripping protections from national monuments, is signing a bill to turn one into a national park. The land in southern Arizona is biologically rich and scenic.",
-       "zh": "特朗普总统以取消国家纪念碑保护而闻名，他正在签署一项法案，将其中一个纪念碑改为国家公园。位于亚利桑那州南部的这片土地生物多样性丰富，风景优美。"
-      },
-      {
-       "en": "A few states over, the U.S. has a new national park. Yesterday, President Trump signed the Chiricahua National Park Act, elevating a national monument in Arizona to national park status. But there are concerns about its future, as Arizona Public Media's Katya Mendoza reports.",
-       "zh": "在几个州之外，美国有了一个新的国家公园。昨天，总统特朗普签署了奇里卡瓦国家公园法案，将亚利桑那州的一处国家纪念地提升为国家公园。但人们对其未来表示担忧，正如亚利桑那公共媒体的卡蒂娅·门多萨报道的那样。"
-      },
-      {
-       "en": "KATYA MENDOZA, BYLINE: The new park is part of the Chiricahua Mountains, about a two hours' drive southeast of Tucson, accessed by a winding road surrounded by a sea of grasslands. The mountains are one of several so called sky island ranges that rise from the deserts here. They serve as a crossroads for four major ecosystems, where the Sonoran and Chihuahuan deserts, Rocky Mountains and the Sierra Madres converge.",
-       "zh": "卡蒂亚·门多萨，署名：这个新公园是奇里卡瓦山脉的一部分，位于图森东南约两小时车程的地方，通过一条被草原环绕的弯曲道路进入。这些山脉是所谓的“天空之岛”山脉之一，从这里的沙漠中耸立而起。它们是四大主要生态系统的交汇点，索诺兰沙漠、奇瓦瓦沙漠、落基山脉和西拉马德雷山脉在此汇聚。"
-      },
-      {
-       "en": "ARMAND SANTILLI: It's like the Arizona version of Bryce Canyon.",
-       "zh": "阿尔芒·桑蒂利：这就像是布莱斯峡谷的亚利桑那版。"
-      },
-      {
-       "en": "MENDOZA: Armand Santilli came to visit what people call a wonderland of rocks, which was designated a national monument in 1924 by President Calvin Coolidge. Santilli had no idea he'd be the first visitor to the new national park.",
-       "zh": "MENDOZA: Armand Santilli 来参观人们所称的岩石仙境，这里在1924年由总统卡尔文·柯立芝指定为国家纪念地。Santilli 根本不知道他将成为新国家公园的第一位游客。"
-      },
-      {
-       "en": "SANTILLI: I figured I'd come on through while I was visiting the rest of the mountain range. I figured I had to see the monument, and what a time to pick.",
-       "zh": "桑蒂利：我想既然我在参观山脉的其他部分，就顺便过来看看。我觉得我必须去看看这个纪念碑，真是时候选得巧啊。"
-      },
-      {
-       "en": "JUAN CISCOMANI: Please help me welcome United States Interior Secretary Doug Burgum.",
-       "zh": "胡安·西斯科马尼：请大家欢迎美国内政部长道格·伯格姆。"
-      },
-      {
-       "en": "MENDOZA: Arizona Republican Congressman Juan Ciscomani introduced Secretary Burgum at a ceremony establishing the park, now America's 64th national park.",
-       "zh": "门多萨：亚利桑那州共和党众议员胡安·西斯科马尼在一场建立公园的仪式上介绍了伯格姆部长，这个公园现已成为美国第64个国家公园。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "national",
-       "pos": "adj.",
-       "zh": "国家的；全国的",
-       "ex": "Arizona adds U.S.'s newest national park, but National Park Service remains underfunded President Trump, famous for stripping protections from national monuments, is signing a bill to turn one into a national park.",
-       "forms": []
-      },
-      {
-       "w": "park",
-       "pos": "n.",
-       "zh": "公园；园区",
-       "ex": "Arizona adds U.S.'s newest national park, but National Park Service remains underfunded President Trump, famous for stripping protections from national monuments, is signing a bill to turn one into a national park.",
-       "forms": []
-      },
-      {
-       "w": "service",
-       "pos": "n.",
-       "zh": "服务",
-       "ex": "Arizona adds U.S.'s newest national park, but National Park Service remains underfunded President Trump, famous for stripping protections from national monuments, is signing a bill to turn one into a national park.",
-       "forms": []
-      },
-      {
-       "w": "president",
-       "pos": "n.",
-       "zh": "总统；总裁",
-       "ex": "Arizona adds U.S.'s newest national park, but National Park Service remains underfunded President Trump, famous for stripping protections from national monuments, is signing a bill to turn one into a national park.",
-       "forms": []
-      },
-      {
-       "w": "land",
-       "pos": "n.",
-       "zh": "土地；陆地",
-       "ex": "The land in southern Arizona is biologically rich and scenic.",
-       "forms": []
-      },
-      {
-       "w": "future",
-       "pos": "n.",
-       "zh": "未来",
-       "ex": "But there are concerns about its future, as Arizona Public Media's Katya Mendoza reports.",
-       "forms": []
-      },
-      {
-       "w": "public",
-       "pos": "adj.",
-       "zh": "公共的；公众的",
-       "ex": "But there are concerns about its future, as Arizona Public Media's Katya Mendoza reports.",
-       "forms": []
-      },
-      {
-       "w": "report",
-       "pos": "n.",
-       "zh": "报告；报道",
-       "ex": "But there are concerns about its future, as Arizona Public Media's Katya Mendoza reports.",
-       "forms": [
-        "reports"
-       ]
-      },
-      {
-       "w": "rise",
-       "pos": "n.",
-       "zh": "上升；上涨",
-       "ex": "The mountains are one of several so called sky island ranges that rise from the deserts here.",
-       "forms": []
-      },
-      {
-       "w": "ecosystem",
-       "pos": "n.",
-       "zh": "生态系统",
-       "ex": "They serve as a crossroads for four major ecosystems, where the Sonoran and Chihuahuan deserts, Rocky Mountains and the Sierra Madres converge.",
-       "forms": [
-        "ecosystems"
-       ]
-      }
-     ],
-     "homeWords": [
-      "national",
-      "park",
-      "service",
-      "president",
-      "land"
-     ],
-     "keyVocab": [
-      "national",
-      "park",
-      "service",
-      "president",
-      "land",
-      "future",
-      "public",
-      "report"
-     ]
-    },
-    {
-     "id": "2026-10-23-culture",
-     "section": "Culture",
-     "sectionZh": "文化",
-     "title": "Actor Tom Skerritt, who played dads, cops and commanding officers, has died",
-     "dek": "Actor Tom Skerritt, who played dads, cops and commanding officers, has died",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/22/981035400/tom-skerritt-dead",
-     "byline": "Neda Ulaby",
-     "dateLabel": "2026-10-23",
-     "words": 264,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "Actor Tom Skerritt, who played dads, cops and commanding officers, has died",
-       "zh": "饰演过爸爸、警察和指挥官的演员汤姆·斯凯里特去世了"
-      },
-      {
-       "en": "There's no avoiding the word rugged with Tom Skerritt. There was the mustache, the jaw, the crinkly eyes, and the cool authoritarian bearing he brought to memorable roles as commanding officers, dads and cops.",
-       "zh": "谈到汤姆·斯凯里特，就无法避免使用“粗犷”这个词。有他的胡子，下巴，皱起的眼睛，以及他在扮演指挥官、父亲和警察等令人难忘的角色时所展现的冷静权威气质。"
-      },
-      {
-       "en": "Skerritt died of natural causes on Wednesday, according to a statement from a representative. He was 93 years old.",
-       "zh": "据一位发言人声明，斯凯里特于周三死于自然原因。他享年93岁。"
-      },
-      {
-       "en": "He was Captain Dallas in Alien. Viper in Top Gun. An enlistee in the original movie M*A*S*H (playing one of the few characters who didn't transition to the later television series.) A Vietnam vet in the Cheech and Chong stoner classic, Up In Smoke. He played small town sheriffs in the movie The Dead Zone and on the TV series Picket Fences, for which he won an Emmy in 1993.",
-       "zh": "他在《异形》中饰演达拉斯上尉。在《壮志凌云》中饰演毒蛇。在原版电影《M*A*S*H》中饰演一名士兵（扮演少数几个没有转到后来的电视剧的角色之一）。在奇奇与钟的嬉皮经典电影《烟雾弥漫》中饰演越战老兵。他在电影《死区》和电视剧《环保先锋》中饰演小镇警长，并因此在1993年赢得了艾美奖。"
-      },
-      {
-       "en": "Tom Skerritt Grapples With His Own Death In 'East Of The Mountains'",
-       "zh": "汤姆·斯凯里特在《东山》里与自己的死亡作斗争"
-      },
-      {
-       "en": "And he was a dad in Ice Castles, Steel Magnolias and A River Runs Through It.",
-       "zh": "他在《冰雪城堡》《钢铁木兰》和《河流贯穿它》中饰演父亲。"
-      },
-      {
-       "en": "Skerritt described himself as a blue-collar kid from Detroit who served in the Air Force before attending UCLA and turning to theater. He spent his early days in Hollywood appearing in television shows, from My Three Sons to The Alfred Hitchcock Hour, and hanging out with the likes of Robert Redford and director Hal Ashby, who cast Skerritt in Harold and Maude (as a cop, of course).",
-       "zh": "斯克里特形容自己是来自底特律的蓝领孩子，曾在空军服役，然后进入UCLA学习，随后投身于戏剧。他在好莱坞的早期日子里出现在各种电视节目中，从《我的三个儿子》到《阿尔弗雷德·希区柯克时刻》，并与罗伯特·雷德福以及导演哈尔·阿什比等人交往，后者在《哈罗德与莫德》中（当然是扮演警察）选中了斯克里特。"
-      },
-      {
-       "en": "In real life, Skerritt promoted independent film and theater in the Pacific Northwest, where he lived. He co-founded The Red Badge Project, a program for veterans to take storytelling courses and share their experiences.",
-       "zh": "在现实生活中，斯凯里特在他居住的太平洋西北地区推广独立电影和戏剧。他共同创立了“红徽章项目”，这是一个为退伍军人开设讲故事课程并分享他们经历的项目。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "actor",
-       "pos": "n.",
-       "zh": "演员",
-       "ex": "Actor Tom Skerritt, who played dads, cops and commanding officers, has died There's no avoiding the word rugged with Tom Skerritt.",
-       "forms": []
-      },
-      {
-       "w": "authoritarian",
-       "pos": "adj.",
-       "zh": "威权的；专制的",
-       "ex": "There was the mustache, the jaw, the crinkly eyes, and the cool authoritarian bearing he brought to memorable roles as commanding officers, dads and cops.",
-       "forms": []
-      },
-      {
-       "w": "statement",
-       "pos": "n.",
-       "zh": "声明；陈述",
-       "ex": "Skerritt died of natural causes on Wednesday, according to a statement from a representative.",
-       "forms": []
-      },
-      {
-       "w": "describe",
-       "pos": "v.",
-       "zh": "描述",
-       "ex": "Skerritt described himself as a blue-collar kid from Detroit who served in the Air Force before attending UCLA and turning to theater.",
-       "forms": [
-        "described"
-       ]
-      },
-      {
-       "w": "theater",
-       "pos": "n.",
-       "zh": "剧院；戏剧",
-       "ex": "Skerritt described himself as a blue-collar kid from Detroit who served in the Air Force before attending UCLA and turning to theater.",
-       "forms": []
-      },
-      {
-       "w": "film",
-       "pos": "n.",
-       "zh": "电影；影片",
-       "ex": "In real life, Skerritt promoted independent film and theater in the Pacific Northwest, where he lived.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "actor",
-      "authoritarian",
-      "statement",
-      "describe",
-      "theater"
-     ],
-     "keyVocab": [
-      "actor",
       "authoritarian",
       "statement",
       "describe",
