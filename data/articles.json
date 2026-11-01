@@ -1,6 +1,821 @@
 {
- "updated": "2026-10-31T06:04:00.476678+00:00",
+ "updated": "2026-11-01T06:31:54.128841+00:00",
  "days": [
+  {
+   "date": "2026-11-01",
+   "articles": [
+    {
+     "id": "2026-11-01-world",
+     "section": "World",
+     "sectionZh": "国际",
+     "title": "Secretary Rubio has a tough time getting officials at G20 on the same page",
+     "dek": "U.S. Secretary of State Marco Rubio is hosting the G20 foreign ministers' meeting in Atlanta, with a focus on economic and security challenges.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/10/31/nx-s1-6022223/secretary-rubio-has-a-tough-time-getting-officials-at-g20-on-the-same-page",
+     "byline": "Michele Kelemen",
+     "dateLabel": "2026-11-01",
+     "words": 314,
+     "readTime": 3,
+     "level": "B2",
+     "levelEn": "Upper-intermediate",
+     "paragraphs": [
+      {
+       "en": "U.S. Secretary of State Marco Rubio is hosting the G20 foreign ministers' meeting in Atlanta, with a focus on economic and security challenges.",
+       "zh": "美国国务卿马尔科·鲁比奥正在亚特兰大主持二十国集团外长会议，重点关注经济和安全挑战。"
+      },
+      {
+       "en": "Tensions flared this weekend at a meeting chaired by Secretary of State Marco Rubio of the Group of 20 leading economies. NPR's Michele Kelemen reports from Atlanta.",
+       "zh": "本周末，在由二十国集团主要经济体的国务卿马尔科·鲁比奥主持的会议上，紧张局势升级。NPR的米歇尔·凯莱门从亚特兰大报道。"
+      },
+      {
+       "en": "MICHELE KELEMEN, BYLINE: There was no joint communiqué or even a family photo. Several foreign ministers did not want to be in a picture with Russia's Sergey Lavrov. So Rubio canceled plans for that, but he says countries did come together around some big themes, including freedom of navigation.",
+       "zh": "MICHELE KELEMEN，署名记者：没有联合公报，甚至没有家庭合影。几位外长不愿意与俄罗斯的谢尔盖·拉夫罗夫合影。因此，鲁比奥取消了这一计划，但他说各国确实在一些重大主题上达成了共识，包括航行自由。"
+      },
+      {
+       "en": "MARCO RUBIO: Safe passage of vessels in international waters is vital to the livelihood of the world. And we now live in a world where the Iranian regime actively and openly targets commercial vessels.",
+       "zh": "马克·鲁比奥：船只在国际水域的安全通行对世界的生计至关重要。而我们现在生活在一个伊朗政权公开并积极针对商业船只的世界中。"
+      },
+      {
+       "en": "KELEMEN: He says the U.S. is open to diplomacy with Iran, but he wouldn't rule out a new round of attacks, even as the U.S. military tries to keep the Strait of Hormuz open.",
+       "zh": "凯莱门：他说美国对与伊朗的外交持开放态度，但他不会排除新的攻击，尽管美国军方试图保持霍尔木兹海峡通行。"
+      },
+      {
+       "en": "RUBIO: Central Command in the United States has done a phenomenal job of protecting this shipping. And today, the amount of fuel getting through there is comparable with what was coming out before the conflict. But nonetheless, we've had to defend these ships from drones and missiles almost every single night.",
+       "zh": "鲁比奥：美国中央司令部在保护这些航运方面做得非常出色。如今，通过那里的燃料数量与冲突前的水平相当。但尽管如此，我们几乎每个晚上都必须保护这些船只免受无人机和导弹的袭击。"
+      },
+      {
+       "en": "KELEMEN: Other G20 countries are worried about the potential for a new escalation in the Middle East. Europeans are also nervous about U.S. sanctions relief to Russia. Germany's foreign minister, Johann Wadephul, is trying to highlight the positive, saying, while they may not agree on tactics, everyone shares the goal of getting Russia to the negotiating table to end the war in Ukraine.",
+       "zh": "KELEMEN：其他G20国家担心中东地区可能出现新的升级。欧洲人对于美国对俄罗斯的制裁缓解也感到紧张。德国外交部长约翰·瓦德富尔试图强调积极的一面，他说，虽然他们在具体策略上可能意见不一，但大家的共同目标是让俄罗斯坐上谈判桌，以结束乌克兰战争。"
+      },
+      {
+       "en": "JOHANN WADEPHUL: In the substance, we have the same position, not only in Europe, but together also with the United States of America. And for us, Marco Rubio was always a reliable partner.",
+       "zh": "约翰·瓦德富尔：在实质上，我们的立场是相同的，不仅在欧洲，而且与美利坚合众国一起。对我们来说，马可·鲁比奥一直是一个可靠的合作伙伴。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "foreign",
+       "pos": "adj.",
+       "zh": "外国的",
+       "ex": "Secretary of State Marco Rubio is hosting the G20 foreign ministers' meeting in Atlanta, with a focus on economic and security challenges.",
+       "forms": []
+      },
+      {
+       "w": "minister",
+       "pos": "n.",
+       "zh": "部长；大臣",
+       "ex": "Secretary of State Marco Rubio is hosting the G20 foreign ministers' meeting in Atlanta, with a focus on economic and security challenges.",
+       "forms": [
+        "ministers"
+       ]
+      },
+      {
+       "w": "economic",
+       "pos": "adj.",
+       "zh": "经济的",
+       "ex": "Secretary of State Marco Rubio is hosting the G20 foreign ministers' meeting in Atlanta, with a focus on economic and security challenges.",
+       "forms": []
+      },
+      {
+       "w": "challenge",
+       "pos": "n.",
+       "zh": "挑战",
+       "ex": "Secretary of State Marco Rubio is hosting the G20 foreign ministers' meeting in Atlanta, with a focus on economic and security challenges.",
+       "forms": [
+        "challenges"
+       ]
+      },
+      {
+       "w": "tension",
+       "pos": "n.",
+       "zh": "紧张局势；张力",
+       "ex": "Tensions flared this weekend at a meeting chaired by Secretary of State Marco Rubio of the Group of 20 leading economies.",
+       "forms": [
+        "tensions"
+       ]
+      },
+      {
+       "w": "economy",
+       "pos": "n.",
+       "zh": "经济",
+       "ex": "Tensions flared this weekend at a meeting chaired by Secretary of State Marco Rubio of the Group of 20 leading economies.",
+       "forms": [
+        "economies"
+       ]
+      },
+      {
+       "w": "report",
+       "pos": "n.",
+       "zh": "报告；报道",
+       "ex": "NPR's Michele Kelemen reports from Atlanta.",
+       "forms": [
+        "reports"
+       ]
+      },
+      {
+       "w": "family",
+       "pos": "n.",
+       "zh": "家庭",
+       "ex": "MICHELE KELEMEN, BYLINE: There was no joint communiqué or even a family photo.",
+       "forms": []
+      },
+      {
+       "w": "international",
+       "pos": "adj.",
+       "zh": "国际的",
+       "ex": "MARCO RUBIO: Safe passage of vessels in international waters is vital to the livelihood of the world.",
+       "forms": []
+      },
+      {
+       "w": "water",
+       "pos": "n.",
+       "zh": "水",
+       "ex": "MARCO RUBIO: Safe passage of vessels in international waters is vital to the livelihood of the world.",
+       "forms": [
+        "waters"
+       ]
+      },
+      {
+       "w": "vital",
+       "pos": "adj.",
+       "zh": "至关重要的",
+       "ex": "MARCO RUBIO: Safe passage of vessels in international waters is vital to the livelihood of the world.",
+       "forms": []
+      },
+      {
+       "w": "regime",
+       "pos": "n.",
+       "zh": "政权；体制",
+       "ex": "And we now live in a world where the Iranian regime actively and openly targets commercial vessels.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "foreign",
+      "minister",
+      "economic",
+      "challenge",
+      "tension"
+     ],
+     "keyVocab": [
+      "foreign",
+      "minister",
+      "economic",
+      "challenge",
+      "tension",
+      "economy",
+      "report",
+      "family"
+     ]
+    },
+    {
+     "id": "2026-11-01-business",
+     "section": "Business",
+     "sectionZh": "商业 · 财经",
+     "title": "Mixed economic forecast weighs heavy ahead of midterms",
+     "dek": "There was a mixed Halloween bag of economic news this week. GDP growth is up, but so are prices. For now at least, interest rates are staying the same. What does that mean for the midterm elections?",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/10/31/nx-s1-6022285/mixed-economic-forecast-weighs-heavy-ahead-of-midterms",
+     "byline": "Scott Horsley",
+     "dateLabel": "2026-11-01",
+     "words": 423,
+     "readTime": 3,
+     "level": "B2",
+     "levelEn": "Upper-intermediate",
+     "paragraphs": [
+      {
+       "en": "There was a mixed Halloween bag of economic news this week. GDP growth is up, but so are prices. For now at least, interest rates are staying the same. What does that mean for the midterm elections?",
+       "zh": "本周的经济消息五花八门，像是混合的万圣节礼包。国内生产总值增长了，但物价也在上涨。至少目前，利率保持不变。这对中期选举意味着什么？"
+      },
+      {
+       "en": "As we just heard, many midterm races are extremely tight. And for voters, the economy has consistently ranked as a top issue driving them to the polls. This week, just days away from Election Day, we got some key economic news. New GDP numbers show the U.S. economy is growing at a healthy clip, but inflation remains stubbornly high. The Federal Reserve met and decided not to raise interest rates, but higher borrowing costs could still be in store by the end of the year. So what does that mean for the midterms? NPR's Scott Horsley is with us to explain.",
+       "zh": "正如我们刚刚听到的，许多中期选举的竞赛十分激烈。对于选民来说，经济一直被认为是促使他们去投票的首要问题。本周，距离选举日仅有几天之际，我们得到了一些关键的经济消息。新的国内生产总值数据表明，美国经济正在以健康的速度增长，但通货膨胀仍然顽固地高企。美联储召开会议并决定不提高利率，但到今年年底，借贷成本可能仍会上升。那么，这对中期选举意味着什么呢？NPR的斯科特·霍斯利（Scott Horsley）将为我们解释。"
+      },
+      {
+       "en": "PFEIFFER: So affordability, that word we hear over and over and over again. It's at the top of mind of so many voters. What is the new economic data tell us about that?",
+       "zh": "PFEIFFER：所以可负担性，这个词我们一次又一次地听到。它在许多选民心中占据首位。新的经济数据告诉我们关于这一点什么？"
+      },
+      {
+       "en": "HORSLEY: Well, it tells us affordability is still a challenge. You know, the cost of living keeps going up, and people's paychecks are not keeping pace. This week, the Commerce Department clocked inflation in September at 3.6%. That's higher than the month before. And significantly, it's higher than it was when President Trump returned to the White House. That's a big reason nearly two-thirds of Americans disapprove of the president's economic stewardship. Voters punished Democrats for inflation back in 2024, and they may decide to punish Republicans this time around.",
+       "zh": "霍斯利：嗯，这告诉我们，负担能力仍然是一个挑战。你知道，生活成本不断上升，而人们的工资却跟不上步伐。本周，商务部公布九月份的通胀率为3.6%。这比上个月高。而且，值得注意的是，这比特朗普总统回到白宫时还要高。这是近三分之二美国人不赞成总统经济管理的一个重要原因。选民在2024年因通胀而惩罚了民主党，而这次他们可能会决定惩罚共和党。"
+      },
+      {
+       "en": "PFEIFFER: Yet we have the seeming contradiction, which is that the latest numbers show the economy is growing. So why isn't that registering or paying off for ordinary voters?",
+       "zh": "PFEIFFER：然而我们有一个看似矛盾的情况，那就是最新数据表明经济在增长。那么，为什么这对普通选民来说没有反映出来或带来收益呢？"
+      },
+      {
+       "en": "HORSLEY: Yeah. The economy did perk up a bit in late summer and early fall. GDP, which is the broadest measure of economic activity, grew at an annual rate of 3.4% in July, August and September. That's up from 2.2% the previous quarter. Federal Reserve Chairman Kevin Warsh said this past week, that's a good sign.",
+       "zh": "霍斯利：是的。经济在晚夏和初秋确实有所回升。国内生产总值（GDP），这是衡量经济活动最广泛的指标，在七月、八月和九月的年增长率为3.4%。相比上一季度的2.2%有所上升。美联储主席凯文·沃什上周表示，这是一个好迹象。"
+      },
+      {
+       "en": "KEVIN WARSH: The economy is strong. The economy is pointing in the right direction.",
+       "zh": "凯文·沃什：经济很强劲。经济正朝着正确的方向发展。"
+      },
+      {
+       "en": "HORSLEY: But a lot of that GDP growth is being driven by the huge investment in artificial intelligence. And, you know, if you build data centers for a living, you're pretty busy these days. But otherwise, this burst of economic growth has not been accompanied by a burst of new jobs.",
+       "zh": "HORSLEY：但是，GDP 的大部分增长是由对人工智能的大量投资推动的。而且，你知道，如果你的工作是建造数据中心，那么最近你会非常忙。不过，除此之外，这波经济增长并没有伴随大量新工作的增加。"
+      },
+      {
+       "en": "PFEIFFER: And, Scott, what about the job market? What about unemployment numbers?",
+       "zh": "PFEIFFER：那么，斯科特，就业市场情况如何？失业数字呢？"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "economic",
+       "pos": "adj.",
+       "zh": "经济的",
+       "ex": "There was a mixed Halloween bag of economic news this week.",
+       "forms": []
+      },
+      {
+       "w": "news",
+       "pos": "n.",
+       "zh": "新闻",
+       "ex": "There was a mixed Halloween bag of economic news this week.",
+       "forms": []
+      },
+      {
+       "w": "growth",
+       "pos": "n.",
+       "zh": "增长",
+       "ex": "GDP growth is up, but so are prices.",
+       "forms": []
+      },
+      {
+       "w": "price",
+       "pos": "n.",
+       "zh": "价格",
+       "ex": "GDP growth is up, but so are prices.",
+       "forms": [
+        "prices"
+       ]
+      },
+      {
+       "w": "rate",
+       "pos": "n.",
+       "zh": "比率；速度",
+       "ex": "For now at least, interest rates are staying the same.",
+       "forms": [
+        "rates"
+       ]
+      },
+      {
+       "w": "election",
+       "pos": "n.",
+       "zh": "选举",
+       "ex": "What does that mean for the midterm elections?",
+       "forms": [
+        "elections"
+       ]
+      },
+      {
+       "w": "economy",
+       "pos": "n.",
+       "zh": "经济",
+       "ex": "And for voters, the economy has consistently ranked as a top issue driving them to the polls.",
+       "forms": []
+      },
+      {
+       "w": "issue",
+       "pos": "n.",
+       "zh": "议题；问题",
+       "ex": "And for voters, the economy has consistently ranked as a top issue driving them to the polls.",
+       "forms": []
+      },
+      {
+       "w": "poll",
+       "pos": "n.",
+       "zh": "民意调查",
+       "ex": "And for voters, the economy has consistently ranked as a top issue driving them to the polls.",
+       "forms": [
+        "polls"
+       ]
+      },
+      {
+       "w": "number",
+       "pos": "n.",
+       "zh": "数量；数字",
+       "ex": "New GDP numbers show the U.S.",
+       "forms": [
+        "numbers"
+       ]
+      },
+      {
+       "w": "inflation",
+       "pos": "n.",
+       "zh": "通货膨胀",
+       "ex": "economy is growing at a healthy clip, but inflation remains stubbornly high.",
+       "forms": []
+      },
+      {
+       "w": "federal",
+       "pos": "adj.",
+       "zh": "联邦的",
+       "ex": "The Federal Reserve met and decided not to raise interest rates, but higher borrowing costs could still be in store by the end of the year.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "economic",
+      "news",
+      "growth",
+      "price",
+      "rate"
+     ],
+     "keyVocab": [
+      "economic",
+      "news",
+      "growth",
+      "price",
+      "rate",
+      "election",
+      "economy",
+      "issue"
+     ]
+    },
+    {
+     "id": "2026-11-01-technology",
+     "section": "Technology",
+     "sectionZh": "科技",
+     "title": "Wild West crypto: Staggering Binance heist exposes sector fragility",
+     "dek": "A massive cyber heist of crypto exchange Binance is exposing some of the fragilities of the sector and reinforcing perceptions of the industry as a financial Wild West, critics warn.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/10/31/nx-s1-6023330/wild-west-crypto-staggering-binance-heist-exposes-sector-fragility",
+     "byline": "Scott Simon",
+     "dateLabel": "2026-11-01",
+     "words": 398,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "A massive cyber heist of crypto exchange Binance is exposing some of the fragilities of the sector and reinforcing perceptions of the industry as a financial Wild West, critics warn.",
+       "zh": "批评人士警告称，对加密交易所币安的大规模网络盗窃正在暴露该行业的一些脆弱性，并强化了人们对该行业像金融西部荒野一样的看法。"
+      },
+      {
+       "en": "This week, hackers stole more than $6 billion from the Binance Crypto Exchange, the biggest heist in the history of cryptocurrency. The incident is sparking new fears about that sector, sometimes called Wild West of finance, and it comes as the crypto industry has been trying to gain broader respectability under a friendly administration. We're joined now by NPR senior business editor Rafael Nam. Rafael, thanks so much for being with us.",
+       "zh": "本周，黑客从币安加密货币交易所窃取了超过60亿美元，这是加密货币历史上最大的抢劫案件。该事件引发了人们对这一行业的新担忧，这个行业有时被称为金融的“狂野西部”，而此时加密货币行业正试图在一个友好的政府下获得更广泛的认可。我们现在请来了NPR资深商业编辑拉斐尔·南。拉斐尔，非常感谢你与我们同在。"
+      },
+      {
+       "en": "SIMON: How did this happen? How did they lose so much money?",
+       "zh": "西蒙：这是怎么发生的？他们怎么会亏这么多钱？"
+      },
+      {
+       "en": "NAM: I know. It's a staggering amount. So a group of hackers, widely believed to be the North Korean military, broke into accounts that investors hold at Binance to trade cryptocurrencies such as Bitcoin and then stole their money, essentially. Now Binance has promised to repay anybody who lost money and is working hard at recovering as much of it as it can. The company says they've managed to freeze about $3 billion of the stolen crypto.",
+       "zh": "NAM: 我知道。这是一个令人震惊的数额。所以，有一群黑客，人们普遍认为是朝鲜军方，入侵了投资者在币安持有的账户，以交易比特币等加密货币，然后本质上窃取了他们的资金。现在币安承诺会偿还任何损失的钱，并且正在努力追回尽可能多的资金。公司表示他们已经成功冻结了约30亿美元的被盗加密货币。"
+      },
+      {
+       "en": "SIMON: You don't often hear about so much money being taken - stolen from a financial exchange. How did it happen?",
+       "zh": "西蒙：你不常听到从金融交易所窃取这么多钱的事情。这是怎么发生的？"
+      },
+      {
+       "en": "NAM: Yeah. I mean, so there's still a lot we don't know, Scott. And it's too early to say whether there were any major flaws at Binance's security systems. If anything, researchers I talk to say it may have more to do with how sophisticated North Korean hackers are. But the one thing critics did point out is that the way these crypto exchanges are set up deserves some scrutiny here.",
+       "zh": "NAM：是的。我是说，Scott，我们仍然有很多不清楚的地方。现在说币安的安全系统是否存在重大缺陷还为时过早。无论如何，我接触的一些研究人员表示，这可能更多地与朝鲜黑客的高水平技术有关。但批评者指出的一点是，这些加密货币交易所的设立方式确实值得关注。"
+      },
+      {
+       "en": "What's peculiar is that at crypto exchanges, you can not only buy and sell Bitcoin, for example, you can also hold that Bitcoin at a trading account at the exchange itself. That's a very unique and risky feature that makes it different from traditional stock exchanges, according to Amanda Fischer from financial advocacy group Better Markets.",
+       "zh": "奇怪的是，在加密货币交易所，你不仅可以买卖比特币，例如，你还可以在交易所的交易账户中持有比特币。金融宣传组织Better Markets的阿曼达·费舍尔表示，这是一个非常独特且高风险的特性，使其不同于传统的股票交易所。"
+      },
+      {
+       "en": "AMANDA FISCHER: You may trade on the New York Stock Exchange, but you don't keep your funds with the New York Stock Exchange. You keep it with your broker. And your broker is audited and regulated by the SEC, and your broker has to pay for insurance that will make customers whole in the event that there's a cyberattack.",
+       "zh": "阿曼达·费舍尔：你可以在纽约证券交易所交易，但你不会将资金存放在纽约证券交易所。你是将资金存放在你的经纪人那里。你的经纪人接受美国证券交易委员会的审计和监管，并且你的经纪人必须购买保险，以在发生网络攻击时保障客户的资金安全。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "industry",
+       "pos": "n.",
+       "zh": "行业；工业",
+       "ex": "A massive cyber heist of crypto exchange Binance is exposing some of the fragilities of the sector and reinforcing perceptions of the industry as a financial Wild West, critics warn.",
+       "forms": []
+      },
+      {
+       "w": "financial",
+       "pos": "adj.",
+       "zh": "金融的；财务的",
+       "ex": "A massive cyber heist of crypto exchange Binance is exposing some of the fragilities of the sector and reinforcing perceptions of the industry as a financial Wild West, critics warn.",
+       "forms": []
+      },
+      {
+       "w": "critic",
+       "pos": "n.",
+       "zh": "评论家；批评家",
+       "ex": "A massive cyber heist of crypto exchange Binance is exposing some of the fragilities of the sector and reinforcing perceptions of the industry as a financial Wild West, critics warn.",
+       "forms": [
+        "critics"
+       ]
+      },
+      {
+       "w": "warn",
+       "pos": "v.",
+       "zh": "警告",
+       "ex": "A massive cyber heist of crypto exchange Binance is exposing some of the fragilities of the sector and reinforcing perceptions of the industry as a financial Wild West, critics warn.",
+       "forms": []
+      },
+      {
+       "w": "billion",
+       "pos": "n.",
+       "zh": "十亿",
+       "ex": "This week, hackers stole more than $6 billion from the Binance Crypto Exchange, the biggest heist in the history of cryptocurrency.",
+       "forms": []
+      },
+      {
+       "w": "history",
+       "pos": "n.",
+       "zh": "历史",
+       "ex": "This week, hackers stole more than $6 billion from the Binance Crypto Exchange, the biggest heist in the history of cryptocurrency.",
+       "forms": []
+      },
+      {
+       "w": "cryptocurrency",
+       "pos": "n.",
+       "zh": "加密货币",
+       "ex": "This week, hackers stole more than $6 billion from the Binance Crypto Exchange, the biggest heist in the history of cryptocurrency.",
+       "forms": [
+        "cryptocurrencies"
+       ]
+      },
+      {
+       "w": "spark",
+       "pos": "v.",
+       "zh": "引发；点燃",
+       "ex": "The incident is sparking new fears about that sector, sometimes called Wild West of finance, and it comes as the crypto industry has been trying to gain broader respectability under a friendly administration.",
+       "forms": [
+        "sparking"
+       ]
+      },
+      {
+       "w": "administration",
+       "pos": "n.",
+       "zh": "政府；行政",
+       "ex": "The incident is sparking new fears about that sector, sometimes called Wild West of finance, and it comes as the crypto industry has been trying to gain broader respectability under a friendly administration.",
+       "forms": []
+      },
+      {
+       "w": "military",
+       "pos": "n.",
+       "zh": "军队；军方",
+       "ex": "So a group of hackers, widely believed to be the North Korean military, broke into accounts that investors hold at Binance to trade cryptocurrencies such as Bitcoin and then stole their money, essentially.",
+       "forms": []
+      },
+      {
+       "w": "investor",
+       "pos": "n.",
+       "zh": "投资者",
+       "ex": "So a group of hackers, widely believed to be the North Korean military, broke into accounts that investors hold at Binance to trade cryptocurrencies such as Bitcoin and then stole their money, essentially.",
+       "forms": [
+        "investors"
+       ]
+      },
+      {
+       "w": "researcher",
+       "pos": "n.",
+       "zh": "研究人员",
+       "ex": "If anything, researchers I talk to say it may have more to do with how sophisticated North Korean hackers are.",
+       "forms": [
+        "researchers"
+       ]
+      }
+     ],
+     "homeWords": [
+      "industry",
+      "financial",
+      "critic",
+      "warn",
+      "billion"
+     ],
+     "keyVocab": [
+      "industry",
+      "financial",
+      "critic",
+      "warn",
+      "billion",
+      "history",
+      "cryptocurrency",
+      "spark"
+     ]
+    },
+    {
+     "id": "2026-11-01-science",
+     "section": "Science",
+     "sectionZh": "科学",
+     "title": "Plans for a data center threaten scenic wilderness and dark skies in West Virginia",
+     "dek": "DAVIS, W.Va. — Stretching nearly a million acres through the rugged mountains of eastern West Virginia, the Monongahela National Forest links some of the state's best known natural attractions.…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/10/31/nx-s1-5992790/data-centers-west-virginia-skiing-dark-skies",
+     "byline": "Scott Neuman",
+     "dateLabel": "2026-11-01",
+     "words": 356,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "DAVIS, W.Va. — Stretching nearly a million acres through the rugged mountains of eastern West Virginia, the Monongahela National Forest links some of the state's best known natural attractions. The vast area ranges from the ski slopes of Canaan Valley to the dark skies of Blackwater Falls and Spruce Knob and includes the small towns of Davis and Thomas that serve as gateways for visitors to the region.",
+       "zh": "西弗吉尼亚州戴维斯——蒙农加希拉国家森林横跨西弗吉尼亚东部崎岖的山脉，面积近一百万英亩，连接了该州一些最著名的自然景点。这片广阔的区域从卡南谷的滑雪坡延伸到布莱克沃特瀑布和云杉峰的黑暗天空，并包括戴维斯和托马斯这两个小镇，作为游客前往该地区的门户。"
+      },
+      {
+       "en": "For the past seven months, Kaleb Skelton, his wife, Ella, their 2-year-old son, Ryder, and dog Mabel have lived in a camper in this corner of West Virginia's \"almost heaven.\" Kaleb is finishing a seasonal stint as a campground manager on a lake near Spruce Knob, the state's highest point.",
+       "zh": "在过去的七个月里，Kaleb Skelton、他的妻子Ella、他们两岁的儿子Ryder以及他们的狗Mabel一直住在西弗吉尼亚州这个“几乎是天堂”的角落里的一个露营车里。Kaleb正在完成他作为Spruce Knob附近一个湖泊露营地经理的季节性工作，Spruce Knob是该州的最高点。"
+      },
+      {
+       "en": "On clear nights atop the isolated peak, they get to experience a river of stars in one of the very few pockets of darkness remaining in the Eastern United States. The area has become a draw for amateur astronomers.",
+       "zh": "在那座孤立山峰的晴朗夜晚，他们可以在美国东部残留的少数黑暗区域之一中，亲身体验到星河。该区域已成为业余天文学家的热门之地。"
+      },
+      {
+       "en": "During summer's new moons, Kaleb says, one in four campsites he oversees is occupied by someone with a telescope. He thought his family's cabin in eastern Texas offered \"the craziest\" dark skies he'd ever seen, \"but coming out here definitely rivals it.\"",
+       "zh": "在夏天的新月期间，卡勒布说，他监管的四个营地中就有一个会有带望远镜的人。他曾认为自己家位于德克萨斯州东部的小木屋拥有“他见过的最疯狂的”黑暗天空，“但来到这里绝对可以与之媲美。”"
+      },
+      {
+       "en": "Those inky-black nights — and the natural beauty they shelter — are now under threat from what many residents see as a modern-day version of extractive industries like logging and mining that once defined the region. In a place where tourism, outdoor recreation and community are deeply intertwined, a gigantic power plant and data center campus in nearby Tucker County would bring large-scale development into the heart of it all.",
+       "zh": "那些漆黑的夜晚——以及它们所孕育的自然美景——现在正受到威胁，许多居民认为这种威胁是现代版的开采业，就像曾经定义该地区的伐木和采矿业一样。在一个旅游业、户外活动和社区紧密交织的地方，附近塔克县的一座巨型发电厂和数据中心园区将把大规模开发带入这一切的中心。"
+      },
+      {
+       "en": "A stark image of the town of Davis from 1885, during the heyday of logging, is a reminder of that transformation. The photo shows a handful of squat buildings amid a broad clearing littered with forest remains.",
+       "zh": "1885年戴维斯镇的一个鲜明画面，在伐木业鼎盛时期，提醒人们那一转变。这张照片显示，在一片布满森林残骸的宽阔空地上，零星分布着几栋矮小的建筑。"
+      },
+      {
+       "en": "They used to call it \"Stump Town,\" says Kim Williams, president of the Snow Sports Museum of West Virginia in Canaan Valley. At the turn of the century, massive first-growth trees dominated the landscape.",
+       "zh": "“他们过去常称它为‘树桩镇’，”西弗吉尼亚州卡南谷雪上运动博物馆馆长金·威廉姆斯说。世纪之交，大片的原始老树主宰了这片景观。"
+      },
+      {
+       "en": "Then, logging companies \"came in and clear-cut the whole valley and everything around it,\" he says.",
+       "zh": "然后，他说，伐木公司“进来，把整个山谷以及周围的一切都清理干净了。”"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "million",
+       "pos": "n.",
+       "zh": "百万",
+       "ex": "— Stretching nearly a million acres through the rugged mountains of eastern West Virginia, the Monongahela National Forest links some of the state's best known natural attractions.",
+       "forms": []
+      },
+      {
+       "w": "national",
+       "pos": "adj.",
+       "zh": "国家的；全国的",
+       "ex": "— Stretching nearly a million acres through the rugged mountains of eastern West Virginia, the Monongahela National Forest links some of the state's best known natural attractions.",
+       "forms": []
+      },
+      {
+       "w": "forest",
+       "pos": "n.",
+       "zh": "森林",
+       "ex": "— Stretching nearly a million acres through the rugged mountains of eastern West Virginia, the Monongahela National Forest links some of the state's best known natural attractions.",
+       "forms": []
+      },
+      {
+       "w": "vast",
+       "pos": "adj.",
+       "zh": "巨大的；广阔的",
+       "ex": "The vast area ranges from the ski slopes of Canaan Valley to the dark skies of Blackwater Falls and Spruce Knob and includes the small towns of Davis and Thomas that serve as gateways for visitors to the region.",
+       "forms": []
+      },
+      {
+       "w": "fall",
+       "pos": "n.",
+       "zh": "下降；下跌",
+       "ex": "The vast area ranges from the ski slopes of Canaan Valley to the dark skies of Blackwater Falls and Spruce Knob and includes the small towns of Davis and Thomas that serve as gateways for visitors to the region.",
+       "forms": [
+        "falls"
+       ]
+      },
+      {
+       "w": "region",
+       "pos": "n.",
+       "zh": "地区；区域",
+       "ex": "The vast area ranges from the ski slopes of Canaan Valley to the dark skies of Blackwater Falls and Spruce Knob and includes the small towns of Davis and Thomas that serve as gateways for visitors to the region.",
+       "forms": []
+      },
+      {
+       "w": "rival",
+       "pos": "v.",
+       "zh": "与……竞争；媲美",
+       "ex": "He thought his family's cabin in eastern Texas offered \"the craziest\" dark skies he'd ever seen, \"but coming out here definitely rivals it.\" Those inky-black nights — and the natural beauty they shelter — are now under threat from what many residents see as a modern-day version of extractive industries like logging and mining that once defined the region.",
+       "forms": [
+        "rivals"
+       ]
+      },
+      {
+       "w": "threat",
+       "pos": "n.",
+       "zh": "威胁",
+       "ex": "He thought his family's cabin in eastern Texas offered \"the craziest\" dark skies he'd ever seen, \"but coming out here definitely rivals it.\" Those inky-black nights — and the natural beauty they shelter — are now under threat from what many residents see as a modern-day version of extractive industries like logging and mining that once defined the region.",
+       "forms": []
+      },
+      {
+       "w": "resident",
+       "pos": "n.",
+       "zh": "居民",
+       "ex": "He thought his family's cabin in eastern Texas offered \"the craziest\" dark skies he'd ever seen, \"but coming out here definitely rivals it.\" Those inky-black nights — and the natural beauty they shelter — are now under threat from what many residents see as a modern-day version of extractive industries like logging and mining that once defined the region.",
+       "forms": [
+        "residents"
+       ]
+      },
+      {
+       "w": "industry",
+       "pos": "n.",
+       "zh": "行业；工业",
+       "ex": "He thought his family's cabin in eastern Texas offered \"the craziest\" dark skies he'd ever seen, \"but coming out here definitely rivals it.\" Those inky-black nights — and the natural beauty they shelter — are now under threat from what many residents see as a modern-day version of extractive industries like logging and mining that once defined the region.",
+       "forms": [
+        "industries"
+       ]
+      },
+      {
+       "w": "community",
+       "pos": "n.",
+       "zh": "社区；群体",
+       "ex": "In a place where tourism, outdoor recreation and community are deeply intertwined, a gigantic power plant and data center campus in nearby Tucker County would bring large-scale development into the heart of it all.",
+       "forms": []
+      },
+      {
+       "w": "power",
+       "pos": "n.",
+       "zh": "权力；电力",
+       "ex": "In a place where tourism, outdoor recreation and community are deeply intertwined, a gigantic power plant and data center campus in nearby Tucker County would bring large-scale development into the heart of it all.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "million",
+      "national",
+      "forest",
+      "vast",
+      "fall"
+     ],
+     "keyVocab": [
+      "million",
+      "national",
+      "forest",
+      "vast",
+      "fall",
+      "region",
+      "rival",
+      "threat"
+     ]
+    },
+    {
+     "id": "2026-11-01-culture",
+     "section": "Culture",
+     "sectionZh": "文化",
+     "title": "Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs!",
+     "dek": "It looks like a spacecraft that settled gently onto a golden beach.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/10/31/g-s1-150698/drone-photo-award-winners",
+     "byline": "Kamala Thiagarajan",
+     "dateLabel": "2026-11-01",
+     "words": 477,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "It looks like a spacecraft that settled gently onto a golden beach.",
+       "zh": "它看起来像一艘轻轻降落在金色沙滩上的宇宙飞船。"
+      },
+      {
+       "en": "Off the coast of Bangladesh, an enormous vessel lies stranded on the mudflats, its steel hull partially dismantled as workers mill around it. This unusual aerial view of a tanker, specially designed to transport liquified natural gas used for cooking, electricity and transport, won photographer George Steinmetz the top prize — overall winner of the 2026 Siena Drone Photo Awards.",
+       "zh": "在孟加拉国海岸，一艘巨大的船只搁浅在泥滩上，其钢制船体部分被拆解，工人们在周围忙碌。这张罕见的航空视角照片拍摄的是一艘专门设计用于运输液化天然气（用于烹饪、电力和交通）的油轮，这张照片让摄影师乔治·斯坦梅茨赢得了2026年锡耶纳无人机摄影奖的最高奖——总冠军。"
+      },
+      {
+       "en": "Each year, the Siena Drone Photo Awards highlight bird's-eye views of our planet, revealing landscapes, livelihoods and human stories often invisible from the ground. Here, we've selected some of this year's winning and highly commended photographs, focusing on the countries of the Global South.",
+       "zh": "每年，锡耶纳无人机摄影奖都会展示我们星球的鸟瞰图，揭示从地面往往看不见的景观、生活方式和人类故事。在这里，我们挑选了今年的一些获奖和特别表彰的照片，重点关注全球南方的国家。"
+      },
+      {
+       "en": "In an interview with NPR, Steinmetz says he's been long fascinated by Bangladesh's shipbreaking industry, where enormous vessels from around the globe, nearing the end of their working lives, are dismantled and their materials recovered for reuse. The photograph is titled \"Shipbreaking on the mudflats, Bay of Bengal.\" Steinmetz sent up his drone north of Chattogram (Chittagong), along this 13-mile coastal strip, offering a stark glimpse into what this industry is like.",
+       "zh": "在接受NPR采访时，斯坦梅茨表示，他长期以来一直对孟加拉国的拆船业着迷，这里来自世界各地的巨型船只在接近使用寿命结束时被拆解，其材料被回收再利用。这张照片的标题是《孟加拉湾泥滩上的拆船》。斯坦梅茨将他的无人机送到吉大港（Chattogram/Chittagong）以北，沿着这条13英里的海岸线拍摄，展示了这个行业的真实面貌。"
+      },
+      {
+       "en": "He was exploring the relationship between human populations and the environment for a book project and saw the industry as an extraordinary example of recycling on a vast scale.",
+       "zh": "他正在为一本书的项目探索人类群体与环境之间的关系，并将这个行业视为大规模回收的一个非凡例子。"
+      },
+      {
+       "en": "Photographing it proved surprisingly difficult. The ship breaking industry has faced criticism from environmental organizations, human rights groups, labor unions and non-governmental organizations for its unchecked pollution, the leeching of chemicals into the sea and dangerous working conditions. Shipyard owners are wary of journalists and photographers. Local photographers initially warned Steinmetz that securing access might be nearly impossible.",
+       "zh": "拍摄它出乎意料地困难。拆船行业因其无法控制的污染、化学物质渗入海洋以及危险的工作条件，已受到环保组织、人权团体、工会和非政府组织的批评。船厂老板对记者和摄影师持谨慎态度。当地的摄影师最初警告施坦梅茨，获得进入许可可能几乎不可能。"
+      },
+      {
+       "en": "Undeterred, he surveyed and photographed the entire coastline north of Chattogram with his drone, searching for a vessel that would make an especially striking photograph. He eventually settled on the liquid natural gas tanker. \"The trick for me was to find the right ship, that was in a really interesting state of disassembly. And these tankers are very unusual boats. It just looked weird, like some kind of a spaceship. It takes workers a long time to break it down. And then they have to wait for the tide to be right so they can pull the pieces ashore. They have big winches and boats that they use to get the stuff ashore.\"",
+       "zh": "他毫不气馁，用无人机勘察并拍摄了恰特马港以北的整个海岸线，寻找一艘能够拍出特别醒目照片的船。他最终选中了液化天然气油轮。“对我来说，关键是找到合适的船，它正处于一种非常有趣的拆解状态。这些油轮是非常特殊的船。它看上去很奇怪，就像某种宇宙飞船。工人们需要很长时间才能将其拆解。然后他们必须等到潮水合适，才能把船的零件拉到岸上。他们有大型绞车和船只用来把这些东西运上岸。”"
+      },
+      {
+       "en": "He was able to convince the owner of the tanker to allow him to photograph it. The timing of the drone photo was crucial. Steinmetz wanted to capture the vessel at low tide, when the surrounding mudflats were exposed and workers could be seen moving around its enormous hull. Their tiny figures would look like ants, giving viewers a sense of the ship's mammoth scale. He spent several days photographing the vessel, returning as the tides shifted and the workers continued to take the ship apart for scrap metal.",
+       "zh": "他能够说服油轮的船主允许他拍摄它。无人机拍摄的时间至关重要。斯坦梅茨希望在退潮时拍摄这艘船，那时候周围的泥滩暴露出来，工人们可以被看到在巨大的船体周围移动。他们渺小的身影看起来就像蚂蚁一样，让观众感受到船的庞大规模。他花了好几天时间拍摄这艘船，随着潮汐变化回到现场，工人们继续拆解船体以回收废金属。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "spacecraft",
+       "pos": "n.",
+       "zh": "航天器；宇宙飞船",
+       "ex": "It looks like a spacecraft that settled gently onto a golden beach.",
+       "forms": []
+      },
+      {
+       "w": "enormous",
+       "pos": "adj.",
+       "zh": "巨大的；庞大的",
+       "ex": "Off the coast of Bangladesh, an enormous vessel lies stranded on the mudflats, its steel hull partially dismantled as workers mill around it.",
+       "forms": []
+      },
+      {
+       "w": "worker",
+       "pos": "n.",
+       "zh": "工人；员工",
+       "ex": "Off the coast of Bangladesh, an enormous vessel lies stranded on the mudflats, its steel hull partially dismantled as workers mill around it.",
+       "forms": [
+        "workers"
+       ]
+      },
+      {
+       "w": "gas",
+       "pos": "n.",
+       "zh": "天然气；气体",
+       "ex": "This unusual aerial view of a tanker, specially designed to transport liquified natural gas used for cooking, electricity and transport, won photographer George Steinmetz the top prize — overall winner of the 2026 Siena Drone Photo Awards.",
+       "forms": []
+      },
+      {
+       "w": "electricity",
+       "pos": "n.",
+       "zh": "电力",
+       "ex": "This unusual aerial view of a tanker, specially designed to transport liquified natural gas used for cooking, electricity and transport, won photographer George Steinmetz the top prize — overall winner of the 2026 Siena Drone Photo Awards.",
+       "forms": []
+      },
+      {
+       "w": "drone",
+       "pos": "n.",
+       "zh": "无人机",
+       "ex": "This unusual aerial view of a tanker, specially designed to transport liquified natural gas used for cooking, electricity and transport, won photographer George Steinmetz the top prize — overall winner of the 2026 Siena Drone Photo Awards.",
+       "forms": []
+      },
+      {
+       "w": "reveal",
+       "pos": "v.",
+       "zh": "揭示；透露",
+       "ex": "Each year, the Siena Drone Photo Awards highlight bird's-eye views of our planet, revealing landscapes, livelihoods and human stories often invisible from the ground.",
+       "forms": [
+        "revealing"
+       ]
+      },
+      {
+       "w": "global",
+       "pos": "adj.",
+       "zh": "全球的",
+       "ex": "Here, we've selected some of this year's winning and highly commended photographs, focusing on the countries of the Global South.",
+       "forms": []
+      },
+      {
+       "w": "interview",
+       "pos": "n.",
+       "zh": "采访；面试",
+       "ex": "In an interview with NPR, Steinmetz says he's been long fascinated by Bangladesh's shipbreaking industry, where enormous vessels from around the globe, nearing the end of their working lives, are dismantled and their materials recovered for reuse.",
+       "forms": []
+      },
+      {
+       "w": "industry",
+       "pos": "n.",
+       "zh": "行业；工业",
+       "ex": "In an interview with NPR, Steinmetz says he's been long fascinated by Bangladesh's shipbreaking industry, where enormous vessels from around the globe, nearing the end of their working lives, are dismantled and their materials recovered for reuse.",
+       "forms": []
+      },
+      {
+       "w": "vast",
+       "pos": "adj.",
+       "zh": "巨大的；广阔的",
+       "ex": "He was exploring the relationship between human populations and the environment for a book project and saw the industry as an extraordinary example of recycling on a vast scale.",
+       "forms": []
+      },
+      {
+       "w": "union",
+       "pos": "n.",
+       "zh": "工会；联盟",
+       "ex": "The ship breaking industry has faced criticism from environmental organizations, human rights groups, labor unions and non-governmental organizations for its unchecked pollution, the leeching of chemicals into the sea and dangerous working conditions.",
+       "forms": [
+        "unions"
+       ]
+      }
+     ],
+     "homeWords": [
+      "spacecraft",
+      "enormous",
+      "worker",
+      "gas",
+      "electricity"
+     ],
+     "keyVocab": [
+      "spacecraft",
+      "enormous",
+      "worker",
+      "gas",
+      "electricity",
+      "drone",
+      "reveal",
+      "global"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-10-31",
    "articles": [
@@ -4569,681 +5384,6 @@
       "study",
       "reason",
       "park"
-     ]
-    }
-   ]
-  },
-  {
-   "date": "2026-10-25",
-   "articles": [
-    {
-     "id": "2026-10-25-world",
-     "section": "World",
-     "sectionZh": "国际",
-     "title": "Protests roil France once again as police seek to quell violence",
-     "dek": "Hundreds of thousands turned out across France to protest everything from the lack of school funding to economic inequality. Police also were out in force to prevent a repeat of last week's violence.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/24/nx-s1-6014520/protests-roil-france-once-again-as-police-seek-to-quell-violence",
-     "byline": "Eleanor Beardsley",
-     "dateLabel": "2026-10-25",
-     "words": 315,
-     "readTime": 3,
-     "level": "B2",
-     "levelEn": "Upper-intermediate",
-     "paragraphs": [
-      {
-       "en": "Hundreds of thousands turned out across France to protest everything from the lack of school funding to economic inequality. Police also were out in force to prevent a repeat of last week's violence.",
-       "zh": "成千上万的人在法国各地上街抗议，从学校资金不足到经济不平等等各种问题。警方也大举出动，以防范上周暴力事件的重演。"
-      },
-      {
-       "en": "In France today, about 400,000 people came out in cities across the country to demonstrate. The movement began last month with students demanding better facilities. It's now morphed into a broader protest over the high cost of living and social inequality. In response, the French government put in place a massive security operation with more than 70,000 police. NPR's Eleanor Beardsley reports.",
-       "zh": "今天在法国，全国各地的城市约有40万人走上街头示威。这场运动始于上个月，最初是学生们要求改善设施。现在它已经演变为对高生活成本和社会不平等的更广泛抗议。作为回应，法国政府实施了一项大规模的安保行动，动员了超过7万名警察。NPR的埃莉诺·比尔兹利报道。"
-      },
-      {
-       "en": "UNIDENTIFIED PROTESTERS: (Chanting in non-English language).",
-       "zh": "身份不明的抗议者：（用非英语语言高呼口号）。"
-      },
-      {
-       "en": "ELEANOR BEARDSLEY, BYLINE: Protesters of all ages and backgrounds coursed down a Paris boulevard - students, workers, parents, retirees, and yellow vests, the largely white working-class movement that bedeviled French president Emmanuel Macron in his first term. These left-wing demonstrators held placards calling to tax the rich and for Macron to resign. Dimitry Knoll explains why there is such anger.",
-       "zh": "埃莉诺·比尔兹利，署名：各年龄和背景的抗议者涌向巴黎的一条大道——学生、工人、父母、退休人员以及“黄背心”运动，这个主要由白人工人阶级组成的运动在法国总统埃马纽埃尔·马克龙的第一任期内困扰了他。这些左翼示威者手举标语牌，呼吁对富人征税，并要求马克龙辞职。迪米特里·诺尔解释了为什么会有如此大的愤怒。"
-      },
-      {
-       "en": "BEARDSLEY: \"We hate Macron,\" he says, \"because he's been leading these ultra-capitalist policies for 10 years that are just widening inequalities, and young people have less hope for the future.\" Knoll doesn't buy the government's line that France's public debt prevents it from doing more for its people. There's money, he says. It's just in the hands of the rich.",
-       "zh": "比尔兹利：“我们讨厌马克龙，”他说，“因为他领导了这些极端资本主义政策已经有10年了，这些政策只是在加剧不平等，而年轻人对未来的希望越来越少。”诺尔不相信政府所说的法国公共债务阻止其为人民做更多的说法。他说，有钱的，只是掌握在富人手里。"
-      },
-      {
-       "en": "BEARDSLEY: \"We pay our taxes, yet everything is declining, and we're giving massive payouts to multinational companies,\" says Sandrine Delorie. Fellow protester Sarah Meloul says they all deplore the violence, but police aggression fueled it. And sometimes violence is necessary.",
-       "zh": "比尔兹利：“我们缴纳税款，但一切都在下滑，同时我们还向跨国公司支付巨额款项，”桑德琳·德洛里说。另一位抗议者莎拉·梅卢尔表示，他们都谴责暴力，但警察的侵略行为助长了暴力。有时暴力是必要的。"
-      },
-      {
-       "en": "BEARDSLEY: \"How did they take the bastille? With violence,\" she says. The student protests of May '68 succeeded because of violence. Meloul says, the government is finally listening.",
-       "zh": "比尔兹利：“他们是如何攻占巴士底狱的？用暴力，”她说。1968年5月的学生抗议之所以成功，是因为暴力。梅路说，政府终于在听取意见了。"
-      },
-      {
-       "en": "BEARDSLEY: A different France gathered today 100 miles south of Paris in the town of Orleans, where the far right was holding its annual party Congress.",
-       "zh": "比尔兹利：今天，在巴黎以南100英里的奥尔良镇，一个不同的法国聚集在这里，极右翼正在举行其年度党代表大会。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "protest",
-       "pos": "n.",
-       "zh": "抗议",
-       "ex": "Hundreds of thousands turned out across France to protest everything from the lack of school funding to economic inequality.",
-       "forms": [
-        "protests"
-       ]
-      },
-      {
-       "w": "school",
-       "pos": "n.",
-       "zh": "学校",
-       "ex": "Hundreds of thousands turned out across France to protest everything from the lack of school funding to economic inequality.",
-       "forms": []
-      },
-      {
-       "w": "fund",
-       "pos": "n.",
-       "zh": "基金；资金",
-       "ex": "Hundreds of thousands turned out across France to protest everything from the lack of school funding to economic inequality.",
-       "forms": [
-        "funding"
-       ]
-      },
-      {
-       "w": "economic",
-       "pos": "adj.",
-       "zh": "经济的",
-       "ex": "Hundreds of thousands turned out across France to protest everything from the lack of school funding to economic inequality.",
-       "forms": []
-      },
-      {
-       "w": "inequality",
-       "pos": "n.",
-       "zh": "不平等；差距",
-       "ex": "Hundreds of thousands turned out across France to protest everything from the lack of school funding to economic inequality.",
-       "forms": [
-        "inequalities"
-       ]
-      },
-      {
-       "w": "police",
-       "pos": "n.",
-       "zh": "警察",
-       "ex": "Police also were out in force to prevent a repeat of last week's violence.",
-       "forms": []
-      },
-      {
-       "w": "student",
-       "pos": "n.",
-       "zh": "学生",
-       "ex": "The movement began last month with students demanding better facilities.",
-       "forms": [
-        "students"
-       ]
-      },
-      {
-       "w": "demand",
-       "pos": "n.",
-       "zh": "需求",
-       "ex": "The movement began last month with students demanding better facilities.",
-       "forms": [
-        "demanding"
-       ]
-      },
-      {
-       "w": "cost",
-       "pos": "n.",
-       "zh": "成本；代价",
-       "ex": "It's now morphed into a broader protest over the high cost of living and social inequality.",
-       "forms": []
-      },
-      {
-       "w": "social",
-       "pos": "adj.",
-       "zh": "社会的；社交的",
-       "ex": "It's now morphed into a broader protest over the high cost of living and social inequality.",
-       "forms": []
-      },
-      {
-       "w": "report",
-       "pos": "n.",
-       "zh": "报告；报道",
-       "ex": "NPR's Eleanor Beardsley reports.",
-       "forms": [
-        "reports"
-       ]
-      },
-      {
-       "w": "worker",
-       "pos": "n.",
-       "zh": "工人；员工",
-       "ex": "ELEANOR BEARDSLEY, BYLINE: Protesters of all ages and backgrounds coursed down a Paris boulevard - students, workers, parents, retirees, and yellow vests, the largely white working-class movement that bedeviled French president Emmanuel Macron in his first term.",
-       "forms": [
-        "workers"
-       ]
-      }
-     ],
-     "homeWords": [
-      "protest",
-      "school",
-      "fund",
-      "economic",
-      "inequality"
-     ],
-     "keyVocab": [
-      "protest",
-      "school",
-      "fund",
-      "economic",
-      "inequality",
-      "police",
-      "student",
-      "demand"
-     ]
-    },
-    {
-     "id": "2026-10-25-business",
-     "section": "Business",
-     "sectionZh": "商业 · 财经",
-     "title": "Trade tariffs cause whiplash at Port Milwaukee",
-     "dek": "Sacha Pfeiffer visits Port Milwaukee to see how President Trump's tariffs have affected the flow of goods and impacted the regional economy.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/24/nx-s1-6011193/trade-tariffs-cause-whiplash-at-port-milwaukee",
-     "byline": "Sacha Pfeiffer",
-     "dateLabel": "2026-10-25",
-     "words": 387,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "Sacha Pfeiffer visits Port Milwaukee to see how President Trump's tariffs have affected the flow of goods and impacted the regional economy.",
-       "zh": "萨查·菲佛访问密尔沃基港，了解特朗普总统的关税如何影响货物流动并对区域经济产生影响。"
-      },
-      {
-       "en": "As we heard from those early voters in Texas and from coverage of the protests in France, the economy and affordability are surging concerns globally. It's also a concern locally in Milwaukee, where I'm hosting this program tonight. If you look at a map, you realize the city is located on a massive superhighway of water. Milwaukee is on Lake Michigan, part of the Great Lakes region, and that region is its own economy. Cargo from around the world is shipped across the Great Lakes, and all that maritime trade contributes to a regional economy worth about $9 trillion.",
-       "zh": "正如我们从德克萨斯州的早期选民那里听到的，以及从法国抗议活动的报道中所看到的，经济和可负担性正在成为全球关注的焦点。在本地的密尔沃基，这也是一个关注点，我今晚就在这里主持这个节目。如果你看一看地图，你会发现这座城市位于一条巨大的水上高速公路上。密尔沃基位于密歇根湖上，属于五大湖地区，而那个地区本身就是一个经济体。来自世界各地的货物通过五大湖运输，所有这些海运贸易为一个价值约9万亿美元的地区经济作出了贡献。"
-      },
-      {
-       "en": "Now look at that map again. Four of the five great lakes are shared between the United States and Canada. Those two countries are now in an economic battle due to President Trump's tariffs, and that fight is harming port cities like Milwaukee. That is why I found myself this week on a long concrete pier on the port of Milwaukee, overlooking the vast expanse of Lake Michigan and talking with port director Benji Timm.",
-       "zh": "现在再看看那张地图。五大湖中有四个是美国和加拿大共有的。这两个国家现在由于特朗普总统的关税而陷入经济争斗，而这场争斗正在伤害像密尔沃基这样的港口城市。这就是为什么我本周会站在密尔沃基港的一个长长的混凝土码头上，俯瞰密歇根湖的广阔水面，并与港口主管本吉·蒂姆交谈的原因。"
-      },
-      {
-       "en": "BENJI TIMM: So the boat is coming from the East. You can see the breakwater. There's a break in the breakwater out there. And there's...",
-       "zh": "本吉·蒂姆：所以船是从东方过来的。你可以看到防波堤。那边的防波堤有个缺口。还有……"
-      },
-      {
-       "en": "TIMM: Yes, between the light - the two lighthouses. That's where the vessels would come in. And if they're going into our inner mooring basin, they'd pass underneath the Hoan Bridge in the highway. If they're coming into one of our terminals here, they'd come straight in into one of these slips.",
-       "zh": "TIMM：是的，在灯光之间——两个灯塔之间。船只会从那里驶入。如果它们进入我们的内锚泊区，它们会从公路下的Hoan桥下经过。如果它们要进入我们这里的某个码头，它们会直接进入这些船位中的一个。"
-      },
-      {
-       "en": "PFEIFFER: So whether they're coming from Canada or Europe, that is the way they get in.",
-       "zh": "PFEIFFER：所以无论他们是来自加拿大还是欧洲，这就是他们进入的方式。"
-      },
-      {
-       "en": "PFEIFFER: Port Milwaukee does business with more than 300 ships a year that import goods from all over.",
-       "zh": "PFEIFFER：密尔沃基港每年与300多艘船舶开展业务，这些船舶从世界各地进口货物。"
-      },
-      {
-       "en": "TIMM: So there are steel beams on the terminal, and this steel came in from Luxembourg. It came in for a hospital project from Minnesota. It's unloaded from a vessel here, and then it's loaded up onto trucks and then trucked over to Minnesota.",
-       "zh": "TIMM：所以航站楼上有钢梁，这些钢是从卢森堡运来的。它是为明尼苏达的一个医院项目运来的。它从船上卸下来，然后装上卡车，再运到明尼苏达。"
-      },
-      {
-       "en": "PFEIFFER: I mean, and is that partly what the Trump administration hopes for eventually, is that we can make this steel at home? And by these tariffs, we won't have to bring it in from Europe?",
-       "zh": "普费弗：我的意思是，这是否部分是特朗普政府最终所希望的，即我们可以在国内生产这种钢材？通过这些关税，我们就不必从欧洲进口了吗？"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "president",
-       "pos": "n.",
-       "zh": "总统；总裁",
-       "ex": "Sacha Pfeiffer visits Port Milwaukee to see how President Trump's tariffs have affected the flow of goods and impacted the regional economy.",
-       "forms": []
-      },
-      {
-       "w": "tariff",
-       "pos": "n.",
-       "zh": "关税",
-       "ex": "Sacha Pfeiffer visits Port Milwaukee to see how President Trump's tariffs have affected the flow of goods and impacted the regional economy.",
-       "forms": [
-        "tariffs"
-       ]
-      },
-      {
-       "w": "impact",
-       "pos": "n.",
-       "zh": "影响；冲击",
-       "ex": "Sacha Pfeiffer visits Port Milwaukee to see how President Trump's tariffs have affected the flow of goods and impacted the regional economy.",
-       "forms": [
-        "impacted"
-       ]
-      },
-      {
-       "w": "economy",
-       "pos": "n.",
-       "zh": "经济",
-       "ex": "Sacha Pfeiffer visits Port Milwaukee to see how President Trump's tariffs have affected the flow of goods and impacted the regional economy.",
-       "forms": []
-      },
-      {
-       "w": "protest",
-       "pos": "n.",
-       "zh": "抗议",
-       "ex": "As we heard from those early voters in Texas and from coverage of the protests in France, the economy and affordability are surging concerns globally.",
-       "forms": [
-        "protests"
-       ]
-      },
-      {
-       "w": "surge",
-       "pos": "n.",
-       "zh": "激增；飙升",
-       "ex": "As we heard from those early voters in Texas and from coverage of the protests in France, the economy and affordability are surging concerns globally.",
-       "forms": [
-        "surging"
-       ]
-      },
-      {
-       "w": "water",
-       "pos": "n.",
-       "zh": "水",
-       "ex": "If you look at a map, you realize the city is located on a massive superhighway of water.",
-       "forms": []
-      },
-      {
-       "w": "region",
-       "pos": "n.",
-       "zh": "地区；区域",
-       "ex": "Milwaukee is on Lake Michigan, part of the Great Lakes region, and that region is its own economy.",
-       "forms": []
-      },
-      {
-       "w": "economic",
-       "pos": "adj.",
-       "zh": "经济的",
-       "ex": "Those two countries are now in an economic battle due to President Trump's tariffs, and that fight is harming port cities like Milwaukee.",
-       "forms": []
-      },
-      {
-       "w": "vast",
-       "pos": "adj.",
-       "zh": "巨大的；广阔的",
-       "ex": "That is why I found myself this week on a long concrete pier on the port of Milwaukee, overlooking the vast expanse of Lake Michigan and talking with port director Benji Timm.",
-       "forms": []
-      },
-      {
-       "w": "import",
-       "pos": "n.",
-       "zh": "进口",
-       "ex": "PFEIFFER: Port Milwaukee does business with more than 300 ships a year that import goods from all over.",
-       "forms": []
-      },
-      {
-       "w": "hospital",
-       "pos": "n.",
-       "zh": "医院",
-       "ex": "It came in for a hospital project from Minnesota.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "president",
-      "tariff",
-      "impact",
-      "economy",
-      "protest"
-     ],
-     "keyVocab": [
-      "president",
-      "tariff",
-      "impact",
-      "economy",
-      "protest",
-      "surge",
-      "water",
-      "region"
-     ]
-    },
-    {
-     "id": "2026-10-25-technology",
-     "section": "Technology",
-     "sectionZh": "科技",
-     "title": "AI found the flaw. Hackers found the leak: The race to save 'PHP2SHELL'",
-     "dek": "AI discovered a vulnerability in part of the internet's architecture, called PHP2SHELL. Security researchers rushed to fix it, but news of the vulnerability leaked and hackers have swooped in.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/24/nx-s1-6012327/ai-found-the-flaw-hackers-found-the-leak-the-race-to-save-php2shell",
-     "byline": "Scott Simon",
-     "dateLabel": "2026-10-25",
-     "words": 364,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "AI discovered a vulnerability in part of the internet's architecture, called PHP2SHELL. Security researchers rushed to fix it, but news of the vulnerability leaked and hackers have swooped in.",
-       "zh": "人工智能在互联网上的一个架构部分中发现了一个名为 PHP2SHELL 的漏洞。安全研究人员争相修复它，但关于该漏洞的消息泄露了，黑客趁机入侵。"
-      },
-      {
-       "en": "Internet security researchers made a startling discovery a couple of months ago - a vulnerability in the code that most internet servers use. They tried to keep it secret and sprinted to fix it, but they couldn't stop the chaos that spread across the internet the past couple of days. Kevin Roose co-hosts a new podcast from NPR called Machine Gods, and he joins us right now. Kevin, thanks so much for being with us.",
-       "zh": "几个月前，互联网安全研究人员做了一个惊人的发现——大多数互联网服务器使用的代码中存在一个漏洞。他们试图保密并争分夺秒地修复它，但他们无法阻止过去几天席卷互联网的混乱。凯文·鲁斯（Kevin Roose）共同主持NPR的新播客《机器之神》（Machine Gods），他现在加入我们。凯文，非常感谢你来参加我们的节目。"
-      },
-      {
-       "en": "ROOSE: Well, we found out this week that there was a big bug in a very important piece of decades-old software called PHP. Now, for nontechnical people, PHP runs on something like 70% of the websites on the internet. And this week we learned it had two flaws that would let someone take over any computer that was running a website without a password and without leaving any fingerprints. So basically, imagine that 70% of the doors in the world ran on the same locks, and then we figured out that there was a way to pry open that lock and get in. And we need a bunch of new locks for a bunch of doors.",
-       "zh": "ROOSE：嗯，我们这周发现，在一款名为 PHP 的几十年历史的重要软件中存在一个重大漏洞。对于非技术人员来说，PHP 大约运行在互联网上 70% 的网站上。而这周我们了解到，它有两个漏洞，可以让任何运行网站的电脑在没有密码且不留任何痕迹的情况下被接管。基本上，想象一下，全世界 70% 的门都使用同一种锁，然后我们发现有人可以撬开这种锁进入。我们需要为许多门换一批新锁。"
-      },
-      {
-       "en": "SIMON: And as I understand it, researchers used AI to discover this hole?",
-       "zh": "西蒙：据我了解，研究人员是用人工智能发现这个漏洞的吗？"
-      },
-      {
-       "en": "ROOSE: They did, yes. Researchers used AI to discover this hole. The issue is that you need to now patch all of the systems that are running PHP, maybe on an older version, because now we also have these AI tools that can quickly exploit vulnerabilities like this. So there's a little bit of a cat-and-mouse game going on. Defenders try to patch the systems before the offenders can get in.",
-       "zh": "ROOSE：是的，他们确实这样做了。研究人员使用人工智能发现了这个漏洞。问题是你现在需要修补所有运行PHP的系统，也许是旧版本的，因为现在我们也有这些可以快速利用类似漏洞的人工智能工具。所以这里有一点猫捉老鼠的游戏。防御者试图在攻击者入侵之前修补系统。"
-      },
-      {
-       "en": "SIMON: So it sounds like you have two or maybe more rivalrous groups, all of them using AI, half of them to cause problems, half of them to solve them.",
-       "zh": "西蒙：听起来你们有两个或更多互相竞争的团体，他们都在使用人工智能，其中一半用来制造问题，另一半用来解决问题。"
-      },
-      {
-       "en": "ROOSE: Yeah. I hope it's something like only, you know, half and half. But what we're seeing now...",
-       "zh": "鲁斯：是的。我希望它类似于，只是，你知道，一半一半。但我们现在看到的……"
-      },
-      {
-       "en": "ROOSE: ...Is a much bigger problem because it is not just PHP.",
-       "zh": "ROOSE: ……是一个更大得多的问题，因为它不仅仅是 PHP。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "researcher",
-       "pos": "n.",
-       "zh": "研究人员",
-       "ex": "Security researchers rushed to fix it, but news of the vulnerability leaked and hackers have swooped in.",
-       "forms": [
-        "researchers"
-       ]
-      },
-      {
-       "w": "news",
-       "pos": "n.",
-       "zh": "新闻",
-       "ex": "Security researchers rushed to fix it, but news of the vulnerability leaked and hackers have swooped in.",
-       "forms": []
-      },
-      {
-       "w": "internet",
-       "pos": "n.",
-       "zh": "互联网",
-       "ex": "AI discovered a vulnerability in part of the internet's architecture, called PHP2SHELL.",
-       "forms": []
-      },
-      {
-       "w": "discovery",
-       "pos": "n.",
-       "zh": "发现",
-       "ex": "Internet security researchers made a startling discovery a couple of months ago - a vulnerability in the code that most internet servers use.",
-       "forms": []
-      },
-      {
-       "w": "server",
-       "pos": "n.",
-       "zh": "服务器",
-       "ex": "Internet security researchers made a startling discovery a couple of months ago - a vulnerability in the code that most internet servers use.",
-       "forms": [
-        "servers"
-       ]
-      },
-      {
-       "w": "software",
-       "pos": "n.",
-       "zh": "软件",
-       "ex": "ROOSE: Well, we found out this week that there was a big bug in a very important piece of decades-old software called PHP.",
-       "forms": []
-      },
-      {
-       "w": "issue",
-       "pos": "n.",
-       "zh": "议题；问题",
-       "ex": "The issue is that you need to now patch all of the systems that are running PHP, maybe on an older version, because now we also have these AI tools that can quickly exploit vulnerabilities like this.",
-       "forms": []
-      },
-      {
-       "w": "problem",
-       "pos": "n.",
-       "zh": "问题",
-       "ex": "SIMON: So it sounds like you have two or maybe more rivalrous groups, all of them using AI, half of them to cause problems, half of them to solve them.",
-       "forms": [
-        "problems"
-       ]
-      }
-     ],
-     "homeWords": [
-      "researcher",
-      "news",
-      "internet",
-      "discovery",
-      "server"
-     ],
-     "keyVocab": [
-      "researcher",
-      "news",
-      "internet",
-      "discovery",
-      "server",
-      "software",
-      "issue",
-      "problem"
-     ]
-    },
-    {
-     "id": "2026-10-25-science",
-     "section": "Science",
-     "sectionZh": "科学",
-     "title": "Oyster aid efforts in the Chesapeake",
-     "dek": "Two people — an eco-evangelist and an engineer — are taking different approaches to support the same critical ingredient in the Chesapeake Bay: oysters.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/20/nx-s1-6005286/oyster-aid-efforts-in-the-chesapeake",
-     "byline": "Ari Daniel",
-     "dateLabel": "2026-10-25",
-     "words": 264,
-     "readTime": 3,
-     "level": "B2",
-     "levelEn": "Upper-intermediate",
-     "paragraphs": [
-      {
-       "en": "Two people — an eco-evangelist and an engineer — are taking different approaches to support the same critical ingredient in the Chesapeake Bay: oysters.",
-       "zh": "两个人——一位生态传教士和一位工程师——正在采取不同的方法来支持切萨皮克湾的同一种关键成分：牡蛎。"
-      },
-      {
-       "en": "Our next story is about two people, an eco evangelist and an engineer, who are taking different approaches to support the same critical ingredient in the Chesapeake Bay - that's oysters. Here's NPR's Ari Daniel.",
-       "zh": "我们的下一个故事是关于两个人，一位生态传道者和一位工程师，他们正在采取不同的方法来支持切萨皮克湾的同一种关键成分——那就是牡蛎。以下是NPR的Ari Daniel报道。"
-      },
-      {
-       "en": "ARI DANIEL, BYLINE: John Consoli stands on the edge of his pier on the southern tip of Kent Island in eastern Maryland, where he's hoisting something out of the water.",
-       "zh": "ARI DANIEL，署名：John Consoli站在马里兰州东部肯特岛南端的码头边缘，他正在从水中提起某物。"
-      },
-      {
-       "en": "JOHN CONSOLI: Oh, this one's heavy. Hold on. This is when I need my son. Hold on (laughter).",
-       "zh": "约翰·康索利：哦，这个很重。等等。这时候我需要我儿子。等等（笑声）。"
-      },
-      {
-       "en": "DANIEL: Consoli pulls a mesh the size of a pillowcase onto the pier. It's packed with oysters - not for eating, but rather to be grown to help the bay.",
-       "zh": "丹尼尔：康索利把一个枕套大小的网拖到码头上。里面装满了牡蛎——不是为了吃，而是为了养殖，以帮助海湾。"
-      },
-      {
-       "en": "J CONSOLI: When I got them, they weighed nothing. And this is just three months of growth. And just the net is chock-full. I can hardly pull it up.",
-       "zh": "J CONSOLI：当我收到它们的时候，它们几乎没有重量。这只是生长了三个月。而且网满得都快挤不下了。我几乎拉不起来。"
-      },
-      {
-       "en": "J CONSOLI: I think I'm more enthusiastic about something that's like a rock than anybody else could possibly be. I mean, I really can't think of many more creatures that do the good that oysters do.",
-       "zh": "J CONSOLI：我想我对像岩石一样的东西比任何人都要热情。我的意思是，我真的想不出还有多少生物能像牡蛎那样行善。"
-      },
-      {
-       "en": "DANIEL: Oysters underpin this ecosystem. First off, each adult filters up to 50 gallons of water a day. Cleaner water leads to a healthier bay for the other creatures here.",
-       "zh": "丹尼尔：牡蛎支撑着这个生态系统。首先，每只成牡蛎每天可以过滤多达50加仑的水。水质更清洁会让这里其他生物的海湾更健康。"
-      },
-      {
-       "en": "J CONSOLI: A lot of small fish and crabs live and eat amongst them and hide. I even found a seahorse, which was incredible. I've never seen a seahorse in my life.",
-       "zh": "J CONSOLI：许多小鱼和螃蟹生活在它们之间，寻找食物并隐藏。我甚至发现了一只海马，这太不可思议了。我这一生都没见过海马。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "support",
-       "pos": "v.",
-       "zh": "支持",
-       "ex": "Two people — an eco-evangelist and an engineer — are taking different approaches to support the same critical ingredient in the Chesapeake Bay: oysters.",
-       "forms": []
-      },
-      {
-       "w": "critical",
-       "pos": "adj.",
-       "zh": "关键的；批评的",
-       "ex": "Two people — an eco-evangelist and an engineer — are taking different approaches to support the same critical ingredient in the Chesapeake Bay: oysters.",
-       "forms": []
-      },
-      {
-       "w": "water",
-       "pos": "n.",
-       "zh": "水",
-       "ex": "ARI DANIEL, BYLINE: John Consoli stands on the edge of his pier on the southern tip of Kent Island in eastern Maryland, where he's hoisting something out of the water.",
-       "forms": []
-      },
-      {
-       "w": "growth",
-       "pos": "n.",
-       "zh": "增长",
-       "ex": "And this is just three months of growth.",
-       "forms": []
-      },
-      {
-       "w": "ecosystem",
-       "pos": "n.",
-       "zh": "生态系统",
-       "ex": "DANIEL: Oysters underpin this ecosystem.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "support",
-      "critical",
-      "water",
-      "growth",
-      "ecosystem"
-     ],
-     "keyVocab": [
-      "support",
-      "critical",
-      "water",
-      "growth",
-      "ecosystem"
-     ]
-    },
-    {
-     "id": "2026-10-25-culture",
-     "section": "Culture",
-     "sectionZh": "文化",
-     "title": "Archdiocese of New York agrees to $800 million settlement over sexual abuse claims",
-     "dek": "The Archdiocese of New York has agreed to pay $800 million to settle the claims brought against the church by some 1,300 people who say they faced sexual abuse from clergy members and lay workers.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/24/nx-s1-6015522/new-york-archdiocese-settlement-agreement",
-     "byline": "Chandelis Duster",
-     "dateLabel": "2026-10-25",
-     "words": 325,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "The Archdiocese of New York has agreed to pay $800 million to settle the claims brought against the church by some 1,300 people who say they faced sexual abuse from clergy members and lay workers.",
-       "zh": "纽约大主教区已同意支付8亿美元，以解决约1300人对教会提起的索赔，这些人声称曾遭受神职人员和教会工作人员的性虐待。"
-      },
-      {
-       "en": "Jeff Anderson, a lawyer whose firm represents more than 250 of the plaintiffs, said the settlement was finalized, pending signed paperwork, and that all plaintiffs had agreed to the settlement.",
-       "zh": "杰夫·安德森是一名律师，他的律师事务所代表了超过250名原告，他表示，和解已敲定，等待签署文件，并且所有原告都已同意和解。"
-      },
-      {
-       "en": "In an email sent to priests of the archdiocese on Saturday afternoon and shared with NPR, Archbishop Ronald Hicks also said the deal had not yet been signed but that an agreement had been reached with plaintiffs and their attorneys.",
-       "zh": "在周六下午发送给大主教区神父的电子邮件中，并与NPR分享，罗纳德·希克斯大主教也表示，该协议尚未签署，但已与原告及其律师达成一致。"
-      },
-      {
-       "en": "\"We are on the verge of being able to, please God, bring some measure of healing and reconciliation to all victim-survivors,\" Hicks wrote in the email. \"This agreement will also allow the archdiocese to turn its full attention once again to its mission of preaching the Gospel, healing the sick, caring for the poor and needy, welcoming the stranger, and educating our children.\"",
-       "zh": "希克斯在邮件中写道：“我们正处在能够——如果上帝允许——为所有受害者幸存者带来某种程度的治愈和和解的边缘。这项协议还将使总教区能够再次将全部注意力集中在其宣讲福音、治愈病人、关爱贫困与需要帮助的人、接待陌生人以及教育我们的孩子的使命上。”"
-      },
-      {
-       "en": "Anderson says that following the agreement, his clients have expressed mixed feelings of both sorrow about the abuse they experienced as well as relief that the legal fight is over.",
-       "zh": "安德森表示，根据协议，他的客户对所经历的虐待感到悲痛，同时也对法律斗争的结束感到宽慰，情绪复杂。"
-      },
-      {
-       "en": "\"The first is a real sense of relief and achievement,\" Anderson said, and \"the belief that having stood up at least they have now a chance to move forward and have done something to protect others in the future and clean up the archdiocese of New York.\"",
-       "zh": "安德森说：“首先是一种真正的轻松感和成就感，以及一种信念，即至少在站出来之后，他们现在有机会前进，并且已经做了一些事情来保护未来的他人，并清理纽约总教区。”"
-      },
-      {
-       "en": "This is one of the largest settlements in the Catholic church related to sexual abuse claims. In 2024, the Archdiocese of Los Angeles agreed to a $880 million settlement to victims of sexual abuse by its clergy.",
-       "zh": "这是天主教会与性侵索赔相关的最大和解之一。2024年，洛杉矶总教区同意向其神职人员性侵受害者支付8.8亿美元的和解金。"
-      },
-      {
-       "en": "In December 2025, the Archdiocese of New York agreed to mediation to settle the 1,300 sexual abuse claims and said it had laid off staff and planned to sell some of its Manhattan properties in effort to raise $300 million to pay survivors.",
-       "zh": "2025年12月，纽约大主教区同意通过调解解决1300起性侵指控，并表示已裁员，并计划出售部分曼哈顿物业，以筹集3亿美元支付给幸存者。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "million",
-       "pos": "n.",
-       "zh": "百万",
-       "ex": "The Archdiocese of New York has agreed to pay $800 million to settle the claims brought against the church by some 1,300 people who say they faced sexual abuse from clergy members and lay workers.",
-       "forms": []
-      },
-      {
-       "w": "claim",
-       "pos": "v.",
-       "zh": "声称；主张",
-       "ex": "The Archdiocese of New York has agreed to pay $800 million to settle the claims brought against the church by some 1,300 people who say they faced sexual abuse from clergy members and lay workers.",
-       "forms": [
-        "claims"
-       ]
-      },
-      {
-       "w": "worker",
-       "pos": "n.",
-       "zh": "工人；员工",
-       "ex": "The Archdiocese of New York has agreed to pay $800 million to settle the claims brought against the church by some 1,300 people who say they faced sexual abuse from clergy members and lay workers.",
-       "forms": [
-        "workers"
-       ]
-      },
-      {
-       "w": "future",
-       "pos": "n.",
-       "zh": "未来",
-       "ex": "\"The first is a real sense of relief and achievement,\" Anderson said, and \"the belief that having stood up at least they have now a chance to move forward and have done something to protect others in the future and clean up the archdiocese of New York.\" This is one of the largest settlements in the Catholic church related to sexual abuse claims.",
-       "forms": []
-      },
-      {
-       "w": "victim",
-       "pos": "n.",
-       "zh": "受害者",
-       "ex": "In 2024, the Archdiocese of Los Angeles agreed to a $880 million settlement to victims of sexual abuse by its clergy.",
-       "forms": [
-        "victims"
-       ]
-      }
-     ],
-     "homeWords": [
-      "million",
-      "claim",
-      "worker",
-      "future",
-      "victim"
-     ],
-     "keyVocab": [
-      "million",
-      "claim",
-      "worker",
-      "future",
-      "victim"
      ]
     }
    ]
