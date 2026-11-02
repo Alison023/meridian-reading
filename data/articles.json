@@ -1,6 +1,736 @@
 {
- "updated": "2026-11-01T06:31:54.128841+00:00",
+ "updated": "2026-11-02T06:32:14.299722+00:00",
  "days": [
+  {
+   "date": "2026-11-02",
+   "articles": [
+    {
+     "id": "2026-11-02-world",
+     "section": "World",
+     "sectionZh": "国际",
+     "title": "This legendary board game could take decades to complete",
+     "dek": "Andy Taeger & James Purcell are trying to become the first people ever complete the board game Campaign for North Africa. The is so complex it could take decades to finish.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/01/nx-s1-6025438/this-legendary-board-game-could-take-decades-to-complete",
+     "byline": "Michael Levitt",
+     "dateLabel": "2026-11-02",
+     "words": 297,
+     "readTime": 3,
+     "level": "B2",
+     "levelEn": "Upper-intermediate",
+     "paragraphs": [
+      {
+       "en": "Andy Taeger & James Purcell are trying to become the first people ever complete the board game Campaign for North Africa. The is so complex it could take decades to finish.",
+       "zh": "安迪·泰格和詹姆斯·珀塞尔正试图成为有史以来第一个完成桌面游戏《北非战役》的玩家。这个游戏如此复杂，可能需要几十年才能完成。"
+      },
+      {
+       "en": "In the U.K., two friends have begun a challenge that many people believe is impossible. The board game Campaign for North Africa is legendary for its complexity and detail and its extreme time commitment. Andy Taeger and James Purcell are trying to become the first people ever to complete it. Hi to both of you.",
+       "zh": "在英国，两个朋友开始了一项许多人认为不可能完成的挑战。棋盘游戏《北非战役》以其复杂性、细节丰富和极高的时间投入而闻名。安迪·泰格和詹姆斯·珀塞尔正试图成为有史以来第一个完成它的人。向你们两位问好。"
+      },
+      {
+       "en": "PFEIFFER: So this board game covers a period of World War II that lasted roughly three years. Yet the game itself could take almost 10 times that, you know, many years more. What is it that makes it what you guys have described as comically complicated?",
+       "zh": "PFEIFFER：所以这个棋盘游戏涵盖了二战时期大约三年的时间。然而，游戏本身可能需要几乎十倍的时间，你知道，也就是多年。究竟是什么让它变成了你们所描述的滑稽复杂？"
+      },
+      {
+       "en": "PURCELL: I suppose, first and foremost, we aren't generals. So we have no experience in warfare. There is everything to keep track of in this game down to how much water each unit has to drink, how much of that water evaporates, just about every granular detail you can think of.",
+       "zh": "普塞尔：我想，最重要的是，我们不是将军。因此我们没有战争经验。在这个游戏中，有太多事情需要跟踪，包括每个单位需要喝多少水、有多少水会蒸发，你能想到的几乎每一个细节。"
+      },
+      {
+       "en": "TAEGER: There's a rule Italian infantry uses more water so they could boil their pasta.",
+       "zh": "TAEGER：意大利步兵有一个规定，就是使用更多的水，这样他们就可以煮意大利面。"
+      },
+      {
+       "en": "PFEIFFER: The pasta is that the Italians are going to go through drinking water faster, and they need to calculate that in?",
+       "zh": "PFEIFFER：意大利人喝水会更快，而他们需要把这一点计算在内吗？"
+      },
+      {
+       "en": "PURCELL: Yeah. Apparently, they have to use more to boil their pasta. I'm not sure how accurate that is, but that's part of the rules.",
+       "zh": "普塞尔：是的。显然，他们必须用更多的水来煮意大利面。我不确定这有多准确，但这是规则的一部分。"
+      },
+      {
+       "en": "PFEIFFER: All right, so the big question is - why? Why are the two of you doing this, if you know it could take years or even decades to complete?",
+       "zh": "PFEIFFER：好吧，那么大问题是——为什么？如果你们知道这可能需要几年甚至几十年才能完成，你们为什么还要做这件事？"
+      },
+      {
+       "en": "PURCELL: We'd love to give an answer that makes some aspect of sense, but we really don't know why we're doing this.",
+       "zh": "珀塞尔：我们很希望给出一个有某种意义的回答，但我们真的不知道自己为什么要这样做。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "campaign",
+       "pos": "n.",
+       "zh": "竞选；运动",
+       "ex": "Andy Taeger & James Purcell are trying to become the first people ever complete the board game Campaign for North Africa.",
+       "forms": []
+      },
+      {
+       "w": "challenge",
+       "pos": "n.",
+       "zh": "挑战",
+       "ex": "In the U.K., two friends have begun a challenge that many people believe is impossible.",
+       "forms": []
+      },
+      {
+       "w": "describe",
+       "pos": "v.",
+       "zh": "描述",
+       "ex": "What is it that makes it what you guys have described as comically complicated?",
+       "forms": [
+        "described"
+       ]
+      },
+      {
+       "w": "water",
+       "pos": "n.",
+       "zh": "水",
+       "ex": "There is everything to keep track of in this game down to how much water each unit has to drink, how much of that water evaporates, just about every granular detail you can think of.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "campaign",
+      "challenge",
+      "describe",
+      "water"
+     ],
+     "keyVocab": [
+      "campaign",
+      "challenge",
+      "describe",
+      "water"
+     ]
+    },
+    {
+     "id": "2026-11-02-business",
+     "section": "Business",
+     "sectionZh": "商业 · 财经",
+     "title": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter",
+     "dek": "Saying the president was \"grasping at straws,\" a federal judge on Saturday threw out Donald Trump's $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/01/nx-s1-6025342/judge-dismisses-trump-suit-against-wall-street-journal-epstein-letter",
+     "byline": "The Associated Press",
+     "dateLabel": "2026-11-02",
+     "words": 285,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "Saying the president was \"grasping at straws,\" a federal judge on Saturday threw out Donald Trump's $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to Jeffrey Epstein.",
+       "zh": "一位联邦法官在周六表示，总统是在“抓救命稻草”，并驳回了唐纳德·特朗普针对《华尔街日报》和媒体大亨鲁珀特·默多克关于报道他与杰弗里·爱泼斯坦关系的新闻提起的100亿美元诉讼。"
+      },
+      {
+       "en": "U.S. District Judge Darrin Gayles in Miami dismissed the suit with prejudice, ruling that the president did not prove the defendants made defamatory statements with actual malice as required by law. The ruling said the lawsuit had attempted to \"manufacture\" flaws in the Journal's investigative reporting.",
+       "zh": "迈阿密的美国地方法官达林·盖尔斯（Darrin Gayles）以有偏见的方式驳回了这起诉讼，裁定总统未能证明被告按照法律要求以实际恶意发表了诽谤性言论。裁决指出，这起诉讼试图“捏造”《华尔街日报》调查报道中的缺陷。"
+      },
+      {
+       "en": "When a case is thrown out \"with prejudice,\" it cannot be refiled again and the dismissal is permanent and incontrovertible.",
+       "zh": "当案件被以“有偏见”的理由驳回时，不能再次提起诉讼，该驳回是永久且无可争辩的。"
+      },
+      {
+       "en": "The dismissal is a blow to Trump and his administration, which have both pursued adversarial relationships with news organizations during his second term. In addition to the Journal, he is embroiled in lawsuits involving the BBC, The Associated Press and — most recently — CNN, MS NOW and Politico, which are suing him for restored access after he banished them from the White House in mid-September.",
+       "zh": "这次解职对特朗普及其政府是一次打击，他们在第二任期内一直与新闻机构保持对抗关系。除了《华尔街日报》，他还卷入了涉及英国广播公司、美联社以及——最近——CNN、MS NOW和Politico的诉讼，这些机构正在起诉他以恢复访问权限，此前他在九月中旬将它们驱逐出白宫。"
+      },
+      {
+       "en": "Trump has denounced media outlets that write things to which he objects and frequently calls them \"fake news\" and insults their journalists.",
+       "zh": "特朗普谴责那些写出他反对内容的媒体，并经常称它们为“假新闻”，还侮辱它们的记者。"
+      },
+      {
+       "en": "The White House did not immediately react publicly to Saturday's dismissal or respond to an AP request for comment.",
+       "zh": "白宫没有立即就周六的解雇作出公开反应，也没有回应美联社的置评请求。"
+      },
+      {
+       "en": "The lawsuit against the Journal was over a story it published last year describing a sexually suggestive letter and drawing that the paper said bore Trump's name and was included in a 2003 album compiled for Epstein's 50th birthday.",
+       "zh": "对该报的诉讼是关于它去年发表的一篇报道，该报道描述了一封具有性暗示的信件和一幅画，报纸称这些信件和画作署有特朗普的名字，并被收录在为爱泼斯坦50岁生日编制的2003年相册中。"
+      },
+      {
+       "en": "The letter was reportedly collected by disgraced British socialite Ghislaine Maxwell as part of a birthday album for Epstein years before he was first arrested in 2006 and subsequently had a falling-out with Trump.",
+       "zh": "据报道，这封信是由声名狼藉的英国社交名流吉丝兰·麦克斯韦收集的，作为为埃普斯坦制作的生日相册的一部分，这发生在他2006年首次被逮捕之前的几年，之后他与特朗普反目成仇。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "Saying the president was \"grasping at straws,\" a federal judge on Saturday threw out Donald Trump's $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to Jeffrey Epstein.",
+       "forms": []
+      },
+      {
+       "w": "federal",
+       "pos": "adj.",
+       "zh": "联邦的",
+       "ex": "Saying the president was \"grasping at straws,\" a federal judge on Saturday threw out Donald Trump's $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to Jeffrey Epstein.",
+       "forms": []
+      },
+      {
+       "w": "judge",
+       "pos": "n.",
+       "zh": "法官",
+       "ex": "Saying the president was \"grasping at straws,\" a federal judge on Saturday threw out Donald Trump's $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to Jeffrey Epstein.",
+       "forms": []
+      },
+      {
+       "w": "billion",
+       "pos": "n.",
+       "zh": "十亿",
+       "ex": "Saying the president was \"grasping at straws,\" a federal judge on Saturday threw out Donald Trump's $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to Jeffrey Epstein.",
+       "forms": []
+      },
+      {
+       "w": "lawsuit",
+       "pos": "n.",
+       "zh": "诉讼",
+       "ex": "Saying the president was \"grasping at straws,\" a federal judge on Saturday threw out Donald Trump's $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to Jeffrey Epstein.",
+       "forms": [
+        "lawsuits"
+       ]
+      },
+      {
+       "w": "media",
+       "pos": "n.",
+       "zh": "媒体",
+       "ex": "Saying the president was \"grasping at straws,\" a federal judge on Saturday threw out Donald Trump's $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to Jeffrey Epstein.",
+       "forms": []
+      },
+      {
+       "w": "report",
+       "pos": "n.",
+       "zh": "报告；报道",
+       "ex": "Saying the president was \"grasping at straws,\" a federal judge on Saturday threw out Donald Trump's $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to Jeffrey Epstein.",
+       "forms": [
+        "reporting"
+       ]
+      },
+      {
+       "w": "dismiss",
+       "pos": "v.",
+       "zh": "驳回；不予理会",
+       "ex": "District Judge Darrin Gayles in Miami dismissed the suit with prejudice, ruling that the president did not prove the defendants made defamatory statements with actual malice as required by law.",
+       "forms": [
+        "dismissed"
+       ]
+      },
+      {
+       "w": "ruling",
+       "pos": "n.",
+       "zh": "裁决；裁定",
+       "ex": "District Judge Darrin Gayles in Miami dismissed the suit with prejudice, ruling that the president did not prove the defendants made defamatory statements with actual malice as required by law.",
+       "forms": []
+      },
+      {
+       "w": "statement",
+       "pos": "n.",
+       "zh": "声明；陈述",
+       "ex": "District Judge Darrin Gayles in Miami dismissed the suit with prejudice, ruling that the president did not prove the defendants made defamatory statements with actual malice as required by law.",
+       "forms": [
+        "statements"
+       ]
+      },
+      {
+       "w": "administration",
+       "pos": "n.",
+       "zh": "政府；行政",
+       "ex": "The dismissal is a blow to Trump and his administration, which have both pursued adversarial relationships with news organizations during his second term.",
+       "forms": []
+      },
+      {
+       "w": "news",
+       "pos": "n.",
+       "zh": "新闻",
+       "ex": "The dismissal is a blow to Trump and his administration, which have both pursued adversarial relationships with news organizations during his second term.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "president",
+      "federal",
+      "judge",
+      "billion",
+      "lawsuit"
+     ],
+     "keyVocab": [
+      "president",
+      "federal",
+      "judge",
+      "billion",
+      "lawsuit",
+      "media",
+      "report",
+      "dismiss"
+     ]
+    },
+    {
+     "id": "2026-11-02-technology",
+     "section": "Technology",
+     "sectionZh": "科技",
+     "title": "Your writing was flagged as AI. What does that actually mean?",
+     "dek": "Ghostwriter Sally McGraw was hoping to land a job developing a book proposal for a prospective client. But after submitting a writing sample, she got an unexpected response: an email telling her…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram",
+     "byline": "Windsor Johnston",
+     "dateLabel": "2026-11-02",
+     "words": 284,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "Ghostwriter Sally McGraw was hoping to land a job developing a book proposal for a prospective client. But after submitting a writing sample, she got an unexpected response: an email telling her that multiple artificial intelligence detection tools had flagged her work as machine-generated.",
+       "zh": "代笔作家萨莉·麦格劳希望获得一份为潜在客户开发书籍提案的工作。但在提交写作样本后，她收到了一份意想不到的回复：一封电子邮件告诉她，多个人工智能检测工具已经将她的作品标记为机器生成。"
+      },
+      {
+       "en": "\"I was floored because I had not used AI to generate the text,\" McGraw said. \"I'd written it all myself.\"",
+       "zh": "麦格劳说：“我震惊了，因为我没有用人工智能来生成这段文字，我完全是自己写的。”"
+      },
+      {
+       "en": "Having spent more than 20 years as a professional nonfiction writer, McGraw said she was angry that her work had been dismissed as AI-written.",
+       "zh": "麦格劳说，作为一名拥有超过20年经验的专业非虚构作家，她对自己的作品被认为是人工智能写的而感到愤怒。"
+      },
+      {
+       "en": "\"You know where you see a cartoon character going red from their chin all the way up to the crown of their head? I felt my ears starting to burn,\" she said. \"I thought, what is going on?\"",
+       "zh": "“你知道在卡通里你看到一个角色从下巴一直红到头顶的情景吗？我感觉我的耳朵也开始发热了，”她说。“我当时想，发生什么事了？”"
+      },
+      {
+       "en": "McGraw said she assured the client she had written the proposal herself, but decided not to press the issue because she considered the job \"minor.\"",
+       "zh": "麦格劳说她向客户保证自己亲自撰写了提案，但她决定不再坚持这个问题，因为她认为这份工作“微不足道”。"
+      },
+      {
+       "en": "In an email to NPR, the client confirmed that she had screened McGraw's work for AI. But she said the results were not the determining factor in choosing to hire a different writer, instead citing experience and fit. McGraw says she was paid for her writing samples, but believes the detector results cost her the opportunity to write the full book proposal.",
+       "zh": "在给NPR的电子邮件中，这位客户确认她已经对麦格劳的作品进行了人工智能检测。但她表示，检测结果并不是选择雇用其他作者的决定性因素，而是引用了经验和契合度。麦格劳表示，她为自己的写作样本获得了报酬，但认为检测结果让她失去了撰写完整书籍提案的机会。"
+      },
+      {
+       "en": "As editors struggle to keep up with a growing influx of AI-generated content, some are turning to detection tools to help sift through the mounting number of submissions. But these tools aren't perfect: They've been known to falsely flag human-written work as AI, which can leave writers with little idea of what triggered the result and how to prove otherwise.",
+       "zh": "随着编辑们努力跟上不断增长的 AI 生成内容，一些人开始使用检测工具来帮助筛选不断增加的投稿数量。但这些工具并不完美：它们已知会错误地将人工撰写的作品标记为 AI，这可能让作者对触发结果的原因几乎一无所知，也不知如何证明其作品是人工创作的。"
+      },
+      {
+       "en": "\"Everyone knows that these screeners are not 100% accurate,\" said McGraw.",
+       "zh": "麦格劳说：“每个人都知道这些筛查器并不是百分之百准确。”"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "land",
+       "pos": "n.",
+       "zh": "土地；陆地",
+       "ex": "Ghostwriter Sally McGraw was hoping to land a job developing a book proposal for a prospective client.",
+       "forms": []
+      },
+      {
+       "w": "artificial",
+       "pos": "adj.",
+       "zh": "人工的；人造的",
+       "ex": "But after submitting a writing sample, she got an unexpected response: an email telling her that multiple artificial intelligence detection tools had flagged her work as machine-generated.",
+       "forms": []
+      },
+      {
+       "w": "intelligence",
+       "pos": "n.",
+       "zh": "情报；智能",
+       "ex": "But after submitting a writing sample, she got an unexpected response: an email telling her that multiple artificial intelligence detection tools had flagged her work as machine-generated.",
+       "forms": []
+      },
+      {
+       "w": "dismiss",
+       "pos": "v.",
+       "zh": "驳回；不予理会",
+       "ex": "\"I'd written it all myself.\" Having spent more than 20 years as a professional nonfiction writer, McGraw said she was angry that her work had been dismissed as AI-written.",
+       "forms": [
+        "dismissed"
+       ]
+      },
+      {
+       "w": "issue",
+       "pos": "n.",
+       "zh": "议题；问题",
+       "ex": "\"I thought, what is going on?\" McGraw said she assured the client she had written the proposal herself, but decided not to press the issue because she considered the job \"minor.\" In an email to NPR, the client confirmed that she had screened McGraw's work for AI.",
+       "forms": []
+      },
+      {
+       "w": "confirm",
+       "pos": "v.",
+       "zh": "证实；确认",
+       "ex": "\"I thought, what is going on?\" McGraw said she assured the client she had written the proposal herself, but decided not to press the issue because she considered the job \"minor.\" In an email to NPR, the client confirmed that she had screened McGraw's work for AI.",
+       "forms": [
+        "confirmed"
+       ]
+      },
+      {
+       "w": "result",
+       "pos": "n.",
+       "zh": "结果",
+       "ex": "But she said the results were not the determining factor in choosing to hire a different writer, instead citing experience and fit.",
+       "forms": [
+        "results"
+       ]
+      },
+      {
+       "w": "cite",
+       "pos": "v.",
+       "zh": "引用；援引",
+       "ex": "But she said the results were not the determining factor in choosing to hire a different writer, instead citing experience and fit.",
+       "forms": [
+        "citing"
+       ]
+      },
+      {
+       "w": "cost",
+       "pos": "n.",
+       "zh": "成本；代价",
+       "ex": "McGraw says she was paid for her writing samples, but believes the detector results cost her the opportunity to write the full book proposal.",
+       "forms": []
+      },
+      {
+       "w": "opportunity",
+       "pos": "n.",
+       "zh": "机会",
+       "ex": "McGraw says she was paid for her writing samples, but believes the detector results cost her the opportunity to write the full book proposal.",
+       "forms": []
+      },
+      {
+       "w": "number",
+       "pos": "n.",
+       "zh": "数量；数字",
+       "ex": "As editors struggle to keep up with a growing influx of AI-generated content, some are turning to detection tools to help sift through the mounting number of submissions.",
+       "forms": []
+      },
+      {
+       "w": "trigger",
+       "pos": "v.",
+       "zh": "引发；触发",
+       "ex": "But these tools aren't perfect: They've been known to falsely flag human-written work as AI, which can leave writers with little idea of what triggered the result and how to prove otherwise.",
+       "forms": [
+        "triggered"
+       ]
+      }
+     ],
+     "homeWords": [
+      "land",
+      "artificial",
+      "intelligence",
+      "dismiss",
+      "issue"
+     ],
+     "keyVocab": [
+      "land",
+      "artificial",
+      "intelligence",
+      "dismiss",
+      "issue",
+      "confirm",
+      "result",
+      "cite"
+     ]
+    },
+    {
+     "id": "2026-11-02-science",
+     "section": "Science",
+     "sectionZh": "科学",
+     "title": "Oyster stocks have plunged in the Chesapeake. This resident wants to bring them back",
+     "dek": "John Consoli stands on the edge of his pier, which juts out from the southern tip of Maryland's Kent Island and into the Chesapeake Bay. He leans over and hoists a mesh the size and shape of a…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/10/31/nx-s1-6011228/oyster-farming-conservation-chesapeake-bay",
+     "byline": "Ari Daniel",
+     "dateLabel": "2026-11-02",
+     "words": 406,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "John Consoli stands on the edge of his pier, which juts out from the southern tip of Maryland's Kent Island and into the Chesapeake Bay. He leans over and hoists a mesh the size and shape of a pillowcase out of the water.",
+       "zh": "约翰·康索利站在他码头的尽头，码头从马里兰州肯特岛的南端伸入切萨皮克湾。他俯身，将一个大小和形状像枕头套的网从水中提起。"
+      },
+      {
+       "en": "It's packed with oysters. He manages to get it onto the pier. \"These are brand new oysters from this year,\" he says. \"When I got them, they weighed nothing. And this is just three months of growth. The net is chock full, I can hardly pull it up.\"",
+       "zh": "里面满是牡蛎。他设法把它弄到码头上。“这些是今年的新牡蛎，”他说。“当我拿到它们时，几乎没重量。这只是三个月的生长。网满得不得了，我几乎拉不上来。”"
+      },
+      {
+       "en": "Once he catches his breath, Consoli marvels at these molluscs. \"I think I'm more enthusiastic about something that's like a rock than anybody else could possibly be,\" he says with a big grin. \"I really can't think of many more creatures that do the good that oysters do.\"",
+       "zh": "一旦他喘过气来，康索利对这些软体动物感到惊讶。他咧着大大的笑容说：“我想我对像石头一样的东西的热情，比其他任何人可能都要高。”他接着说：“我真的想不出还有多少生物能像牡蛎那样带来好处。”"
+      },
+      {
+       "en": "Oysters underpin the Chesapeake's coastal and estuarine ecosystem. Each adult filters up to 50 gallons of water a day. Cleaner water leads to a healthier bay and more sea grass. \"That helps crabs and other organisms,\" says Consoli.",
+       "zh": "牡蛎支撑着切萨皮克湾的沿海和河口生态系统。每只成牡蛎每天可以过滤多达50加仑的水。水质更清洁意味着海湾更健康，海草更多。“这对螃蟹和其他生物都有帮助，”康索利说。"
+      },
+      {
+       "en": "Plus, oyster shells are a habitat unto themselves. \"Because of all the nooks and crannies,\" he explains, \"a lot of small fish and crabs live and eat amongst them and hide, so it creates a biodiverse environment. I even found a seahorse, which was incredible. I've never seen a seahorse in my life!\"",
+       "zh": "此外，牡蛎壳本身就是一个栖息地。他解释说：“因为有各种各样的缝隙和角落，很多小鱼和螃蟹在其中生活、觅食和藏身，所以它创造了一个生物多样化的环境。我甚至发现了一只海马，这太不可思议了。我这辈子从未见过海马！”"
+      },
+      {
+       "en": "Oyster reefs used to abound in the Chesapeake, but overharvesting decimated their ranks — by over 99% by 2011, according to one estimate. This monumental shift in the bay contributed to poorer water quality and less habitat for other species.",
+       "zh": "牡蛎礁曾经在切萨皮克湾大量存在，但过度捕捞摧毁了它们的数量——据一项估计，到2011年减少了超过99%。这一巨大变化导致海湾水质下降，并为其他物种留下的栖息地减少。"
+      },
+      {
+       "en": "Oyster farming in the Chesapeake has expanded in recent years, despite environmental and disease challenges, says Ryan Carnegie, a biologist at the Virginia Institute of Marine Science. He adds that wild oysters have also made a partial comeback, helped by better management and investments in restoration. But, says Elizabeth North, a fisheries oceanographer at the University of Maryland Center for Environmental Science, \"current oyster populations are likely still a fraction of these historic populations.\"",
+       "zh": "弗吉尼亚海洋科学研究所的生物学家瑞安·卡内基表示，尽管面临环境和疾病的挑战，近年来切萨皮克湾的牡蛎养殖业仍在扩大。他补充说，野生牡蛎也部分恢复，这得益于更好的管理和对修复工作的投资。但是，马里兰大学环境科学中心的渔业海洋学家伊丽莎白·诺斯表示，“当前的牡蛎种群可能仍只是历史种群的一小部分。”"
+      },
+      {
+       "en": "Consoli's goal, therefore, is to be a caretaker of sorts, stocking the bay with ever more oysters and looking after their wellbeing. He floats them just below the surface where he says the nutrients are concentrated to help them grow quickly. And although his oysters aren't intended for eating, a cleaner bay does mean better habitat for those that are harvested commercially.",
+       "zh": "因此，Consoli 的目标是成为某种照管者，为海湾储存越来越多的牡蛎并照顾它们的健康。他将牡蛎漂浮在水面下方，他说那里营养物质集中，有助于它们快速生长。尽管他的牡蛎并不用于食用，但清洁的海湾确实意味着为商业采收的牡蛎提供了更好的栖息环境。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "water",
+       "pos": "n.",
+       "zh": "水",
+       "ex": "He leans over and hoists a mesh the size and shape of a pillowcase out of the water.",
+       "forms": []
+      },
+      {
+       "w": "growth",
+       "pos": "n.",
+       "zh": "增长",
+       "ex": "And this is just three months of growth.",
+       "forms": []
+      },
+      {
+       "w": "ecosystem",
+       "pos": "n.",
+       "zh": "生态系统",
+       "ex": "\"I really can't think of many more creatures that do the good that oysters do.\" Oysters underpin the Chesapeake's coastal and estuarine ecosystem.",
+       "forms": []
+      },
+      {
+       "w": "habitat",
+       "pos": "n.",
+       "zh": "栖息地",
+       "ex": "Plus, oyster shells are a habitat unto themselves.",
+       "forms": []
+      },
+      {
+       "w": "explain",
+       "pos": "v.",
+       "zh": "解释",
+       "ex": "\"Because of all the nooks and crannies,\" he explains, \"a lot of small fish and crabs live and eat amongst them and hide, so it creates a biodiverse environment.",
+       "forms": [
+        "explains"
+       ]
+      },
+      {
+       "w": "estimate",
+       "pos": "n.",
+       "zh": "估计；估算",
+       "ex": "I've never seen a seahorse in my life!\" Oyster reefs used to abound in the Chesapeake, but overharvesting decimated their ranks — by over 99% by 2011, according to one estimate.",
+       "forms": []
+      },
+      {
+       "w": "shift",
+       "pos": "n.",
+       "zh": "转变；转移",
+       "ex": "This monumental shift in the bay contributed to poorer water quality and less habitat for other species.",
+       "forms": []
+      },
+      {
+       "w": "species",
+       "pos": "n.",
+       "zh": "物种",
+       "ex": "This monumental shift in the bay contributed to poorer water quality and less habitat for other species.",
+       "forms": []
+      },
+      {
+       "w": "expand",
+       "pos": "v.",
+       "zh": "扩大；扩张",
+       "ex": "Oyster farming in the Chesapeake has expanded in recent years, despite environmental and disease challenges, says Ryan Carnegie, a biologist at the Virginia Institute of Marine Science.",
+       "forms": [
+        "expanded"
+       ]
+      },
+      {
+       "w": "disease",
+       "pos": "n.",
+       "zh": "疾病",
+       "ex": "Oyster farming in the Chesapeake has expanded in recent years, despite environmental and disease challenges, says Ryan Carnegie, a biologist at the Virginia Institute of Marine Science.",
+       "forms": []
+      },
+      {
+       "w": "challenge",
+       "pos": "n.",
+       "zh": "挑战",
+       "ex": "Oyster farming in the Chesapeake has expanded in recent years, despite environmental and disease challenges, says Ryan Carnegie, a biologist at the Virginia Institute of Marine Science.",
+       "forms": [
+        "challenges"
+       ]
+      },
+      {
+       "w": "investment",
+       "pos": "n.",
+       "zh": "投资",
+       "ex": "He adds that wild oysters have also made a partial comeback, helped by better management and investments in restoration.",
+       "forms": [
+        "investments"
+       ]
+      }
+     ],
+     "homeWords": [
+      "water",
+      "growth",
+      "ecosystem",
+      "habitat",
+      "explain"
+     ],
+     "keyVocab": [
+      "water",
+      "growth",
+      "ecosystem",
+      "habitat",
+      "explain",
+      "estimate",
+      "shift",
+      "species"
+     ]
+    },
+    {
+     "id": "2026-11-02-culture",
+     "section": "Culture",
+     "sectionZh": "文化",
+     "title": "At a Moscow movie screening, Anthony Bourdain's Russian fixer remembers the late chef",
+     "dek": "Zamir Gotta, Anthony Bourdain's longtime fixer in Russia, remembers working with and becoming friends with the late chef.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/01/nx-s1-6020404/at-a-moscow-movie-screening-anthony-bourdains-russian-fixer-remembers-the-late-chef",
+     "byline": "Hannah Bloch",
+     "dateLabel": "2026-11-02",
+     "words": 303,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "Zamir Gotta, Anthony Bourdain's longtime fixer in Russia, remembers working with and becoming friends with the late chef.",
+       "zh": "扎米尔·戈塔，安东尼·布尔丹在俄罗斯的长期联络人，回忆起与已故厨师共事并成为朋友的时光。"
+      },
+      {
+       "en": "Eight years after the death of Anthony Bourdain, people around the world still mourn the chef, author and TV star. At a movie theater in Moscow, hundreds of Russian fans gathered in September for the premiere of \"Tony,\" the new Hollywood film based on Bourdain's early life. Among them was a man Bourdain loved to call International Man of Mystery. He's someone who became central to Bourdain's success in Russia and beyond. NPR's Charles Maynes reports from Moscow. And a note - this story includes mention of suicide.",
+       "zh": "在安东尼·布尔丹去世八年后，全世界的人们仍在悼念这位厨师、作家和电视明星。在莫斯科的一家电影院，数百名俄罗斯影迷于九月聚集，观看基于布尔丹早年生活的新好莱坞电影《托尼》的首映式。其中有一位布尔丹喜欢称之为“国际神秘人”的男子。他是一个在俄罗斯及其他地方对布尔丹的成功起到关键作用的人。NPR的查尔斯·梅因斯从莫斯科报道。此外，提示——本故事提及自杀内容。"
+      },
+      {
+       "en": "CHARLES MAYNES, BYLINE: Oysters on the half shell, bottles of imported beer, Peroni, if you must know. Russia may be under Western sanctions, but at last month's Moscow premiere of the film \"Tony,\" the Russian Organizers pulled out all the stops to honor Anthony Bourdain, the American chef, travel writer and something of a life coach to so many, even here.",
+       "zh": "查尔斯·梅恩斯，署名：半壳生蚝，进口啤酒，如果你一定要知道的话，是佩罗尼。在俄罗斯可能受到西方制裁之际，但在上个月莫斯科举行的电影《托尼》首映礼上，俄罗斯主办方竭尽全力向美国厨师、旅游作家，以及对许多人来说甚至是生活导师的安东尼·布尔丹致敬。"
+      },
+      {
+       "en": "KATERINA KODENKA: My shirt says, God, I miss Anthony Bourdain.",
+       "zh": "卡特里娜·科登卡：我的衬衫上写着，天啊，我想念安东尼·布尔丹。"
+      },
+      {
+       "en": "MAYNES: Katerina Kodenka (ph), a recent university graduate who attended the screening, says Bourdain has been one of her heroes since she was a teenager. In an age seemingly dominated by war and hate, Kodenka says Bourdain's TV essays and writings point the way towards a better world.",
+       "zh": "梅恩斯：卡特琳娜·科登卡（音），一位刚刚毕业的大学生，参加了放映会，她说布尔丹自她还是青少年时起就是她的偶像。在这个看似被战争和仇恨主导的时代，科登卡说布尔丹的电视随笔和著作为通向更美好世界指明了方向。"
+      },
+      {
+       "en": "KODENKA: All of us - well, most of us are the same, and most of us want the same thing - peace, love and good food.",
+       "zh": "KODENKA：我们所有人——嗯，大多数人都是一样的，而且我们大多数人想要的东西也一样——和平、爱和美食。"
+      },
+      {
+       "en": "ANTHONY BOURDAIN: (As self) Russia - this is the birthplace of communism.",
+       "zh": "安东尼·布尔丹：（作为自己）俄罗斯——这是共产主义的发源地。"
+      },
+      {
+       "en": "MAYNES: It's been a quarter century since Anthony Bourdain first set foot in Russia on his debut show \"A Cook's Tour\" and a quarter century since Bourdain met the man who made his travels in the former Soviet Union possible...",
+       "zh": "梅恩斯：自安东尼·布尔丹在他的首个节目《厨师之旅》中第一次踏足俄罗斯以来，已经过去了四分之一世纪；自布尔丹遇到那位使他在前苏联旅行成为可能的人，也已经四分之一世纪了……"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "theater",
+       "pos": "n.",
+       "zh": "剧院；戏剧",
+       "ex": "At a movie theater in Moscow, hundreds of Russian fans gathered in September for the premiere of \"Tony,\" the new Hollywood film based on Bourdain's early life.",
+       "forms": []
+      },
+      {
+       "w": "film",
+       "pos": "n.",
+       "zh": "电影；影片",
+       "ex": "At a movie theater in Moscow, hundreds of Russian fans gathered in September for the premiere of \"Tony,\" the new Hollywood film based on Bourdain's early life.",
+       "forms": []
+      },
+      {
+       "w": "international",
+       "pos": "adj.",
+       "zh": "国际的",
+       "ex": "Among them was a man Bourdain loved to call International Man of Mystery.",
+       "forms": []
+      },
+      {
+       "w": "report",
+       "pos": "n.",
+       "zh": "报告；报道",
+       "ex": "NPR's Charles Maynes reports from Moscow.",
+       "forms": [
+        "reports"
+       ]
+      },
+      {
+       "w": "import",
+       "pos": "n.",
+       "zh": "进口",
+       "ex": "CHARLES MAYNES, BYLINE: Oysters on the half shell, bottles of imported beer, Peroni, if you must know.",
+       "forms": [
+        "imported"
+       ]
+      },
+      {
+       "w": "sanction",
+       "pos": "n.",
+       "zh": "制裁",
+       "ex": "Russia may be under Western sanctions, but at last month's Moscow premiere of the film \"Tony,\" the Russian Organizers pulled out all the stops to honor Anthony Bourdain, the American chef, travel writer and something of a life coach to so many, even here.",
+       "forms": [
+        "sanctions"
+       ]
+      },
+      {
+       "w": "university",
+       "pos": "n.",
+       "zh": "大学",
+       "ex": "MAYNES: Katerina Kodenka (ph), a recent university graduate who attended the screening, says Bourdain has been one of her heroes since she was a teenager.",
+       "forms": []
+      },
+      {
+       "w": "dominate",
+       "pos": "v.",
+       "zh": "主导；支配",
+       "ex": "In an age seemingly dominated by war and hate, Kodenka says Bourdain's TV essays and writings point the way towards a better world.",
+       "forms": [
+        "dominated"
+       ]
+      },
+      {
+       "w": "food",
+       "pos": "n.",
+       "zh": "食物",
+       "ex": "KODENKA: All of us - well, most of us are the same, and most of us want the same thing - peace, love and good food.",
+       "forms": []
+      },
+      {
+       "w": "union",
+       "pos": "n.",
+       "zh": "工会；联盟",
+       "ex": "MAYNES: It's been a quarter century since Anthony Bourdain first set foot in Russia on his debut show \"A Cook's Tour\" and a quarter century since Bourdain met the man who made his travels in the former Soviet Union possible...",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "theater",
+      "film",
+      "international",
+      "report",
+      "import"
+     ],
+     "keyVocab": [
+      "theater",
+      "film",
+      "international",
+      "report",
+      "import",
+      "sanction",
+      "university",
+      "dominate"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-01",
    "articles": [
@@ -4608,782 +5338,6 @@
       "describe",
       "child",
       "young"
-     ]
-    }
-   ]
-  },
-  {
-   "date": "2026-10-26",
-   "articles": [
-    {
-     "id": "2026-10-26-world",
-     "section": "World",
-     "sectionZh": "国际",
-     "title": "Brazil's left-wing President Lula elected for fourth term",
-     "dek": "BRASILIA, Brazil — In a stunning political comeback, Luiz Inácio Lula da Silva has been elected president of Brazil, according to official results from Sunday's runoff election, with more than 96%…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
-     "byline": "Catherine Osborn",
-     "dateLabel": "2026-10-26",
-     "words": 297,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "BRASILIA, Brazil — In a stunning political comeback, Luiz Inácio Lula da Silva has been elected president of Brazil, according to official results from Sunday's runoff election, with more than 96% of the votes counted.",
-       "zh": "巴西利亚，巴西——根据周日举行的第二轮投票的官方结果，路易斯·伊纳西奥·卢拉·达席尔瓦上演了一场惊人的政治逆转，当选为巴西总统，目前已统计了超过 96% 的选票。"
-      },
-      {
-       "en": "Lula secured more than 51% of the vote, defeating Sen. Flávio Bolsonaro, who received more than 48%.",
-       "zh": "卢拉获得了超过 51% 的选票，击败了获得超过 48% 选票的参议员弗拉维奥·博尔索纳罗。"
-      },
-      {
-       "en": "The result marks a historic moment in Brazil's democratic era. Since democracy was restored in 1989, no candidate who failed to win the first round of voting has gone on to win the presidency in the second round.",
-       "zh": "这一结果标志着巴西民主时代的一个重要历史时刻。自1989年恢复民主以来，没有一位在第一轮投票中落败的候选人能在第二轮投票中赢得总统职位。"
-      },
-      {
-       "en": "The victory also adds another chapter to Lula's long political career, securing him a fourth, nonconsecutive presidential term. Lula, who turns 81 on Tuesday, will be among the oldest sitting leaders in the Americas, alongside President Trump and Nicaraguan President Daniel Ortega, both 80.",
-       "zh": "此次胜利也为卢拉漫长的政治生涯再添新篇章，确保他第四次当选总统，但任期并非连续。卢拉将于周二迎来81岁生日，届时他将成为美洲在任总统中最年长的领导人之一，与80岁的特朗普总统和尼加拉瓜总统丹尼尔·奥尔特加并列。"
-      },
-      {
-       "en": "In a speech to ecstatic supporters in São Paulo, Lula said the election was a \"defeat of denialism. A defeat of lies.\"",
-       "zh": "卢拉在圣保罗向欣喜若狂的支持者发表讲话时说，这次选举是“对否认主义的失败，对谎言的失败”。"
-      },
-      {
-       "en": "\"I want to thank the Brazilian people for this generosity they have shown me for so long, to thank the youth who took to the streets to defend democracy, and the elders who went to vote,\" Lula told the crowd.",
-       "zh": "“我要感谢巴西人民长期以来对我的慷慨支持，感谢走上街头捍卫民主的年轻人，以及去投票的老年人，”卢拉对人群说道。"
-      },
-      {
-       "en": "Lula's victory bucks a broader rightward shift across Latin America in recent years. In a pointed message to Trump, Lula declared that Brazil would not accept being \"anyone's backyard.\"",
-       "zh": "卢拉的胜选与近年来拉丁美洲整体右倾的趋势背道而驰。卢拉向特朗普发出明确的信息，宣称巴西绝不甘心沦为“任何人的后院”。"
-      },
-      {
-       "en": "Election day unfolded chaotically. Around midday, Lula's campaign requested an extension of voting hours, arguing that some local governments had reduced bus services, making it harder for voters to reach polling stations. Bolsonaro also sought an extension, citing heavy rain in some states.",
-       "zh": "选举日当天一片混乱。中午前后，卢拉竞选团队要求延长投票时间，理由是部分地方政府减少了公交服务，导致选民前往投票站更加困难。博索纳罗也提出延长投票时间的要求，理由是部分州普降暴雨。"
-      },
-      {
-       "en": "Supreme Court Justice Cristiano Zanin extended voting by two hours, to 7 p.m., but some polling stations had already deactivated their electronic voting machines and could not resume voting.",
-       "zh": "最高法院法官克里斯蒂亚诺·扎宁（ Cristiano Zanin ）将投票时间延长了两个小时，至晚上7点，但一些投票站已停用其电子投票机，无法恢复投票。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "president",
-       "pos": "n.",
-       "zh": "总统；总裁",
-       "ex": "BRASILIA, Brazil — In a stunning political comeback, Luiz Inácio Lula da Silva has been elected president of Brazil, according to official results from Sunday's runoff election, with more than 96% of the votes counted.",
-       "forms": []
-      },
-      {
-       "w": "official",
-       "pos": "n.",
-       "zh": "官员；adj. 官方的",
-       "ex": "BRASILIA, Brazil — In a stunning political comeback, Luiz Inácio Lula da Silva has been elected president of Brazil, according to official results from Sunday's runoff election, with more than 96% of the votes counted.",
-       "forms": []
-      },
-      {
-       "w": "result",
-       "pos": "n.",
-       "zh": "结果",
-       "ex": "BRASILIA, Brazil — In a stunning political comeback, Luiz Inácio Lula da Silva has been elected president of Brazil, according to official results from Sunday's runoff election, with more than 96% of the votes counted.",
-       "forms": [
-        "results"
-       ]
-      },
-      {
-       "w": "election",
-       "pos": "n.",
-       "zh": "选举",
-       "ex": "BRASILIA, Brazil — In a stunning political comeback, Luiz Inácio Lula da Silva has been elected president of Brazil, according to official results from Sunday's runoff election, with more than 96% of the votes counted.",
-       "forms": []
-      },
-      {
-       "w": "vote",
-       "pos": "n.",
-       "zh": "投票；表决",
-       "ex": "BRASILIA, Brazil — In a stunning political comeback, Luiz Inácio Lula da Silva has been elected president of Brazil, according to official results from Sunday's runoff election, with more than 96% of the votes counted.",
-       "forms": [
-        "votes",
-        "voting"
-       ]
-      },
-      {
-       "w": "democracy",
-       "pos": "n.",
-       "zh": "民主；民主制度",
-       "ex": "Since democracy was restored in 1989, no candidate who failed to win the first round of voting has gone on to win the presidency in the second round.",
-       "forms": []
-      },
-      {
-       "w": "candidate",
-       "pos": "n.",
-       "zh": "候选人",
-       "ex": "Since democracy was restored in 1989, no candidate who failed to win the first round of voting has gone on to win the presidency in the second round.",
-       "forms": []
-      },
-      {
-       "w": "career",
-       "pos": "n.",
-       "zh": "职业；生涯",
-       "ex": "The victory also adds another chapter to Lula's long political career, securing him a fourth, nonconsecutive presidential term.",
-       "forms": []
-      },
-      {
-       "w": "leader",
-       "pos": "n.",
-       "zh": "领导人",
-       "ex": "Lula, who turns 81 on Tuesday, will be among the oldest sitting leaders in the Americas, alongside President Trump and Nicaraguan President Daniel Ortega, both 80.",
-       "forms": [
-        "leaders"
-       ]
-      },
-      {
-       "w": "speech",
-       "pos": "n.",
-       "zh": "演讲；言论",
-       "ex": "In a speech to ecstatic supporters in São Paulo, Lula said the election was a \"defeat of denialism.",
-       "forms": []
-      },
-      {
-       "w": "shift",
-       "pos": "n.",
-       "zh": "转变；转移",
-       "ex": "Lula's victory bucks a broader rightward shift across Latin America in recent years.",
-       "forms": []
-      },
-      {
-       "w": "accept",
-       "pos": "v.",
-       "zh": "接受",
-       "ex": "In a pointed message to Trump, Lula declared that Brazil would not accept being \"anyone's backyard.\" Election day unfolded chaotically.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "president",
-      "official",
-      "result",
-      "election",
-      "vote"
-     ],
-     "keyVocab": [
-      "president",
-      "official",
-      "result",
-      "election",
-      "vote",
-      "democracy",
-      "candidate",
-      "career"
-     ]
-    },
-    {
-     "id": "2026-10-26-business",
-     "section": "Business",
-     "sectionZh": "商业 · 财经",
-     "title": "Netflix lays off 6% of workforce amidst slowing growth",
-     "dek": "Netflix is regrouping after the release of its latest quarterly earnings this week. Revenue growth at the streaming giant has slowed as the company works to overhaul its programming unit.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/25/nx-s1-6009274/netflix-lays-off-6-of-workforce-amidst-slowing-growth",
-     "byline": "Ayesha Rascoe",
-     "dateLabel": "2026-10-26",
-     "words": 361,
-     "readTime": 3,
-     "level": "B2",
-     "levelEn": "Upper-intermediate",
-     "paragraphs": [
-      {
-       "en": "Netflix is regrouping after the release of its latest quarterly earnings this week. Revenue growth at the streaming giant has slowed as the company works to overhaul its programming unit.",
-       "zh": "Netflix在本周发布最新季度收益后正在重新组合。随着该公司努力改革其节目部门，这家流媒体巨头的收入增长已经放缓。"
-      },
-      {
-       "en": "Netflix has had a tough couple of weeks. The streaming giant laid off workers and fired some of its top executives. The reorganization comes as Netflix reported slower quarterly revenue growth and engagement in the U.S. NPR's Mandalit del Barco joins us from Los Angeles to round it all up. Thanks for being with us.",
-       "zh": "Netflix 近几周来遭遇了重重困难。这家流媒体巨头裁员并解雇了一些高管。此次重组正值 Netflix 公布季度营收增长放缓以及美国用户参与度下降之际。NPR 的记者曼达利特·德尔·巴尔科从洛杉矶连线，为我们带来最新消息。感谢您的收听。"
-      },
-      {
-       "en": "RASCOE: Let's start with those layoffs and firings. What happened?",
-       "zh": "拉斯科：我们先从裁员和解雇说起。到底发生了什么？"
-      },
-      {
-       "en": "DEL BARCO: Well, It was actually a surprise move. A thousand people were laid off. That's 6% of Netflix's workforce. And after handing them their pink slips, the chief content officer was fired. Then the chair of Netflix film and six other top executives were let go. The company's leaders said that they had to make some tough decisions about where to trim or redirect their investments. And even though they beat Wall Street expectations in this latest quarter, Netflix's growth has slowed. Co-CEO Ted Sarandos told investors this week that viewer engagement in the U.S. is slowing down.",
-       "zh": ""
-      },
-      {
-       "en": "TED SARANDOS: We do need better execution in the U.S. It's just not growing as fast as it could or as fast as we'd like.",
-       "zh": "TED SARANDOS ：在美国，我们确实需要更好的执行力，只是增长速度不如我们想象的那么快。"
-      },
-      {
-       "en": "RASCOE: OK. So growth is slowing in the U.S. But Netflix is global, right?",
-       "zh": "拉斯科：好的。所以美国的增长正在放缓，但Netflix是全球性的，对吧？"
-      },
-      {
-       "en": "DEL BARCO: Yeah. Netflix is actually available in 190 countries, and Sarandos credited the outgoing chief content officer Bela Bajaria for expanding the company's global reach. Her replacement, Peter Rice, is by all accounts beloved in Hollywood. He's the former president of 21st Century Fox, and when he headed Fox Searchlight, he greenlit films like \"Slumdog Millionaire,\" \"Juno\" and \"Little Miss Sunshine.\"",
-       "zh": "DEL BARCO ：是的。Netflix实际上在190个国家/地区提供服务， Sarandos认为即将离任的首席内容官Bela Bajaria扩大了公司的全球影响力。她的继任者彼得·赖斯（ Peter Rice ）在好莱坞广受欢迎。他是21世纪福克斯的前总裁，当他领导福克斯探照灯时，他为“贫民窟百万富翁” ， “朱诺”和“阳光小小姐”等电影点亮了绿灯。"
-      },
-      {
-       "en": "RASCOE: Can you tell us more about this new leadership and the reboot at Netflix?",
-       "zh": "RASCOE ：你能告诉我们更多关于Netflix新领导层和重启的信息吗？"
-      },
-      {
-       "en": "DEL BARCO: It will be interesting to see if and how Netflix's content changes, eventually. The streamer hasn't had a water-cooler hit in a while. And as for the layoffs and firings, here's what Natalie Jarvey, who covers the creator economy in Hollywood, had to say on \"The Ankler Agenda\" podcast.",
-       "zh": "德尔巴科：看看Netflix的内容最终是否以及如何变化将会很有趣。主播已经有一段时间没有冷却器了。至于裁员和解雇，以下是报道好莱坞创作者经济的Natalie Jarvey在“The Ankler Agenda”播客上所说的话。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "revenue",
-       "pos": "n.",
-       "zh": "收入；营收",
-       "ex": "Revenue growth at the streaming giant has slowed as the company works to overhaul its programming unit.",
-       "forms": []
-      },
-      {
-       "w": "growth",
-       "pos": "n.",
-       "zh": "增长",
-       "ex": "Revenue growth at the streaming giant has slowed as the company works to overhaul its programming unit.",
-       "forms": []
-      },
-      {
-       "w": "streaming",
-       "pos": "n.",
-       "zh": "流媒体",
-       "ex": "Revenue growth at the streaming giant has slowed as the company works to overhaul its programming unit.",
-       "forms": []
-      },
-      {
-       "w": "worker",
-       "pos": "n.",
-       "zh": "工人；员工",
-       "ex": "The streaming giant laid off workers and fired some of its top executives.",
-       "forms": [
-        "workers"
-       ]
-      },
-      {
-       "w": "report",
-       "pos": "n.",
-       "zh": "报告；报道",
-       "ex": "The reorganization comes as Netflix reported slower quarterly revenue growth and engagement in the U.S.",
-       "forms": [
-        "reported"
-       ]
-      },
-      {
-       "w": "layoff",
-       "pos": "n.",
-       "zh": "裁员；解雇",
-       "ex": "RASCOE: Let's start with those layoffs and firings.",
-       "forms": [
-        "layoffs"
-       ]
-      },
-      {
-       "w": "workforce",
-       "pos": "n.",
-       "zh": "劳动力；员工总数",
-       "ex": "That's 6% of Netflix's workforce.",
-       "forms": []
-      },
-      {
-       "w": "film",
-       "pos": "n.",
-       "zh": "电影；影片",
-       "ex": "Then the chair of Netflix film and six other top executives were let go.",
-       "forms": [
-        "films"
-       ]
-      },
-      {
-       "w": "leader",
-       "pos": "n.",
-       "zh": "领导人",
-       "ex": "The company's leaders said that they had to make some tough decisions about where to trim or redirect their investments.",
-       "forms": [
-        "leaders"
-       ]
-      },
-      {
-       "w": "investment",
-       "pos": "n.",
-       "zh": "投资",
-       "ex": "The company's leaders said that they had to make some tough decisions about where to trim or redirect their investments.",
-       "forms": [
-        "investments"
-       ]
-      },
-      {
-       "w": "investor",
-       "pos": "n.",
-       "zh": "投资者",
-       "ex": "Co-CEO Ted Sarandos told investors this week that viewer engagement in the U.S.",
-       "forms": [
-        "investors"
-       ]
-      },
-      {
-       "w": "global",
-       "pos": "adj.",
-       "zh": "全球的",
-       "ex": "But Netflix is global, right?",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "revenue",
-      "growth",
-      "streaming",
-      "worker",
-      "report"
-     ],
-     "keyVocab": [
-      "revenue",
-      "growth",
-      "streaming",
-      "worker",
-      "report",
-      "layoff",
-      "workforce",
-      "film"
-     ]
-    },
-    {
-     "id": "2026-10-26-technology",
-     "section": "Technology",
-     "sectionZh": "科技",
-     "title": "When a teen posts a selfie, how much filter is 'too much' filter?",
-     "dek": "How much filter is too much filter for kids and teens posting selfies on social media?",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/25/nx-s1-6011190/meta-facebook-settlement-beauty-filters-ai",
-     "byline": "Chloe Veltman",
-     "dateLabel": "2026-10-26",
-     "words": 315,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "How much filter is too much filter for kids and teens posting selfies on social media?",
-       "zh": "对于在社交媒体上发布自拍照的儿童和青少年来说，过多的筛选条件是多少？"
-      },
-      {
-       "en": "That is the question state attorneys general across the country are grappling with following a landmark settlement with Meta this summer. As part of the agreement, the social media giant agreed to block some digital beauty filters for minors — specifically those mimicking extreme transformations like cosmetic procedures or heavy makeup.",
-       "zh": "这是今年夏天与Meta达成具有里程碑意义的和解后，全国各地的州检察长正在努力解决的问题。作为协议的一部分，这家社交媒体巨头同意为未成年人屏蔽一些数字美容过滤器，特别是那些模仿美容程序或浓妆等极端变革的数字美容过滤器。"
-      },
-      {
-       "en": "Now, the burden falls on state officials to tell Meta where to draw the line. But defining where harmless fun ends and harmful manipulation begins is far from straightforward.",
-       "zh": "现在，州政府官员有责任告诉Meta在哪里划清界限。但是，确定无害乐趣的结局和有害操纵的开始远非易事。"
-      },
-      {
-       "en": "For teenagers navigating the digital landscape, the pressure of online perfection is a daily reality. Much of that pressure has been driven by online beauty trends like \"Instagram face.\" Coined in 2019 by The New Yorker writer Jia Tolentino, the phrase refers to a look characterized by a small button nose, high cheekbones and pouty lips. While traditionally only achievable in real life through plastic surgery or extreme makeup, it can be applied instantly online using beauty filters.",
-       "zh": "对于在数字环境中导航的青少年来说，在线完美的压力是日常现实。这种压力很大程度上是由“Instagram face”等在线美容趋势推动的。“这句话由《纽约客》作家贾·托伦蒂诺（ Jia Tolentino ）于2019年创造，指的是小纽扣鼻子、高颧骨和嘴唇丰满的造型。虽然传统上只能通过整形手术或极致化妆在现实生活中实现，但它可以使用美容过滤器在线即时应用。"
-      },
-      {
-       "en": "Mia Lerner, a 17-year-old high school senior in California and a youth body image activist, knows the toll these digital tools can take. She told NPR experimenting with beauty filters contributed to her eating disorder and left her struggling with her self-image.",
-       "zh": "加利福尼亚州17岁的高中生、青年身体形象活动家米娅·勒纳（ Mia Lerner ）知道这些数字工具可能带来的损失。她告诉NPR ，尝试使用美容过滤器会导致她的饮食失调，并让她在自我形象方面苦苦挣扎。"
-      },
-      {
-       "en": "\"I've even tried to fix my nose with AI,\" Lerner said. \"My face looks a lot better, I think, in [the] photo that I manipulated with these beauty filters. But I'm still living with this nose that I see in the mirror.\"",
-       "zh": "“我甚至试图用人工智能来修复我的鼻子，”勒纳说。“我认为，在我用这些美容滤镜处理的照片中，我的脸看起来好多了。但我仍然生活在镜子里看到的这个鼻子里。”"
-      },
-      {
-       "en": "Lerner welcomes the aspect of the Meta settlement that aims to restrict beauty filters for minors. \"It's a very important step in the right direction,\" Lerner said.",
-       "zh": "Lerner对旨在限制未成年人使用美容过滤器的Meta解决方案表示欢迎。“这是朝着正确方向迈出的非常重要的一步，”勒纳说。"
-      },
-      {
-       "en": "However, the agreement reached in August between Meta and 47 U.S. states — plus Washington D.C. and three territories — does not institute a blanket ban on all digital effects.",
-       "zh": "然而， Meta与美国47个州（加上华盛顿特区和三个地区）于8月达成的协议并没有全面禁止所有数字效果。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "social",
-       "pos": "adj.",
-       "zh": "社会的；社交的",
-       "ex": "How much filter is too much filter for kids and teens posting selfies on social media?",
-       "forms": []
-      },
-      {
-       "w": "media",
-       "pos": "n.",
-       "zh": "媒体",
-       "ex": "How much filter is too much filter for kids and teens posting selfies on social media?",
-       "forms": []
-      },
-      {
-       "w": "digital",
-       "pos": "adj.",
-       "zh": "数字的",
-       "ex": "As part of the agreement, the social media giant agreed to block some digital beauty filters for minors — specifically those mimicking extreme transformations like cosmetic procedures or heavy makeup.",
-       "forms": []
-      },
-      {
-       "w": "fall",
-       "pos": "n.",
-       "zh": "下降；下跌",
-       "ex": "Now, the burden falls on state officials to tell Meta where to draw the line.",
-       "forms": [
-        "falls"
-       ]
-      },
-      {
-       "w": "official",
-       "pos": "n.",
-       "zh": "官员；adj. 官方的",
-       "ex": "Now, the burden falls on state officials to tell Meta where to draw the line.",
-       "forms": [
-        "officials"
-       ]
-      },
-      {
-       "w": "online",
-       "pos": "adj.",
-       "zh": "在线的",
-       "ex": "For teenagers navigating the digital landscape, the pressure of online perfection is a daily reality.",
-       "forms": []
-      },
-      {
-       "w": "school",
-       "pos": "n.",
-       "zh": "学校",
-       "ex": "Mia Lerner, a 17-year-old high school senior in California and a youth body image activist, knows the toll these digital tools can take.",
-       "forms": []
-      },
-      {
-       "w": "activist",
-       "pos": "n.",
-       "zh": "活动家；积极分子",
-       "ex": "Mia Lerner, a 17-year-old high school senior in California and a youth body image activist, knows the toll these digital tools can take.",
-       "forms": []
-      },
-      {
-       "w": "experiment",
-       "pos": "n.",
-       "zh": "实验",
-       "ex": "She told NPR experimenting with beauty filters contributed to her eating disorder and left her struggling with her self-image.",
-       "forms": [
-        "experimenting"
-       ]
-      },
-      {
-       "w": "restrict",
-       "pos": "v.",
-       "zh": "限制",
-       "ex": "But I'm still living with this nose that I see in the mirror.\" Lerner welcomes the aspect of the Meta settlement that aims to restrict beauty filters for minors.",
-       "forms": []
-      },
-      {
-       "w": "territory",
-       "pos": "n.",
-       "zh": "领土",
-       "ex": "and three territories — does not institute a blanket ban on all digital effects.",
-       "forms": [
-        "territories"
-       ]
-      },
-      {
-       "w": "effect",
-       "pos": "n.",
-       "zh": "影响；效果",
-       "ex": "and three territories — does not institute a blanket ban on all digital effects.",
-       "forms": [
-        "effects"
-       ]
-      }
-     ],
-     "homeWords": [
-      "social",
-      "media",
-      "digital",
-      "fall",
-      "official"
-     ],
-     "keyVocab": [
-      "social",
-      "media",
-      "digital",
-      "fall",
-      "official",
-      "online",
-      "school",
-      "activist"
-     ]
-    },
-    {
-     "id": "2026-10-26-science",
-     "section": "Science",
-     "sectionZh": "科学",
-     "title": "This summer's fire season was bigger and deadlier than most",
-     "dek": "Historic drought had western states entering summer anxious about wildfires. Some suffered significant destruction and death, but there were wins, too.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/19/nx-s1-5995649/this-summers-fire-season-was-bigger-and-deadlier-than-most",
-     "byline": "Murphy Woodhouse",
-     "dateLabel": "2026-10-26",
-     "words": 331,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "Historic drought had western states entering summer anxious about wildfires. Some suffered significant destruction and death, but there were wins, too.",
-       "zh": "历史性的干旱让进入夏季的西部各州对野火感到焦虑。有些人遭受了巨大的破坏和死亡，但也有胜利。"
-      },
-      {
-       "en": "It has been a dramatic summer fire season in the Western United States. Dozens of wildfires destroyed hundreds of homes, breaking records, and 20 people died fighting them. Wildfires are still very much a threat in Southern California, but relief has finally come for inland states and regions. The Mountain West News Bureau's Murphy Woodhouse reports.",
-       "zh": "在美国西部，这是一个戏剧性的夏季火灾季节。数十场野火摧毁了数百所房屋，打破了记录， 20人死于战斗。南加州的野火仍然是一个很大的威胁，但内陆各州和地区终于得到了缓解。西部山区新闻局的墨菲·伍德豪斯报道。"
-      },
-      {
-       "en": "MURPHY WOODHOUSE, BYLINE: In a dusty, cavernous garage, rancher Tom Sharp watches a mechanic work on a military surplus Humvee painted red and retrofitted to fight wildfires. It was damaged in the lightning-caused Second Flat Fire.",
-       "zh": "墨菲·伍德豪斯（ MURPHY WOODHOUSE ） ，署名：在一个尘土飞扬、海绵状的车库里，牧场主汤姆·夏普（ Tom Sharp ）在一辆军用剩余悍马上观看机械师的工作，这辆悍马被漆成红色，并经过改装以对抗它在闪电引起的第二次平火中受损。"
-      },
-      {
-       "en": "TOM SHARP: And we lost all of our transmission fluid somewhere in the sage.",
-       "zh": "汤姆·夏普：我们在鼠尾草的某个地方丢失了所有的传动液。"
-      },
-      {
-       "en": "WOODHOUSE: It burned more than 100,000 acres of sage and pine in late July. Sharp heads up a local firefighting nonprofit. They're volunteer firefighters, mostly ranchers, who use surplus government gear in vehicles. Driven by big fires like the Second Flat, Oregonians have seen nearly 2.4 million acres burned - more than a quarter of the 9 million acres burned nationwide. That's more than any other year at this time in at least a decade.",
-       "zh": "伍德豪斯：它在7月下旬烧毁了超过10万英亩的鼠尾草和松树。夏普领导当地一家消防非营利组织。他们是志愿消防员，主要是牧场主，他们在车辆上使用多余的政府装备。在Second Flat等大火的推动下，俄勒冈人已经看到近240万英亩土地被烧毁，占全国900万英亩土地的四分之一以上。这比至少十年来任何其他年份都要多。"
-      },
-      {
-       "en": "SHARP: When we lose our rangelands to wildfire, we're losing natural resources that, you know, support the agricultural industry here.",
-       "zh": "夏普：当我们在野火中失去牧场时，我们正在失去支持这里农业的自然资源。"
-      },
-      {
-       "en": "WOODHOUSE: It was also one of the worst smoke years in decades and destroyed hundreds of homes in several states. In Colorado, the Aspen Acres Fire was one of the state's largest ever, consuming hundreds of homes. In Washington, 833 homes burned in Spokane in early August, totaling more than $1 billion in losses - the most costly wildfire disaster in state history. In Nevada, Reno and surrounding Washoe County were besieged by fire in August.",
-       "zh": "伍德豪斯：这也是几十年来最严重的吸烟年份之一，在几个州摧毁了数百所房屋。在科罗拉多州，阿斯彭英亩大火是该州有史以来最大的火灾之一，消耗了数百套房屋。在华盛顿州， 8月初有833所房屋在斯波坎被烧毁，损失总额超过10亿美元（ $ 1 billion ） ，这是该州历史上最昂贵的野火灾难。在内华达州，里诺和周围的沃肖县在8月份被大火围困。"
-      },
-      {
-       "en": "WOODHOUSE: Whipping winds blind a fire engine crew with smoke in the shaky nighttime video shared on social media by firefighters.",
-       "zh": "伍德豪斯：在消防员在社交媒体上分享的摇摇欲坠的夜间视频中，鞭打风使消防队员看不见烟雾。"
-      },
-      {
-       "en": "WOODHOUSE: Richard Edwards is chief of the Truckee Meadows Fire Protection District.",
-       "zh": "伍德豪斯：理查德·爱德华兹是特拉基草原消防区的负责人。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "drought",
-       "pos": "n.",
-       "zh": "干旱",
-       "ex": "Historic drought had western states entering summer anxious about wildfires.",
-       "forms": []
-      },
-      {
-       "w": "wildfire",
-       "pos": "n.",
-       "zh": "野火",
-       "ex": "Historic drought had western states entering summer anxious about wildfires.",
-       "forms": [
-        "wildfires"
-       ]
-      },
-      {
-       "w": "significant",
-       "pos": "adj.",
-       "zh": "显著的；重要的",
-       "ex": "Some suffered significant destruction and death, but there were wins, too.",
-       "forms": []
-      },
-      {
-       "w": "dramatic",
-       "pos": "adj.",
-       "zh": "戏剧性的；巨大的",
-       "ex": "It has been a dramatic summer fire season in the Western United States.",
-       "forms": []
-      },
-      {
-       "w": "threat",
-       "pos": "n.",
-       "zh": "威胁",
-       "ex": "Wildfires are still very much a threat in Southern California, but relief has finally come for inland states and regions.",
-       "forms": []
-      },
-      {
-       "w": "region",
-       "pos": "n.",
-       "zh": "地区；区域",
-       "ex": "Wildfires are still very much a threat in Southern California, but relief has finally come for inland states and regions.",
-       "forms": [
-        "regions"
-       ]
-      },
-      {
-       "w": "news",
-       "pos": "n.",
-       "zh": "新闻",
-       "ex": "The Mountain West News Bureau's Murphy Woodhouse reports.",
-       "forms": []
-      },
-      {
-       "w": "report",
-       "pos": "n.",
-       "zh": "报告；报道",
-       "ex": "The Mountain West News Bureau's Murphy Woodhouse reports.",
-       "forms": [
-        "reports"
-       ]
-      },
-      {
-       "w": "sharp",
-       "pos": "adj.",
-       "zh": "急剧的；锋利的",
-       "ex": "MURPHY WOODHOUSE, BYLINE: In a dusty, cavernous garage, rancher Tom Sharp watches a mechanic work on a military surplus Humvee painted red and retrofitted to fight wildfires.",
-       "forms": []
-      },
-      {
-       "w": "military",
-       "pos": "n.",
-       "zh": "军队；军方",
-       "ex": "MURPHY WOODHOUSE, BYLINE: In a dusty, cavernous garage, rancher Tom Sharp watches a mechanic work on a military surplus Humvee painted red and retrofitted to fight wildfires.",
-       "forms": []
-      },
-      {
-       "w": "surplus",
-       "pos": "n.",
-       "zh": "盈余；顺差",
-       "ex": "MURPHY WOODHOUSE, BYLINE: In a dusty, cavernous garage, rancher Tom Sharp watches a mechanic work on a military surplus Humvee painted red and retrofitted to fight wildfires.",
-       "forms": []
-      },
-      {
-       "w": "local",
-       "pos": "adj.",
-       "zh": "当地的",
-       "ex": "Sharp heads up a local firefighting nonprofit.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "drought",
-      "wildfire",
-      "significant",
-      "dramatic",
-      "threat"
-     ],
-     "keyVocab": [
-      "drought",
-      "wildfire",
-      "significant",
-      "dramatic",
-      "threat",
-      "region",
-      "news",
-      "report"
-     ]
-    },
-    {
-     "id": "2026-10-26-culture",
-     "section": "Culture",
-     "sectionZh": "文化",
-     "title": "What makes a good spine-tingler? Stephen Graham Jones says it's all in the ending",
-     "dek": "\"I only planned to drive a tractor and be a farmer,\" he says.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/25/nx-s1-6007348/what-makes-a-good-spine-tingler-stephen-graham-jones-says-its-all-in-the-ending",
-     "byline": "Ryan Benk",
-     "dateLabel": "2026-10-26",
-     "words": 322,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "\"I only planned to drive a tractor and be a farmer,\" he says.",
-       "zh": "“我只打算开拖拉机当农民，”他说。"
-      },
-      {
-       "en": "Jones, a member of the Blackfeet Nation from Midland, Texas, saw either oil fields or cornfields in his future. But he always knew he had the chops to tell a good story.",
-       "zh": "琼斯是来自德克萨斯州米德兰的黑脚国家的成员，他看到了未来的油田或玉米田。但他始终知道自己有能力讲述一个好故事。"
-      },
-      {
-       "en": "\"I was always spilling Kool-Aid on the couch and telling my mom a story that my little brother did it,\" he says. \"It was all self-preservation, of course, but to tell you the truth, I was reading novels since third or fourth grade and I would get to the end of those novels and I would think, 'I can do that, I can end a story like that.'\"",
-       "zh": "他说： “我总是把Kool-Aid洒在沙发上，给我妈妈讲一个故事，说是我弟弟干的。” “当然，这完全是自我保护，但说实话，我从三年级或四年级开始读小说，我会读到这些小说的结尾，我会想， '我可以做到这一点，我可以结束这样的故事。'”"
-      },
-      {
-       "en": "All month, Weekend Edition has been exploring why people are drawn to scary stories, how horror has become big business, and now Jones, a professor of English at the University of Colorado Boulder, shares with us how to create a good spine-tingler.",
-       "zh": "整个月， Weekend Edition一直在探索人们为什么会被恐怖故事所吸引，恐怖如何成为大生意，现在科罗拉多大学博尔德分校的英语教授琼斯与我们分享如何创造一个好的脊椎刺痛者。"
-      },
-      {
-       "en": "\"I think craft can get you through 95% of a novel,\" Jones says. \"The craft is mechanics. It's the little techniques you use to achieve this or that, and situate the story and the reader. That's all crafting technique.\"",
-       "zh": "Jones说： “我认为Craft可以让你完成小说的95%。” “工艺是机械的。这是你用来实现这个或那个的小技巧，并定位故事和读者。这都是制作技巧。”"
-      },
-      {
-       "en": "Jones says the actual art of writing a good story doesn't really come into focus until you get to the wrap-up.",
-       "zh": "琼斯说，在总结之前，写一个好故事的实际艺术并不真正成为人们关注的焦点。"
-      },
-      {
-       "en": "\"I always think of it like the story is running along the top of a flat mesa, and it's nighttime and 95% of it is even-footing. But then at the very end, you jump off into the night, into the darkness, and you trust that there's going to be another toe hold out there,\" he says.",
-       "zh": "“我一直认为这是一个沿着平坦台面顶部运行的故事，现在是夜间， 95 ％的故事是均匀的。但是在最后，你跳入黑夜，进入黑暗，你相信那里会有另一只脚趾，”他说。"
-      },
-      {
-       "en": "Experts studying fear have theorized that one of the major reasons people are flocking to horror experiences lately — whether theme parks, novels or movies — is that the world feels so uncertain. Jones agrees and says \"whether that ending is up or down, that ending is what we're here for.\"",
-       "zh": "研究恐惧的专家推测，人们最近涌向恐怖体验的主要原因之一—无论是主题公园，小说还是电影—是世界感到如此不确定。琼斯同意并说： “无论结局是向上还是向下，这个结局就是我们在这里的目的。”"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "oil",
-       "pos": "n.",
-       "zh": "石油",
-       "ex": "Jones, a member of the Blackfeet Nation from Midland, Texas, saw either oil fields or cornfields in his future.",
-       "forms": []
-      },
-      {
-       "w": "future",
-       "pos": "n.",
-       "zh": "未来",
-       "ex": "Jones, a member of the Blackfeet Nation from Midland, Texas, saw either oil fields or cornfields in his future.",
-       "forms": []
-      },
-      {
-       "w": "university",
-       "pos": "n.",
-       "zh": "大学",
-       "ex": "\"It was all self-preservation, of course, but to tell you the truth, I was reading novels since third or fourth grade and I would get to the end of those novels and I would think, 'I can do that, I can end a story like that.'\" All month, Weekend Edition has been exploring why people are drawn to scary stories, how horror has become big business, and now Jones, a professor of English at the University of Colorado Boulder, shares with us how to create a good spine-tingler.",
-       "forms": []
-      },
-      {
-       "w": "study",
-       "pos": "n.",
-       "zh": "研究；学习",
-       "ex": "Experts studying fear have theorized that one of the major reasons people are flocking to horror experiences lately — whether theme parks, novels or movies — is that the world feels so uncertain.",
-       "forms": [
-        "studying"
-       ]
-      },
-      {
-       "w": "reason",
-       "pos": "n.",
-       "zh": "原因；理由",
-       "ex": "Experts studying fear have theorized that one of the major reasons people are flocking to horror experiences lately — whether theme parks, novels or movies — is that the world feels so uncertain.",
-       "forms": [
-        "reasons"
-       ]
-      },
-      {
-       "w": "park",
-       "pos": "n.",
-       "zh": "公园；园区",
-       "ex": "Experts studying fear have theorized that one of the major reasons people are flocking to horror experiences lately — whether theme parks, novels or movies — is that the world feels so uncertain.",
-       "forms": [
-        "parks"
-       ]
-      }
-     ],
-     "homeWords": [
-      "oil",
-      "future",
-      "university",
-      "study",
-      "reason"
-     ],
-     "keyVocab": [
-      "oil",
-      "future",
-      "university",
-      "study",
-      "reason",
-      "park"
      ]
     }
    ]
