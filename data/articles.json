@@ -1,6 +1,703 @@
 {
- "updated": "2026-11-02T06:32:14.299722+00:00",
+ "updated": "2026-11-03T07:04:02.549403+00:00",
  "days": [
+  {
+   "date": "2026-11-03",
+   "articles": [
+    {
+     "id": "2026-11-03-world",
+     "section": "World",
+     "sectionZh": "国际",
+     "title": "Hundreds evacuate city during temporary ceasefire between Russia and Ukraine",
+     "dek": "The ceasefire in a Russian-occupied Ukrainian city has ended. The ceasefire, which lasted several days, allowed hundreds of residents to evacuate.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/02/nx-s1-6022261/hundreds-evacuate-city-during-temporary-ceasefire-between-russia-and-ukraine",
+     "byline": "Joanna Kakissis",
+     "dateLabel": "2026-11-03",
+     "words": 348,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "The ceasefire in a Russian-occupied Ukrainian city has ended. The ceasefire, which lasted several days, allowed hundreds of residents to evacuate.",
+       "zh": "俄罗斯占领的乌克兰城市的停火已经结束。持续了几天的停火允许数百名居民撤离。"
+      },
+      {
+       "en": "A ceasefire brokered by Pope Leo and Melania Trump in a corner of southern Ukraine has ended. The truce enabled the evacuation of hundreds of residents in a Russian-occupied town, and across the river in the Ukrainian-held city of Kherson, the truce also allowed residents to walk the streets without being targeted by Russian drones. NPR's Joanna Kakissis traveled there this weekend and is on the line from Kyiv. Good morning, Joanna.",
+       "zh": "由教皇利奥和梅拉尼娅·特朗普在乌克兰南部一个角落斡旋的停火已经结束。这次休战使数百名居民得以从一个被俄罗斯占领的城镇撤离，在河对岸的乌克兰控制的赫尔松市，这次休战也允许居民在街上行走而不被俄罗斯无人机锁定。NPR的乔安娜·卡基西斯本周末前往那里，并正在基辅通话。早上好，乔安娜。"
+      },
+      {
+       "en": "KAKISSIS: Well, Leila, tunnels of heavy-duty nets cover nearly every street and many of the buildings in Kherson, if you can imagine that. These nets help protect residents from drones because for the last couple of years, Russian soldiers have used FPV, or first-person view drones strapped with explosives, to actually hunt and kill civilians in Kherson. So Russian troops are also about a mile away across a river. They also drop a lot of guided air bombs into the city.",
+       "zh": "KAKISSIS：嗯，莱拉，如果你能想象的话，赫尔松几乎每条街道和许多建筑物上都覆盖了重型网。这些网帮助保护居民免受无人机的袭击，因为在过去几年里，俄罗斯士兵使用配备炸药的FPV无人机，也就是第一人称视角无人机，实际上在赫尔松猎杀和杀害平民。俄罗斯军队也在大约一英里外的河对岸。他们还向城市投下了许多制导空炸弹。"
+      },
+      {
+       "en": "Now, this is a city I first visited in late 2022, right after Ukrainian forces freed Kherson from Russian occupation. Last time I was there was about a year ago. It's a lovely city filled with parks, but, you know, Russian forces have destroyed so many buildings there, and people never left their homes while I was there last time without drone detectors and sometimes even body armor.",
+       "zh": "现在，这是一座我第一次访问的城市，时间是在2022年底，正好在乌克兰军队将赫尔松从俄罗斯占领中解放出来之后。我上次去那里大约是一年前。这是一个充满公园的可爱城市，但是，你知道，俄罗斯军队在那里摧毁了许多建筑，而且我上次在那里时，人们离开家时总是带着无人机探测器，有时甚至还穿着防弹衣。"
+      },
+      {
+       "en": "FADEL: So how much has changed since you were last there, especially given there was a ceasefire this weekend?",
+       "zh": "FADEL：自从你上次去那里以来，情况有多大变化，尤其考虑到这个周末有停火？"
+      },
+      {
+       "en": "KAKISSIS: Well, Leila, the locals were not wearing body armor this time, and the city did show signs of normal life.",
+       "zh": "卡基西斯：嗯，莱拉，这次当地人没有穿防弹衣，而且城市确实显现出正常生活的迹象。"
+      },
+      {
+       "en": "KAKISSIS: We saw people strolling outside with their kids, stocking up on groceries, having coffee in the sun. And at one very busy cafe, we met two best friends, Anna Hersomenko (ph) and Olena Soboleva (ph). They are 21 years old, and here's Olena.",
+       "zh": "KAKISSIS：我们看到有人带着孩子在外面散步，购买杂货，在阳光下喝咖啡。在一家非常繁忙的咖啡馆，我们遇到了两位最好的朋友，安娜·赫尔索门科（Anna Hersomenko）和奥莱娜·索博列娃（Olena Soboleva）。她们都21岁，这是奥莱娜。"
+      },
+      {
+       "en": "OLENA SOBOLEVA: There is no drones. There is no explosions. It is like a feeling that no one wants to kill you.",
+       "zh": "奥莱娜·索博列娃：没有无人机。没有爆炸。这种感觉就像没人想杀你一样。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "ceasefire",
+       "pos": "n.",
+       "zh": "停火；停战",
+       "ex": "The ceasefire in a Russian-occupied Ukrainian city has ended.",
+       "forms": []
+      },
+      {
+       "w": "resident",
+       "pos": "n.",
+       "zh": "居民",
+       "ex": "The ceasefire, which lasted several days, allowed hundreds of residents to evacuate.",
+       "forms": [
+        "residents"
+       ]
+      },
+      {
+       "w": "drone",
+       "pos": "n.",
+       "zh": "无人机",
+       "ex": "The truce enabled the evacuation of hundreds of residents in a Russian-occupied town, and across the river in the Ukrainian-held city of Kherson, the truce also allowed residents to walk the streets without being targeted by Russian drones.",
+       "forms": [
+        "drones"
+       ]
+      },
+      {
+       "w": "troops",
+       "pos": "n.",
+       "zh": "部队；军队",
+       "ex": "So Russian troops are also about a mile away across a river.",
+       "forms": []
+      },
+      {
+       "w": "occupation",
+       "pos": "n.",
+       "zh": "占领；职业",
+       "ex": "Now, this is a city I first visited in late 2022, right after Ukrainian forces freed Kherson from Russian occupation.",
+       "forms": []
+      },
+      {
+       "w": "park",
+       "pos": "n.",
+       "zh": "公园；园区",
+       "ex": "It's a lovely city filled with parks, but, you know, Russian forces have destroyed so many buildings there, and people never left their homes while I was there last time without drone detectors and sometimes even body armor.",
+       "forms": [
+        "parks"
+       ]
+      },
+      {
+       "w": "change",
+       "pos": "n.",
+       "zh": "变化；改变",
+       "ex": "FADEL: So how much has changed since you were last there, especially given there was a ceasefire this weekend?",
+       "forms": [
+        "changed"
+       ]
+      },
+      {
+       "w": "local",
+       "pos": "adj.",
+       "zh": "当地的",
+       "ex": "KAKISSIS: Well, Leila, the locals were not wearing body armor this time, and the city did show signs of normal life.",
+       "forms": [
+        "locals"
+       ]
+      }
+     ],
+     "homeWords": [
+      "ceasefire",
+      "resident",
+      "drone",
+      "troops",
+      "occupation"
+     ],
+     "keyVocab": [
+      "ceasefire",
+      "resident",
+      "drone",
+      "troops",
+      "occupation",
+      "park",
+      "change",
+      "local"
+     ]
+    },
+    {
+     "id": "2026-11-03-business",
+     "section": "Business",
+     "sectionZh": "商业 · 财经",
+     "title": "Two economists studied California's billionaire tax. They reached wildly different conclusions",
+     "dek": "In 1978, California voters approved Proposition 13, a historic tax revolt that became an opening salvo in the Reagan revolution and its national movement to slash taxes. Now, Californians are…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/sections/planet-money/2026/11/02/g-s1-151009/two-economists-studied-californias-billionaire-tax-they-reached-wildly-different-conclusions",
+     "byline": "Greg Rosalsky",
+     "dateLabel": "2026-11-03",
+     "words": 538,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "In 1978, California voters approved Proposition 13, a historic tax revolt that became an opening salvo in the Reagan revolution and its national movement to slash taxes. Now, Californians are voting on Proposition 40, which could prove to be just as revolutionary — but in the opposite direction: it would create America's first-ever wealth tax targeted at billionaires.",
+       "zh": "1978 年，加利福尼亚州选民通过了第 13 号提案，这是一场具有历史意义的税收反抗，成为里根革命及其全国范围内大幅削减税收运动的开端。现在，加利福尼亚州选民正在投票表决第 40 号提案，这可能被证明同样具有革命性——但方向相反：它将创建美国史上首次针对亿万富翁的财富税。"
+      },
+      {
+       "en": "As Election Day approaches, economists have been duking it out over this proposed wealth tax. It could provide a sort of nerdy preview of a coming national fight over taxing the superrich. Will this wealth tax help rein in runaway inequality and fill the state's coffers — or will it convince billionaires to fire up their private jets and set up residence in mansions outside the state? Some megabillionaires have already fled California since the tax was proposed.",
+       "zh": "随着选举日临近，经济学家们一直在就这项拟议的财富税进行激烈争论。它可能为即将到来的全国性超富人税收斗争提供一种书呆子式的预演。这项财富税能否帮助遏制失控的不平等现象并充实州财政——还是会让亿万富翁们启动私人飞机，搬到州外的豪宅定居呢？自从提出这项税收以来，一些超级亿万富翁已经逃离了加利福尼亚州。"
+      },
+      {
+       "en": "\"If California says, 'We can tax billionaires. We can tax the wealthiest, most powerful people in the world,' it will be the beginning of not only a broader U.S.-wide movement, ultimately paving the way for a federal wealth tax — but I think it will be the beginning of an international movement,\" Zucman tells Planet Money.",
+       "zh": "祖克曼在接受《Planet Money》采访时表示：“如果加州说，‘我们可以对亿万富翁征税。我们可以对世界上最富有、最有权势的人征税，’这不仅将是美国范围内更广泛运动的开始，最终为联邦财富税铺平道路——我认为这也将是一个国际运动的开始。”"
+      },
+      {
+       "en": "On the other side of the debate is Stanford economist and Hoover Institution senior fellow Joshua Rauh. His analysis, co-authored with Benjamin Jaros, comes to a wildly different conclusion: the tax could lead to an exodus of billionaires out of California, damaging the state's economy and blowing a hole in the income tax revenue the state already collects from billionaires.",
+       "zh": "辩论的另一边是斯坦福大学经济学家、胡佛研究所高级研究员约书亚·劳赫。他与本杰明·贾罗斯共同撰写的分析得出了截然不同的结论：这项税收可能导致亿万富翁离开加利福尼亚，损害该州的经济，并在州政府从亿万富翁那里已征收的所得税收入上造成缺口。"
+      },
+      {
+       "en": "\" It would not raise $100 billion for the state,\" Rauh argues. Instead, he estimates, this tax could actually end up draining California's state coffers. \" We calculate that Proposition 40 would cost the state of California $39 billion.\"",
+       "zh": "“这不会为州筹集1000亿美元，”Rauh 争辩道。相反，他估计，这项税收实际上可能会耗尽加利福尼亚州的财政。“我们计算得出，第40号提案将使加利福尼亚州损失390亿美元。”"
+      },
+      {
+       "en": "It's a classic Berkeley-Stanford rivalry, but the stakes are much higher than a football game. California voters are deciding whether to pursue a historic wealth tax experiment, which could influence tax policy around the nation, even the world. Indeed, the superrich, fearing that this wealth tax could spark a widespread movement, have poured a staggering $333 million into a group trying to defeat this proposition, according to a recent report in The New York Times.",
+       "zh": "这是经典的加州大学伯克利分校与斯坦福大学的对抗，但赌注远比一场橄榄球比赛高得多。加州选民正在决定是否推进一次历史性的财富税实验，这可能会影响全国乃至全世界的税收政策。事实上，据《纽约时报》最近的一篇报道，超级富豪们担心这项财富税可能引发广泛的运动，他们已经向一个试图反对该提案的组织投入了惊人的3.33亿美元。"
+      },
+      {
+       "en": "The wealth tax Prop 40 proposes is pretty straightforward: a one-time, 5% tax on the net worth of billionaires, with some assets exempted. It would apply retroactively to any billionaire who was a resident of California on January 1, 2026. The money would be earmarked mostly for the health care of low-income Californians, to help offset federal cuts to Medicaid.",
+       "zh": "财富税第40号提案相当简单：对亿万富翁的净资产征收一次性5%的税，部分资产除外。它将追溯适用于2026年1月1日居住在加利福尼亚的任何亿万富翁。资金主要用于低收入加州人的医疗保健，以帮助抵消联邦对医疗补助的削减。"
+      },
+      {
+       "en": "A wealth tax is sort of like a property tax, except it extends beyond real estate and taxes a whole range of assets: stocks, superyachts, Basquiat paintings, dinosaur skeletons, Mercedes G Wagons, samurai swords, basically everything a rich person owns. Of course, figuring out what all a billionaire's stuff is worth — especially assets that rarely change hands — can get complicated. Do you value a Picasso or a yacht by the price originally paid, what it might sell for today, by how much they've insured it for? And so on. That said, most of the wealth held by California billionaires is in publicly traded stocks, whose value is easy to determine.",
+       "zh": "财富税有点像财产税，但它不仅限于不动产，还对各种资产征税：股票、超级游艇、巴斯奎亚画作、恐龙骨架、梅赛德斯G级、武士刀，基本上就是富人拥有的所有东西。当然，要弄清一个亿万富翁的所有资产价值——尤其是那些不常易手的资产——可能会很复杂。你是按最初购买价格、现在可能的售价，还是按保险金额来评估一个毕加索画作或游艇的价值？如此等等。也就是说，加州亿万富翁持有的大部分财富都是公开交易的股票，其价值很容易确定。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "approve",
+       "pos": "v.",
+       "zh": "批准；赞成",
+       "ex": "In 1978, California voters approved Proposition 13, a historic tax revolt that became an opening salvo in the Reagan revolution and its national movement to slash taxes.",
+       "forms": [
+        "approved"
+       ]
+      },
+      {
+       "w": "tax",
+       "pos": "n.",
+       "zh": "税；税收",
+       "ex": "In 1978, California voters approved Proposition 13, a historic tax revolt that became an opening salvo in the Reagan revolution and its national movement to slash taxes.",
+       "forms": [
+        "taxes",
+        "taxing"
+       ]
+      },
+      {
+       "w": "national",
+       "pos": "adj.",
+       "zh": "国家的；全国的",
+       "ex": "In 1978, California voters approved Proposition 13, a historic tax revolt that became an opening salvo in the Reagan revolution and its national movement to slash taxes.",
+       "forms": []
+      },
+      {
+       "w": "vote",
+       "pos": "n.",
+       "zh": "投票；表决",
+       "ex": "Now, Californians are voting on Proposition 40, which could prove to be just as revolutionary — but in the opposite direction: it would create America's first-ever wealth tax targeted at billionaires.",
+       "forms": [
+        "voting"
+       ]
+      },
+      {
+       "w": "wealth",
+       "pos": "n.",
+       "zh": "财富",
+       "ex": "Now, Californians are voting on Proposition 40, which could prove to be just as revolutionary — but in the opposite direction: it would create America's first-ever wealth tax targeted at billionaires.",
+       "forms": []
+      },
+      {
+       "w": "election",
+       "pos": "n.",
+       "zh": "选举",
+       "ex": "As Election Day approaches, economists have been duking it out over this proposed wealth tax.",
+       "forms": []
+      },
+      {
+       "w": "propose",
+       "pos": "v.",
+       "zh": "提议；提出",
+       "ex": "As Election Day approaches, economists have been duking it out over this proposed wealth tax.",
+       "forms": [
+        "proposed",
+        "proposes"
+       ]
+      },
+      {
+       "w": "inequality",
+       "pos": "n.",
+       "zh": "不平等；差距",
+       "ex": "Will this wealth tax help rein in runaway inequality and fill the state's coffers — or will it convince billionaires to fire up their private jets and set up residence in mansions outside the state?",
+       "forms": []
+      },
+      {
+       "w": "private",
+       "pos": "adj.",
+       "zh": "私人的；私营的",
+       "ex": "Will this wealth tax help rein in runaway inequality and fill the state's coffers — or will it convince billionaires to fire up their private jets and set up residence in mansions outside the state?",
+       "forms": []
+      },
+      {
+       "w": "federal",
+       "pos": "adj.",
+       "zh": "联邦的",
+       "ex": "We can tax the wealthiest, most powerful people in the world,' it will be the beginning of not only a broader U.S.-wide movement, ultimately paving the way for a federal wealth tax — but I think it will be the beginning of an international movement,\" Zucman tells Planet Money.",
+       "forms": []
+      },
+      {
+       "w": "international",
+       "pos": "adj.",
+       "zh": "国际的",
+       "ex": "We can tax the wealthiest, most powerful people in the world,' it will be the beginning of not only a broader U.S.-wide movement, ultimately paving the way for a federal wealth tax — but I think it will be the beginning of an international movement,\" Zucman tells Planet Money.",
+       "forms": []
+      },
+      {
+       "w": "debate",
+       "pos": "n.",
+       "zh": "辩论；争论",
+       "ex": "On the other side of the debate is Stanford economist and Hoover Institution senior fellow Joshua Rauh.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "approve",
+      "tax",
+      "national",
+      "vote",
+      "wealth"
+     ],
+     "keyVocab": [
+      "approve",
+      "tax",
+      "national",
+      "vote",
+      "wealth",
+      "election",
+      "propose",
+      "inequality"
+     ]
+    },
+    {
+     "id": "2026-11-03-technology",
+     "section": "Technology",
+     "sectionZh": "科技",
+     "title": "How former Yahoo CEO Marissa Mayer sees AI assistants fitting into busy women's lives",
+     "dek": "NPR's Juana Summers talks with former Yahoo CEO Marissa Mayer about AI assistants and lightening the load of emotional labor.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/02/nx-s1-6022451/how-former-yahoo-ceo-marissa-mayer-sees-ai-assistants-fitting-into-busy-womens-lives",
+     "byline": "Juana Summers",
+     "dateLabel": "2026-11-03",
+     "words": 463,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "NPR's Juana Summers talks with former Yahoo CEO Marissa Mayer about AI assistants and lightening the load of emotional labor.",
+       "zh": "NPR的胡安娜·萨默斯与前雅虎首席执行官玛丽莎·梅耶谈论人工智能助理以及减轻情感劳动的负担。"
+      },
+      {
+       "en": "Former Yahoo CEO Marissa Mayer wants more women to use AI, so she created an AI assistant that centered on women's experiences to help lighten the mental load of parenting as a working mom. But she also touched off a heated debate about the role artificial intelligence should have in parenting and gender expectations. And we wanted to talk directly with the person who sparked this discussion. Marissa Mayer joins us now. Welcome to ALL THINGS CONSIDERED.",
+       "zh": "前雅虎首席执行官玛丽莎·梅耶希望更多女性使用人工智能，因此她创建了一款以女性经历为中心的人工智能助手，帮助减轻职业妈妈在育儿方面的心理负担。但她也引发了关于人工智能在育儿和性别期望中应发挥何种作用的激烈讨论。我们想直接与这位引发讨论的人交谈。玛丽莎·梅耶现在加入了我们的节目。欢迎来到《全部考虑》。"
+      },
+      {
+       "en": "SUMMERS: OK, let's just start at the beginning here because last week, the New York Times ran the super buzzy profile of you. It opened with a story where you used your AI assistant Dazzle to come up with a list of three bullet points about your daughter. And that anecdote just sparked a ton of backlash. It was all over my social media feeds last week. Were you surprised by the reaction?",
+       "zh": "萨默斯：好的，我们还是从头开始吧，因为上周，《纽约时报》刊登了对你的超级热门采访报道。文章以一个故事开头，说你使用你的人工智能助手 Dazzle 来列出关于你女儿的三个要点。这个轶事引发了大量的反对声音。上周我的社交媒体动态上到处都是相关讨论。你对这种反应感到惊讶吗？"
+      },
+      {
+       "en": "MAYER: I was because I think there was some context that was missing, which is I shared that anecdote because it was from back when we were first building the product. I was testing the technology. And what happened was basically all my engineers were really excited. From our photos, we could tell their pet's name. From their photos, we could tell, you know, their mother's birth date. And I wondered what it could tell.",
+       "zh": "MAYER：是的，因为我觉得有一些背景缺失。我之所以分享那个轶事，是因为那是我们刚开始构建产品的时候。我在测试这项技术。发生的事情基本上是，我所有的工程师都非常兴奋。从我们的照片中，我们可以看出他们宠物的名字。从他们的照片中，我们可以看出，比如，他们母亲的出生日期。我在想，这项技术还能告诉我们什么。"
+      },
+      {
+       "en": "And I got this assignment from the school to prepare a slide for my twins birthday, and I put it in. And I have to say, I didn't have high hopes because most facial recognition can't tell my twins apart. They're identical. And then, much to my surprise, Dazzle came back and described them pretty perfectly and also pulled up examples from kindergarten projects they had done five years before where these traits were evident.",
+       "zh": "我从学校接到这个任务，要为我的双胞胎的生日准备一张幻灯片，我就做了。我得说，我原本没抱太大希望，因为大多数人脸识别都分不清我的双胞胎。他们是完全一样的。然后，非常出乎我的意料，Dazzle 回来了，并且非常准确地描述了他们，还找出了五年前他们在幼儿园做的项目的例子，这些例子中就能看出这些特征。"
+      },
+      {
+       "en": "So it's just kind of a fun anecdote, not necessarily how people use the product. There's lots of different ways to use Dazzle, and we're delighted with however people do. But this is really more about the power of what's in our photos, and when you give that to an AI assistant, how that can help you.",
+       "zh": "所以这只是一个有趣的轶事，不一定是人们使用产品的方式。使用 Dazzle 有很多不同的方法，我们对人们无论如何使用它都感到高兴。但这更多是关于我们照片中所包含的力量，当你把它交给 AI 助手时，这能如何帮助你。"
+      },
+      {
+       "en": "SUMMERS: Why do you think women need their own tailored AI assistant or something that perhaps functions differently and more specially for us?",
+       "zh": "萨默斯：你认为为什么女性需要专门定制的人工智能助手，或者某种功能更特别、更适合我们的？"
+      },
+      {
+       "en": "MAYER: Well, first of all, Dazzle isn't just for women. It's for everyone. So, you know, it's not necessarily tailored for that experience. I do think, because busy women have a lot on their plates, this is a great thing, where you can actually delegate some of what you have to do, be it buying, fixing things around the house, booking things, calendaring.",
+       "zh": "MAYER：嗯，首先，Dazzle 不仅仅是为女性设计的。它适用于所有人。所以，你知道，这不一定专门针对女性的体验。我确实认为，因为繁忙的女性有很多事情要处理，这是一件很棒的事情，你实际上可以将一些你需要做的事情委托出去，无论是购物、修理家里的东西、预订事务还是安排日程。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "debate",
+       "pos": "n.",
+       "zh": "辩论；争论",
+       "ex": "But she also touched off a heated debate about the role artificial intelligence should have in parenting and gender expectations.",
+       "forms": []
+      },
+      {
+       "w": "artificial",
+       "pos": "adj.",
+       "zh": "人工的；人造的",
+       "ex": "But she also touched off a heated debate about the role artificial intelligence should have in parenting and gender expectations.",
+       "forms": []
+      },
+      {
+       "w": "intelligence",
+       "pos": "n.",
+       "zh": "情报；智能",
+       "ex": "But she also touched off a heated debate about the role artificial intelligence should have in parenting and gender expectations.",
+       "forms": []
+      },
+      {
+       "w": "spark",
+       "pos": "v.",
+       "zh": "引发；点燃",
+       "ex": "And we wanted to talk directly with the person who sparked this discussion.",
+       "forms": [
+        "sparked"
+       ]
+      },
+      {
+       "w": "social",
+       "pos": "adj.",
+       "zh": "社会的；社交的",
+       "ex": "It was all over my social media feeds last week.",
+       "forms": []
+      },
+      {
+       "w": "media",
+       "pos": "n.",
+       "zh": "媒体",
+       "ex": "It was all over my social media feeds last week.",
+       "forms": []
+      },
+      {
+       "w": "product",
+       "pos": "n.",
+       "zh": "产品",
+       "ex": "MAYER: I was because I think there was some context that was missing, which is I shared that anecdote because it was from back when we were first building the product.",
+       "forms": []
+      },
+      {
+       "w": "technology",
+       "pos": "n.",
+       "zh": "技术；科技",
+       "ex": "I was testing the technology.",
+       "forms": []
+      },
+      {
+       "w": "school",
+       "pos": "n.",
+       "zh": "学校",
+       "ex": "And I got this assignment from the school to prepare a slide for my twins birthday, and I put it in.",
+       "forms": []
+      },
+      {
+       "w": "describe",
+       "pos": "v.",
+       "zh": "描述",
+       "ex": "And then, much to my surprise, Dazzle came back and described them pretty perfectly and also pulled up examples from kindergarten projects they had done five years before where these traits were evident.",
+       "forms": [
+        "described"
+       ]
+      },
+      {
+       "w": "power",
+       "pos": "n.",
+       "zh": "权力；电力",
+       "ex": "But this is really more about the power of what's in our photos, and when you give that to an AI assistant, how that can help you.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "debate",
+      "artificial",
+      "intelligence",
+      "spark",
+      "social"
+     ],
+     "keyVocab": [
+      "debate",
+      "artificial",
+      "intelligence",
+      "spark",
+      "social",
+      "media",
+      "product",
+      "technology"
+     ]
+    },
+    {
+     "id": "2026-11-03-science",
+     "section": "Science",
+     "sectionZh": "科学",
+     "title": "After last year's storm, this remote Alaska town is still picking up the pieces",
+     "dek": "Last fall, the remnants of Typhoon Halong tore through numerous small Alaska Native villages off the road system in Western Alaska. The storm destroyed infrastructure, floated homes off their…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/10/31/nx-s1-6021471/ex-typhoon-halong-damages-western-alaska-native-villages-kipnuk",
+     "byline": "Samantha Watson",
+     "dateLabel": "2026-11-03",
+     "words": 290,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "Last fall, the remnants of Typhoon Halong tore through numerous small Alaska Native villages off the road system in Western Alaska. The storm destroyed infrastructure, floated homes off their foundations, and displaced over a thousand people. A year later, hundreds remain displaced as the slow work of repair in a remote part of the state continues. And in one of the hardest hit communities – the small town of Kipnuk – people still aren't sure when they'll be moving back.",
+       "zh": "去年秋天，台风哈尔隆残余冲击了阿拉斯加西部许多不通公路的原住民小村庄。风暴摧毁了基础设施，让房屋漂离地基，并迫使一千多人流离失所。一年后，数百人仍未安置妥当，因为在该州偏远地区的修复工作仍在缓慢进行。在受灾最严重的社区之一——小镇基普努克，人们仍不确定什么时候能够返回家园。"
+      },
+      {
+       "en": "The village of under 200 homes is situated on the wide open tundra and only consistently accessible by plane.",
+       "zh": "这个不足200户的村庄坐落在宽阔的苔原上，只有通过飞机才能持续到达。"
+      },
+      {
+       "en": "A year ago, 90% of the residences here were damaged by the remnants of Typhoon Halong, according to the State of Alaska's Emergency Operations Center. Dozens were swept off their foundations, some with families still inside. The community is now largely scattered across Alaska – some outside the region their ancestors have lived in for thousands of years.",
+       "zh": "根据阿拉斯加州应急行动中心的数据，一年前，这里的90%的住宅因台风哈龙的残余影响而受损。数十栋房屋被冲离了地基，有些房屋里还住着家庭。如今，该社区大多散布在阿拉斯加各地——有些甚至离开了其祖先生活了数千年的地区。"
+      },
+      {
+       "en": "Throughout the past year, crews have been working on repairs.",
+       "zh": "在过去的一年里，工作人员一直在进行维修工作。"
+      },
+      {
+       "en": "On a clear day in August, Eddie Chuckwuk's construction crew attempted what sounded like magic: raising a building back onto its foundations using air compressors.",
+       "zh": "在八月的一个晴朗日子，埃迪·查克沃克的建筑队尝试了听起来像魔法的事情：使用空气压缩机将一栋建筑重新升到其地基上。"
+      },
+      {
+       "en": "Chuckwuk is one of several dozen people who have been working long days to rebuild the place where he grew up.",
+       "zh": "查克沃克是几十个全天工作重建他成长地方的人之一。"
+      },
+      {
+       "en": "\"We're working as fast as possible as we can to get the people back in town,\" Chuckwuk says. \"That's what I just want to see – for everybody to come back and enjoy where they grew up instead of being placed in a different place … where they're not used to. It's pretty hard.\"",
+       "zh": "查克伍克说：“我们正尽可能快地工作，把人们带回城镇。我只想看到大家回到这里，享受他们成长的地方，而不是被安置在他们不习惯的其他地方……这相当困难。”"
+      },
+      {
+       "en": "This work is critical to getting Kipnuk's homes in shape to live in again, but the town is far from being fully restored.",
+       "zh": "这项工作对于让基普努克的住宅恢复适宜居住至关重要，但该镇还远未完全恢复。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "fall",
+       "pos": "n.",
+       "zh": "下降；下跌",
+       "ex": "Last fall, the remnants of Typhoon Halong tore through numerous small Alaska Native villages off the road system in Western Alaska.",
+       "forms": []
+      },
+      {
+       "w": "infrastructure",
+       "pos": "n.",
+       "zh": "基础设施",
+       "ex": "The storm destroyed infrastructure, floated homes off their foundations, and displaced over a thousand people.",
+       "forms": []
+      },
+      {
+       "w": "community",
+       "pos": "n.",
+       "zh": "社区；群体",
+       "ex": "And in one of the hardest hit communities – the small town of Kipnuk – people still aren't sure when they'll be moving back.",
+       "forms": [
+        "communities"
+       ]
+      },
+      {
+       "w": "family",
+       "pos": "n.",
+       "zh": "家庭",
+       "ex": "Dozens were swept off their foundations, some with families still inside.",
+       "forms": [
+        "families"
+       ]
+      },
+      {
+       "w": "region",
+       "pos": "n.",
+       "zh": "地区；区域",
+       "ex": "The community is now largely scattered across Alaska – some outside the region their ancestors have lived in for thousands of years.",
+       "forms": []
+      },
+      {
+       "w": "critical",
+       "pos": "adj.",
+       "zh": "关键的；批评的",
+       "ex": "It's pretty hard.\" This work is critical to getting Kipnuk's homes in shape to live in again, but the town is far from being fully restored.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "fall",
+      "infrastructure",
+      "community",
+      "family",
+      "region"
+     ],
+     "keyVocab": [
+      "fall",
+      "infrastructure",
+      "community",
+      "family",
+      "region",
+      "critical"
+     ]
+    },
+    {
+     "id": "2026-11-03-culture",
+     "section": "Culture",
+     "sectionZh": "文化",
+     "title": "John Turturro says he likes trying new things (even pickpocketing)",
+     "dek": "Actor John Turturro might be able to pick your pocket, but it depends on how you're dressed.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/02/nx-s1-6023217/john-turturro-pickpocket",
+     "byline": "Terry Gross",
+     "dateLabel": "2026-11-03",
+     "words": 422,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "Actor John Turturro might be able to pick your pocket, but it depends on how you're dressed.",
+       "zh": "演员约翰·图图罗可能会偷你的钱包，但这取决于你的穿着。"
+      },
+      {
+       "en": "\"Horizontal pockets that are really tight with tight jeans are hard; back pockets are easier,\" he says. Even better, he adds, \"If your purse or your backpack is on your back and your zipper isn't completely zipped up.\"",
+       "zh": "“与紧身牛仔裤一起穿时，水平口袋真的很紧，很难用；后口袋更容易，”他说。他补充道，更好的情况是，“如果你的手提包或背包背在背上，并且拉链没有完全拉上。”"
+      },
+      {
+       "en": "Lifting wallets was part of his training for the new film, The Only Living Pickpocket in New York. In it, Turturro stars as Harry, a skilled pickpocket who is also the primary caretaker for his wife, who's in a catatonic state. Harry's life takes a turn when he steals the backpack of a college-age kid who turns out to be the grandson of a crime boss.",
+       "zh": "偷钱包是他为新电影《纽约唯一的活捡贼》进行训练的一部分。在片中，图图罗饰演哈利，一个技术娴熟的小偷，同时也是他处于昏迷状态妻子的主要照顾者。当哈利偷了一个大学生的背包时，他的生活发生了转折，而这个大学生竟然是一个犯罪老大的孙子。"
+      },
+      {
+       "en": "To prepare for the role, Turturro practiced with Apollo Robbins, a famed sleight-of-hand artist, who coached him on the art of misdirection. \"He really helped me, gave me exercises, and worked with me,\" Turturro says. \"I [practiced picking pockets] in the production office and on the set all the time.\"",
+       "zh": "为了准备这个角色，特图罗与著名的手法艺术家阿波罗·罗宾斯一起练习，他指导特图罗掌握了转移注意力的技巧。特图罗说：“他真的帮了我，给了我练习，并与我一起训练。我经常在制片办公室和片场练习扒窃。”"
+      },
+      {
+       "en": "Harry isn't the first morally dubious character Turturro's played during his lengthy career in Hollywood. His film credits include Five Corners, The Big Lebowski, O Brother, Where Art Thou? and Do the Right Thing. In recent years, he's been on TV in the critically acclaimed series The Night Of, The Plot Against America, and Severance.",
+       "zh": "哈里并不是图图罗在好莱坞漫长职业生涯中扮演的第一个道德可疑的角色。他的电影作品包括《五角街区》、《大保龄球》、《哦兄弟，你到哪儿去了？》和《做正确的事》。近年来，他在电视上出演了备受好评的系列剧《夜晚》、《反美国阴谋》和《分裂》。"
+      },
+      {
+       "en": "Turturro says he's attracted to complex roles — and he's always willing to learn something new: \"I really do try to take the elevator down into the sub-basement and mine everything I possibly can because I'm a student,\" he says. \"I love to begin something because you never know. There's the unknown of, 'I may fail. I may not be able to do that.' And I find that exciting.\"",
+       "zh": "图图罗说他被复杂的角色所吸引——而且他总是愿意学习新事物：“我真的会尽量乘电梯下到地下室，尽可能挖掘一切，因为我是一名学生，”他说。“我喜欢开始某件事，因为你永远不知道。总有未知，比如‘我可能会失败，我可能做不到。’而我觉得这很令人兴奋。”"
+      },
+      {
+       "en": "On being a legal guardian to his late brother who had schizophrenia",
+       "zh": "作为他已故患有精神分裂症的兄弟的法定监护人"
+      },
+      {
+       "en": "I had to find different residences and then I put him in an apartment. I had to hire all the aides and then someone who was in charge of the aides so I could function and he wasn't used to being outside [the hospital]. So a lot of times he was not appreciative of that. He could be very abusive and very unpredictable, so you never knew what was going to happen. So I was always on sort of a high alert. No matter where I was in the world, I tried to protect my own family from him. And then eventually we finally got him on a medicine which he could take monthly. …",
+       "zh": "我不得不寻找不同的住所，然后我把他安排在一个公寓里。我不得不雇佣所有的护理人员，然后找一个负责这些护理人员的人，这样我才能正常运作，而他不习惯在[医院]之外的环境。所以很多时候他并不感激这一点。他可能非常虐待人，也非常不可预测，所以你永远不知道会发生什么。所以我总是处于一种高度警戒状态。无论我身处世界的哪个地方，我都尽力保护自己的家人不受他的伤害。最后我们终于让他服用一种每月一次的药物……"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "actor",
+       "pos": "n.",
+       "zh": "演员",
+       "ex": "Actor John Turturro might be able to pick your pocket, but it depends on how you're dressed.",
+       "forms": []
+      },
+      {
+       "w": "film",
+       "pos": "n.",
+       "zh": "电影；影片",
+       "ex": "Even better, he adds, \"If your purse or your backpack is on your back and your zipper isn't completely zipped up.\" Lifting wallets was part of his training for the new film, The Only Living Pickpocket in New York.",
+       "forms": []
+      },
+      {
+       "w": "career",
+       "pos": "n.",
+       "zh": "职业；生涯",
+       "ex": "\"I [practiced picking pockets] in the production office and on the set all the time.\" Harry isn't the first morally dubious character Turturro's played during his lengthy career in Hollywood.",
+       "forms": []
+      },
+      {
+       "w": "credit",
+       "pos": "n.",
+       "zh": "信贷；信用",
+       "ex": "His film credits include Five Corners, The Big Lebowski, O Brother, Where Art Thou?",
+       "forms": [
+        "credits"
+       ]
+      },
+      {
+       "w": "acclaim",
+       "pos": "n.",
+       "zh": "赞誉；好评",
+       "ex": "In recent years, he's been on TV in the critically acclaimed series The Night Of, The Plot Against America, and Severance.",
+       "forms": [
+        "acclaimed"
+       ]
+      },
+      {
+       "w": "student",
+       "pos": "n.",
+       "zh": "学生",
+       "ex": "Turturro says he's attracted to complex roles — and he's always willing to learn something new: \"I really do try to take the elevator down into the sub-basement and mine everything I possibly can because I'm a student,\" he says.",
+       "forms": []
+      },
+      {
+       "w": "charge",
+       "pos": "v.",
+       "zh": "指控；收费",
+       "ex": "I had to hire all the aides and then someone who was in charge of the aides so I could function and he wasn't used to being outside [the hospital].",
+       "forms": []
+      },
+      {
+       "w": "hospital",
+       "pos": "n.",
+       "zh": "医院",
+       "ex": "I had to hire all the aides and then someone who was in charge of the aides so I could function and he wasn't used to being outside [the hospital].",
+       "forms": []
+      },
+      {
+       "w": "family",
+       "pos": "n.",
+       "zh": "家庭",
+       "ex": "No matter where I was in the world, I tried to protect my own family from him.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "actor",
+      "film",
+      "career",
+      "credit",
+      "acclaim"
+     ],
+     "keyVocab": [
+      "actor",
+      "film",
+      "career",
+      "credit",
+      "acclaim",
+      "student",
+      "charge",
+      "hospital"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-02",
    "articles": [
@@ -4596,748 +5293,6 @@
       "territory",
       "genre",
       "fall"
-     ]
-    }
-   ]
-  },
-  {
-   "date": "2026-10-27",
-   "articles": [
-    {
-     "id": "2026-10-27-world",
-     "section": "World",
-     "sectionZh": "国际",
-     "title": "A quick guide to Israel's high-stakes elections",
-     "dek": "TEL AVIV, Israel — Israel is holding pivotal elections on Tuesday in what many Israelis call the most consequential vote in their country's history after the last few years of war.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/27/g-s1-149944/israel-election-guide",
-     "byline": "Itay Stern",
-     "dateLabel": "2026-10-27",
-     "words": 303,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "TEL AVIV, Israel — Israel is holding pivotal elections on Tuesday in what many Israelis call the most consequential vote in their country's history after the last few years of war.",
-       "zh": "以色列特拉维夫——以色列将在周二举行关键选举，许多以色列人称这是该国历史上最重要的投票，此前几年经历了战争。"
-      },
-      {
-       "en": "Polls show Prime Minister Benjamin Netanyahu trailing in the race behind his main challenger, former military chief Gadi Eisenkot. But it may take weeks or months before it's clear who will be designated the winner.",
-       "zh": "民意调查显示，总理本杰明·内塔尼亚胡在竞选中落后于他的主要竞争对手、前军方首长加迪·埃泽科特。但可能需要数周或数月时间才能明确谁将被指定为胜利者。"
-      },
-      {
-       "en": "That's because voters will not directly choose between Netanyahu and Eisenkot. Instead, they will vote for one of a dozen main parties running for office in the 120-seat parliament, known as the Knesset.",
-       "zh": "那是因为选民不会直接在内塔尼亚胡和艾森科特之间做出选择。相反，他们会投票给参加120个议席议会（称为克内塞特）选举的十几个主要政党之一。"
-      },
-      {
-       "en": "The real contest will begin after election day, when party leaders try to assemble a governing coalition of at least 61 lawmakers.",
-       "zh": "真正的较量将在选举日之后开始，那时各党派领导人将尝试组建至少有61名议员的执政联盟。"
-      },
-      {
-       "en": "Here is a guide to the leading candidates, the issues shaping the vote and what could happen next.",
-       "zh": "这里是关于主要候选人、影响投票的议题以及接下来可能发生的情况的指南。"
-      },
-      {
-       "en": "Benjamin Netanyahu, Israel's longest-serving prime minister, is seeking another term in office.",
-       "zh": "以色列历任最久的总理本杰明·内塔尼亚胡正在寻求连任。"
-      },
-      {
-       "en": "Netanyahu has led the most right-wing government in Israel's history. His coalition has included Itamar Ben-Gvir and Bezalel Smotrich, leaders of far-right, religious nationalist parties that are also running in this election, as well as two ultra-Orthodox Jewish parties.",
-       "zh": "内塔尼亚胡领导了以色列历史上最右翼的政府。他的联盟包括伊塔马尔·本-格维尔和贝扎列尔·斯莫特里奇，这两位极右翼宗教民族主义党派的领导人也在参加此次选举，以及两个极端正统犹太党派。"
-      },
-      {
-       "en": "Netanyahu has led Israel through more than three years of war and regional conflict, from the Hamas-led attacks on Oct. 7, 2023, and the war in Gaza to fighting involving Lebanon, Iran, Syria and Yemen. He is campaigning on Israel's military achievements and his close relationship with President Trump, who recently endorsed him. Netanyahu has also made confronting Iran, and ultimately seeking the fall of its regime, a central part of his campaign.",
-       "zh": "内塔尼亚胡领导以色列度过了三年多的战争和地区冲突，从2023年10月7日哈马斯发动的袭击和加沙战争，到涉及黎巴嫩、伊朗、叙利亚和也门的战斗。他的竞选以色列的军事成就以及他与特朗普总统的密切关系为基础，特朗普最近还对他表示支持。内塔尼亚胡还将对抗伊朗、最终寻求其政权倒台作为竞选的核心部分。"
-      },
-      {
-       "en": "His principal challenger is Gadi Eisenkot, a former chief of staff of the Israeli military who is running for prime minister for the first time as the leader of a new center-right party called Yashar, Hebrew for \"Straight\" or \"Upright.\"",
-       "zh": "他的主要挑战者是加迪·艾森科特，以色列军方前参谋长，他首次以新成立的中右翼政党“雅沙尔”（希伯来语意为“正直”或“直立”）的领导人身份竞选总理。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "pivotal",
-       "pos": "adj.",
-       "zh": "关键的；枢纽性的",
-       "ex": "TEL AVIV, Israel — Israel is holding pivotal elections on Tuesday in what many Israelis call the most consequential vote in their country's history after the last few years of war.",
-       "forms": []
-      },
-      {
-       "w": "election",
-       "pos": "n.",
-       "zh": "选举",
-       "ex": "TEL AVIV, Israel — Israel is holding pivotal elections on Tuesday in what many Israelis call the most consequential vote in their country's history after the last few years of war.",
-       "forms": [
-        "elections"
-       ]
-      },
-      {
-       "w": "vote",
-       "pos": "n.",
-       "zh": "投票；表决",
-       "ex": "TEL AVIV, Israel — Israel is holding pivotal elections on Tuesday in what many Israelis call the most consequential vote in their country's history after the last few years of war.",
-       "forms": []
-      },
-      {
-       "w": "history",
-       "pos": "n.",
-       "zh": "历史",
-       "ex": "TEL AVIV, Israel — Israel is holding pivotal elections on Tuesday in what many Israelis call the most consequential vote in their country's history after the last few years of war.",
-       "forms": []
-      },
-      {
-       "w": "poll",
-       "pos": "n.",
-       "zh": "民意调查",
-       "ex": "Polls show Prime Minister Benjamin Netanyahu trailing in the race behind his main challenger, former military chief Gadi Eisenkot.",
-       "forms": [
-        "polls"
-       ]
-      },
-      {
-       "w": "minister",
-       "pos": "n.",
-       "zh": "部长；大臣",
-       "ex": "Polls show Prime Minister Benjamin Netanyahu trailing in the race behind his main challenger, former military chief Gadi Eisenkot.",
-       "forms": []
-      },
-      {
-       "w": "military",
-       "pos": "n.",
-       "zh": "军队；军方",
-       "ex": "Polls show Prime Minister Benjamin Netanyahu trailing in the race behind his main challenger, former military chief Gadi Eisenkot.",
-       "forms": []
-      },
-      {
-       "w": "party",
-       "pos": "n.",
-       "zh": "政党；一方",
-       "ex": "Instead, they will vote for one of a dozen main parties running for office in the 120-seat parliament, known as the Knesset.",
-       "forms": [
-        "parties"
-       ]
-      },
-      {
-       "w": "parliament",
-       "pos": "n.",
-       "zh": "议会",
-       "ex": "Instead, they will vote for one of a dozen main parties running for office in the 120-seat parliament, known as the Knesset.",
-       "forms": []
-      },
-      {
-       "w": "leader",
-       "pos": "n.",
-       "zh": "领导人",
-       "ex": "The real contest will begin after election day, when party leaders try to assemble a governing coalition of at least 61 lawmakers.",
-       "forms": [
-        "leaders"
-       ]
-      },
-      {
-       "w": "coalition",
-       "pos": "n.",
-       "zh": "联合政府；联盟",
-       "ex": "The real contest will begin after election day, when party leaders try to assemble a governing coalition of at least 61 lawmakers.",
-       "forms": []
-      },
-      {
-       "w": "candidate",
-       "pos": "n.",
-       "zh": "候选人",
-       "ex": "Here is a guide to the leading candidates, the issues shaping the vote and what could happen next.",
-       "forms": [
-        "candidates"
-       ]
-      }
-     ],
-     "homeWords": [
-      "pivotal",
-      "election",
-      "vote",
-      "history",
-      "poll"
-     ],
-     "keyVocab": [
-      "pivotal",
-      "election",
-      "vote",
-      "history",
-      "poll",
-      "minister",
-      "military",
-      "party"
-     ]
-    },
-    {
-     "id": "2026-10-27-business",
-     "section": "Business",
-     "sectionZh": "商业 · 财经",
-     "title": "AI giant Anthropic files for an IPO that could break records",
-     "dek": "The artificial intelligence startup Anthropic, maker of the hugely popular Claude AI models, has taken a major step toward holding an initial public offering that analysts expect to be one of the…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records",
-     "byline": "John Ruwitch",
-     "dateLabel": "2026-10-27",
-     "words": 355,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "The artificial intelligence startup Anthropic, maker of the hugely popular Claude AI models, has taken a major step toward holding an initial public offering that analysts expect to be one of the biggest ever.",
-       "zh": "人工智能初创公司Anthropic，Claude AI模型的制造商，本已迈出了走向首次公开募股的重要一步，分析师预计这将成为有史以来最大的一次公开募股之一。"
-      },
-      {
-       "en": "Anthropic filed final paperwork with regulators on Monday for an IPO under the ticker symbol ANT that reports have said could value the company at between $1.5 trillion and $2 trillion.",
-       "zh": "Anthropic周一向监管机构提交了首次公开募股（IPO）的最终文件，股票代码为ANT，据报道，这次IPO可能使公司的估值在1.5万亿到2万亿美元之间。"
-      },
-      {
-       "en": "That would put it in league with Elon Musk's rocketry and AI company SpaceX, which was valued at around $1.8 trillion when it listed in June. Anthropic's listing prospectus did not say how many shares the company will offer or at what price range.",
-       "zh": "这将使其与埃隆·马斯克的火箭和人工智能公司SpaceX齐名，SpaceX在6月上市时的估值约为1.8万亿美元。Anthropic的上市招股说明书没有说明公司将提供多少股份或价格区间。"
-      },
-      {
-       "en": "The filing of a public version of a registration statement called a Form S-1 with the Securities and Exchange Commission is a major milestone in Anthropic's meteoric rise. It was launched just five years ago by a breakaway group of OpenAI researchers, led by Dario Amodei, who were concerned that that company, run by Sam Altman, was not on a path to develop AI safely.",
-       "zh": "向证券交易委员会提交一份名为S-1表格的注册声明的公开版本，是Anthropic快速崛起的一个重要里程碑。该公司仅在五年前由一群脱离OpenAI的研究人员创立，领导者是Dario Amodei，他们担心由Sam Altman管理的公司并未走在安全开发人工智能的道路上。"
-      },
-      {
-       "en": "Anthropic has since become a juggernaut, and OpenAI's biggest competitor, with some of the most widely used AI models on the market. But the company has faced controversy, including a conflict with the Pentagon over how its models can be used and questions about Amodei's dire warnings on AI risks.",
-       "zh": "自那以后，Anthropic 已经成为一个巨头，也是 OpenAI 最大的竞争对手，拥有一些市场上最广泛使用的 AI 模型。但该公司也面临争议，包括与五角大楼就其模型的使用方式发生冲突，以及关于 Amodei 对 AI 风险的严重警告提出的问题。"
-      },
-      {
-       "en": "Still, the prospectus highlighted Anthropic's bullishness about the technology. \"We believe this abundance of AI will rapidly transform every sector of the global economy in ways greater than the impact of industrialization, electricity, semiconductors, and the internet,\" it said.",
-       "zh": "尽管如此，招股说明书仍强调了Anthropic对该技术的乐观态度。招股说明书中写道：“我们相信，这种人工智能的丰富性将迅速以比工业化、电力、半导体和互联网更大的方式改变全球经济的各个领域。”"
-      },
-      {
-       "en": "In its prospectus, Anthropic highlighted breakneck growth — in revenue, income and losses. The company said its revenue in the first half of the year rose 1,300% at $16.3 billion, while its adjusted operating income — a measure of potential profitability — hit $1.6 billion during the period, vs. a loss of $1.8 billion the year before.",
-       "zh": "在其招股说明书中，Anthropic 强调了其收入、收益和亏损的极速增长。公司表示，今年上半年其收入增长了 1300%，达到 163 亿美元，而其调整后的营业收入——一种潜在盈利能力的衡量标准——在此期间达到了 16 亿美元，而去年同期则为 18 亿美元的亏损。"
-      },
-      {
-       "en": "Anthropic has yet to turn an annual profit, and said it booked a loss of nearly $81 billion in the January to June period, up from $13 billion during the same six months last year.",
-       "zh": "Anthropic 目前尚未实现年度盈利，并表示在一月至六月期间录得近 810 亿美元的亏损，相较于去年同期的 130 亿美元有所上升。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "artificial",
-       "pos": "adj.",
-       "zh": "人工的；人造的",
-       "ex": "The artificial intelligence startup Anthropic, maker of the hugely popular Claude AI models, has taken a major step toward holding an initial public offering that analysts expect to be one of the biggest ever.",
-       "forms": []
-      },
-      {
-       "w": "intelligence",
-       "pos": "n.",
-       "zh": "情报；智能",
-       "ex": "The artificial intelligence startup Anthropic, maker of the hugely popular Claude AI models, has taken a major step toward holding an initial public offering that analysts expect to be one of the biggest ever.",
-       "forms": []
-      },
-      {
-       "w": "startup",
-       "pos": "n.",
-       "zh": "初创公司",
-       "ex": "The artificial intelligence startup Anthropic, maker of the hugely popular Claude AI models, has taken a major step toward holding an initial public offering that analysts expect to be one of the biggest ever.",
-       "forms": []
-      },
-      {
-       "w": "public",
-       "pos": "adj.",
-       "zh": "公共的；公众的",
-       "ex": "The artificial intelligence startup Anthropic, maker of the hugely popular Claude AI models, has taken a major step toward holding an initial public offering that analysts expect to be one of the biggest ever.",
-       "forms": []
-      },
-      {
-       "w": "expect",
-       "pos": "v.",
-       "zh": "预期；期待",
-       "ex": "The artificial intelligence startup Anthropic, maker of the hugely popular Claude AI models, has taken a major step toward holding an initial public offering that analysts expect to be one of the biggest ever.",
-       "forms": []
-      },
-      {
-       "w": "regulator",
-       "pos": "n.",
-       "zh": "监管机构",
-       "ex": "Anthropic filed final paperwork with regulators on Monday for an IPO under the ticker symbol ANT that reports have said could value the company at between $1.5 trillion and $2 trillion.",
-       "forms": [
-        "regulators"
-       ]
-      },
-      {
-       "w": "report",
-       "pos": "n.",
-       "zh": "报告；报道",
-       "ex": "Anthropic filed final paperwork with regulators on Monday for an IPO under the ticker symbol ANT that reports have said could value the company at between $1.5 trillion and $2 trillion.",
-       "forms": [
-        "reports"
-       ]
-      },
-      {
-       "w": "price",
-       "pos": "n.",
-       "zh": "价格",
-       "ex": "Anthropic's listing prospectus did not say how many shares the company will offer or at what price range.",
-       "forms": []
-      },
-      {
-       "w": "statement",
-       "pos": "n.",
-       "zh": "声明；陈述",
-       "ex": "The filing of a public version of a registration statement called a Form S-1 with the Securities and Exchange Commission is a major milestone in Anthropic's meteoric rise.",
-       "forms": []
-      },
-      {
-       "w": "rise",
-       "pos": "n.",
-       "zh": "上升；上涨",
-       "ex": "The filing of a public version of a registration statement called a Form S-1 with the Securities and Exchange Commission is a major milestone in Anthropic's meteoric rise.",
-       "forms": []
-      },
-      {
-       "w": "researcher",
-       "pos": "n.",
-       "zh": "研究人员",
-       "ex": "It was launched just five years ago by a breakaway group of OpenAI researchers, led by Dario Amodei, who were concerned that that company, run by Sam Altman, was not on a path to develop AI safely.",
-       "forms": [
-        "researchers"
-       ]
-      },
-      {
-       "w": "market",
-       "pos": "n.",
-       "zh": "市场",
-       "ex": "Anthropic has since become a juggernaut, and OpenAI's biggest competitor, with some of the most widely used AI models on the market.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "artificial",
-      "intelligence",
-      "startup",
-      "public",
-      "expect"
-     ],
-     "keyVocab": [
-      "artificial",
-      "intelligence",
-      "startup",
-      "public",
-      "expect",
-      "regulator",
-      "report",
-      "price"
-     ]
-    },
-    {
-     "id": "2026-10-27-technology",
-     "section": "Technology",
-     "sectionZh": "科技",
-     "title": "Fired OpenAI researchers say independent safety audits aren't going well",
-     "dek": "In their first interview since being fired, OpenAI safety researchers Mikita Balesni and Tomek Korbak say they were terminated for prioritizing safety over the short-term interests of the company.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/23/nx-s1-6012235/fired-openai-researchers-say-independent-safety-audits-arent-going-well",
-     "byline": "Kevin Roose",
-     "dateLabel": "2026-10-27",
-     "words": 373,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "In their first interview since being fired, OpenAI safety researchers Mikita Balesni and Tomek Korbak say they were terminated for prioritizing safety over the short-term interests of the company.",
-       "zh": "在被解雇后的第一次采访中，OpenAI 的安全研究员米基塔·巴莱斯尼和托梅克·科尔巴克表示，他们是因为将安全置于公司短期利益之上而被解雇的。"
-      },
-      {
-       "en": "We're going to hear now from two former safety researchers at OpenAI. They were let go earlier this month because OpenAI says an internal investigation found they mishandled sensitive information.",
-       "zh": "现在我们将听取两位前 OpenAI 安全研究人员的意见。由于 OpenAI 表示内部调查发现他们处理敏感信息不当，他们本月早些时候被解雇。"
-      },
-      {
-       "en": "But the researchers say they were following standard practices in communicating with outside groups, including an independent nonprofit organization called METR that audits the work of AI companies. That group was investigating what went wrong this summer when autonomous OpenAI agents went rogue and launched a coordinated cyberattack against another AI platform, Hugging Face.",
-       "zh": "但研究人员表示，他们在与外部机构沟通时遵循了标准做法，包括一个名为 METR 的独立非营利组织，该组织审计 AI 公司的工作。该组织正在调查今年夏天自动化 OpenAI 代理失控并对另一个 AI 平台 Hugging Face 发动协调网络攻击时出错的原因。"
-      },
-      {
-       "en": "Now the researchers, Mikita Balesni and Tomek Korbak, have spoken to tech journalists Kevin Roose and Casey Newton. They are the hosts of Machine Gods, a new podcast from NPR. Let's listen to a little bit of their conversation.",
-       "zh": "现在，研究人员Mikita Balesni和Tomek Korbak已经与科技记者Kevin Roose和Casey Newton进行了交谈。他们是NPR新播客《Machine Gods》的主持人。让我们听一听他们的一小段对话。"
-      },
-      {
-       "en": "CASEY NEWTON: So let's talk about one of the key events that it seems like, you know, may have led to you guys being fired, which is this Hugging Face incident. I'd love to hear a little bit about what it was like to be working at OpenAI when that happened. Do you remember where you were when you learned what was going on, and what was the reaction?",
-       "zh": "CASEY NEWTON：那么让我们来谈谈其中一个关键事件，这个事件似乎可能导致你们被解雇，那就是 Hugging Face 事件。我很想了解一下那个时候在 OpenAI 工作是什么感觉。你还记得你当时在哪里得知发生了什么吗？大家的反应是怎样的？"
-      },
-      {
-       "en": "TOMEK KORBAK: Yeah, it was a very intense time. I remember telling Mikita that everything that I was preparing for earlier in my career was finally real. Everything before was a drill. And now that thing is actually happening, and it actually matters a lot.",
-       "zh": "托梅克·科尔巴克：是的，那是一段非常紧张的时期。我记得我告诉米基塔，我早期职业生涯中所准备的一切终于成真了。以前的一切都是演习。而现在这件事真的发生了，而且真的非常重要。"
-      },
-      {
-       "en": "ROOSE: Right. And around that time, OpenAI decides to invite in these researchers from METR and Redwood Research to study this event. How were you both working with these outside researchers who were invited in to do this investigation?",
-       "zh": "ROOSE：没错。就在那个时候，OpenAI 决定邀请 METR 和 Redwood Research 的这些研究人员来研究这次事件。你们俩是如何与这些被邀请来进行调查的外部研究人员合作的？"
-      },
-      {
-       "en": "KORBAK: So initially METR was supposed to be on premises just for two days. And then when they started looking at the data, our understanding of the scale of incident was still evolving, so we've actually been learning that there is actually more, so we invited them for a second visit. When they realized that there is actually even more, and we invited them for a third visit.",
-       "zh": "KORBAK：所以最初METR本来只打算在现场待两天。然后，当他们开始查看数据时，我们对事件规模的理解仍在不断发展，所以我们实际上了解到情况比想象的更多，因此我们邀请他们进行了第二次访问。当他们意识到情况实际上更严重时，我们又邀请他们进行了第三次访问。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "interview",
-       "pos": "n.",
-       "zh": "采访；面试",
-       "ex": "In their first interview since being fired, OpenAI safety researchers Mikita Balesni and Tomek Korbak say they were terminated for prioritizing safety over the short-term interests of the company.",
-       "forms": []
-      },
-      {
-       "w": "researcher",
-       "pos": "n.",
-       "zh": "研究人员",
-       "ex": "In their first interview since being fired, OpenAI safety researchers Mikita Balesni and Tomek Korbak say they were terminated for prioritizing safety over the short-term interests of the company.",
-       "forms": [
-        "researchers"
-       ]
-      },
-      {
-       "w": "investigation",
-       "pos": "n.",
-       "zh": "调查",
-       "ex": "They were let go earlier this month because OpenAI says an internal investigation found they mishandled sensitive information.",
-       "forms": []
-      },
-      {
-       "w": "platform",
-       "pos": "n.",
-       "zh": "平台",
-       "ex": "That group was investigating what went wrong this summer when autonomous OpenAI agents went rogue and launched a coordinated cyberattack against another AI platform, Hugging Face.",
-       "forms": []
-      },
-      {
-       "w": "journalist",
-       "pos": "n.",
-       "zh": "记者；新闻工作者",
-       "ex": "Now the researchers, Mikita Balesni and Tomek Korbak, have spoken to tech journalists Kevin Roose and Casey Newton.",
-       "forms": [
-        "journalists"
-       ]
-      },
-      {
-       "w": "career",
-       "pos": "n.",
-       "zh": "职业；生涯",
-       "ex": "I remember telling Mikita that everything that I was preparing for earlier in my career was finally real.",
-       "forms": []
-      },
-      {
-       "w": "research",
-       "pos": "n.",
-       "zh": "研究",
-       "ex": "And around that time, OpenAI decides to invite in these researchers from METR and Redwood Research to study this event.",
-       "forms": []
-      },
-      {
-       "w": "study",
-       "pos": "n.",
-       "zh": "研究；学习",
-       "ex": "And around that time, OpenAI decides to invite in these researchers from METR and Redwood Research to study this event.",
-       "forms": []
-      },
-      {
-       "w": "data",
-       "pos": "n.",
-       "zh": "数据",
-       "ex": "And then when they started looking at the data, our understanding of the scale of incident was still evolving, so we've actually been learning that there is actually more, so we invited them for a second visit.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "interview",
-      "researcher",
-      "investigation",
-      "platform",
-      "journalist"
-     ],
-     "keyVocab": [
-      "interview",
-      "researcher",
-      "investigation",
-      "platform",
-      "journalist",
-      "career",
-      "research",
-      "study"
-     ]
-    },
-    {
-     "id": "2026-10-27-science",
-     "section": "Science",
-     "sectionZh": "科学",
-     "title": "A Kelvin wave raised sea levels on the West Coast. More are coming",
-     "dek": "One of the first major signs of this year's \"Super El Niño\" has reached the U.S. It's called a Kelvin wave – a deep ocean wave that's currently raising sea levels along the West Coast.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/19/nx-s1-6001744/el-nino-kelvin-wave-west-coast",
-     "byline": "Ava Berger",
-     "dateLabel": "2026-10-27",
-     "words": 248,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "One of the first major signs of this year's \"Super El Niño\" has reached the U.S. It's called a Kelvin wave – a deep ocean wave that's currently raising sea levels along the West Coast.",
-       "zh": "今年“超级厄尔尼诺”的第一个主要迹象已经到达美国。这被称为开尔文波——一种深海波，目前正在抬高西海岸的海平面。"
-      },
-      {
-       "en": "Scientists have long known about Kelvin waves, but this year, the phenomena grabbed the public's attention with video explanations receiving thousands of views across TikTok and X.",
-       "zh": "科学家们早就知道开尔文波，但今年，这一现象通过视频讲解吸引了公众的注意，在抖音和X上获得了数千次观看。"
-      },
-      {
-       "en": "\"It does surprise me – I mean, here it's been around all this time,\" says Mark Cane, who created one of the first models to forecast and predict El Niño. \"I'm sure Lord Kelvin is happy in his grave.\"",
-       "zh": "“这确实让我感到惊讶——我是说，这里一直存在了这么久，”曾创建最早的厄尔尼诺预测模型之一的马克·凯恩说。“我敢肯定开尔文勋爵在坟墓里也会感到高兴。”"
-      },
-      {
-       "en": "(Lord Kelvin, the British physicist who also developed the Kelvin temperature scale, first described the wave back in the late 1800s.)",
-       "zh": "(英国物理学家开尔文勋爵，同时也是开尔文温度计量表的发明者，最早在19世纪末描述了这种波动。)"
-      },
-      {
-       "en": "Kelvin waves can develop along the equator during El Niño years, when a vast region of water in the Pacific Ocean becomes much warmer than usual.",
-       "zh": "在厄尔尼诺年份，当太平洋的一个广阔水域比平常温暖得多时，开尔文波可以沿赤道发展。"
-      },
-      {
-       "en": "Some of this warm water, in the form of a Kelvin wave that stretches thousands of miles, moves slowly east beneath the ocean's surface until it reaches South America. Then it splits, traveling north along the West Coast and as far south as Chile.",
-       "zh": "其中一些暖水以跨越数千英里的开尔文波形式，缓慢地沿着海洋表面下向东移动，直到到达南美洲。然后它分开，一部分沿西海岸向北移动，另一部分向南移动，直至智利。"
-      },
-      {
-       "en": "\"It's like an enormous bathtub sloshing around,\" Cane says, professor emeritus of earth and climate sciences at Columbia University. \"But the slosh is very peculiar, because it only goes west to east along the equator in a Kelvin wave.\"",
-       "zh": "“这就像一个巨大的浴缸在晃动，”哥伦比亚大学地球与气候科学名誉教授凯恩说。“但这种晃动非常特殊，因为它只沿赤道从西向东移动，是一种开尔文波。”"
-      },
-      {
-       "en": "These are not the massive, highly visible waves that crash into shorelines during major storms and hurricanes.",
-       "zh": "这些并不是在重大风暴和飓风期间冲击海岸线的巨大、非常明显的浪潮。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "level",
-       "pos": "n.",
-       "zh": "水平；层级",
-       "ex": "It's called a Kelvin wave – a deep ocean wave that's currently raising sea levels along the West Coast.",
-       "forms": [
-        "levels"
-       ]
-      },
-      {
-       "w": "scientist",
-       "pos": "n.",
-       "zh": "科学家",
-       "ex": "Scientists have long known about Kelvin waves, but this year, the phenomena grabbed the public's attention with video explanations receiving thousands of views across TikTok and X.",
-       "forms": [
-        "scientists"
-       ]
-      },
-      {
-       "w": "forecast",
-       "pos": "n.",
-       "zh": "预测；预报",
-       "ex": "\"It does surprise me – I mean, here it's been around all this time,\" says Mark Cane, who created one of the first models to forecast and predict El Niño.",
-       "forms": []
-      },
-      {
-       "w": "predict",
-       "pos": "v.",
-       "zh": "预测",
-       "ex": "\"It does surprise me – I mean, here it's been around all this time,\" says Mark Cane, who created one of the first models to forecast and predict El Niño.",
-       "forms": []
-      },
-      {
-       "w": "describe",
-       "pos": "v.",
-       "zh": "描述",
-       "ex": "\"I'm sure Lord Kelvin is happy in his grave.\" (Lord Kelvin, the British physicist who also developed the Kelvin temperature scale, first described the wave back in the late 1800s.) Kelvin waves can develop along the equator during El Niño years, when a vast region of water in the Pacific Ocean becomes much warmer than usual.",
-       "forms": [
-        "described"
-       ]
-      },
-      {
-       "w": "vast",
-       "pos": "adj.",
-       "zh": "巨大的；广阔的",
-       "ex": "\"I'm sure Lord Kelvin is happy in his grave.\" (Lord Kelvin, the British physicist who also developed the Kelvin temperature scale, first described the wave back in the late 1800s.) Kelvin waves can develop along the equator during El Niño years, when a vast region of water in the Pacific Ocean becomes much warmer than usual.",
-       "forms": []
-      },
-      {
-       "w": "region",
-       "pos": "n.",
-       "zh": "地区；区域",
-       "ex": "\"I'm sure Lord Kelvin is happy in his grave.\" (Lord Kelvin, the British physicist who also developed the Kelvin temperature scale, first described the wave back in the late 1800s.) Kelvin waves can develop along the equator during El Niño years, when a vast region of water in the Pacific Ocean becomes much warmer than usual.",
-       "forms": []
-      },
-      {
-       "w": "water",
-       "pos": "n.",
-       "zh": "水",
-       "ex": "\"I'm sure Lord Kelvin is happy in his grave.\" (Lord Kelvin, the British physicist who also developed the Kelvin temperature scale, first described the wave back in the late 1800s.) Kelvin waves can develop along the equator during El Niño years, when a vast region of water in the Pacific Ocean becomes much warmer than usual.",
-       "forms": []
-      },
-      {
-       "w": "enormous",
-       "pos": "adj.",
-       "zh": "巨大的；庞大的",
-       "ex": "\"It's like an enormous bathtub sloshing around,\" Cane says, professor emeritus of earth and climate sciences at Columbia University.",
-       "forms": []
-      },
-      {
-       "w": "climate",
-       "pos": "n.",
-       "zh": "气候",
-       "ex": "\"It's like an enormous bathtub sloshing around,\" Cane says, professor emeritus of earth and climate sciences at Columbia University.",
-       "forms": []
-      },
-      {
-       "w": "university",
-       "pos": "n.",
-       "zh": "大学",
-       "ex": "\"It's like an enormous bathtub sloshing around,\" Cane says, professor emeritus of earth and climate sciences at Columbia University.",
-       "forms": []
-      },
-      {
-       "w": "crash",
-       "pos": "n.",
-       "zh": "崩盘；暴跌",
-       "ex": "\"But the slosh is very peculiar, because it only goes west to east along the equator in a Kelvin wave.\" These are not the massive, highly visible waves that crash into shorelines during major storms and hurricanes.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "level",
-      "scientist",
-      "forecast",
-      "predict",
-      "describe"
-     ],
-     "keyVocab": [
-      "level",
-      "scientist",
-      "forecast",
-      "predict",
-      "describe",
-      "vast",
-      "region",
-      "water"
-     ]
-    },
-    {
-     "id": "2026-10-27-culture",
-     "section": "Culture",
-     "sectionZh": "文化",
-     "title": "These 'Seven Stories About Tammy' add up to one brilliant piece of writing",
-     "dek": "I've been thinking a lot lately about the famous opening sequence of Up, the Pixar animated film. That movie begins with a wordless montage of a marriage, Carl and Ellie's marriage: its youthful…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/26/nx-s1-6017155/seven-stories-about-tammy-elizabeth-mccracken-review",
-     "byline": "Maureen Corrigan",
-     "dateLabel": "2026-10-27",
-     "words": 418,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "I've been thinking a lot lately about the famous opening sequence of Up, the Pixar animated film. That movie begins with a wordless montage of a marriage, Carl and Ellie's marriage: its youthful giddiness, the pain of infertility and the long goodbye of Ellie's death in old age.",
-       "zh": "最近我一直在思考皮克斯动画电影《飞屋环游记》中著名的开场序列。那部电影以一段无言的蒙太奇开始，讲述了卡尔和埃莉的婚姻：年轻时的喜悦、不孕的痛苦，以及埃莉老去去世时的长久告别。"
-      },
-      {
-       "en": "The montage takes less than four-and-a-half minutes and, yet, contains the emotional depths of a much longer film or novel about a marriage. Relying solely on words, Elizabeth McCracken's Seven Stories About Tammy does much the same for the family saga.",
-       "zh": "这个蒙太奇不到四分半钟，但却包含了关于婚姻的更长电影或小说所具有的情感深度。仅仅依靠文字，伊丽莎白·麦克雷肯的《七个关于泰米的故事》也为家族传奇做了同样的事情。"
-      },
-      {
-       "en": "As its title bluntly announces, Seven Stories About Tammy is composed of seven interrelated short stories about a family's encounters with their eldest son's girlfriend and eventual wife, an older woman named Tammy. McCracken's story sequence has appeared earlier in a literary magazine, as well as in the 2025 anthology of The Best American Short Stories. But, having it available in standalone book form is just the right vessel for this family montage. Not every piece of fiction, after all, fits into the prefab format of a novel or a single short story. The only downside is that this 70-page book is so tiny — the size of a pamphlet, really — that I misplaced it repeatedly around my house. Whenever I found it again, though, I felt like something rich and strange had been returned to me out of the jumble of the mundane.",
-       "zh": "正如其标题直言不讳地宣告的那样，《七个关于塔米的故事》由七个相互关联的短篇小说组成，讲述了一个家庭与长子女友、最终成为他妻子的年长女子塔米的遭遇。麦克拉肯的故事系列此前已在文学杂志上发表，并收录在2025年的《美国最佳短篇小说选集中》。不过，将其作为单行本出版，是呈现这个家庭群像的最佳形式。毕竟，并非每一篇小说都适合套用小说或单篇短篇小说的现成格式。唯一的缺点是，这本70页的小书实在太小——实际上只有小册子的大小——以至于我在家里经常把它放错地方。但每次再次找到它时，我都感觉像一些丰富而奇异的东西从日常的杂乱中归还给了我。"
-      },
-      {
-       "en": "We first meet Tammy when the Harkin family does: in the mid-1970s when eldest son, Morris, who's been living in Florida, brings her home to Boston for dinner. Here's our omniscient narrator describing that first encounter:",
-       "zh": "我们第一次见到塔米，是和哈金家族一起：在1970年代中期，当长子莫里斯——一直住在佛罗里达——带她回波士顿吃晚饭时。以下是我们无所不知的叙述者对那次初次相遇的描述："
-      },
-      {
-       "en": "They had never met anyone from Florida, only people who ended up there, as if by gravity. Tammy was tall and angular, stood with her hands in her own back pockets — blue jeans, ironed. Morris’s jeans were ironed now, too. By her? Or had she put Morris to work at the ironing board? She seemed like that sort of woman, efficient and ruthless, with beautiful manners.",
-       "zh": "他们从未遇到过佛罗里达的人，只遇到那些最后落到那里的人的，好像被引力吸引一样。塔米高挑且骨感，双手插在自己后面的口袋里——蓝色牛仔裤，熨得平整。莫里斯的牛仔裤现在也熨平了。是她弄的吗？还是她让莫里斯去熨裤子了？她看起来就是那种女人，高效而无情，举止优雅。"
-      },
-      {
-       "en": "On that evening, the family \"parlor game\" of \"how old is she?\" will begin, because, we're flatly told: \"Morris was twenty-seven. She wasn't.\"",
-       "zh": "在那个晚上，家里的“客厅游戏”——“她几岁了？”——将会开始，因为我们被明确告知：“莫里斯二十七岁。她不是。”"
-      },
-      {
-       "en": "In the third story, set about 15 years later, insecure middle child, Victoria, visits Tammy and Morris, now married, at their high-rise apartment in Philadelphia. Victoria, who's struggled with see-sawing weight all her young life, is served a shallow bowl of soup. Here's some dinner table dialogue:",
-       "zh": "在第三个故事中，时间大约设定在15年后，不自信的中间孩子维多利亚拜访了塔米和莫里斯，他们现在已经结婚，住在费城的高层公寓里。维多利亚一生中一直为体重的上下波动而烦恼，她被端来一个浅浅的汤碗。以下是餐桌上的一些对话："
-      },
-      {
-       "en": "“Oh, no thank you!” [Victoria] said. “I’m saving room for dinner.”",
-       "zh": "“哦，不，谢谢！”[维多利亚]说。“我得留肚子吃晚饭。”"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "film",
-       "pos": "n.",
-       "zh": "电影；影片",
-       "ex": "I've been thinking a lot lately about the famous opening sequence of Up, the Pixar animated film.",
-       "forms": []
-      },
-      {
-       "w": "family",
-       "pos": "n.",
-       "zh": "家庭",
-       "ex": "Relying solely on words, Elizabeth McCracken's Seven Stories About Tammy does much the same for the family saga.",
-       "forms": []
-      },
-      {
-       "w": "announce",
-       "pos": "v.",
-       "zh": "宣布；公布",
-       "ex": "As its title bluntly announces, Seven Stories About Tammy is composed of seven interrelated short stories about a family's encounters with their eldest son's girlfriend and eventual wife, an older woman named Tammy.",
-       "forms": [
-        "announces"
-       ]
-      },
-      {
-       "w": "fiction",
-       "pos": "n.",
-       "zh": "小说；虚构",
-       "ex": "Not every piece of fiction, after all, fits into the prefab format of a novel or a single short story.",
-       "forms": []
-      },
-      {
-       "w": "describe",
-       "pos": "v.",
-       "zh": "描述",
-       "ex": "Here's our omniscient narrator describing that first encounter: They had never met anyone from Florida, only people who ended up there, as if by gravity.",
-       "forms": [
-        "describing"
-       ]
-      },
-      {
-       "w": "child",
-       "pos": "n.",
-       "zh": "儿童；孩子",
-       "ex": "She wasn't.\" In the third story, set about 15 years later, insecure middle child, Victoria, visits Tammy and Morris, now married, at their high-rise apartment in Philadelphia.",
-       "forms": []
-      },
-      {
-       "w": "young",
-       "pos": "adj.",
-       "zh": "年轻的",
-       "ex": "Victoria, who's struggled with see-sawing weight all her young life, is served a shallow bowl of soup.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "film",
-      "family",
-      "announce",
-      "fiction",
-      "describe"
-     ],
-     "keyVocab": [
-      "film",
-      "family",
-      "announce",
-      "fiction",
-      "describe",
-      "child",
-      "young"
      ]
     }
    ]
