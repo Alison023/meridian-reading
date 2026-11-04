@@ -1,6 +1,804 @@
 window.__MERIDIAN_DATA__ = {
- "updated": "2026-11-03T07:04:02.549403+00:00",
+ "updated": "2026-11-04T06:50:17.562130+00:00",
  "days": [
+  {
+   "date": "2026-11-04",
+   "articles": [
+    {
+     "id": "2026-11-04-world",
+     "section": "World",
+     "sectionZh": "国际",
+     "title": "Japan faces diplomatic dilemma amid joint pressure from nuclear neighbors",
+     "dek": "As the Ukraine war grinds on, ties between Russia and neighboring Japan are at their worst in decades. Tokyo wants more support from Washington, but some Japanese are concerned they may not get it.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/03/nx-s1-6012016/japan-faces-diplomatic-dilemma-amid-joint-pressure-from-nuclear-neighbors",
+     "byline": "Anthony Kuhn",
+     "dateLabel": "2026-11-04",
+     "words": 348,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "As the Ukraine war grinds on, ties between Russia and neighboring Japan are at their worst in decades. Tokyo wants more support from Washington, but some Japanese are concerned they may not get it.",
+       "zh": "随着乌克兰战争的继续，俄罗斯与邻国日本之间的关系处于几十年来最糟糕的状态。东京希望得到华盛顿的更多支持，但一些日本人担心他们可能得不到支持。"
+      },
+      {
+       "en": "And now to Russia's war in Ukraine. This war has raised tensions not only in Europe but also in Asia. Ties between Russia and neighboring Japan are at their worst in decades. Tokyo would like more support from Washington, but as NPR's Anthony Kuhn reports, some Japanese people are concerned they may not get it.",
+       "zh": "现在谈谈俄罗斯在乌克兰的战争。这场战争不仅加剧了欧洲的紧张局势，也加剧了亚洲的紧张局势。俄罗斯与邻国日本之间的关系是几十年来最糟糕的。东京希望得到华盛顿的更多支持，但正如NPR的安东尼·库恩（ Anthony Kuhn ）报道的那样，一些日本人担心他们可能得不到支持。"
+      },
+      {
+       "en": "ANTHONY KUHN, BYLINE: In a video released by Russia's federal security bureau, FSB agents charge into a hotel room on Sakhalin Island in Russia's Far East on October 13.",
+       "zh": "安东尼·库恩（ ANTHONY KUHN ） ，署名：在俄罗斯联邦安全局发布的一段视频中，联邦安全局特工于10月13日进入俄罗斯远东萨哈林岛的一间酒店房间。"
+      },
+      {
+       "en": "KUHN: The agents pin Japanese journalist Yuki Imai to the ground and handcuff him. They question him and take him to Moscow to face trial on charges of espionage. Japan's government denies the charges. The FSB says Imai was reporting on soldiers from Russia's Far East who were deployed to Ukraine. Shinji Hyodo, a Russia expert at the National Institute for Defense Studies in Tokyo, argues that the journalist was just doing his job.",
+       "zh": "库恩：特工们把日本记者今井由纪（ Yuki Imai ）钉在地上，给他戴上手铐。他们审问他，并将他带到莫斯科接受间谍指控的审判。日本政府否认这些指控。FSB表示， Imai正在报道部署到乌克兰的俄罗斯远东士兵。东京国防研究所的俄罗斯专家Shinji Hyodo认为，这名记者只是在做他的工作。"
+      },
+      {
+       "en": "SHINJI HYODO: (Through interpreter) I believe the Russian side intends to use this as a political bargaining chip to exert pressure on Japan.",
+       "zh": "HYODO SHINJI ： （通过翻译）我相信俄方打算用这个作为政治讨价还价的筹码，对日本施加压力。"
+      },
+      {
+       "en": "KUHN: Hyodo says that underlying the current tensions are Japan's sanctions on Russia for its invasion of Ukraine. Russia now sees Japan as hostile, and bilateral relations have gone into a tailspin.",
+       "zh": "库恩：兵库县表示，当前紧张局势的基础是日本对俄罗斯入侵乌克兰的制裁。俄罗斯现在认为日本是敌对的，双边关系陷入了混乱。"
+      },
+      {
+       "en": "HYODO: (Through interpreter) I think it's fair to say that Japan is currently facing its greatest diplomatic challenge since the end of the war. This is no longer just a bilateral issue between Japan and Russia.",
+       "zh": "HYODO ： （通过翻译）我认为可以公平地说，日本目前正面临着自战争结束以来最大的外交挑战。这不再仅仅是日本和俄罗斯之间的双边问题。"
+      },
+      {
+       "en": "KUHN: There's also what Hyodo calls the China factor. China has been putting pressure on Japan since last year, when Prime Minister Sanae Takaichi said that a Chinese blockade of Taiwan could justify a Japanese military response. Russia relies on China's support in its war on Ukraine, and it's joined China in pressuring Japan. Another factor is a long-running territorial dispute between Russia and Japan.",
+       "zh": "KUHN ：还有Hyodo所说的中国因素。自去年以来，中国一直在向日本施加压力，当时日本首相高市早苗表示，中国对台湾的封锁可能证明日本的军事反应是合理的。俄罗斯在对乌克兰的战争中依靠中国的支持，并与中国一起向日本施压。另一个因素是俄罗斯和日本之间长期存在的领土争端。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "support",
+       "pos": "v.",
+       "zh": "支持",
+       "ex": "Tokyo wants more support from Washington, but some Japanese are concerned they may not get it.",
+       "forms": []
+      },
+      {
+       "w": "tension",
+       "pos": "n.",
+       "zh": "紧张局势；张力",
+       "ex": "This war has raised tensions not only in Europe but also in Asia.",
+       "forms": [
+        "tensions"
+       ]
+      },
+      {
+       "w": "report",
+       "pos": "n.",
+       "zh": "报告；报道",
+       "ex": "Tokyo would like more support from Washington, but as NPR's Anthony Kuhn reports, some Japanese people are concerned they may not get it.",
+       "forms": [
+        "reporting",
+        "reports"
+       ]
+      },
+      {
+       "w": "federal",
+       "pos": "adj.",
+       "zh": "联邦的",
+       "ex": "ANTHONY KUHN, BYLINE: In a video released by Russia's federal security bureau, FSB agents charge into a hotel room on Sakhalin Island in Russia's Far East on October 13.",
+       "forms": []
+      },
+      {
+       "w": "charge",
+       "pos": "v.",
+       "zh": "指控；收费",
+       "ex": "ANTHONY KUHN, BYLINE: In a video released by Russia's federal security bureau, FSB agents charge into a hotel room on Sakhalin Island in Russia's Far East on October 13.",
+       "forms": [
+        "charges"
+       ]
+      },
+      {
+       "w": "journalist",
+       "pos": "n.",
+       "zh": "记者；新闻工作者",
+       "ex": "KUHN: The agents pin Japanese journalist Yuki Imai to the ground and handcuff him.",
+       "forms": []
+      },
+      {
+       "w": "trial",
+       "pos": "n.",
+       "zh": "审判；试验",
+       "ex": "They question him and take him to Moscow to face trial on charges of espionage.",
+       "forms": []
+      },
+      {
+       "w": "deny",
+       "pos": "v.",
+       "zh": "否认",
+       "ex": "Japan's government denies the charges.",
+       "forms": [
+        "denies"
+       ]
+      },
+      {
+       "w": "national",
+       "pos": "adj.",
+       "zh": "国家的；全国的",
+       "ex": "Shinji Hyodo, a Russia expert at the National Institute for Defense Studies in Tokyo, argues that the journalist was just doing his job.",
+       "forms": []
+      },
+      {
+       "w": "study",
+       "pos": "n.",
+       "zh": "研究；学习",
+       "ex": "Shinji Hyodo, a Russia expert at the National Institute for Defense Studies in Tokyo, argues that the journalist was just doing his job.",
+       "forms": [
+        "studies"
+       ]
+      },
+      {
+       "w": "argue",
+       "pos": "v.",
+       "zh": "主张；争论",
+       "ex": "Shinji Hyodo, a Russia expert at the National Institute for Defense Studies in Tokyo, argues that the journalist was just doing his job.",
+       "forms": [
+        "argues"
+       ]
+      },
+      {
+       "w": "chip",
+       "pos": "n.",
+       "zh": "芯片",
+       "ex": "SHINJI HYODO: (Through interpreter) I believe the Russian side intends to use this as a political bargaining chip to exert pressure on Japan.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "support",
+      "tension",
+      "report",
+      "federal",
+      "charge"
+     ],
+     "keyVocab": [
+      "support",
+      "tension",
+      "report",
+      "federal",
+      "charge",
+      "journalist",
+      "trial",
+      "deny"
+     ]
+    },
+    {
+     "id": "2026-11-04-business",
+     "section": "Business",
+     "sectionZh": "商业 · 财经",
+     "title": "Legendary photographer on getting that perfect election night picture",
+     "dek": "On election night, photographers will be in position, ready to snap history-making moments. It's something Pulitzer-prize-winner photographer David Hume Kennerly, has done for decades.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/03/nx-s1-6005523/legendary-photographer-on-getting-that-perfect-election-night-picture",
+     "byline": "Brianna Scott",
+     "dateLabel": "2026-11-04",
+     "words": 508,
+     "readTime": 3,
+     "level": "B2",
+     "levelEn": "Upper-intermediate",
+     "paragraphs": [
+      {
+       "en": "Legendary Photographer on getting that perfect election night picture",
+       "zh": "传奇摄影师拍摄完美的选举之夜照片"
+      },
+      {
+       "en": "On election night, photographers will be in position, ready to snap history-making moments. It's something Pulitzer-prize-winner photographer David Hume Kennerly, has done for decades.",
+       "zh": "在选举之夜，摄影师将就位，随时准备拍摄创造历史的时刻。这是普利策奖得主、摄影师大卫·休谟·肯纳利（ David Hume Kennerly ）几十年来一直在做的事情。"
+      },
+      {
+       "en": "This is ALL THINGS CONSIDERED from NPR News. I'm Mary Louise Kelly.",
+       "zh": "这是NPR新闻的所有考虑因素。我是Mary Louise Kelly。"
+      },
+      {
+       "en": "And I'm Scott Detrow. Tonight, all over the country, candidates will be gathering with their supporters, their families and their staffs to see whether they won or lost. When those results come in, there will be joy, there will be sadness, there will be shock, there will be disappointment. And all of those human responses to the results, well, they can make great photographs. Tonight, photographers will also be in position ready to snap these history-making moments.",
+       "zh": "我是Scott Detrow。今晚，在全国各地，候选人将与他们的支持者，他们的家人和他们的工作人员聚集在一起，看看他们是赢还是输。当这些结果出现时，会有喜悦，会有悲伤，会有震惊，会有失望。所有这些人类对结果的反应，嗯，它们可以拍出很棒的照片。今晚，摄影师也将为拍摄这些历史性时刻做好准备。"
+      },
+      {
+       "en": "That is something Pulitzer Prize-winning photographer David Hume Kennerly has done for much of the past six decades. And many of those election nights, as well as a whole lot else, are collected in Kennerly's new book, \"In The Room: 60 Years On The Front Lines Of History.\" Kennerly covered Vietnam. He covered Ali v. Frazier. He also covered the 2000 presidential campaign between Texas Governor George W. Bush and Vice President Al Gore.",
+       "zh": "这是普利策奖获奖摄影师大卫·休谟·肯纳利（ David Hume Kennerly ）在过去六十年的大部分时间里所做的事情。许多选举之夜以及其他许多内容都收录在肯纳利的新书《在房间里：历史前沿的60年》中。“肯纳利报导了越南，他报导了阿里诉弗雷泽案。他还报道了德克萨斯州州长乔治· W ·布什和副总统戈尔之间的2000年总统竞选活动。"
+      },
+      {
+       "en": "And I want to talk about one particular moment. Bush has thought he's won this election. Al Gore has called him to concede. You take several pictures of him preparing his victory speech. And then, suddenly, Al Gore calls. He retracts the concession. Tell me what happens next.",
+       "zh": "我想谈谈一个特定的时刻。布什认为他赢得了这次选举。阿尔·戈尔（ Al Gore ）要求他让步。你拍了几张他准备胜利演讲的照片。然后，突然，阿尔·戈尔打电话来。他收回了让步。告诉我接下来会发生什么。"
+      },
+      {
+       "en": "DAVID HUME KENNERLY: (Laughter) This is - you're describing what makes for really good pictures in my world. I will back it up a little bit from there. I had come over with Dick Cheney, and I'd covered the last, I think, week or two of the campaign with Cheney. So we went over to the governor's mansion when it looks like he was going to win, or they declared him the winner, and everything was great. There were a couple other photographers in there. And he got the phone call from Gore, but he took it upstairs. So he left. I didn't see him do that. But I went into the kitchen to get a drink of water, and Bush came down the back stairway and said - looked at me. He looked kind of shell-shocked, and he said, he took it back. He took it back. I said, who took what back? And he said, Gore just called me and took back his concession. And I went, well, that sucks. I didn't know what else to say.",
+       "zh": "DAVID HUME KENNERLY ： （笑声）这是-你在描述在我的世界里是什么造就了真正的好照片。我会从那里稍微备份一下。我和迪克·切尼（ Dick Cheney ）一起过来，我想我和切尼（ Cheney ）一起参加了最后一两周的竞选活动。所以我们去了州长官邸，看起来他会赢，或者他们宣布他为赢家，一切都很棒。里面还有几位摄影师。他接到了戈尔的电话，但他把它带到了楼上。所以他离开了。我没有看到他这样做。但是我走进厨房去喝水，布什走下后面的楼梯，说--看着我。他看上去有些震惊，说着收回去。他收回去了。我说，谁拿回了什么？他说，戈尔刚刚打电话给我，收回了他的让步。我去了，嗯，那太糟糕了。我不知道还能说什么。"
+      },
+      {
+       "en": "KENNERLY: And so he went into that other small room, and you have this tableau of the Bush dynasty, former President Bush 41. You had Jeb Bush, who's the governor of Florida, and George W., who's the governor of Texas and thought he won the election. And so that picture caught it all. And if you look closely at it, which you can see it in the room, you see Mrs. Bush's hand is kind of crushed into her palm and the tension is palpable...",
+       "zh": "KENNERLY ：所以他走进了另一个小房间，你有布什王朝的画面，前总统布什41。有佛罗里达州州长杰布·布什（ Jeb Bush ）和德克萨斯州州长乔治· W （ George W. ） ，他们认为他赢得了选举。所以这张照片捕捉到了这一切。如果你仔细观察它，你可以在房间里看到它，你会看到布什夫人的手被压在她的手掌上，紧张的气氛是显而易见的……"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "election",
+       "pos": "n.",
+       "zh": "选举",
+       "ex": "Legendary Photographer on getting that perfect election night picture On election night, photographers will be in position, ready to snap history-making moments.",
+       "forms": []
+      },
+      {
+       "w": "news",
+       "pos": "n.",
+       "zh": "新闻",
+       "ex": "This is ALL THINGS CONSIDERED from NPR News.",
+       "forms": []
+      },
+      {
+       "w": "candidate",
+       "pos": "n.",
+       "zh": "候选人",
+       "ex": "Tonight, all over the country, candidates will be gathering with their supporters, their families and their staffs to see whether they won or lost.",
+       "forms": [
+        "candidates"
+       ]
+      },
+      {
+       "w": "family",
+       "pos": "n.",
+       "zh": "家庭",
+       "ex": "Tonight, all over the country, candidates will be gathering with their supporters, their families and their staffs to see whether they won or lost.",
+       "forms": [
+        "families"
+       ]
+      },
+      {
+       "w": "result",
+       "pos": "n.",
+       "zh": "结果",
+       "ex": "When those results come in, there will be joy, there will be sadness, there will be shock, there will be disappointment.",
+       "forms": [
+        "results"
+       ]
+      },
+      {
+       "w": "history",
+       "pos": "n.",
+       "zh": "历史",
+       "ex": "Legendary Photographer on getting that perfect election night picture On election night, photographers will be in position, ready to snap history-making moments.",
+       "forms": []
+      },
+      {
+       "w": "campaign",
+       "pos": "n.",
+       "zh": "竞选；运动",
+       "ex": "He also covered the 2000 presidential campaign between Texas Governor George W.",
+       "forms": []
+      },
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "Bush and Vice President Al Gore.",
+       "forms": []
+      },
+      {
+       "w": "speech",
+       "pos": "n.",
+       "zh": "演讲；言论",
+       "ex": "You take several pictures of him preparing his victory speech.",
+       "forms": []
+      },
+      {
+       "w": "describe",
+       "pos": "v.",
+       "zh": "描述",
+       "ex": "DAVID HUME KENNERLY: (Laughter) This is - you're describing what makes for really good pictures in my world.",
+       "forms": [
+        "describing"
+       ]
+      },
+      {
+       "w": "water",
+       "pos": "n.",
+       "zh": "水",
+       "ex": "But I went into the kitchen to get a drink of water, and Bush came down the back stairway and said - looked at me.",
+       "forms": []
+      },
+      {
+       "w": "tension",
+       "pos": "n.",
+       "zh": "紧张局势；张力",
+       "ex": "Bush's hand is kind of crushed into her palm and the tension is palpable...",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "election",
+      "news",
+      "candidate",
+      "family",
+      "result"
+     ],
+     "keyVocab": [
+      "election",
+      "news",
+      "candidate",
+      "family",
+      "result",
+      "history",
+      "campaign",
+      "president"
+     ]
+    },
+    {
+     "id": "2026-11-04-technology",
+     "section": "Technology",
+     "sectionZh": "科技",
+     "title": "AI chatbots are becoming political advisers. Their answers can mislead voters",
+     "dek": "Voters are increasingly turning to AI chatbots for information ahead of the midterms, yet many of the most popular ones may give misleading information about candidates and polling site opening…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice",
+     "byline": "Katie McQue",
+     "dateLabel": "2026-11-04",
+     "words": 385,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "Voters are increasingly turning to AI chatbots for information ahead of the midterms, yet many of the most popular ones may give misleading information about candidates and polling site opening times, according to researchers. Some chatbots have even provided lists of candidates to vote for, raising concerns among experts that AI-generated misinformation could influence voters' decisions.",
+       "zh": "研究人员表示，在中期选举之前，选民越来越多地转向人工智能聊天机器人获取信息，但许多最受欢迎的聊天机器人可能会提供有关候选人和投票站开放时间的误导性信息。一些聊天机器人甚至提供了要投票的候选人名单，引发了专家的担忧，即人工智能生成的错误信息可能会影响选民的决策。"
+      },
+      {
+       "en": "\"We've been increasingly seeing the role of AI delivering answers to users in a very authoritative, very convincing way, but with meaningful errors as a point of concern,\" said Tim Chambers, a principal at Dewey Square Group, which conducted the research on behalf of Innovating for the Public Good (IFPG), a nonprofit focused on democracy research. \"Users of these chatbot systems could be given errors in how they vote or miss a key voting deadline and elements in the whole voting process that could be derailed if they trusted these answers.\"",
+       "zh": "杜威广场集团（ Dewey Square Group ）负责人蒂姆·钱伯斯（ Tim Chambers ）表示： “我们越来越多地看到人工智能以一种非常权威、非常有说服力的方式向用户提供答案的作用，但将有意义的错误作为一个关注点。”杜威广场集团（ Dewey Square Group ）代表专注于民主研究的非营利组织“公共利益创新” （ Innovating for the Public Good ， IFPG ）进行了这项研究。“这些聊天机器人系统的用户可能会在投票或错过关键投票截止日期方面出现错误，如果他们信任这些答案，整个投票过程中的元素可能会脱轨。”"
+      },
+      {
+       "en": "An ongoing study by IFPG is testing how seven major chatbots (Google AI Mode and AI Overviews, Anthropic's Claude, Microsoft Copilot, Google Gemini, OpenAI's ChatGPT and Perplexity) respond to authentic voter questions, including projected winners, policy platforms, candidate comparisons, candidate backgrounds, controversies, and voting rules.",
+       "zh": "IFPG正在进行的一项研究正在测试七个主要聊天机器人（ Google AI Mode和AI Overviews、Anthropic的Claude、Microsoft Copilot、Google Gemini、OpenAI的ChatGPT和Perplexity ）如何应对真实的选民问题，包括预计获奖者、政策平台、候选人比较、候选人背景、争议和投票规则。"
+      },
+      {
+       "en": "In data collected in October, 13.9% of chatbot answers to voting-logistics questions were outdated or inaccurate. Errors in 5.9% of answers could mislead a voter, potentially resulting in them missing a deadline, going to vote on the wrong day or skipping a required step. Across all questions, 5.1% of chatbot answers carried at least one clear factual error and 10.9% a clear error or misleading claim.",
+       "zh": "在10月份收集的数据中， 13.9%的聊天机器人对投票逻辑问题的回答已经过时或不准确。5.9%的答案中的错误可能会误导选民，可能导致他们错过截止日期、在错误的日子投票或跳过所需的步骤。在所有问题中， 5.1%的聊天机器人答案至少存在一个明显的事实错误， 10.9%的答案存在明显的错误或误导性主张。"
+      },
+      {
+       "en": "Notably, the accuracy of the responses depended more on the chatbot than the questions posed, the researchers found. For instance, Claude and Copilot produced three-quarters of the clear errors. On voting questions, Claude gave wrong or outdated information one in three times, Copilot one in four and ChatGPT one in 10, according to the IFPG report.",
+       "zh": "值得注意的是，研究人员发现，回复的准确性更多地取决于聊天机器人，而不是所提出的问题。例如， Claude和Copilot产生了四分之三的明显错误。根据IFPG的报告，在投票问题上，三分之一的Claude提供了错误或过时的信息，四分之一的Copilot和十分之一的ChatGPT。"
+      },
+      {
+       "en": "In one example seen by NPR, Claude was given the prompt: \"When is the 2026 election in Michigan's 4th congressional district and how do I vote?\"",
+       "zh": "在NPR看到的一个例子中， Claude得到了一个提示： “密歇根州第四国会选区的2026年选举是什么时候，我该如何投票？”"
+      },
+      {
+       "en": "Claude responded by giving incorrect deadlines for registering to vote online and by mail, which were later than the actual deadlines. Should a user follow these instructions, they may miss the registration deadlines.",
+       "zh": "作为回应，克劳德给出了错误的在线和邮寄投票登记截止日期，这些截止日期晚于实际截止日期。如果用户遵循这些说明，他们可能会错过注册截止日期。"
+      },
+      {
+       "en": "Chambers called these error rates \"extremely troubling\" in an interview with NPR.",
+       "zh": "钱伯斯在接受NPR采访时称这些错误率“极其令人不安”。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "chatbot",
+       "pos": "n.",
+       "zh": "聊天机器人",
+       "ex": "Voters are increasingly turning to AI chatbots for information ahead of the midterms, yet many of the most popular ones may give misleading information about candidates and polling site opening times, according to researchers.",
+       "forms": [
+        "chatbots"
+       ]
+      },
+      {
+       "w": "candidate",
+       "pos": "n.",
+       "zh": "候选人",
+       "ex": "Voters are increasingly turning to AI chatbots for information ahead of the midterms, yet many of the most popular ones may give misleading information about candidates and polling site opening times, according to researchers.",
+       "forms": [
+        "candidates"
+       ]
+      },
+      {
+       "w": "poll",
+       "pos": "n.",
+       "zh": "民意调查",
+       "ex": "Voters are increasingly turning to AI chatbots for information ahead of the midterms, yet many of the most popular ones may give misleading information about candidates and polling site opening times, according to researchers.",
+       "forms": [
+        "polling"
+       ]
+      },
+      {
+       "w": "researcher",
+       "pos": "n.",
+       "zh": "研究人员",
+       "ex": "Voters are increasingly turning to AI chatbots for information ahead of the midterms, yet many of the most popular ones may give misleading information about candidates and polling site opening times, according to researchers.",
+       "forms": [
+        "researchers"
+       ]
+      },
+      {
+       "w": "vote",
+       "pos": "n.",
+       "zh": "投票；表决",
+       "ex": "Some chatbots have even provided lists of candidates to vote for, raising concerns among experts that AI-generated misinformation could influence voters' decisions.",
+       "forms": [
+        "voting"
+       ]
+      },
+      {
+       "w": "research",
+       "pos": "n.",
+       "zh": "研究",
+       "ex": "\"We've been increasingly seeing the role of AI delivering answers to users in a very authoritative, very convincing way, but with meaningful errors as a point of concern,\" said Tim Chambers, a principal at Dewey Square Group, which conducted the research on behalf of Innovating for the Public Good (IFPG), a nonprofit focused on democracy research.",
+       "forms": []
+      },
+      {
+       "w": "public",
+       "pos": "adj.",
+       "zh": "公共的；公众的",
+       "ex": "\"We've been increasingly seeing the role of AI delivering answers to users in a very authoritative, very convincing way, but with meaningful errors as a point of concern,\" said Tim Chambers, a principal at Dewey Square Group, which conducted the research on behalf of Innovating for the Public Good (IFPG), a nonprofit focused on democracy research.",
+       "forms": []
+      },
+      {
+       "w": "democracy",
+       "pos": "n.",
+       "zh": "民主；民主制度",
+       "ex": "\"We've been increasingly seeing the role of AI delivering answers to users in a very authoritative, very convincing way, but with meaningful errors as a point of concern,\" said Tim Chambers, a principal at Dewey Square Group, which conducted the research on behalf of Innovating for the Public Good (IFPG), a nonprofit focused on democracy research.",
+       "forms": []
+      },
+      {
+       "w": "study",
+       "pos": "n.",
+       "zh": "研究；学习",
+       "ex": "\"Users of these chatbot systems could be given errors in how they vote or miss a key voting deadline and elements in the whole voting process that could be derailed if they trusted these answers.\" An ongoing study by IFPG is testing how seven major chatbots (Google AI Mode and AI Overviews, Anthropic's Claude, Microsoft Copilot, Google Gemini, OpenAI's ChatGPT and Perplexity) respond to authentic voter questions, including projected winners, policy platforms, candidate comparisons, candidate backgrounds, controversies, and voting rules.",
+       "forms": []
+      },
+      {
+       "w": "policy",
+       "pos": "n.",
+       "zh": "政策；方针",
+       "ex": "\"Users of these chatbot systems could be given errors in how they vote or miss a key voting deadline and elements in the whole voting process that could be derailed if they trusted these answers.\" An ongoing study by IFPG is testing how seven major chatbots (Google AI Mode and AI Overviews, Anthropic's Claude, Microsoft Copilot, Google Gemini, OpenAI's ChatGPT and Perplexity) respond to authentic voter questions, including projected winners, policy platforms, candidate comparisons, candidate backgrounds, controversies, and voting rules.",
+       "forms": []
+      },
+      {
+       "w": "platform",
+       "pos": "n.",
+       "zh": "平台",
+       "ex": "\"Users of these chatbot systems could be given errors in how they vote or miss a key voting deadline and elements in the whole voting process that could be derailed if they trusted these answers.\" An ongoing study by IFPG is testing how seven major chatbots (Google AI Mode and AI Overviews, Anthropic's Claude, Microsoft Copilot, Google Gemini, OpenAI's ChatGPT and Perplexity) respond to authentic voter questions, including projected winners, policy platforms, candidate comparisons, candidate backgrounds, controversies, and voting rules.",
+       "forms": [
+        "platforms"
+       ]
+      },
+      {
+       "w": "controversy",
+       "pos": "n.",
+       "zh": "争议",
+       "ex": "\"Users of these chatbot systems could be given errors in how they vote or miss a key voting deadline and elements in the whole voting process that could be derailed if they trusted these answers.\" An ongoing study by IFPG is testing how seven major chatbots (Google AI Mode and AI Overviews, Anthropic's Claude, Microsoft Copilot, Google Gemini, OpenAI's ChatGPT and Perplexity) respond to authentic voter questions, including projected winners, policy platforms, candidate comparisons, candidate backgrounds, controversies, and voting rules.",
+       "forms": [
+        "controversies"
+       ]
+      }
+     ],
+     "homeWords": [
+      "chatbot",
+      "candidate",
+      "poll",
+      "researcher",
+      "vote"
+     ],
+     "keyVocab": [
+      "chatbot",
+      "candidate",
+      "poll",
+      "researcher",
+      "vote",
+      "research",
+      "public",
+      "democracy"
+     ]
+    },
+    {
+     "id": "2026-11-04-science",
+     "section": "Science",
+     "sectionZh": "科学",
+     "title": "Arizona adds U.S.'s newest national park, but National Park Service remains underfunded",
+     "dek": "President Trump, famous for stripping protections from national monuments, is signing a bill to turn one into a national park. The land in southern Arizona is biologically rich and scenic.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/10/21/nx-s1-5988049/arizona-adds-u-s-s-newest-national-park-but-national-park-service-remains-underfunded",
+     "byline": "Katya Mendoza",
+     "dateLabel": "2026-11-04",
+     "words": 256,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "President Trump, famous for stripping protections from national monuments, is signing a bill to turn one into a national park. The land in southern Arizona is biologically rich and scenic.",
+       "zh": "以剥夺国家古迹保护而闻名的特朗普总统正在签署一项法案，将其变成一个国家公园。亚利桑那州南部的土地生物丰富，风景优美。"
+      },
+      {
+       "en": "A few states over, the U.S. has a new national park. Yesterday, President Trump signed the Chiricahua National Park Act, elevating a national monument in Arizona to national park status. But there are concerns about its future, as Arizona Public Media's Katya Mendoza reports.",
+       "zh": "在几个州，美国有一个新的国家公园。昨天，特朗普总统签署了奇里卡瓦国家公园法案，将亚利桑那州的国家纪念碑提升为国家公园。但正如亚利桑那公共媒体的Katya Mendoza所报道的那样，人们对其未来感到担忧。"
+      },
+      {
+       "en": "KATYA MENDOZA, BYLINE: The new park is part of the Chiricahua Mountains, about a two hours' drive southeast of Tucson, accessed by a winding road surrounded by a sea of grasslands. The mountains are one of several so called sky island ranges that rise from the deserts here. They serve as a crossroads for four major ecosystems, where the Sonoran and Chihuahuan deserts, Rocky Mountains and the Sierra Madres converge.",
+       "zh": "卡蒂亚·门多萨（ KATYA MENDOZA ） ，署名：新公园是奇里卡瓦山脉（ Chiricahua Mountains ）的一部分，距离图森（ Tucson ）东南约两小时车程，周围环绕着草原海的蜿蜒道路。这些山脉是从这里的沙漠中升起的几个所谓的天空岛山脉之一。它们是四个主要生态系统的十字路口，索诺兰和奇瓦瓦沙漠、落基山脉和马德雷斯山脉汇聚在一起。"
+      },
+      {
+       "en": "ARMAND SANTILLI: It's like the Arizona version of Bryce Canyon.",
+       "zh": "ARMAND SANTILLI ：这就像亚利桑那版的布莱斯峡谷。"
+      },
+      {
+       "en": "MENDOZA: Armand Santilli came to visit what people call a wonderland of rocks, which was designated a national monument in 1924 by President Calvin Coolidge. Santilli had no idea he'd be the first visitor to the new national park.",
+       "zh": "门多萨（ MENDOZA ） ：阿尔芒·桑蒂利（ Armand Santilli ）来参观人们所说的岩石仙境，该仙境于1924年被卡尔文·柯立芝（ Calvin Coolidge ）总统指定为国Santilli不知道他会成为新国家公园的第一个游客。"
+      },
+      {
+       "en": "SANTILLI: I figured I'd come on through while I was visiting the rest of the mountain range. I figured I had to see the monument, and what a time to pick.",
+       "zh": "SANTILLI ：当我参观山脉的其余部分时，我想我会通过。我想我必须看到这座纪念碑，什么时候挑选。"
+      },
+      {
+       "en": "JUAN CISCOMANI: Please help me welcome United States Interior Secretary Doug Burgum.",
+       "zh": "JUAN CISCOMANI ：请帮助我欢迎美国内政部长Doug Burgum。"
+      },
+      {
+       "en": "MENDOZA: Arizona Republican Congressman Juan Ciscomani introduced Secretary Burgum at a ceremony establishing the park, now America's 64th national park.",
+       "zh": "门多萨：亚利桑那州共和党国会议员胡安·西斯科马尼（ Juan Ciscomani ）在建立公园的仪式上介绍了布尔古姆部长，该公园现在是美国第64个国家公园。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "President Trump, famous for stripping protections from national monuments, is signing a bill to turn one into a national park.",
+       "forms": []
+      },
+      {
+       "w": "national",
+       "pos": "adj.",
+       "zh": "国家的；全国的",
+       "ex": "President Trump, famous for stripping protections from national monuments, is signing a bill to turn one into a national park.",
+       "forms": []
+      },
+      {
+       "w": "park",
+       "pos": "n.",
+       "zh": "公园；园区",
+       "ex": "President Trump, famous for stripping protections from national monuments, is signing a bill to turn one into a national park.",
+       "forms": []
+      },
+      {
+       "w": "land",
+       "pos": "n.",
+       "zh": "土地；陆地",
+       "ex": "The land in southern Arizona is biologically rich and scenic.",
+       "forms": []
+      },
+      {
+       "w": "future",
+       "pos": "n.",
+       "zh": "未来",
+       "ex": "But there are concerns about its future, as Arizona Public Media's Katya Mendoza reports.",
+       "forms": []
+      },
+      {
+       "w": "public",
+       "pos": "adj.",
+       "zh": "公共的；公众的",
+       "ex": "But there are concerns about its future, as Arizona Public Media's Katya Mendoza reports.",
+       "forms": []
+      },
+      {
+       "w": "report",
+       "pos": "n.",
+       "zh": "报告；报道",
+       "ex": "But there are concerns about its future, as Arizona Public Media's Katya Mendoza reports.",
+       "forms": [
+        "reports"
+       ]
+      },
+      {
+       "w": "rise",
+       "pos": "n.",
+       "zh": "上升；上涨",
+       "ex": "The mountains are one of several so called sky island ranges that rise from the deserts here.",
+       "forms": []
+      },
+      {
+       "w": "ecosystem",
+       "pos": "n.",
+       "zh": "生态系统",
+       "ex": "They serve as a crossroads for four major ecosystems, where the Sonoran and Chihuahuan deserts, Rocky Mountains and the Sierra Madres converge.",
+       "forms": [
+        "ecosystems"
+       ]
+      }
+     ],
+     "homeWords": [
+      "president",
+      "national",
+      "park",
+      "land",
+      "future"
+     ],
+     "keyVocab": [
+      "president",
+      "national",
+      "park",
+      "land",
+      "future",
+      "public",
+      "report",
+      "rise"
+     ]
+    },
+    {
+     "id": "2026-11-04-culture",
+     "section": "Culture",
+     "sectionZh": "文化",
+     "title": "Election Day 2026: Photos from around the country",
+     "dek": "Tyler Prehn, 5 (right), inserts his father's ballot into the tabulating machine at Lutie Lewis Coates Elementary School in Herndon, Va. His brother, Levi Prehn, 3, looks on.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/sections/the-picture-show/2026/11/03/g-s1-151528/election-day-2026-photos-from-around-the-country",
+     "byline": "Meredith Nierman",
+     "dateLabel": "2026-11-04",
+     "words": 247,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "Tyler Prehn, 5 (right), inserts his father's ballot into the tabulating machine at Lutie Lewis Coates Elementary School in Herndon, Va. His brother, Levi Prehn, 3, looks on.",
+       "zh": "5岁的Tyler Prehn （右）将父亲的选票插入弗吉尼亚州赫恩登的Lutie Lewis Coates小学的制表机中。他3岁的弟弟Levi Prehn看着他。"
+      },
+      {
+       "en": "Against a backdrop of deep political division and with the control of Congress at stake, voters across the country are heading to the polls today to cast their ballots for the 2026 midterm elections. From lines at polling stations to the anticipation and reactions as the results come in, NPR station photographers are documenting the election in their communities.",
+       "zh": "在深刻的政治分裂和国会控制权受到威胁的背景下，全国各地的选民今天前往投票站，为2026年中期选举投票。从投票站的排队情况到投票结果的预期和反应，美国国家公共广播电台的摄影师正在记录他们所在社区的选举。"
+      },
+      {
+       "en": "Voters fill out their ballots at Chicago's McKinley Park Library.",
+       "zh": "选民在芝加哥麦金利公园图书馆填写选票。"
+      },
+      {
+       "en": "An election official tapes \"VOTE\" signs to a wall to direct voters to the polling room in the Fairfax County Government Center in Fairfax, Va.",
+       "zh": "选举官方录像带“投票”标志贴在墙上，将选民引导到弗吉尼亚州费尔法克斯的费尔法克斯县政府中心的投票室。"
+      },
+      {
+       "en": "Voters take to the polls at Wild Carrot, an event space in St. Louis' Shaw neighborhood.",
+       "zh": "选民前往圣路易斯肖（ Shaw ）街区的活动场所Wild Carrot投票。"
+      },
+      {
+       "en": "Diane Mitchell hands out Dutch Deli sandwiches and cookies from a food truck in Des Moines, Iowa.",
+       "zh": "Diane Mitchell从爱荷华州得梅因的一辆美食车上分发荷兰熟食三明治和饼干。"
+      },
+      {
+       "en": "Peg Ihinger takes a photo as she leaves her early voting sticker at the memorial for Alex Pretti in Minneapolis. \"I just want this nightmare to end for our city and our country,\" Ihinger said. \"And damn it, they shouldn't have died.\" Pretti and Renée Good, both 37 and residents of Minneapolis, were killed in separate incidents by U.S. Customs and Border Protection officers and Immigration and Customs Enforcement agents during the Trump administration's Operation Metro Surge in January.",
+       "zh": "佩格·伊辛格（ Peg Ihinger ）在明尼阿波利斯的亚历克斯·普雷蒂（ Alex Pretti ）纪念馆留下她的提前投票贴纸时拍了一张照片。“我只是想让我们的城市和我们的国家结束这场噩梦，”伊辛格说。“该死，他们不该死的。“ 37岁的Pretti和Renée Good以及明尼阿波利斯的居民在美国在特朗普政府1月份的地铁行动期间，海关和边境保护局官员以及移民和海关执法人员。"
+      },
+      {
+       "en": "Voters drop off ballots outside the City Hall Voting Center in San Francisco.",
+       "zh": "选民在旧金山市政厅投票中心外投票。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "ballot",
+       "pos": "n.",
+       "zh": "选票；投票",
+       "ex": "Tyler Prehn, 5 (right), inserts his father's ballot into the tabulating machine at Lutie Lewis Coates Elementary School in Herndon, Va.",
+       "forms": [
+        "ballots"
+       ]
+      },
+      {
+       "w": "school",
+       "pos": "n.",
+       "zh": "学校",
+       "ex": "Tyler Prehn, 5 (right), inserts his father's ballot into the tabulating machine at Lutie Lewis Coates Elementary School in Herndon, Va.",
+       "forms": []
+      },
+      {
+       "w": "congress",
+       "pos": "n.",
+       "zh": "国会",
+       "ex": "Against a backdrop of deep political division and with the control of Congress at stake, voters across the country are heading to the polls today to cast their ballots for the 2026 midterm elections.",
+       "forms": []
+      },
+      {
+       "w": "poll",
+       "pos": "n.",
+       "zh": "民意调查",
+       "ex": "Against a backdrop of deep political division and with the control of Congress at stake, voters across the country are heading to the polls today to cast their ballots for the 2026 midterm elections.",
+       "forms": [
+        "polling",
+        "polls"
+       ]
+      },
+      {
+       "w": "election",
+       "pos": "n.",
+       "zh": "选举",
+       "ex": "Against a backdrop of deep political division and with the control of Congress at stake, voters across the country are heading to the polls today to cast their ballots for the 2026 midterm elections.",
+       "forms": [
+        "elections"
+       ]
+      },
+      {
+       "w": "result",
+       "pos": "n.",
+       "zh": "结果",
+       "ex": "From lines at polling stations to the anticipation and reactions as the results come in, NPR station photographers are documenting the election in their communities.",
+       "forms": [
+        "results"
+       ]
+      },
+      {
+       "w": "community",
+       "pos": "n.",
+       "zh": "社区；群体",
+       "ex": "From lines at polling stations to the anticipation and reactions as the results come in, NPR station photographers are documenting the election in their communities.",
+       "forms": [
+        "communities"
+       ]
+      },
+      {
+       "w": "park",
+       "pos": "n.",
+       "zh": "公园；园区",
+       "ex": "Voters fill out their ballots at Chicago's McKinley Park Library.",
+       "forms": []
+      },
+      {
+       "w": "official",
+       "pos": "n.",
+       "zh": "官员；adj. 官方的",
+       "ex": "An election official tapes \"VOTE\" signs to a wall to direct voters to the polling room in the Fairfax County Government Center in Fairfax, Va.",
+       "forms": []
+      },
+      {
+       "w": "vote",
+       "pos": "n.",
+       "zh": "投票；表决",
+       "ex": "An election official tapes \"VOTE\" signs to a wall to direct voters to the polling room in the Fairfax County Government Center in Fairfax, Va.",
+       "forms": [
+        "voting"
+       ]
+      },
+      {
+       "w": "food",
+       "pos": "n.",
+       "zh": "食物",
+       "ex": "Diane Mitchell hands out Dutch Deli sandwiches and cookies from a food truck in Des Moines, Iowa.",
+       "forms": []
+      },
+      {
+       "w": "resident",
+       "pos": "n.",
+       "zh": "居民",
+       "ex": "\"And damn it, they shouldn't have died.\" Pretti and Renée Good, both 37 and residents of Minneapolis, were killed in separate incidents by U.S.",
+       "forms": [
+        "residents"
+       ]
+      }
+     ],
+     "homeWords": [
+      "ballot",
+      "school",
+      "congress",
+      "poll",
+      "election"
+     ],
+     "keyVocab": [
+      "ballot",
+      "school",
+      "congress",
+      "poll",
+      "election",
+      "result",
+      "community",
+      "park"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-03",
    "articles": [
@@ -4543,756 +5341,6 @@ window.__MERIDIAN_DATA__ = {
       "challenge",
       "report",
       "land"
-     ]
-    }
-   ]
-  },
-  {
-   "date": "2026-10-28",
-   "articles": [
-    {
-     "id": "2026-10-28-world",
-     "section": "World",
-     "sectionZh": "国际",
-     "title": "U.S. to issue visas to Flávio Bolsonaro as his whereabouts remain unclear",
-     "dek": "RIO DE JANEIRO, Brazil — The United States says it will issue visas to Flávio Bolsonaro and his family, amid multiple reports that the defeated Brazilian presidential candidate has left the…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/27/nx-s1-6019678/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear",
-     "byline": "Carrie Kahn",
-     "dateLabel": "2026-10-28",
-     "words": 314,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "RIO DE JANEIRO, Brazil — The United States says it will issue visas to Flávio Bolsonaro and his family, amid multiple reports that the defeated Brazilian presidential candidate has left the country following Sunday's election. His whereabouts have not been independently confirmed.",
-       "zh": "巴西里约热内卢--美国表示将向弗拉维奥·博尔索纳罗（ Flávio Bolsonaro ）及其家人发放签证，多起报道称，这位被击败的巴西总统候选人在周日大选后离开了该国。他的下落尚未得到独立证实。"
-      },
-      {
-       "en": "Bolsonaro, a conservative politician and ally of President Donald Trump, lost Sunday's presidential election to incumbent Luiz Inácio Lula da Silva by more than four million votes, just three weeks after winning the first round. While Bolsonaro's Liberal Party has since recognized Lula's victory, Bolsonaro has refused to concede defeat.",
-       "zh": "保守派政治家、唐纳德·特朗普(Donald Trump)总统的盟友博尔索纳罗(Bolsonaro)在周日的总统选举中输给了现任总统路易斯·伊纳西奥·卢拉·达席尔瓦(Luiz Inácio Lula da Silva) ，在赢得第一轮投票仅三周后虽然博尔索纳罗的自由党此后承认了卢拉的胜利，但博尔索纳罗拒绝承认失败。"
-      },
-      {
-       "en": "On Tuesday a senior U.S. administration official said that the State Department would issue visas to Bolsonaro and his family, allowing them to enter the country.",
-       "zh": "周二，美国政府一名高级官员表示，国务院将向博尔索纳罗及其家人发放签证，允许他们入境。"
-      },
-      {
-       "en": "The visa announcement comes as Bolsonaro faces multiple investigations in Brazil, including allegations of money laundering and tax evasion, which he denies. On Monday Brazil's Supreme Court ordered him to surrender his passports within 24 hours and barred him from leaving the country.",
-       "zh": "签证公告发布之际， Bolsonaro在巴西面临多项调查，包括洗钱和逃税指控，他对此予以否认。周一，巴西最高法院命令他在24小时内交出护照，并禁止他离开该国。"
-      },
-      {
-       "en": "The order followed comments by Bolsonaro's brother Eduardo, who lives in self-imposed exile in Florida, suggesting Flávio should leave Brazil if he lost the election.",
-       "zh": "该命令是在博尔索纳罗的兄弟爱德华多发表评论之后发布的，他住在佛罗里达州的自我流放中，他建议弗拉维奥如果他输掉选举，应该离开巴西。"
-      },
-      {
-       "en": "In a video released that day, Bolsonaro said federal police officers had stopped him outside the home of his father, former president Jair Bolsonaro, and ordered him to surrender his passports. The former far-right leader is under house arrest after being sentenced to 27 years in prison for plotting a coup following his own defeat by Lula in the 2022 presidential election.",
-       "zh": "在当天发布的一段视频中，博尔索纳罗说，联邦警察在他父亲、前总统贾尔·博尔索纳罗（ Jair Bolsonaro ）的家外拦住了他，并命令他交出护照。这位前极右翼领导人因在2022年总统大选中被卢拉击败后策划政变而被判处27年监禁后被软禁。"
-      },
-      {
-       "en": "\"I never thought about leaving the country,\" Flávio Bolsonaro said in the video. \"I will hand over my passports and defend myself against this aberration.\" He described the order as an attempt to intimidate him.",
-       "zh": "“我从未想过要离开这个国家，”弗拉维奥·博尔索纳罗在视频中说。“我将交出我的护照，保护自己免受这种失常的影响。“他将这一命令描述为企图恐吓他。"
-      },
-      {
-       "en": "On Tuesday, Brazilian media reported that Bolsonaro had left for the United States. His campaign manager, his lawyer and other political allies had earlier said they did not know his whereabouts.",
-       "zh": "周二，巴西媒体报道称，博尔索纳罗已前往美国。他的竞选经理、律师和其他政治盟友早些时候曾表示，他们不知道他的下落。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "issue",
-       "pos": "n.",
-       "zh": "议题；问题",
-       "ex": "RIO DE JANEIRO, Brazil — The United States says it will issue visas to Flávio Bolsonaro and his family, amid multiple reports that the defeated Brazilian presidential candidate has left the country following Sunday's election.",
-       "forms": []
-      },
-      {
-       "w": "family",
-       "pos": "n.",
-       "zh": "家庭",
-       "ex": "RIO DE JANEIRO, Brazil — The United States says it will issue visas to Flávio Bolsonaro and his family, amid multiple reports that the defeated Brazilian presidential candidate has left the country following Sunday's election.",
-       "forms": []
-      },
-      {
-       "w": "report",
-       "pos": "n.",
-       "zh": "报告；报道",
-       "ex": "RIO DE JANEIRO, Brazil — The United States says it will issue visas to Flávio Bolsonaro and his family, amid multiple reports that the defeated Brazilian presidential candidate has left the country following Sunday's election.",
-       "forms": [
-        "reported",
-        "reports"
-       ]
-      },
-      {
-       "w": "candidate",
-       "pos": "n.",
-       "zh": "候选人",
-       "ex": "RIO DE JANEIRO, Brazil — The United States says it will issue visas to Flávio Bolsonaro and his family, amid multiple reports that the defeated Brazilian presidential candidate has left the country following Sunday's election.",
-       "forms": []
-      },
-      {
-       "w": "election",
-       "pos": "n.",
-       "zh": "选举",
-       "ex": "RIO DE JANEIRO, Brazil — The United States says it will issue visas to Flávio Bolsonaro and his family, amid multiple reports that the defeated Brazilian presidential candidate has left the country following Sunday's election.",
-       "forms": []
-      },
-      {
-       "w": "confirm",
-       "pos": "v.",
-       "zh": "证实；确认",
-       "ex": "His whereabouts have not been independently confirmed.",
-       "forms": [
-        "confirmed"
-       ]
-      },
-      {
-       "w": "president",
-       "pos": "n.",
-       "zh": "总统；总裁",
-       "ex": "Bolsonaro, a conservative politician and ally of President Donald Trump, lost Sunday's presidential election to incumbent Luiz Inácio Lula da Silva by more than four million votes, just three weeks after winning the first round.",
-       "forms": []
-      },
-      {
-       "w": "incumbent",
-       "pos": "n.",
-       "zh": "现任者；在职者",
-       "ex": "Bolsonaro, a conservative politician and ally of President Donald Trump, lost Sunday's presidential election to incumbent Luiz Inácio Lula da Silva by more than four million votes, just three weeks after winning the first round.",
-       "forms": []
-      },
-      {
-       "w": "million",
-       "pos": "n.",
-       "zh": "百万",
-       "ex": "Bolsonaro, a conservative politician and ally of President Donald Trump, lost Sunday's presidential election to incumbent Luiz Inácio Lula da Silva by more than four million votes, just three weeks after winning the first round.",
-       "forms": []
-      },
-      {
-       "w": "vote",
-       "pos": "n.",
-       "zh": "投票；表决",
-       "ex": "Bolsonaro, a conservative politician and ally of President Donald Trump, lost Sunday's presidential election to incumbent Luiz Inácio Lula da Silva by more than four million votes, just three weeks after winning the first round.",
-       "forms": [
-        "votes"
-       ]
-      },
-      {
-       "w": "party",
-       "pos": "n.",
-       "zh": "政党；一方",
-       "ex": "While Bolsonaro's Liberal Party has since recognized Lula's victory, Bolsonaro has refused to concede defeat.",
-       "forms": []
-      },
-      {
-       "w": "refuse",
-       "pos": "v.",
-       "zh": "拒绝",
-       "ex": "While Bolsonaro's Liberal Party has since recognized Lula's victory, Bolsonaro has refused to concede defeat.",
-       "forms": [
-        "refused"
-       ]
-      }
-     ],
-     "homeWords": [
-      "issue",
-      "family",
-      "report",
-      "candidate",
-      "election"
-     ],
-     "keyVocab": [
-      "issue",
-      "family",
-      "report",
-      "candidate",
-      "election",
-      "confirm",
-      "president",
-      "incumbent"
-     ]
-    },
-    {
-     "id": "2026-10-28-business",
-     "section": "Business",
-     "sectionZh": "商业 · 财经",
-     "title": "How Aldi is pushing down grocery prices",
-     "dek": "In the summer of 2020, I lived briefly in Ithaca, New York. It's the only time I've lived near Aldi, the grocery store known for low prices. I went twice, and I thought it was fine, but…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/sections/planet-money/2026/10/27/g-s1-149358/how-aldi-is-pushing-down-grocery-prices",
-     "byline": "Alex Mayyasi",
-     "dateLabel": "2026-10-28",
-     "words": 546,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "In the summer of 2020, I lived briefly in Ithaca, New York. It's the only time I've lived near Aldi, the grocery store known for low prices. I went twice, and I thought it was fine, but underwhelming. I appreciated the low prices, but it didn't have everything I needed. The store was small and a bit shabby.",
-       "zh": "2020年夏天，我短暂地住在纽约伊萨卡。这是我唯一一次住在以低价闻名的杂货店Aldi附近。我去过两次，我觉得没关系，但很平淡。我很欣赏低廉的价格，但它没有我所需要的一切。商店很小，有点破旧。"
-      },
-      {
-       "en": "I didn't know it yet, but those are the exact ingredients that have made Aldi the fastest-growing grocery chain in America. Per Bloomberg, Aldi plans to have more than 3,000 American locations by the end of 2028, which would be more than any other chain but Walmart. In 2024, Aldi generated some $29 billion in U.S. sales, which is more than Trader Joe's.",
-       "zh": "我还不知道，但这些正是使Aldi成为美国增长最快的杂货连锁店的原因。据彭博社报道， Aldi计划到2028年底在美国拥有3,000多家门店，这将超过沃尔玛以外的任何其他连锁店。2024年， Aldi在美国的销售额约为290 $ ，超过了Trader Joe's。"
-      },
-      {
-       "en": "Aldi is a German company known for having low, low prices, and it deserves that reputation. Food reporter Deena Shanker told me for my podcast Gastronomics that her experience comparison shopping over many months was that Aldi either matched Walmart on price or was a bit cheaper. Grocers like Wegmans and Kroger have announced defensive price reductions, and an analysis published in late 2023 of Lidl, another German grocer with a very similar model to Aldi's but fewer U.S. stores, found that grocery chains reduced their markups ~7 percent in areas where Lidl stores opened.",
-       "zh": "Aldi是一家以低价、低价而闻名的德国公司，它理应享有这样的声誉。美食记者Deena Shanker为我的播客Gastronomics告诉我，她几个月的购物体验比较表明， Aldi要么在价格上与沃尔玛相匹配，要么更便宜。像Wegmans和Kroger这样的杂货商已经宣布了防御性降价，另一家与Aldi的模式非常相似但美国商店较少的德国杂货商Lidl在2023年底发布的一项分析发现，在Lidl商店开业的地区，杂货连锁店的加价降低了约7%。"
-      },
-      {
-       "en": "All to say: Aldi is disrupting the grocery business and actually lowering prices even as the cost of food—at restaurants and other grocery stores—goes up and up.",
-       "zh": "总而言之： Aldi正在扰乱生鲜杂货业务，实际上正在降低价格，即使餐厅和其他生鲜杂货店的食品成本不断上涨。"
-      },
-      {
-       "en": "Maybe this sounds a bit humdrum. But I found it totally intriguing and perplexing, because…",
-       "zh": "也许这听起来有点单调乏味。但我发现它非常有趣和令人困惑，因为……"
-      },
-      {
-       "en": "- Walmart and Costco's business models depend on low prices, too, and they can offer low prices by having huge stores, giant warehouses, and incredible economies of scale that allow them to pay less for Oreo's, baby carrots, and Jif peanut butter than other grocers. So how the heck is Aldi matching or beating them on price?",
-       "zh": "-沃尔玛和Costco的商业模式也依赖于低价，他们可以通过拥有大型商店、巨型仓库和令人难以置信的规模经济来提供低价，这使他们能够比其他杂货店支付更少的奥利奥、小胡萝卜和Jif花生酱的费用。那么， Aldi在价格上是如何匹配或击败他们的呢？"
-      },
-      {
-       "en": "- When a company disrupts a longstanding industry, it's typically a startup enabled by new technology—like Netflix using online streaming to disrupt Blockbuster and video rental. But Aldi is not staffed by futuristic robots. Its stores just look like grocery stores, and Aldi was founded 80 years ago, in post-war Germany. So what's going on?",
-       "zh": "-当一家公司颠覆一个长期存在的行业时，它通常是由新技术支持的创业公司，例如Netflix使用在线流媒体来颠覆Blockbuster和视频租赁。但Aldi没有未来主义机器人。它的商店看起来就像杂货店， Aldi于80年前在战后德国成立。到底是怎么回事？"
-      },
-      {
-       "en": "- One of the proudest achievements of America's capitalistic market economy is providing its citizens an abundance of increasingly affordable food. Somewhat famously, Soviet leader Boris Yeltsin toured a grocery store in Houston during the Cold War and was amazed that the average American enjoyed more variety than top Soviet politicians. From 1960 to 2019, Americans spent less and less of their income on food each year, even as they enjoyed more frequent restaurant meals, more sushi, and far better beer. But since the pandemic, food has become less affordable. Can American markets no longer provide cheap groceries? Did something break?",
-       "zh": "-美国资本主义市场经济最自豪的成就之一是为其公民提供越来越实惠的食物。众所周知，苏联领导人鲍里斯·叶利钦（ Boris Yeltsin ）在冷战期间参观了休斯顿的一家杂货店，并惊讶地发现，普通美国人比苏联顶级政治家更喜欢多样化。从1960年到2019年，美国人每年花在食品上的收入越来越少，尽管他们在餐厅用餐更频繁，寿司更多，啤酒更好。但自疫情爆发以来，食物变得越来越便宜。美国市场能否不再提供廉价的生鲜杂货？有什么东西坏了吗？"
-      },
-      {
-       "en": "One necessary but not sufficient explanation for Aldi's low prices is that management is obsessed with efficiency and cutting unnecessary costs. There's no music in stores, because speakers (and licensing fees for muzak) cost money. The staff places products on shelves still in the cardboard boxes they were trucked in on, because artfully unpacking fruits, bread, and jerky sticks would mean higher labor costs. The shabbiness is intentional — it's the cost of cheaper groceries.",
-       "zh": "Aldi低价的一个必要但不充分的解释是，管理层痴迷于效率和削减不必要的成本。商店里没有音乐，因为扬声器（以及muzak的许可费）需要花钱。工作人员仍将产品放在货架上的纸箱中，因为巧妙地拆开水果、面包和肉干棒意味着更高的劳动力成本。破旧是故意的—这是更便宜的生鲜杂货的成本。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "price",
-       "pos": "n.",
-       "zh": "价格",
-       "ex": "It's the only time I've lived near Aldi, the grocery store known for low prices.",
-       "forms": [
-        "prices"
-       ]
-      },
-      {
-       "w": "billion",
-       "pos": "n.",
-       "zh": "十亿",
-       "ex": "In 2024, Aldi generated some $29 billion in U.S.",
-       "forms": []
-      },
-      {
-       "w": "food",
-       "pos": "n.",
-       "zh": "食物",
-       "ex": "Food reporter Deena Shanker told me for my podcast Gastronomics that her experience comparison shopping over many months was that Aldi either matched Walmart on price or was a bit cheaper.",
-       "forms": []
-      },
-      {
-       "w": "announce",
-       "pos": "v.",
-       "zh": "宣布；公布",
-       "ex": "Grocers like Wegmans and Kroger have announced defensive price reductions, and an analysis published in late 2023 of Lidl, another German grocer with a very similar model to Aldi's but fewer U.S.",
-       "forms": [
-        "announced"
-       ]
-      },
-      {
-       "w": "analysis",
-       "pos": "n.",
-       "zh": "分析",
-       "ex": "Grocers like Wegmans and Kroger have announced defensive price reductions, and an analysis published in late 2023 of Lidl, another German grocer with a very similar model to Aldi's but fewer U.S.",
-       "forms": []
-      },
-      {
-       "w": "percent",
-       "pos": "n.",
-       "zh": "百分比",
-       "ex": "stores, found that grocery chains reduced their markups ~7 percent in areas where Lidl stores opened.",
-       "forms": []
-      },
-      {
-       "w": "cost",
-       "pos": "n.",
-       "zh": "成本；代价",
-       "ex": "All to say: Aldi is disrupting the grocery business and actually lowering prices even as the cost of food—at restaurants and other grocery stores—goes up and up.",
-       "forms": [
-        "costs"
-       ]
-      },
-      {
-       "w": "economy",
-       "pos": "n.",
-       "zh": "经济",
-       "ex": "But I found it totally intriguing and perplexing, because… - Walmart and Costco's business models depend on low prices, too, and they can offer low prices by having huge stores, giant warehouses, and incredible economies of scale that allow them to pay less for Oreo's, baby carrots, and Jif peanut butter than other grocers.",
-       "forms": [
-        "economies"
-       ]
-      },
-      {
-       "w": "industry",
-       "pos": "n.",
-       "zh": "行业；工业",
-       "ex": "- When a company disrupts a longstanding industry, it's typically a startup enabled by new technology—like Netflix using online streaming to disrupt Blockbuster and video rental.",
-       "forms": []
-      },
-      {
-       "w": "startup",
-       "pos": "n.",
-       "zh": "初创公司",
-       "ex": "- When a company disrupts a longstanding industry, it's typically a startup enabled by new technology—like Netflix using online streaming to disrupt Blockbuster and video rental.",
-       "forms": []
-      },
-      {
-       "w": "technology",
-       "pos": "n.",
-       "zh": "技术；科技",
-       "ex": "- When a company disrupts a longstanding industry, it's typically a startup enabled by new technology—like Netflix using online streaming to disrupt Blockbuster and video rental.",
-       "forms": []
-      },
-      {
-       "w": "online",
-       "pos": "adj.",
-       "zh": "在线的",
-       "ex": "- When a company disrupts a longstanding industry, it's typically a startup enabled by new technology—like Netflix using online streaming to disrupt Blockbuster and video rental.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "price",
-      "billion",
-      "food",
-      "announce",
-      "analysis"
-     ],
-     "keyVocab": [
-      "price",
-      "billion",
-      "food",
-      "announce",
-      "analysis",
-      "percent",
-      "cost",
-      "economy"
-     ]
-    },
-    {
-     "id": "2026-10-28-technology",
-     "section": "Technology",
-     "sectionZh": "科技",
-     "title": "Polymarket has investigated 'dozens' of election-related cases",
-     "dek": "Polymarket has investigated \"dozens\" of bets on its prediction markets related to the midterm election, according to the company's head of global intelligence and investigations, Shana Bautista.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/27/nx-s1-6012304/polymarket-election-betting-surveillance",
-     "byline": "Luke Garrett",
-     "dateLabel": "2026-10-28",
-     "words": 323,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "Polymarket has investigated \"dozens\" of bets on its prediction markets related to the midterm election, according to the company's head of global intelligence and investigations, Shana Bautista.",
-       "zh": "Polymarket的全球情报和调查主管Shana Bautista表示，该公司已经调查了与中期选举相关的“数十个”预测市场押注。"
-      },
-      {
-       "en": "At least two of these Polymarket investigations have been referred to its regulator, the U.S. Commodity Futures Trading Commission, according to a person who is familiar with the probes, but not authorized to speak publicly about them.",
-       "zh": "据一位熟悉调查的人士称，这些Polymarket调查中至少有两项已提交给其监管机构美国商品期货交易委员会，但无权公开谈论这些调查。"
-      },
-      {
-       "en": "These investigations into election insider trading and manipulation come as prediction market Polymarket — and its chief competitor Kalshi — have exploded in popularity over the past year. But the fast-growing industry also faces significant legal challenges from states and political pushback from lawmakers who argue betting on the outcome of elections poses serious risks to the democratic process.",
-       "zh": "这些对选举内幕交易和操纵的调查是在预测市场Polymarket及其主要竞争对手Kalshi在过去一年中爆发的情况下进行的。但快速增长的行业也面临着来自各州的重大法律挑战，以及来自立法者的政治阻力，他们认为押注选举结果对民主进程构成严重风险。"
-      },
-      {
-       "en": "In April, Kalshi banned and fined a handful of political candidates from betting on themselves. A month later, NPR reported that campaign staffers had made \"thousands\" using insider polling information to bet on their own candidates on platforms like Polymarket and PredictIt.",
-       "zh": "今年4月， Kalshi禁止并罚款了一些政治候选人对自己下注。一个月后， NPR报道称，竞选工作人员利用内幕民意调查信息在Polymarket和PredictIt等平台上对自己的候选人下注。"
-      },
-      {
-       "en": "Polymarket's Bautista — a former FBI official and cryptocurrency analyst — told NPR her team of 16 and a new election surveillance system are actively policing election bets ahead of the Nov. 3 midterms.",
-       "zh": "Polymarket的包蒂斯塔（ Bautista ）是前联邦调查局官员和加密货币分析师，她告诉NPR ，她的16人团队和一个新的选举监控系统正在积极监督11月3日中期选举之前的选举投注。"
-      },
-      {
-       "en": "\"If you have information that you have a duty to protect, don't trade on it,\" Bautista said. \"It's explicitly against our terms of use on both platforms, but also is against the law. If you decide that you are smarter and can do it, we will find you.\"",
-       "zh": "包蒂斯塔说： “如果你有责任保护的信息，不要利用这些信息进行交易。” “这明显违反了我们在这两个平台上的使用条款，但也违反了法律。如果你认为自己更聪明，可以做到，我们会找到你。”"
-      },
-      {
-       "en": "Bautista joined Polymarket in June. She oversees information gathered from both the U.S.-regulated version of Polymarket, which requires users to provide their real identities, and its bigger brother, Polymarket International, which is essentially unregulated and where trading can be done anonymously and with cryptocurrency. Despite this, Bautista said crypto trades are rarely completely anonymous.",
-       "zh": "Bautista于6月加入Polymarket。她负责监督从美国监管版本的Polymarket （要求用户提供真实身份）和其较大的兄弟Polymarket International （基本上不受监管，可以匿名使用加密货币进行交易）收集的信息。尽管如此， Bautista表示，加密货币交易很少是完全匿名的。"
-      },
-      {
-       "en": "\"There's never been a case that we work where we haven't been able to identify, potentially, who these people are,\" Bautista said.",
-       "zh": "Bautista说： “从来没有一个案例是我们无法确定这些人是谁。”"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "market",
-       "pos": "n.",
-       "zh": "市场",
-       "ex": "Polymarket has investigated \"dozens\" of bets on its prediction markets related to the midterm election, according to the company's head of global intelligence and investigations, Shana Bautista.",
-       "forms": [
-        "markets"
-       ]
-      },
-      {
-       "w": "election",
-       "pos": "n.",
-       "zh": "选举",
-       "ex": "Polymarket has investigated \"dozens\" of bets on its prediction markets related to the midterm election, according to the company's head of global intelligence and investigations, Shana Bautista.",
-       "forms": [
-        "elections"
-       ]
-      },
-      {
-       "w": "global",
-       "pos": "adj.",
-       "zh": "全球的",
-       "ex": "Polymarket has investigated \"dozens\" of bets on its prediction markets related to the midterm election, according to the company's head of global intelligence and investigations, Shana Bautista.",
-       "forms": []
-      },
-      {
-       "w": "intelligence",
-       "pos": "n.",
-       "zh": "情报；智能",
-       "ex": "Polymarket has investigated \"dozens\" of bets on its prediction markets related to the midterm election, according to the company's head of global intelligence and investigations, Shana Bautista.",
-       "forms": []
-      },
-      {
-       "w": "investigation",
-       "pos": "n.",
-       "zh": "调查",
-       "ex": "Polymarket has investigated \"dozens\" of bets on its prediction markets related to the midterm election, according to the company's head of global intelligence and investigations, Shana Bautista.",
-       "forms": [
-        "investigations"
-       ]
-      },
-      {
-       "w": "regulator",
-       "pos": "n.",
-       "zh": "监管机构",
-       "ex": "At least two of these Polymarket investigations have been referred to its regulator, the U.S.",
-       "forms": []
-      },
-      {
-       "w": "commodity",
-       "pos": "n.",
-       "zh": "商品；大宗商品",
-       "ex": "Commodity Futures Trading Commission, according to a person who is familiar with the probes, but not authorized to speak publicly about them.",
-       "forms": []
-      },
-      {
-       "w": "future",
-       "pos": "n.",
-       "zh": "未来",
-       "ex": "Commodity Futures Trading Commission, according to a person who is familiar with the probes, but not authorized to speak publicly about them.",
-       "forms": [
-        "futures"
-       ]
-      },
-      {
-       "w": "industry",
-       "pos": "n.",
-       "zh": "行业；工业",
-       "ex": "But the fast-growing industry also faces significant legal challenges from states and political pushback from lawmakers who argue betting on the outcome of elections poses serious risks to the democratic process.",
-       "forms": []
-      },
-      {
-       "w": "significant",
-       "pos": "adj.",
-       "zh": "显著的；重要的",
-       "ex": "But the fast-growing industry also faces significant legal challenges from states and political pushback from lawmakers who argue betting on the outcome of elections poses serious risks to the democratic process.",
-       "forms": []
-      },
-      {
-       "w": "challenge",
-       "pos": "n.",
-       "zh": "挑战",
-       "ex": "But the fast-growing industry also faces significant legal challenges from states and political pushback from lawmakers who argue betting on the outcome of elections poses serious risks to the democratic process.",
-       "forms": [
-        "challenges"
-       ]
-      },
-      {
-       "w": "argue",
-       "pos": "v.",
-       "zh": "主张；争论",
-       "ex": "But the fast-growing industry also faces significant legal challenges from states and political pushback from lawmakers who argue betting on the outcome of elections poses serious risks to the democratic process.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "market",
-      "election",
-      "global",
-      "intelligence",
-      "investigation"
-     ],
-     "keyVocab": [
-      "market",
-      "election",
-      "global",
-      "intelligence",
-      "investigation",
-      "regulator",
-      "commodity",
-      "future"
-     ]
-    },
-    {
-     "id": "2026-10-28-science",
-     "section": "Science",
-     "sectionZh": "科学",
-     "title": "When an invasive fish is also tasty, Maryland schoolkids can help 'eat the problem'",
-     "dek": "PRESTON, Md. — It's lunchtime at Preston Elementary School, on Maryland's Eastern Shore. Kids file in, get dollops of food on their segmented trays, and maybe grab a chocolate milk. But one option…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/26/nx-s1-5954211/invasive-blue-catfish-solution-schools-chesapeake-bay",
-     "byline": "Bill Chappell",
-     "dateLabel": "2026-10-28",
-     "words": 256,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "PRESTON, Md. — It's lunchtime at Preston Elementary School, on Maryland's Eastern Shore. Kids file in, get dollops of food on their segmented trays, and maybe grab a chocolate milk. But one option on today's menu is special, served alongside grapes and broccoli.",
-       "zh": "马里兰州普雷斯顿—现在是马里兰州东海岸普雷斯顿小学的午餐时间。孩子们挤进来，在他们的分段托盘上放一些食物，也许还会拿一杯巧克力牛奶。但今天菜单上的一种选择是特别的，与葡萄和西兰花一起供应。"
-      },
-      {
-       "en": "\"I got a catfish sandwich!\" announces Ben Rochon, a second-grader. Between mouthfuls, he tells me how it is: \"It's yummy.\"",
-       "zh": "二年级学生Ben Rochon说： “我有一个鲶鱼三明治！”在两口之间，他告诉我是怎么回事： “真好吃。”"
-      },
-      {
-       "en": "He's eating a catfish cake, also known by its nickname, the \"catty patty.\" Some kids like it with ketchup or mayo. Fifth-grader Teagan Donovan goes minimal.",
-       "zh": "他正在吃一个鲶鱼蛋糕，也被称为“鲶鱼馅饼”。“有些孩子喜欢吃番茄酱或蛋黄酱。五年级学生Teagan Donovan的成绩很低。"
-      },
-      {
-       "en": "\"I like it by itself with no toppings, because it's pretty good by itself,\" she says. In Teagan's case, \"by itself\" is literal: \"I ignore the bun.\"",
-       "zh": "“我喜欢它本身没有配料，因为它本身就很好，”她说。在Teagan的案例中， “本身”是字面上的： “我忽略了面包。”"
-      },
-      {
-       "en": "Not everyone's into the fish cake — after all, this sunny Friday is also pizza day at Preston, and cheese slices are tough competition. But more kids have been trying catfish when it's served a couple of times a month. That's good news to Beth Brewster, who oversees food services for Caroline County Public Schools.",
-       "zh": "不是每个人都喜欢吃鱼饼--毕竟，这个阳光明媚的星期五也是普雷斯顿的披萨日，奶酪片是激烈的竞争。但越来越多的孩子每月都会尝试几次鲶鱼。这对负责卡罗琳县公立学校餐饮服务的Beth Brewster来说是个好消息。"
-      },
-      {
-       "en": "\"It tastes great. It's great for you,\" she says of the fish cake.",
-       "zh": "“味道很棒，对你来说很棒，”她谈到鱼饼时说。"
-      },
-      {
-       "en": "It has another benefit: It's made with blue catfish. Since spreading to the Chesapeake Bay in recent decades, the fish has become an apex predator. It can grow to more than 100 pounds; its voracious appetite is fueling worries that it's eating too many native species.",
-       "zh": "它还有另一个好处：它是用蓝鲶鱼制成的。自从最近几十年蔓延到切萨皮克湾以来，这种鱼已经成为顶级捕食者。它可以长到100磅以上；它贪婪的食欲加剧了人们对它吃太多本土物种的担忧。"
-      },
-      {
-       "en": "\"It tastes so good because it eats everything we love — crabs and rockfish, and all kinds of things that we love to eat,\" Brewster says.",
-       "zh": "“它味道好极了，因为它吃我们爱吃的一切——螃蟹、石斑鱼，以及我们爱吃的各种东西，”布鲁斯特说。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "school",
-       "pos": "n.",
-       "zh": "学校",
-       "ex": "— It's lunchtime at Preston Elementary School, on Maryland's Eastern Shore.",
-       "forms": [
-        "schools"
-       ]
-      },
-      {
-       "w": "food",
-       "pos": "n.",
-       "zh": "食物",
-       "ex": "Kids file in, get dollops of food on their segmented trays, and maybe grab a chocolate milk.",
-       "forms": []
-      },
-      {
-       "w": "announce",
-       "pos": "v.",
-       "zh": "宣布；公布",
-       "ex": "\"I got a catfish sandwich!\" announces Ben Rochon, a second-grader.",
-       "forms": [
-        "announces"
-       ]
-      },
-      {
-       "w": "news",
-       "pos": "n.",
-       "zh": "新闻",
-       "ex": "That's good news to Beth Brewster, who oversees food services for Caroline County Public Schools.",
-       "forms": []
-      },
-      {
-       "w": "service",
-       "pos": "n.",
-       "zh": "服务",
-       "ex": "That's good news to Beth Brewster, who oversees food services for Caroline County Public Schools.",
-       "forms": [
-        "services"
-       ]
-      },
-      {
-       "w": "public",
-       "pos": "adj.",
-       "zh": "公共的；公众的",
-       "ex": "That's good news to Beth Brewster, who oversees food services for Caroline County Public Schools.",
-       "forms": []
-      },
-      {
-       "w": "species",
-       "pos": "n.",
-       "zh": "物种",
-       "ex": "It can grow to more than 100 pounds; its voracious appetite is fueling worries that it's eating too many native species.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "school",
-      "food",
-      "announce",
-      "news",
-      "service"
-     ],
-     "keyVocab": [
-      "school",
-      "food",
-      "announce",
-      "news",
-      "service",
-      "public",
-      "species"
-     ]
-    },
-    {
-     "id": "2026-10-28-culture",
-     "section": "Culture",
-     "sectionZh": "文化",
-     "title": "Romantasy fans turn out for 'Midnight Maas' release event",
-     "dek": "The latest book in Sarah J. Maas' A Court of Thorns and Roses (known as ACOTAR by its fans) series came out on Tues., October 27. The night before its release, thousands of fans flooded big box…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/27/nx-s1-6011109/acotar-a-court-of-splintered-harmony-sarah-j-maas",
-     "byline": "Dhanika Pineda",
-     "dateLabel": "2026-10-28",
-     "words": 391,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "The latest book in Sarah J. Maas' A Court of Thorns and Roses (known as ACOTAR by its fans) series came out on Tues., October 27. The night before its release, thousands of fans flooded big box and indie bookshops alike for midnight release parties across the country.",
-       "zh": "莎拉· J ·马斯（ Sarah J. Maas ）的《荆棘与玫瑰的宫廷》（ A Court of Thorns and Roses ，粉丝们称之为ACOTAR ）系列的最新， 10月27日。发行前一天晚上，成千上万的粉丝涌入大盒子和独立书店，参加全国各地的午夜发行派对。"
-      },
-      {
-       "en": "At Politics and Prose in Washington, D.C., dozens of fans perused the bookshelves in tight leather costumes, pointy faerie ears and sparkly tiaras, waiting to get their hands on A Court of Splintered Harmony.",
-       "zh": "在华盛顿特区的Politics and Prose ，数十名粉丝穿着紧身皮革服装、尖尖的仙女耳朵和闪闪发光的头饰仔细阅读书架，等待着获得A Court of Splintered Harmony。"
-      },
-      {
-       "en": "Dalia Luque is one of the eager readers who attended the event. A Monday night might not sound like the opportune time for a party running from 10 p.m. to midnight — after all, she could have preordered the book online — but Luque said she wanted to experience this moment with other fans.",
-       "zh": "Dalia Luque是参加此次活动的热心读者之一。对于从晚上10点到午夜的派对来说，周一晚上听起来可能不是合适的时间--毕竟，她本可以在网上预订这本书--但卢克说，她想和其他粉丝一起体验这一时刻。"
-      },
-      {
-       "en": "\"I just want to have fun with the community and get to share with my friends as we read along,\" Luque said.",
-       "zh": "卢克说：“我只是想和社区一起玩得开心，并且在我们一起阅读的过程中与朋友们分享。”"
-      },
-      {
-       "en": "Fans waiting to get their hands on the new book passed the time playing trivia, making friendship bracelets, getting their faces painted and enjoying champagne.",
-       "zh": "等待拿到新书的粉丝们通过玩问答游戏、制作友谊手链、化脸妆和享用香槟来打发时间。"
-      },
-      {
-       "en": "Luque found herself in the face paint line, where staffer Amber Lovold painted green shrubbery onto her face. The design is meant to represent the Summer Court, one of the seven territories that make up the ACOTAR world. Each Court is ruled by a High Lord and has a trademark color palette and vibe, allowing fans to self-select which Courts they'd be part of in a way that's similar to identifying with an astrological sign or a specific faction in Veronica Roth's Divergent series.",
-       "zh": "卢克发现自己排在面部彩绘队伍中，工作人员安伯·洛沃尔在她的脸上画上了绿色的灌木。这个设计意在代表夏之庭，这是构成《ACOTAR》世界的七个领域之一。每个庭院都有一位高等领主统治，并拥有独特的色彩搭配和氛围，让粉丝们可以像认同星座或维罗尼卡·罗斯《分歧者》系列中的特定派系一样，自行选择他们想要属于哪个庭院。"
-      },
-      {
-       "en": "Hot guys are a mainstay in ACOTAR, which is one of the most popular in the genre known as Romantasy, a mix of romance and fantasy. The series follows a lineup of attractive faeries and humans as they engage in battle, embark on quests and, of course, fall in love.",
-       "zh": "帅哥是《ACOTAR》中的常客，该系列是浪漫奇幻（Romantasy）类型中最受欢迎的作品之一，这种类型是浪漫与奇幻的混合。该系列讲述了一群迷人的精灵和人类在战斗、冒险任务中经历种种事情，并且当然还会坠入爱河。"
-      },
-      {
-       "en": "\"I've always enjoyed stepping into a new reality, or a different version of reality,\" Luque said. \"And so I think these books create a whole new world, and that's pretty exciting.\"",
-       "zh": "“我一直很喜欢踏入一个新的现实，或者现实的不同版本，”卢克说。“所以我认为这些书创造了一个全新的世界，这非常令人兴奋。”"
-      },
-      {
-       "en": "The ACOTAR saga has been on hiatus for almost five years. The first book in the series came out in 2015, and new installments from author Sarah J. Maas came out pretty regularly until she took a break from the series in 2021.",
-       "zh": "《ACOTAR》系列已经休刊将近五年。该系列的第一本书于2015年出版，作者莎拉·J·马斯的新作一直相对规律地发布，直到她在2021年从该系列中休息。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "court",
-       "pos": "n.",
-       "zh": "法院；法庭",
-       "ex": "Maas' A Court of Thorns and Roses (known as ACOTAR by its fans) series came out on Tues., October 27.",
-       "forms": [
-        "courts"
-       ]
-      },
-      {
-       "w": "flood",
-       "pos": "n.",
-       "zh": "洪水",
-       "ex": "The night before its release, thousands of fans flooded big box and indie bookshops alike for midnight release parties across the country.",
-       "forms": [
-        "flooded"
-       ]
-      },
-      {
-       "w": "party",
-       "pos": "n.",
-       "zh": "政党；一方",
-       "ex": "The night before its release, thousands of fans flooded big box and indie bookshops alike for midnight release parties across the country.",
-       "forms": [
-        "parties"
-       ]
-      },
-      {
-       "w": "online",
-       "pos": "adj.",
-       "zh": "在线的",
-       "ex": "to midnight — after all, she could have preordered the book online — but Luque said she wanted to experience this moment with other fans.",
-       "forms": []
-      },
-      {
-       "w": "community",
-       "pos": "n.",
-       "zh": "社区；群体",
-       "ex": "\"I just want to have fun with the community and get to share with my friends as we read along,\" Luque said.",
-       "forms": []
-      },
-      {
-       "w": "territory",
-       "pos": "n.",
-       "zh": "领土",
-       "ex": "The design is meant to represent the Summer Court, one of the seven territories that make up the ACOTAR world.",
-       "forms": [
-        "territories"
-       ]
-      },
-      {
-       "w": "genre",
-       "pos": "n.",
-       "zh": "类型；流派",
-       "ex": "Hot guys are a mainstay in ACOTAR, which is one of the most popular in the genre known as Romantasy, a mix of romance and fantasy.",
-       "forms": []
-      },
-      {
-       "w": "fall",
-       "pos": "n.",
-       "zh": "下降；下跌",
-       "ex": "The series follows a lineup of attractive faeries and humans as they engage in battle, embark on quests and, of course, fall in love.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "court",
-      "flood",
-      "party",
-      "online",
-      "community"
-     ],
-     "keyVocab": [
-      "court",
-      "flood",
-      "party",
-      "online",
-      "community",
-      "territory",
-      "genre",
-      "fall"
      ]
     }
    ]
