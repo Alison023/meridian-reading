@@ -1,6 +1,704 @@
 window.__MERIDIAN_DATA__ = {
- "updated": "2026-11-04T06:50:17.562130+00:00",
+ "updated": "2026-11-05T07:07:58.998779+00:00",
  "days": [
+  {
+   "date": "2026-11-05",
+   "articles": [
+    {
+     "id": "2026-11-05-world",
+     "section": "World",
+     "sectionZh": "国际",
+     "title": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
+     "dek": "VATICAN CITY — Bob Dylan came knockin' on Pope Leo XIV' s door Wednesday, as the American singer-songwriter and poet visited with the American pope at the Vatican during a break between concert…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan",
+     "byline": "The Associated Press",
+     "dateLabel": "2026-11-05",
+     "words": 272,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "VATICAN CITY — Bob Dylan came knockin' on Pope Leo XIV' s door Wednesday, as the American singer-songwriter and poet visited with the American pope at the Vatican during a break between concert dates in Italy.",
+       "zh": "梵蒂冈——鲍勃·迪伦周三敲响了教皇列奥十四的门，这位美国歌手兼词曲创作人和诗人在意大利演出日期的间隙访问了梵蒂冈，与美国教皇会面。"
+      },
+      {
+       "en": "The Vatican said the encounter was brief, with Leo giving Dylan a rosary and Dylan presenting the pope with a copy of his autobiography, \"Chronicles: Volume One.\"",
+       "zh": "梵蒂冈表示，这次会面很短暂，教皇列奥向迪伦赠送了一个玫瑰经，而迪伦则向教皇赠送了他的自传《编年史：第一卷》一册。"
+      },
+      {
+       "en": "Leo had quoted from an unpublished protest song Dylan penned in 1963, \"Go Away You Bomb,\" in his 2026 book \"Disarmed and Disarming: Peace Is a Gift.\"",
+       "zh": "莱奥在他2026年的著作《解除武装与消除威胁：和平是一份礼物》中引用了鲍勃·迪伦在1963年创作的一首未发表的抗议歌曲《滚开吧，你这炸弹》中的歌词。"
+      },
+      {
+       "en": "Leo was warning against the race to rearm and the recourse to nuclear weapons and quoted the lyric, addressed to a hypothetical atomic bomb: \"I hate you cause yer man-made and man-owned, an' man-handled.\"",
+       "zh": "Leo 警告不要竞相重新武装和诉诸核武器，并引用了一句歌词，歌词是对一个假想的原子弹说的：“我恨你因为你是人造的、人拥有的，而且被人操纵。”"
+      },
+      {
+       "en": "Two Vatican officials accompanied Dylan: the Rev. Antonio Spadaro, a Vatican culture ministry official who also accompanied Patti Smith to a July audience with Leo; and Andrea Monda, the editor of the Vatican newspaper, L'Osservatore Romano.",
+       "zh": "两名梵蒂冈官员陪同迪兰：安东尼奥·斯帕达罗神父，梵蒂冈文化部官员，也曾陪同帕蒂·史密斯参加七月与教皇利奥的会面；以及安德烈亚·蒙达，梵蒂冈报纸《罗马观察家》的编辑。"
+      },
+      {
+       "en": "Spadaro said Dylan had wanted to speak with Leo, and the two met in private for a few minutes. In an essay in L'Osservatore Romano, he recalled that the former Robert Prevost, who was born in Chicago in 1955, grew up familiar with Dylan's music.",
+       "zh": "斯帕达罗说，迪兰曾想与里奥谈话，两人在私人会面了几分钟。在《罗马观察报》的一篇文章中，他回忆说，前罗伯特·普雷沃斯特生于1955年的芝加哥，从小就熟悉迪兰的音乐。"
+      },
+      {
+       "en": "He also noted that Dylan was very familiar with St. Augustine of Hippo, the inspiration of Leo's spirituality and Augustinian religious order, penning \"I Dreamed I Saw St. Augustine\" for the 1967 album John Wesley Harding.",
+       "zh": "他还指出，迪兰对希波的圣奥古斯丁非常熟悉，后者是利奥灵性和奥古斯丁宗教会的灵感来源，迪兰为1967年的专辑《约翰·韦斯利·哈丁》创作了《我梦见见到圣奥古斯丁》。"
+      },
+      {
+       "en": "Dylan, who won the Nobel Prize for Literature in 2016, wore a black hoodie and a loose tie. Vatican photos of the encounter showed him with the hood over his head.",
+       "zh": "迪伦，2016年诺贝尔文学奖得主，穿着一件黑色连帽衫和一条宽松的领带。梵蒂冈拍摄的会面照片显示他戴着帽子。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "protest",
+       "pos": "n.",
+       "zh": "抗议",
+       "ex": "The Vatican said the encounter was brief, with Leo giving Dylan a rosary and Dylan presenting the pope with a copy of his autobiography, \"Chronicles: Volume One.\" Leo had quoted from an unpublished protest song Dylan penned in 1963, \"Go Away You Bomb,\" in his 2026 book \"Disarmed and Disarming: Peace Is a Gift.\" Leo was warning against the race to rearm and the recourse to nuclear weapons and quoted the lyric, addressed to a hypothetical atomic bomb: \"I hate you cause yer man-made and man-owned, an' man-handled.\" Two Vatican officials accompanied Dylan: the Rev.",
+       "forms": []
+      },
+      {
+       "w": "warn",
+       "pos": "v.",
+       "zh": "警告",
+       "ex": "The Vatican said the encounter was brief, with Leo giving Dylan a rosary and Dylan presenting the pope with a copy of his autobiography, \"Chronicles: Volume One.\" Leo had quoted from an unpublished protest song Dylan penned in 1963, \"Go Away You Bomb,\" in his 2026 book \"Disarmed and Disarming: Peace Is a Gift.\" Leo was warning against the race to rearm and the recourse to nuclear weapons and quoted the lyric, addressed to a hypothetical atomic bomb: \"I hate you cause yer man-made and man-owned, an' man-handled.\" Two Vatican officials accompanied Dylan: the Rev.",
+       "forms": [
+        "warning"
+       ]
+      },
+      {
+       "w": "nuclear",
+       "pos": "adj.",
+       "zh": "核的；核能的",
+       "ex": "The Vatican said the encounter was brief, with Leo giving Dylan a rosary and Dylan presenting the pope with a copy of his autobiography, \"Chronicles: Volume One.\" Leo had quoted from an unpublished protest song Dylan penned in 1963, \"Go Away You Bomb,\" in his 2026 book \"Disarmed and Disarming: Peace Is a Gift.\" Leo was warning against the race to rearm and the recourse to nuclear weapons and quoted the lyric, addressed to a hypothetical atomic bomb: \"I hate you cause yer man-made and man-owned, an' man-handled.\" Two Vatican officials accompanied Dylan: the Rev.",
+       "forms": []
+      },
+      {
+       "w": "official",
+       "pos": "n.",
+       "zh": "官员；adj. 官方的",
+       "ex": "The Vatican said the encounter was brief, with Leo giving Dylan a rosary and Dylan presenting the pope with a copy of his autobiography, \"Chronicles: Volume One.\" Leo had quoted from an unpublished protest song Dylan penned in 1963, \"Go Away You Bomb,\" in his 2026 book \"Disarmed and Disarming: Peace Is a Gift.\" Leo was warning against the race to rearm and the recourse to nuclear weapons and quoted the lyric, addressed to a hypothetical atomic bomb: \"I hate you cause yer man-made and man-owned, an' man-handled.\" Two Vatican officials accompanied Dylan: the Rev.",
+       "forms": [
+        "officials"
+       ]
+      },
+      {
+       "w": "culture",
+       "pos": "n.",
+       "zh": "文化",
+       "ex": "Antonio Spadaro, a Vatican culture ministry official who also accompanied Patti Smith to a July audience with Leo; and Andrea Monda, the editor of the Vatican newspaper, L'Osservatore Romano.",
+       "forms": []
+      },
+      {
+       "w": "audience",
+       "pos": "n.",
+       "zh": "观众；受众",
+       "ex": "Antonio Spadaro, a Vatican culture ministry official who also accompanied Patti Smith to a July audience with Leo; and Andrea Monda, the editor of the Vatican newspaper, L'Osservatore Romano.",
+       "forms": []
+      },
+      {
+       "w": "private",
+       "pos": "adj.",
+       "zh": "私人的；私营的",
+       "ex": "Spadaro said Dylan had wanted to speak with Leo, and the two met in private for a few minutes.",
+       "forms": []
+      },
+      {
+       "w": "album",
+       "pos": "n.",
+       "zh": "专辑；唱片",
+       "ex": "Augustine\" for the 1967 album John Wesley Harding.",
+       "forms": []
+      },
+      {
+       "w": "literature",
+       "pos": "n.",
+       "zh": "文学",
+       "ex": "Dylan, who won the Nobel Prize for Literature in 2016, wore a black hoodie and a loose tie.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "protest",
+      "warn",
+      "nuclear",
+      "official",
+      "culture"
+     ],
+     "keyVocab": [
+      "protest",
+      "warn",
+      "nuclear",
+      "official",
+      "culture",
+      "audience",
+      "private",
+      "album"
+     ]
+    },
+    {
+     "id": "2026-11-05-business",
+     "section": "Business",
+     "sectionZh": "商业 · 财经",
+     "title": "A Binance engineer thought he was interviewing for a job. Then the hackers pounced",
+     "dek": "The massive $6.3 billion cyber heist suffered by crypto exchange Binance last week may have taken place in only about twenty minutes — but the attacks were months in the making.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/03/nx-s1-6027799/binance-crypto-exchange-cyber-heist",
+     "byline": "Rafael Nam",
+     "dateLabel": "2026-11-05",
+     "words": 276,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "The massive $6.3 billion cyber heist suffered by crypto exchange Binance last week may have taken place in only about twenty minutes — but the attacks were months in the making.",
+       "zh": "上周，加密交易所币安遭遇的规模高达63亿美元的网络盗窃可能只发生在大约二十分钟内——但这些攻击已经筹划了数月。"
+      },
+      {
+       "en": "That's according an initial assessment released by Binance on Tuesday about how it suffered the world's biggest-ever cyber heist by hackers the FBI has identified as being a North Korean state-sponsored unit.",
+       "zh": "这是根据币安周二发布的一份初步评估，该评估关于其如何遭遇全球最大规模的网络盗窃，联邦调查局已将嫌疑黑客确定为朝鲜国家支持的单位。"
+      },
+      {
+       "en": "Those findings show the hackers first tried testing and penetrating Binance's security systems back in June, though the crypto exchange was able to detect that attempt and stop it.",
+       "zh": "这些发现表明，黑客最初在六月就尝试测试并渗透币安的安全系统，尽管这家加密货币交易所能够检测到该尝试并阻止它。"
+      },
+      {
+       "en": "Though unsuccessful, that attempt allowed the hackers — identified by the FBI as a North Korean military unit called TraderTraitor — to learn more about Binance and its systems.",
+       "zh": "尽管未成功，但那次尝试让黑客——被 FBI 识别为名为 TraderTraitor 的朝鲜军事单位——得以更多地了解币安及其系统。"
+      },
+      {
+       "en": "Then, the hackers tried again. In September, a Binance engineer was contacted in a job-hunting platform by a person posing as a \"project director\" from a company that turned out to be fictious.",
+       "zh": "然后，黑客再次尝试。在九月份，一名币安工程师在一个求职平台上被一个冒充“项目总监”的人联系，该人称来自的一家公司后来被证明是虚构的。"
+      },
+      {
+       "en": "The engineer then conducted a first-round interview with a supposed HR representative from the fake company. The hackers used this interview to \"build trust,\" with the Binance employee, the exchange said. The interviewer even shared supposed social media accounts, as well as personal photos and videos with the Binance engineer.",
+       "zh": "随后，这名工程师与假公司的一位所谓人力资源代表进行了第一次面试。交易所表示，黑客利用这次面试“建立信任”，与币安员工之间。面试官甚至分享了所谓的社交媒体账户，以及与币安工程师的个人照片和视频。"
+      },
+      {
+       "en": "\"This was more advanced and deceptive than previously seen social engineering approaches,\" Binance said in its assessment.",
+       "zh": "币安在其评估中表示：“这比之前见过的社会工程手段更先进、更具欺骗性。”"
+      },
+      {
+       "en": "The engineer was then told he would be conducting a second interview with the supposed CEO of the company in a popular social chat app. It was in this interview that the Binance employee — who was at his work laptop — was asked to download \"an assignment\" as part of the job recruitment process.",
+       "zh": "然后工程师被告知，他将通过一个流行的社交聊天应用与该公司所谓的首席执行官进行第二次面试。正是在这次面试中，这名在工作笔记本电脑前的币安员工被要求下载“一个任务”，作为招聘过程的一部分。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "billion",
+       "pos": "n.",
+       "zh": "十亿",
+       "ex": "The massive $6.3 billion cyber heist suffered by crypto exchange Binance last week may have taken place in only about twenty minutes — but the attacks were months in the making.",
+       "forms": []
+      },
+      {
+       "w": "military",
+       "pos": "n.",
+       "zh": "军队；军方",
+       "ex": "Though unsuccessful, that attempt allowed the hackers — identified by the FBI as a North Korean military unit called TraderTraitor — to learn more about Binance and its systems.",
+       "forms": []
+      },
+      {
+       "w": "platform",
+       "pos": "n.",
+       "zh": "平台",
+       "ex": "In September, a Binance engineer was contacted in a job-hunting platform by a person posing as a \"project director\" from a company that turned out to be fictious.",
+       "forms": []
+      },
+      {
+       "w": "interview",
+       "pos": "n.",
+       "zh": "采访；面试",
+       "ex": "The engineer then conducted a first-round interview with a supposed HR representative from the fake company.",
+       "forms": []
+      },
+      {
+       "w": "employee",
+       "pos": "n.",
+       "zh": "雇员",
+       "ex": "The hackers used this interview to \"build trust,\" with the Binance employee, the exchange said.",
+       "forms": []
+      },
+      {
+       "w": "social",
+       "pos": "adj.",
+       "zh": "社会的；社交的",
+       "ex": "The interviewer even shared supposed social media accounts, as well as personal photos and videos with the Binance engineer.",
+       "forms": []
+      },
+      {
+       "w": "media",
+       "pos": "n.",
+       "zh": "媒体",
+       "ex": "The interviewer even shared supposed social media accounts, as well as personal photos and videos with the Binance engineer.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "billion",
+      "military",
+      "platform",
+      "interview",
+      "employee"
+     ],
+     "keyVocab": [
+      "billion",
+      "military",
+      "platform",
+      "interview",
+      "employee",
+      "social",
+      "media"
+     ]
+    },
+    {
+     "id": "2026-11-05-technology",
+     "section": "Technology",
+     "sectionZh": "科技",
+     "title": "Elon Musk will face scrutiny from Democrats after midterms",
+     "dek": "Elon Musk wasn't on Tuesday's ballot, but he stands to lose a lot from Democrats' sweeping midterm victories in the House and Senate. In no state was this more acutely felt than in Texas, home to…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/04/nx-s1-6029650/elon-musk-midterms-democrats-texas-congress",
+     "byline": "Katie McQue",
+     "dateLabel": "2026-11-05",
+     "words": 440,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "Elon Musk wasn't on Tuesday's ballot, but he stands to lose a lot from Democrats' sweeping midterm victories in the House and Senate. In no state was this more acutely felt than in Texas, home to the headquarters of Musk's companies and where he spent more than $200 million, according to federal filings, in a mission to sway the Senate race in the Republican candidate's favor.",
+       "zh": "埃隆·马斯克没有出现在周二的选票上，但他可能会因民主党在国会众议院和参议院中横扫中期选举而损失巨大。在没有哪个州比得上德克萨斯州更为明显，这里是马斯克公司总部的所在地，据联邦申报，他在推动共和党候选人赢得参议院选举的过程中花费了超过2亿美元。"
+      },
+      {
+       "en": "With a Democratic majority in Congress, the billionaire, who controls Tesla and SpaceX, will likely face investigations into the billions of dollars of government contracts his companies have been awarded since President Trump returned to office and his role leading the Department of Government Efficiency at the beginning of Trump's second term.",
+       "zh": "在国会由民主党占多数的情况下，这位掌控特斯拉和SpaceX的亿万富翁，很可能会面临对其公司自特朗普总统回任以来所获得的数十亿美元政府合同的调查，以及对他在特朗普第二任期初期领导政府效率部的角色的审查。"
+      },
+      {
+       "en": "Musk gave more than $445 million to Republican candidates, political action committees and outside groups, according to federal election filings analyzed by OpenSecrets, a nonprofit that tracks campaign spending. That makes him the top donor in the midterms and among the very largest political donors in American history.",
+       "zh": "根据非营利组织OpenSecrets分析的联邦选举文件，马斯克向共和党候选人、政治行动委员会和外部团体捐赠了超过4.45亿美元。OpenSecrets追踪竞选支出。这使他成为中期选举中最大的捐助者，也是美国历史上最大的政治捐助者之一。"
+      },
+      {
+       "en": "The central question Democratic lawmakers say they want answered is whether Musk used his influence inside the Trump administration to benefit his own businesses, and whether taxpayer money, government data and public institutions were put at risk in the process.",
+       "zh": "民主党立法者表示，他们希望回答的核心问题是，马斯克是否利用自己在特朗普政府内部的影响力来为自己的企业谋利，以及在这一过程中纳税人的钱、政府数据和公共机构是否被置于风险之中。"
+      },
+      {
+       "en": "During the four months Musk led DOGE, he received at least $6.3 billion in government contracts. Since then, he has gained at least another $10 billion in government contracts, according to the Democracy Defenders Fund, a legal advocacy nonprofit.",
+       "zh": "在马斯克领导 DOGE 的四个月期间，他至少获得了 63 亿美元的政府合同。根据法律倡导非营利组织“民主捍卫者基金”的说法，从那以后，他又至少获得了另外 100 亿美元的政府合同。"
+      },
+      {
+       "en": "\"The DOGE chickens are coming home to roost. Elon Musk waved a chainsaw on stage and laughed while firing public servants and gutting the services Americans rely on. Then he lied to the American people about the savings. He must answer for it under oath,\" Rep. James Walkinshaw (D-Va.) wrote on X.",
+       "zh": "“DOGE 鸡正在回巢。埃隆·马斯克在舞台上挥舞电锯，大笑着解雇公务员并削减美国人依赖的服务。然后他向美国人民撒谎关于节省的情况。他必须在宣誓下为此作出解释，”弗吉尼亚州民主党众议员詹姆斯·沃金肖在 X 上写道。"
+      },
+      {
+       "en": "Musk's foreign dealings are also under scrutiny. Democratic Sen. Chris Coons of Delaware posted on X that Musk's links to Russia's President Vladimir Putin are \"One more thing to add to the list of questions for Musk when I subpoena him.\"",
+       "zh": "马斯克的海外交易也在接受审查。特拉华州民主党参议员克里斯·库恩斯在X（原Twitter）上发帖称，马斯克与俄罗斯总统弗拉基米尔·普京的联系是“在我传唤马斯克时要问他问题清单上再加的一件事。”"
+      },
+      {
+       "en": "U.S. Rep. Mike Levin of California highlighted that Musk restricted Ukraine's use of his Starlink satellite internet service days after Trump eased sanctions on Russia and began buying Russian diesel in October. Starlink and its military-grade counterpart, Starshield, are vital for Ukraine's civilian infrastructure, frontline communications and drone operations in its war against Russia.",
+       "zh": "加利福尼亚州众议员迈克·莱文强调，特朗普在十月放宽对俄罗斯的制裁并开始购买俄罗斯柴油几天后，马斯克限制了乌克兰使用他的星链卫星互联网服务。星链及其军用级别的对应服务Starshield，对乌克兰的民用基础设施、一线通讯和对抗俄罗斯战争的无人机行动至关重要。"
+      },
+      {
+       "en": "\"How on earth did we get to this point? How is it possible that Musk can disrupt an American ally's military operations whenever he chooses, maintain a clear line to the Kremlin, and face zero accountability to the American people or the U.S. government?\" Levin wrote on X.",
+       "zh": "莱文在 X 上写道：“我们究竟是怎么走到这一步的？马斯克怎么可能随时干扰美国盟友的军事行动，与克里姆林宫保持直接联系，而且对美国人民或美国政府完全不承担任何责任？”"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "ballot",
+       "pos": "n.",
+       "zh": "选票；投票",
+       "ex": "Elon Musk wasn't on Tuesday's ballot, but he stands to lose a lot from Democrats' sweeping midterm victories in the House and Senate.",
+       "forms": []
+      },
+      {
+       "w": "senate",
+       "pos": "n.",
+       "zh": "参议院",
+       "ex": "Elon Musk wasn't on Tuesday's ballot, but he stands to lose a lot from Democrats' sweeping midterm victories in the House and Senate.",
+       "forms": []
+      },
+      {
+       "w": "million",
+       "pos": "n.",
+       "zh": "百万",
+       "ex": "In no state was this more acutely felt than in Texas, home to the headquarters of Musk's companies and where he spent more than $200 million, according to federal filings, in a mission to sway the Senate race in the Republican candidate's favor.",
+       "forms": []
+      },
+      {
+       "w": "federal",
+       "pos": "adj.",
+       "zh": "联邦的",
+       "ex": "In no state was this more acutely felt than in Texas, home to the headquarters of Musk's companies and where he spent more than $200 million, according to federal filings, in a mission to sway the Senate race in the Republican candidate's favor.",
+       "forms": []
+      },
+      {
+       "w": "majority",
+       "pos": "n.",
+       "zh": "多数；大多数",
+       "ex": "With a Democratic majority in Congress, the billionaire, who controls Tesla and SpaceX, will likely face investigations into the billions of dollars of government contracts his companies have been awarded since President Trump returned to office and his role leading the Department of Government Efficiency at the beginning of Trump's second term.",
+       "forms": []
+      },
+      {
+       "w": "congress",
+       "pos": "n.",
+       "zh": "国会",
+       "ex": "With a Democratic majority in Congress, the billionaire, who controls Tesla and SpaceX, will likely face investigations into the billions of dollars of government contracts his companies have been awarded since President Trump returned to office and his role leading the Department of Government Efficiency at the beginning of Trump's second term.",
+       "forms": []
+      },
+      {
+       "w": "investigation",
+       "pos": "n.",
+       "zh": "调查",
+       "ex": "With a Democratic majority in Congress, the billionaire, who controls Tesla and SpaceX, will likely face investigations into the billions of dollars of government contracts his companies have been awarded since President Trump returned to office and his role leading the Department of Government Efficiency at the beginning of Trump's second term.",
+       "forms": [
+        "investigations"
+       ]
+      },
+      {
+       "w": "billion",
+       "pos": "n.",
+       "zh": "十亿",
+       "ex": "With a Democratic majority in Congress, the billionaire, who controls Tesla and SpaceX, will likely face investigations into the billions of dollars of government contracts his companies have been awarded since President Trump returned to office and his role leading the Department of Government Efficiency at the beginning of Trump's second term.",
+       "forms": [
+        "billions"
+       ]
+      },
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "With a Democratic majority in Congress, the billionaire, who controls Tesla and SpaceX, will likely face investigations into the billions of dollars of government contracts his companies have been awarded since President Trump returned to office and his role leading the Department of Government Efficiency at the beginning of Trump's second term.",
+       "forms": []
+      },
+      {
+       "w": "candidate",
+       "pos": "n.",
+       "zh": "候选人",
+       "ex": "Musk gave more than $445 million to Republican candidates, political action committees and outside groups, according to federal election filings analyzed by OpenSecrets, a nonprofit that tracks campaign spending.",
+       "forms": [
+        "candidates"
+       ]
+      },
+      {
+       "w": "election",
+       "pos": "n.",
+       "zh": "选举",
+       "ex": "Musk gave more than $445 million to Republican candidates, political action committees and outside groups, according to federal election filings analyzed by OpenSecrets, a nonprofit that tracks campaign spending.",
+       "forms": []
+      },
+      {
+       "w": "campaign",
+       "pos": "n.",
+       "zh": "竞选；运动",
+       "ex": "Musk gave more than $445 million to Republican candidates, political action committees and outside groups, according to federal election filings analyzed by OpenSecrets, a nonprofit that tracks campaign spending.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "ballot",
+      "senate",
+      "million",
+      "federal",
+      "majority"
+     ],
+     "keyVocab": [
+      "ballot",
+      "senate",
+      "million",
+      "federal",
+      "majority",
+      "congress",
+      "investigation",
+      "billion"
+     ]
+    },
+    {
+     "id": "2026-11-05-science",
+     "section": "Science",
+     "sectionZh": "科学",
+     "title": "When an invasive fish is also tasty, Maryland schoolkids can help 'eat the problem'",
+     "dek": "PRESTON, Md. — It's lunchtime at Preston Elementary School, on Maryland's Eastern Shore. Kids file in, get dollops of food on their segmented trays, and maybe grab a chocolate milk. But one option…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/10/26/nx-s1-5954211/invasive-blue-catfish-solution-schools-chesapeake-bay",
+     "byline": "Bill Chappell",
+     "dateLabel": "2026-11-05",
+     "words": 256,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "PRESTON, Md. — It's lunchtime at Preston Elementary School, on Maryland's Eastern Shore. Kids file in, get dollops of food on their segmented trays, and maybe grab a chocolate milk. But one option on today's menu is special, served alongside grapes and broccoli.",
+       "zh": "马里兰州普雷斯顿——现在是普雷斯顿小学的午餐时间，位于马里兰州东海岸。孩子们排队进入，餐盘上分好区块地盛上食物，也许还会拿一杯巧克力牛奶。但今天菜单上的一个选项很特别，与葡萄和西兰花一起提供。"
+      },
+      {
+       "en": "\"I got a catfish sandwich!\" announces Ben Rochon, a second-grader. Between mouthfuls, he tells me how it is: \"It's yummy.\"",
+       "zh": "“我得到了一个鲶鱼三明治！”二年级生本·罗肖宣布道。在一口口咀嚼之间，他告诉我味道如何：“很好吃。”"
+      },
+      {
+       "en": "He's eating a catfish cake, also known by its nickname, the \"catty patty.\" Some kids like it with ketchup or mayo. Fifth-grader Teagan Donovan goes minimal.",
+       "zh": "他正在吃一种鲶鱼饼，也被昵称为“猫咪饼”。有些孩子喜欢加番茄酱或蛋黄酱。五年级学生蒂根·多诺万选择简单吃。"
+      },
+      {
+       "en": "\"I like it by itself with no toppings, because it's pretty good by itself,\" she says. In Teagan's case, \"by itself\" is literal: \"I ignore the bun.\"",
+       "zh": "“我喜欢单独吃，不加任何配料，因为它本身就很好吃，”她说。对提根来说，“单独吃”是字面意思：“我不吃面包。”"
+      },
+      {
+       "en": "Not everyone's into the fish cake — after all, this sunny Friday is also pizza day at Preston, and cheese slices are tough competition. But more kids have been trying catfish when it's served a couple of times a month. That's good news to Beth Brewster, who oversees food services for Caroline County Public Schools.",
+       "zh": "并不是每个人都喜欢鱼饼——毕竟，这个阳光明媚的星期五在普雷斯顿也是比萨日，而奶酪片可是强劲的竞争对手。但当每月供应几次时，越来越多的孩子尝试鲶鱼。对于负责卡罗莱纳县公立学校餐饮服务的贝丝·布鲁斯特来说，这是一个好消息。"
+      },
+      {
+       "en": "\"It tastes great. It's great for you,\" she says of the fish cake.",
+       "zh": "“它的味道很好。对你也很好，”她说着指着鱼饼。"
+      },
+      {
+       "en": "It has another benefit: It's made with blue catfish. Since spreading to the Chesapeake Bay in recent decades, the fish has become an apex predator. It can grow to more than 100 pounds; its voracious appetite is fueling worries that it's eating too many native species.",
+       "zh": "它还有另一个好处：它是用蓝鲶鱼制成的。近年来，随着在切萨皮克湾的扩散，这种鱼已成为顶级捕食者。它可以长到超过100磅；它贪婪的食欲引发了人们对它吃掉过多本地物种的担忧。"
+      },
+      {
+       "en": "\"It tastes so good because it eats everything we love — crabs and rockfish, and all kinds of things that we love to eat,\" Brewster says.",
+       "zh": "布鲁斯特说：“它尝起来这么好，是因为它吃掉了我们喜欢的一切——螃蟹、磷虾，还有各种我们喜欢吃的东西。”"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "school",
+       "pos": "n.",
+       "zh": "学校",
+       "ex": "— It's lunchtime at Preston Elementary School, on Maryland's Eastern Shore.",
+       "forms": [
+        "schools"
+       ]
+      },
+      {
+       "w": "food",
+       "pos": "n.",
+       "zh": "食物",
+       "ex": "Kids file in, get dollops of food on their segmented trays, and maybe grab a chocolate milk.",
+       "forms": []
+      },
+      {
+       "w": "announce",
+       "pos": "v.",
+       "zh": "宣布；公布",
+       "ex": "\"I got a catfish sandwich!\" announces Ben Rochon, a second-grader.",
+       "forms": [
+        "announces"
+       ]
+      },
+      {
+       "w": "news",
+       "pos": "n.",
+       "zh": "新闻",
+       "ex": "That's good news to Beth Brewster, who oversees food services for Caroline County Public Schools.",
+       "forms": []
+      },
+      {
+       "w": "service",
+       "pos": "n.",
+       "zh": "服务",
+       "ex": "That's good news to Beth Brewster, who oversees food services for Caroline County Public Schools.",
+       "forms": [
+        "services"
+       ]
+      },
+      {
+       "w": "public",
+       "pos": "adj.",
+       "zh": "公共的；公众的",
+       "ex": "That's good news to Beth Brewster, who oversees food services for Caroline County Public Schools.",
+       "forms": []
+      },
+      {
+       "w": "species",
+       "pos": "n.",
+       "zh": "物种",
+       "ex": "It can grow to more than 100 pounds; its voracious appetite is fueling worries that it's eating too many native species.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "school",
+      "food",
+      "announce",
+      "news",
+      "service"
+     ],
+     "keyVocab": [
+      "school",
+      "food",
+      "announce",
+      "news",
+      "service",
+      "public",
+      "species"
+     ]
+    },
+    {
+     "id": "2026-11-05-culture",
+     "section": "Culture",
+     "sectionZh": "文化",
+     "title": "'I was partying too much': Jordan Firstman knows firsthand about being a 'Club Kid'",
+     "dek": "Filmmaker and actor Jordan Firstman spent years heavily involved in the Berlin club scene, an experience he describes as dark and disorienting.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/04/nx-s1-6027773/club-kid-jordan-firstman",
+     "byline": "Ann Marie Baldonado",
+     "dateLabel": "2026-11-05",
+     "words": 440,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "Filmmaker and actor Jordan Firstman spent years heavily involved in the Berlin club scene, an experience he describes as dark and disorienting.",
+       "zh": "电影制作人兼演员乔丹·费尔斯特曼多年来深度参与柏林的俱乐部场景，他形容这段经历既黑暗又令人迷惑。"
+      },
+      {
+       "en": "\"I was doing drugs from Thursday to Monday when I was in Berlin,\" he says. \"Then it becomes Monday morning somehow. Monday and Tuesday, you spend in bed wanting to kill yourself.\"",
+       "zh": "“我在柏林的时候从星期四到星期一都在吸毒，”他说。“然后不知道怎么的就到了星期一早上。星期一和星期二，你躺在床上想着要自杀。”"
+      },
+      {
+       "en": "Firstman wrote, directed and stars in Club Kid, about Peter, a 30-something gay club promoter who discovers he has a son, Arlo, from a drug-fueled night a decade before. Arlo's mother has died and Peter, the boy's biological father, is the only family that he has. Peter is faced with a choice: continue his destructive and lonely lifestyle, or make a change and try to care for the boy.",
+       "zh": "Firstman 编写、执导并主演了《Club Kid》，讲述的是彼得的故事——一位三十多岁的同性恋夜店推广人，他发现自己有一个儿子 Arlo，这是十年前一个药物驱动的夜晚的产物。Arlo 的母亲已经去世，而彼得，这个男孩的生物学父亲，是他唯一的家人。彼得面临一个选择：继续他那自毁而孤独的生活方式，还是做出改变，尝试照顾这个男孩。"
+      },
+      {
+       "en": "\"I was around 32-ish at the time. ... I was partying too much. I was having these come-downs,\" Firstman says of writing the film. \"And I wanted to make a delayed coming-of-age film about a gay guy in his 30s. And so that's kinda how it started.\"",
+       "zh": "“那时候我大约32岁左右……我玩得太多了。我经历这些消沉期，”Firstman说起写这部电影时说道。“我想拍一部关于三十多岁同志的迟来的成长故事片。于是事情就是这样开始的。”"
+      },
+      {
+       "en": "As it happens, Firstman became a biological father — or, as he describes it an \"Uncle-Daddy\" — last year, after donating sperm to his sister's wife. The baby was born the same week that he wrapped on Club Kid and his HBO comedy series I Love LA premiered.",
+       "zh": "碰巧的是，Firstman在去年成为了一名生物学上的父亲——或者用他的话来说，是一名“叔叔爸爸”——这是在他向他妹妹的妻子捐精之后。婴儿出生的那一周，他刚刚结束了《Club Kid》的拍摄，他的HBO喜剧系列《I Love LA》也首播了。"
+      },
+      {
+       "en": "In May, Club Kid was awarded Un Certain Regard at the Cannes Film Festival. It's a surreal moment for Firstman, who put so much of himself into the movie. \"What a blessing that we have art and we get to make things. We get to make things that change us.\"",
+       "zh": "五月，电影《Club Kid》在戛纳电影节获得了“一种关注”奖。对于将自己大量投入到电影中的Firstman来说，这是一个超现实的时刻。“我们有艺术并且能够创作，这是多么大的福气啊。我们可以创作能够改变我们的东西。”"
+      },
+      {
+       "en": "I wanted to show the highs and the lows because you do have both. … We as gay men specifically, we put ourselves in high-risk behavior, high risk and high reward. I mean, we really live. And I think because we, for so long, were not able to live. I think we choose to live very hard and love very hard and that comes at a cost sometimes. So I wanted to show the beauty and the joy and the community and the connection and the way we show up for each other.",
+       "zh": "我想展示高潮和低谷，因为你确实都有。……作为同性恋男性，我们特别会让自己处于高风险行为中，高风险也意味着高回报。我的意思是，我们真的在努力生活。我认为因为我们很长一段时间里无法真正生活，所以我们选择非常努力地生活，非常深情地去爱，而这有时是有代价的。所以我想展示美丽、喜悦、社区感、连接感以及我们彼此支持的方式。"
+      },
+      {
+       "en": "I just love the texture of '70s New York. We shot only in places that felt like old New York. That's why we shot in Chinatown and [the] Lower East Side, because it feels kind of unchanged, and some streets in SoHo. And we tried shooting streets with no cars, so it kind of had that older feel to it. But it was very important for us to capture a nostalgic New York that might not really exist anymore.",
+       "zh": "我就是喜欢70年代纽约的质感。我们只在那些有老纽约感觉的地方拍摄。这就是为什么我们在唐人街和下东区拍摄，因为那里感觉几乎没有改变，还有在苏荷区的一些街道。我们也尽量拍摄没有汽车的街道，所以它有点那种旧时的感觉。但对我们来说，捕捉一个怀旧的纽约非常重要，哪怕那个纽约可能已经不再存在。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "actor",
+       "pos": "n.",
+       "zh": "演员",
+       "ex": "Filmmaker and actor Jordan Firstman spent years heavily involved in the Berlin club scene, an experience he describes as dark and disorienting.",
+       "forms": []
+      },
+      {
+       "w": "describe",
+       "pos": "v.",
+       "zh": "描述",
+       "ex": "Filmmaker and actor Jordan Firstman spent years heavily involved in the Berlin club scene, an experience he describes as dark and disorienting.",
+       "forms": [
+        "describes"
+       ]
+      },
+      {
+       "w": "drug",
+       "pos": "n.",
+       "zh": "药物；毒品",
+       "ex": "\"I was doing drugs from Thursday to Monday when I was in Berlin,\" he says.",
+       "forms": [
+        "drugs"
+       ]
+      },
+      {
+       "w": "family",
+       "pos": "n.",
+       "zh": "家庭",
+       "ex": "Arlo's mother has died and Peter, the boy's biological father, is the only family that he has.",
+       "forms": []
+      },
+      {
+       "w": "change",
+       "pos": "n.",
+       "zh": "变化；改变",
+       "ex": "Peter is faced with a choice: continue his destructive and lonely lifestyle, or make a change and try to care for the boy.",
+       "forms": []
+      },
+      {
+       "w": "party",
+       "pos": "n.",
+       "zh": "政党；一方",
+       "ex": "I was partying too much.",
+       "forms": [
+        "partying"
+       ]
+      },
+      {
+       "w": "film",
+       "pos": "n.",
+       "zh": "电影；影片",
+       "ex": "I was having these come-downs,\" Firstman says of writing the film.",
+       "forms": []
+      },
+      {
+       "w": "festival",
+       "pos": "n.",
+       "zh": "节日；艺术节",
+       "ex": "In May, Club Kid was awarded Un Certain Regard at the Cannes Film Festival.",
+       "forms": []
+      },
+      {
+       "w": "behavior",
+       "pos": "n.",
+       "zh": "行为",
+       "ex": "… We as gay men specifically, we put ourselves in high-risk behavior, high risk and high reward.",
+       "forms": []
+      },
+      {
+       "w": "risk",
+       "pos": "n.",
+       "zh": "风险",
+       "ex": "… We as gay men specifically, we put ourselves in high-risk behavior, high risk and high reward.",
+       "forms": []
+      },
+      {
+       "w": "cost",
+       "pos": "n.",
+       "zh": "成本；代价",
+       "ex": "I think we choose to live very hard and love very hard and that comes at a cost sometimes.",
+       "forms": []
+      },
+      {
+       "w": "community",
+       "pos": "n.",
+       "zh": "社区；群体",
+       "ex": "So I wanted to show the beauty and the joy and the community and the connection and the way we show up for each other.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "actor",
+      "describe",
+      "drug",
+      "family",
+      "change"
+     ],
+     "keyVocab": [
+      "actor",
+      "describe",
+      "drug",
+      "family",
+      "change",
+      "party",
+      "film",
+      "festival"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-04",
    "articles": [
@@ -4571,776 +5269,6 @@ window.__MERIDIAN_DATA__ = {
       "school",
       "theater",
       "actor"
-     ]
-    }
-   ]
-  },
-  {
-   "date": "2026-10-29",
-   "articles": [
-    {
-     "id": "2026-10-29-world",
-     "section": "World",
-     "sectionZh": "国际",
-     "title": "Brazilian political drama unfolds as defeated Flavio Bolsonaro arrives in Miami",
-     "dek": "Defeated presidential candidate Flavio Bolsonaro and his family have arrived in the U.S. after Brazilian authorities ordered him to surrender his passport. He is facing multiple investigations in…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/28/nx-s1-6020518/brazilian-political-drama-unfolds-as-defeated-flavio-bolsonaro-arrives-in-miami",
-     "byline": "Carrie Kahn",
-     "dateLabel": "2026-10-29",
-     "words": 488,
-     "readTime": 3,
-     "level": "B2",
-     "levelEn": "Upper-intermediate",
-     "paragraphs": [
-      {
-       "en": "Defeated presidential candidate Flavio Bolsonaro and his family have arrived in the U.S. after Brazilian authorities ordered him to surrender his passport. He is facing multiple investigations in Brazil.",
-       "zh": "落选总统候选人弗拉维奥·博尔索纳罗及其家人已抵达美国，此前巴西当局曾命令他交出护照。他在巴西面临多项调查。"
-      },
-      {
-       "en": "This morning, Brazilians were glued to their screens watching a private plane land at an airport in Miami, Florida. Moments later, the man who had just lost Brazil's presidential election, Flávio Bolsonaro, stepped out onto the tarmac. His arrival capped three days of political drama since his stunning defeat to incumbent President Luiz Inácio Lula da Silva. NPR South America correspondent Carrie Kahn is on the line now. Hey, Carrie.",
-       "zh": "今天早上，巴西人紧盯着屏幕，观看一架私人飞机降落在佛罗里达州迈阿密的一座机场。片刻之后，刚刚在巴西总统选举中失利的弗拉维奥·博尔索纳罗走出了停机坪。他的到来为自他在选举中意外败给现任总统路易斯·伊纳西奥·卢拉·达席尔瓦以来的三天政治戏剧画上句号。NPR南美记者凯莉·卡恩现在在线。嗨，凯莉。"
-      },
-      {
-       "en": "SUMMERS: So, Carrie, I want to make sure I understand this correctly. Bolsonaro lost Sunday's election, and by Wednesday, he was in the U.S.?",
-       "zh": "萨默斯：所以，凯莉，我想确认我理解正确。博尔索纳罗在周日的选举中失败了，而到了周三，他已经在美国了？"
-      },
-      {
-       "en": "KAHN: Yes, it's been a wild ride the past three days. On Sunday, he refused to concede the election and said he would petition to annul the results. The next day, his party did accept the results. And in a video, Bolsonaro seemed to back down a bit but added that federal police demanded his passport after he was visiting his father, who is under house arrest for attempting to overturn his own electoral loss to Lula four years ago. By Tuesday - yesterday - rumors were flying that Bolsonaro had fled Brazil, and today he arrived in Miami and then later put out a statement first declaring himself as, quote, \"the true elected president of Brazil.\" Then a bit later, he posted a new statement downgrading himself to the true elected leader of Brazil. He compared himself to liberation figures like Charles de Gaulle and María Corina Machado of Venezuela, amongst others.",
-       "zh": "KAHN：是的，过去三天真是经历了一场疯狂的旅程。周日，他拒绝承认选举结果，并表示将申请撤销选举结果。第二天，他的政党接受了选举结果。在一段视频中，博尔索纳罗似乎有所退让，但他补充说，联邦警察在他探望父亲时要求上交护照，他的父亲因四年前试图推翻自己输给卢拉的选举而被软禁。到了周二——也就是昨天——有传闻称博尔索纳罗已经逃离巴西，而今天他抵达迈阿密，随后发表声明，首先自称为“巴西真正当选总统”。过了一会儿，他又发布了一份新声明，将自己降格为巴西真正的当选领导人。他将自己比作解放人物，如戴高乐和委内瑞拉的玛丽亚·科里娜·马查多等人。"
-      },
-      {
-       "en": "SUMMERS: Interesting. OK, lots of questions here. One is this - do we know how he managed to leave Brazil and get to the U.S.?",
-       "zh": "萨默斯：有趣。好吧，这里有很多问题。其中一个是——我们知道他是怎么离开巴西并到达美国的吗？"
-      },
-      {
-       "en": "KAHN: Argentine officials reported he crossed into the country last night, but Brazilian officials say they have no record of him crossing. Bolsonaro also has an Italian passport. From Argentina, he flew to Ecuador and then on to Miami. And in his letter today, he thanked Argentina's president, Javier Milei, for his support. And Milei is a far-right ally of Bolsonaro and Trump. And like Trump, Milei has still not recognized Brazil's election results. Trump was asked just a little while ago what he thought of Bolsonaro declaring himself leader of Brazil. Trump said he wasn't going to comment on that.",
-       "zh": "KAHN：阿根廷官员报告说他昨晚进入了该国，但巴西官员表示他们没有他的入境记录。博尔索纳罗还持有意大利护照。他从阿根廷飞往厄瓜多尔，然后再飞往迈阿密。在他今天的信中，他感谢阿根廷总统哈维尔·米莱的支持。米莱是博尔索纳罗和特朗普的极右翼盟友。像特朗普一样，米莱仍未承认巴西的选举结果。就在不久前，有人问特朗普他对博尔索纳罗自称巴西领导人有何看法，特朗普表示他不会对此发表评论。"
-      },
-      {
-       "en": "SUMMERS: Got it. Why did Brazil's federal police revoke his passport?",
-       "zh": "萨默斯：明白了。巴西联邦警察为什么要吊销他的护照？"
-      },
-      {
-       "en": "KAHN: That order came from a Supreme Court justice who said Bolsonaro was a flight risk because he's facing several investigations, and that justice oversaw the case against Bolsonaro's father, Jair. In his letter today, Flávio said that Brazil's judiciary has been, quote, \"weaponized\" against his entire family. The cases against Bolsonaro include a money laundering scheme tied to online gambling. Another involves questionable financing of a biopic about his father. Bolsonaro denies any wrongdoing.",
-       "zh": "卡恩：这个命令来自一位最高法院大法官，他说博尔索纳罗有逃跑风险，因为他正面临多项调查，而这位大法官曾负责审理针对博尔索纳罗的父亲贾伊尔的案件。在今天的信中，弗拉维奥表示，巴西的司法系统已经，被引用的话说，是“被武器化”来对付他的整个家族。针对博尔索纳罗的案件包括涉及网络赌博的洗钱计划。另一个案件涉及他父亲传记片的可疑融资。博尔索纳罗否认有任何不当行为。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "candidate",
-       "pos": "n.",
-       "zh": "候选人",
-       "ex": "Defeated presidential candidate Flavio Bolsonaro and his family have arrived in the U.S.",
-       "forms": []
-      },
-      {
-       "w": "family",
-       "pos": "n.",
-       "zh": "家庭",
-       "ex": "Defeated presidential candidate Flavio Bolsonaro and his family have arrived in the U.S.",
-       "forms": []
-      },
-      {
-       "w": "authority",
-       "pos": "n.",
-       "zh": "当局；权威机构",
-       "ex": "after Brazilian authorities ordered him to surrender his passport.",
-       "forms": [
-        "authorities"
-       ]
-      },
-      {
-       "w": "investigation",
-       "pos": "n.",
-       "zh": "调查",
-       "ex": "He is facing multiple investigations in Brazil.",
-       "forms": [
-        "investigations"
-       ]
-      },
-      {
-       "w": "private",
-       "pos": "adj.",
-       "zh": "私人的；私营的",
-       "ex": "This morning, Brazilians were glued to their screens watching a private plane land at an airport in Miami, Florida.",
-       "forms": []
-      },
-      {
-       "w": "land",
-       "pos": "n.",
-       "zh": "土地；陆地",
-       "ex": "This morning, Brazilians were glued to their screens watching a private plane land at an airport in Miami, Florida.",
-       "forms": []
-      },
-      {
-       "w": "election",
-       "pos": "n.",
-       "zh": "选举",
-       "ex": "Moments later, the man who had just lost Brazil's presidential election, Flávio Bolsonaro, stepped out onto the tarmac.",
-       "forms": []
-      },
-      {
-       "w": "incumbent",
-       "pos": "n.",
-       "zh": "现任者；在职者",
-       "ex": "His arrival capped three days of political drama since his stunning defeat to incumbent President Luiz Inácio Lula da Silva.",
-       "forms": []
-      },
-      {
-       "w": "president",
-       "pos": "n.",
-       "zh": "总统；总裁",
-       "ex": "His arrival capped three days of political drama since his stunning defeat to incumbent President Luiz Inácio Lula da Silva.",
-       "forms": []
-      },
-      {
-       "w": "refuse",
-       "pos": "v.",
-       "zh": "拒绝",
-       "ex": "On Sunday, he refused to concede the election and said he would petition to annul the results.",
-       "forms": [
-        "refused"
-       ]
-      },
-      {
-       "w": "result",
-       "pos": "n.",
-       "zh": "结果",
-       "ex": "On Sunday, he refused to concede the election and said he would petition to annul the results.",
-       "forms": [
-        "results"
-       ]
-      },
-      {
-       "w": "party",
-       "pos": "n.",
-       "zh": "政党；一方",
-       "ex": "The next day, his party did accept the results.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "candidate",
-      "family",
-      "authority",
-      "investigation",
-      "private"
-     ],
-     "keyVocab": [
-      "candidate",
-      "family",
-      "authority",
-      "investigation",
-      "private",
-      "land",
-      "election",
-      "incumbent"
-     ]
-    },
-    {
-     "id": "2026-10-29-business",
-     "section": "Business",
-     "sectionZh": "商业 · 财经",
-     "title": "Dolores Huerta, influential labor leader, feminist and civil rights icon, dies at 96",
-     "dek": "Dolores Huerta, who co-founded the United Farm Workers union to improve working conditions in the nation's fruit and vegetable fields and coined the phrase \"Sí, se puede!\" that became a widespread…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/28/nx-s1-6020543/dolores-huerta-dies",
-     "byline": "The Associated Press",
-     "dateLabel": "2026-10-29",
-     "words": 284,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "Dolores Huerta, who co-founded the United Farm Workers union to improve working conditions in the nation's fruit and vegetable fields and coined the phrase \"Sí, se puede!\" that became a widespread rallying cry, has died. She was 96.",
-       "zh": "多洛雷斯·韦尔塔，共同创立了联合农场工人工会，以改善全国水果和蔬菜田地的工作条件，并创造了“Sí, se puede!”这一成为广泛号召口号的短语，已去世，享年96岁。"
-      },
-      {
-       "en": "Huerta's family said in a statement through her foundation that she died Wednesday at home.",
-       "zh": "胡尔塔的家人在她的基金会发表的一份声明中表示，她于周三在家中去世。"
-      },
-      {
-       "en": "She kept a busy schedule well into her 90s, marching in protests and speaking in cities across the country about race, poverty, LGBTQ+ and women's rights on behalf of her Bakersfield, California-based foundation.",
-       "zh": "她一直忙碌到九十多岁，参加抗议活动，并在全国各城市就种族、贫困、LGBTQ+和女性权利发言，代表她位于加利福尼亚贝克斯菲尔德的基金会。"
-      },
-      {
-       "en": "Huerta's resolve cemented her place in history as one of the nation's most influential labor leaders, civil rights icons and feminist activists. Her three-word Spanish-language slogan — which translates to \"Yes, it can be done\" — was grounded in the belief that people could affect change.",
-       "zh": "胡埃尔塔的决心巩固了她在历史上的地位，成为国家最有影响力的劳工领袖、民权偶像和女权主义活动家之一。她的三字西班牙语口号——意为“是的，可以做到”——基于人们能够带来改变的信念。"
-      },
-      {
-       "en": "Her work over the decades earned her a number of accolades, including the Presidential Medal of Freedom, the nation's highest civilian honor. When then-President Barack Obama presented the award in 2012, he praised Huerta as a tenacious leader and joked that he had stolen her slogan for his 2008 campaign.",
-       "zh": "她几十年来的工作为她赢得了许多荣誉，包括总统自由勋章——国家最高平民荣誉。当时的总统巴拉克·奥巴马在2012年颁发这一奖项时，称赞胡尔塔是一个坚韧不拔的领袖，并开玩笑说他在2008年的竞选活动中借用了她的口号。"
-      },
-      {
-       "en": "This year, Huerta sent shockwaves through the Latino community when she revealed that she was sexually abused in the 1960s by the farmworker movement's co-founder, César Chavez, leading to the birth of two children, a secret she kept for 60 years and long after he died.",
-       "zh": "今年，当胡尔塔透露她在1960年代被农工运动的共同创始人塞萨尔·查韦斯性虐待并因此生下两个孩子时，她在拉美裔社区引起了震惊，这是她保密了60年的秘密，直到查韦斯去世很久之后才被揭露。"
-      },
-      {
-       "en": "From the early 1970s on, Huerta's life partner was Richard Chavez, César's brother, and together they had four kids. She also had seven children from two earlier marriages.",
-       "zh": "从1970年代初起，胡埃尔塔的生活伴侣是理查德·查韦斯，塞萨尔的兄弟，他们一起有四个孩子。她在两次早期婚姻中还有七个孩子。"
-      },
-      {
-       "en": "Huerta said she had kept silent for so long because she feared that coming forward would compromise her life's work and unravel all the progress made for workers.",
-       "zh": "胡埃尔塔说，她之所以长期保持沉默，是因为她担心站出来会危及她一生的工作，并破坏为工人所取得的所有进展。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "worker",
-       "pos": "n.",
-       "zh": "工人；员工",
-       "ex": "Dolores Huerta, who co-founded the United Farm Workers union to improve working conditions in the nation's fruit and vegetable fields and coined the phrase \"Sí, se puede!\" that became a widespread rallying cry, has died.",
-       "forms": [
-        "workers"
-       ]
-      },
-      {
-       "w": "union",
-       "pos": "n.",
-       "zh": "工会；联盟",
-       "ex": "Dolores Huerta, who co-founded the United Farm Workers union to improve working conditions in the nation's fruit and vegetable fields and coined the phrase \"Sí, se puede!\" that became a widespread rallying cry, has died.",
-       "forms": []
-      },
-      {
-       "w": "widespread",
-       "pos": "adj.",
-       "zh": "广泛的；普遍的",
-       "ex": "Dolores Huerta, who co-founded the United Farm Workers union to improve working conditions in the nation's fruit and vegetable fields and coined the phrase \"Sí, se puede!\" that became a widespread rallying cry, has died.",
-       "forms": []
-      },
-      {
-       "w": "rally",
-       "pos": "n.",
-       "zh": "反弹；集会",
-       "ex": "Dolores Huerta, who co-founded the United Farm Workers union to improve working conditions in the nation's fruit and vegetable fields and coined the phrase \"Sí, se puede!\" that became a widespread rallying cry, has died.",
-       "forms": [
-        "rallying"
-       ]
-      },
-      {
-       "w": "family",
-       "pos": "n.",
-       "zh": "家庭",
-       "ex": "Huerta's family said in a statement through her foundation that she died Wednesday at home.",
-       "forms": []
-      },
-      {
-       "w": "statement",
-       "pos": "n.",
-       "zh": "声明；陈述",
-       "ex": "Huerta's family said in a statement through her foundation that she died Wednesday at home.",
-       "forms": []
-      },
-      {
-       "w": "protest",
-       "pos": "n.",
-       "zh": "抗议",
-       "ex": "She kept a busy schedule well into her 90s, marching in protests and speaking in cities across the country about race, poverty, LGBTQ+ and women's rights on behalf of her Bakersfield, California-based foundation.",
-       "forms": [
-        "protests"
-       ]
-      },
-      {
-       "w": "poverty",
-       "pos": "n.",
-       "zh": "贫困",
-       "ex": "She kept a busy schedule well into her 90s, marching in protests and speaking in cities across the country about race, poverty, LGBTQ+ and women's rights on behalf of her Bakersfield, California-based foundation.",
-       "forms": []
-      },
-      {
-       "w": "history",
-       "pos": "n.",
-       "zh": "历史",
-       "ex": "Huerta's resolve cemented her place in history as one of the nation's most influential labor leaders, civil rights icons and feminist activists.",
-       "forms": []
-      },
-      {
-       "w": "leader",
-       "pos": "n.",
-       "zh": "领导人",
-       "ex": "Huerta's resolve cemented her place in history as one of the nation's most influential labor leaders, civil rights icons and feminist activists.",
-       "forms": [
-        "leaders"
-       ]
-      },
-      {
-       "w": "activist",
-       "pos": "n.",
-       "zh": "活动家；积极分子",
-       "ex": "Huerta's resolve cemented her place in history as one of the nation's most influential labor leaders, civil rights icons and feminist activists.",
-       "forms": [
-        "activists"
-       ]
-      },
-      {
-       "w": "change",
-       "pos": "n.",
-       "zh": "变化；改变",
-       "ex": "Her three-word Spanish-language slogan — which translates to \"Yes, it can be done\" — was grounded in the belief that people could affect change.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "worker",
-      "union",
-      "widespread",
-      "rally",
-      "family"
-     ],
-     "keyVocab": [
-      "worker",
-      "union",
-      "widespread",
-      "rally",
-      "family",
-      "statement",
-      "protest",
-      "poverty"
-     ]
-    },
-    {
-     "id": "2026-10-29-technology",
-     "section": "Technology",
-     "sectionZh": "科技",
-     "title": "How a lifelong Republican came to lead the data center battle in Ohio",
-     "dek": "Candidates work to ease concerns as data centers become hot-button issue for Ohioans",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/28/nx-s1-6019276/data-centers-ai-midterms-ohio",
-     "byline": "Andrea Hsu",
-     "dateLabel": "2026-10-29",
-     "words": 246,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "Candidates work to ease concerns as data centers become hot-button issue for Ohioans",
-       "zh": "随着数据中心成为俄亥俄州民众关注的热点问题，候选人努力缓解人们的担忧"
-      },
-      {
-       "en": "MT. ORAB, Ohio — The data center mystery in this rural exurb of Cincinnati has consumed Nick Owens.",
-       "zh": "俄亥俄州奥拉布山——位于辛辛那提这个乡村远郊的数据中心之谜让尼克·欧文陷入困扰。"
-      },
-      {
-       "en": "The lifelong Republican and self-described small-town attorney has spent countless hours trying to figure out what's going on with 1,000 acres of farmland and trees that property records show were sold to a data center developer in 2024 and 2025.",
-       "zh": "这位毕生都是共和党的、自称小镇律师的人花了无数小时试图弄清楚那块农田和树林出了什么问题，房产记录显示这些土地在2024年和2025年被出售给了一家数据中心开发商，总面积达1000英亩。"
-      },
-      {
-       "en": "In a few spots, the data center property runs right up against beautiful two-story homes.",
-       "zh": "在一些地方，数据中心的财产紧邻漂亮的两层住宅。"
-      },
-      {
-       "en": "\"This is the Ohio that people brag about. This is the Ohio people love. This is the small town charm,\" he says. \"Living in the rural area, but getting the benefits of a nice, lovely neighborhood.\"",
-       "zh": "“这是人们夸耀的俄亥俄州。这是人们热爱的俄亥俄州。这就是小镇的魅力，”他说。“生活在农村地区，但享受美好、宜人的社区带来的好处。”"
-      },
-      {
-       "en": "Some of the most coordinated opposition to data centers anywhere in the country grew out of what happened in secrecy in this village of 4,300 people, a short drive up a country road from Owens' home.",
-       "zh": "全国一些对数据中心最有组织的反对，起源于在这个只有4300人的村庄里秘密发生的事情，这个村庄距离欧文斯的家沿乡间小路开车不远。"
-      },
-      {
-       "en": "Nondisclosure agreements have stymied Owens' efforts to learn more. But along his quest, he crossed paths with another local attorney and a real estate agent who were equally alarmed. Together, they mobilized a network of volunteers in nearly all 88 counties in the state. They are Democrats, Republicans and Independents. They called themselves Conserve Ohio.",
-       "zh": "保密协议阻碍了欧文斯了解更多情况的努力。但在他的探索过程中，他遇到了另一位当地律师和一位同样感到震惊的房地产经纪人。他们一起动员了几乎全州88个县的志愿者网络。他们包括民主党人、共和党人和独立人士。他们称自己为“保护俄亥俄”。"
-      },
-      {
-       "en": "\"We all share the same ethos and the same passion for preserving our way of life, preserving the future of Ohio, frankly, from the hyperscale data center invasion,\" says Owens. \"It's really beautiful.\"",
-       "zh": "欧文斯说：“我们都有相同的精神和相同的热情，致力于保护我们的生活方式，保护俄亥俄州的未来，坦率地说，是免受超大规模数据中心的入侵。这真的很美。”"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "candidate",
-       "pos": "n.",
-       "zh": "候选人",
-       "ex": "Candidates work to ease concerns as data centers become hot-button issue for Ohioans MT.",
-       "forms": [
-        "candidates"
-       ]
-      },
-      {
-       "w": "data",
-       "pos": "n.",
-       "zh": "数据",
-       "ex": "Candidates work to ease concerns as data centers become hot-button issue for Ohioans MT.",
-       "forms": []
-      },
-      {
-       "w": "issue",
-       "pos": "n.",
-       "zh": "议题；问题",
-       "ex": "Candidates work to ease concerns as data centers become hot-button issue for Ohioans MT.",
-       "forms": []
-      },
-      {
-       "w": "opposition",
-       "pos": "n.",
-       "zh": "反对派；反对",
-       "ex": "\"Living in the rural area, but getting the benefits of a nice, lovely neighborhood.\" Some of the most coordinated opposition to data centers anywhere in the country grew out of what happened in secrecy in this village of 4,300 people, a short drive up a country road from Owens' home.",
-       "forms": []
-      },
-      {
-       "w": "local",
-       "pos": "adj.",
-       "zh": "当地的",
-       "ex": "But along his quest, he crossed paths with another local attorney and a real estate agent who were equally alarmed.",
-       "forms": []
-      },
-      {
-       "w": "network",
-       "pos": "n.",
-       "zh": "网络",
-       "ex": "Together, they mobilized a network of volunteers in nearly all 88 counties in the state.",
-       "forms": []
-      },
-      {
-       "w": "future",
-       "pos": "n.",
-       "zh": "未来",
-       "ex": "\"We all share the same ethos and the same passion for preserving our way of life, preserving the future of Ohio, frankly, from the hyperscale data center invasion,\" says Owens.",
-       "forms": []
-      },
-      {
-       "w": "invasion",
-       "pos": "n.",
-       "zh": "入侵；侵略",
-       "ex": "\"We all share the same ethos and the same passion for preserving our way of life, preserving the future of Ohio, frankly, from the hyperscale data center invasion,\" says Owens.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "candidate",
-      "data",
-      "issue",
-      "opposition",
-      "local"
-     ],
-     "keyVocab": [
-      "candidate",
-      "data",
-      "issue",
-      "opposition",
-      "local",
-      "network",
-      "future",
-      "invasion"
-     ]
-    },
-    {
-     "id": "2026-10-29-science",
-     "section": "Science",
-     "sectionZh": "科学",
-     "title": "Trump administration wants to remove regulations on a super planet-heating gas",
-     "dek": "The Trump administration is proposing to dramatically scale back a Biden-era rule that aimed to cut methane emissions from the oil and gas industry at drilling sites nationwide.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/28/nx-s1-5995910/trump-wants-remove-regulations-planet-heating-methane",
-     "byline": "Julia Simon",
-     "dateLabel": "2026-10-29",
-     "words": 322,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "The Trump administration is proposing to dramatically scale back a Biden-era rule that aimed to cut methane emissions from the oil and gas industry at drilling sites nationwide.",
-       "zh": "特朗普政府正在提议大幅缩减拜登时代的一项规则，该规则旨在减少全国范围内钻探现场石油和天然气行业的甲烷排放。"
-      },
-      {
-       "en": "Methane is a major contributor to climate change and is estimated to be 80 times more planet-warming than carbon dioxide in a twenty-year time frame. In 2023, the Biden administration finalized rules that were meant to rein in methane emissions from the oil and gas sector.",
-       "zh": "甲烷是导致气候变化的主要因素，据估计，在二十年的时间范围内，其对地球变暖的影响是二氧化碳的 80 倍。2023 年，拜登政府最终敲定了旨在限制油气部门甲烷排放的规定。"
-      },
-      {
-       "en": "President Trump made the announcement while campaigning in Lubbock, Texas, Tuesday, saying his administration's revision, under the Clean Air Act, would save the industry billions in production costs and spur more domestic drilling. The proposal comes as Republicans face a backlash from voters over high gas prices heading into the midterms.",
-       "zh": "特朗普总统在周二于德克萨斯州拉伯克的竞选活动中宣布，他的政府根据《清洁空气法》进行的修订将为行业节省数十亿美元的生产成本，并刺激更多的国内钻探。这一提议正值共和党人在中期选举前因高油价而面临选民的强烈反弹。"
-      },
-      {
-       "en": "\"Behind every barrel of oil and every cubic foot of natural gas produced in the U.S. are millions of workers, businesses, and the heartbeat of this nation's economy. The Biden EPA destructively targeted all this,\" EPA Administrator Lee Zeldin said in a press release.",
-       "zh": "美国环保局局长李·泽尔丁在一份新闻稿中表示：“在美国生产的每一桶石油和每一立方英尺的天然气背后，都有数百万工人、企业以及这个国家经济的脉搏。拜登政府的环保局以破坏性的方式针对了这一切。”"
-      },
-      {
-       "en": "The oil and gas industry, which vigorously opposed the 2023 rules, said EPA's proposed rollback will address some of the challenges companies have faced in trying to comply with the regulations.",
-       "zh": "积极反对2023年规则的石油和天然气行业表示，环保局提议的撤销将解决公司在尝试遵守这些法规时面临的部分挑战。"
-      },
-      {
-       "en": "\"We look forward to working with the Trump administration on a more workable approach that supports American energy production, provides greater regulatory certainty and advances continued emissions reductions,\" Dustin Meyer, vice president at the American Petroleum Institute, a trade organization for the U.S. oil and gas industry, said in a statement.",
-       "zh": "美国石油协会（一家美国石油和天然气行业的贸易组织）副总裁达斯汀·迈耶在一份声明中表示：“我们期待与特朗普政府合作，采取一种更可行的方法，支持美国能源生产，提供更大的监管确定性，并推进持续的减排。”"
-      },
-      {
-       "en": "But environmentalists say this may end up actually costing the industry more.",
-       "zh": "但环保人士表示，这实际上可能会让行业花费更多。"
-      },
-      {
-       "en": "\"Methane is natural gas, or natural gas is methane,\" says Jon Goldstein, associate vice president at the Environmental Defense Fund. \"And so if you're capturing more natural gas, you're not allowing it to leak out, you're not allowing it to be flared, you have more product that you can sell. And so that offsets a lot of the costs.\"",
-       "zh": "环境保护基金副总裁乔恩·戈德斯坦说：“甲烷就是天然气，或者说天然气就是甲烷。因此，如果你捕获了更多的天然气，你就不会让它泄漏，也不会让它被燃烧掉，你将有更多可以出售的产品。这就抵消了很多成本。”"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "administration",
-       "pos": "n.",
-       "zh": "政府；行政",
-       "ex": "The Trump administration is proposing to dramatically scale back a Biden-era rule that aimed to cut methane emissions from the oil and gas industry at drilling sites nationwide.",
-       "forms": []
-      },
-      {
-       "w": "propose",
-       "pos": "v.",
-       "zh": "提议；提出",
-       "ex": "The Trump administration is proposing to dramatically scale back a Biden-era rule that aimed to cut methane emissions from the oil and gas industry at drilling sites nationwide.",
-       "forms": [
-        "proposed",
-        "proposing"
-       ]
-      },
-      {
-       "w": "methane",
-       "pos": "n.",
-       "zh": "甲烷",
-       "ex": "The Trump administration is proposing to dramatically scale back a Biden-era rule that aimed to cut methane emissions from the oil and gas industry at drilling sites nationwide.",
-       "forms": []
-      },
-      {
-       "w": "emission",
-       "pos": "n.",
-       "zh": "排放；排放物",
-       "ex": "The Trump administration is proposing to dramatically scale back a Biden-era rule that aimed to cut methane emissions from the oil and gas industry at drilling sites nationwide.",
-       "forms": [
-        "emissions"
-       ]
-      },
-      {
-       "w": "oil",
-       "pos": "n.",
-       "zh": "石油",
-       "ex": "The Trump administration is proposing to dramatically scale back a Biden-era rule that aimed to cut methane emissions from the oil and gas industry at drilling sites nationwide.",
-       "forms": []
-      },
-      {
-       "w": "gas",
-       "pos": "n.",
-       "zh": "天然气；气体",
-       "ex": "The Trump administration is proposing to dramatically scale back a Biden-era rule that aimed to cut methane emissions from the oil and gas industry at drilling sites nationwide.",
-       "forms": []
-      },
-      {
-       "w": "industry",
-       "pos": "n.",
-       "zh": "行业；工业",
-       "ex": "The Trump administration is proposing to dramatically scale back a Biden-era rule that aimed to cut methane emissions from the oil and gas industry at drilling sites nationwide.",
-       "forms": []
-      },
-      {
-       "w": "climate",
-       "pos": "n.",
-       "zh": "气候",
-       "ex": "Methane is a major contributor to climate change and is estimated to be 80 times more planet-warming than carbon dioxide in a twenty-year time frame.",
-       "forms": []
-      },
-      {
-       "w": "change",
-       "pos": "n.",
-       "zh": "变化；改变",
-       "ex": "Methane is a major contributor to climate change and is estimated to be 80 times more planet-warming than carbon dioxide in a twenty-year time frame.",
-       "forms": []
-      },
-      {
-       "w": "estimate",
-       "pos": "n.",
-       "zh": "估计；估算",
-       "ex": "Methane is a major contributor to climate change and is estimated to be 80 times more planet-warming than carbon dioxide in a twenty-year time frame.",
-       "forms": [
-        "estimated"
-       ]
-      },
-      {
-       "w": "carbon",
-       "pos": "n.",
-       "zh": "碳",
-       "ex": "Methane is a major contributor to climate change and is estimated to be 80 times more planet-warming than carbon dioxide in a twenty-year time frame.",
-       "forms": []
-      },
-      {
-       "w": "president",
-       "pos": "n.",
-       "zh": "总统；总裁",
-       "ex": "President Trump made the announcement while campaigning in Lubbock, Texas, Tuesday, saying his administration's revision, under the Clean Air Act, would save the industry billions in production costs and spur more domestic drilling.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "administration",
-      "propose",
-      "methane",
-      "emission",
-      "oil"
-     ],
-     "keyVocab": [
-      "administration",
-      "propose",
-      "methane",
-      "emission",
-      "oil",
-      "gas",
-      "industry",
-      "climate"
-     ]
-    },
-    {
-     "id": "2026-10-29-culture",
-     "section": "Culture",
-     "sectionZh": "文化",
-     "title": "Despite her own hard times, a Maryland woman became a leading data center activist",
-     "dek": "Despite her hard financial times, a Maryland woman became a leading local data center activist — an example of the way the issue has prompted people to get involved.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/28/nx-s1-6000625/despite-her-own-hard-times-a-maryland-woman-became-a-leading-data-center-activist",
-     "byline": "",
-     "dateLabel": "2026-10-29",
-     "words": 411,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "Despite her hard financial times, a Maryland woman became a leading local data center activist — an example of the way the issue has prompted people to get involved.",
-       "zh": "尽管她经济困难，一位马里兰州的女性仍成为当地数据中心的主要活动家——这是这一问题促使人们参与的一个例子。"
-      },
-      {
-       "en": "The backlash against data centers has inspired newcomers to get involved in civic activism, like one woman in Prince George's County, Maryland, who got more involved despite facing a lot of challenges in her own life. Jenny Abamu of member station WAMU in Washington, D.C., reports.",
-       "zh": "针对数据中心的反对引发了新手参与公民行动的热情，比如马里兰州乔治王子县的一位女性，尽管她自身生活中面临许多挑战，但仍更加积极参与其中。华盛顿特区会员电台 WAMU 的珍妮·阿巴穆报道。"
-      },
-      {
-       "en": "JENNY ABAMU, BYLINE: The overgrown grass and weeds seem to stretch into the horizon, nearly 90 acres of empty land in Landover, Maryland, in a predominantly Black community. It had been Landover Mall, which closed in 2002. Then, in 2024, the same developer that built the mall won approval from county planners for a $5 billion data center campus. Taylor Frazier McCollum, who lived less than a mile away, described the moment she learned about the development.",
-       "zh": "珍妮·阿巴姆（JENNY ABAMU），署名：茂密的草和杂草似乎延伸到地平线，在马里兰州兰多弗的约90英亩空地上，这片区域主要是黑人社区。这原本是兰多弗购物中心，但在2002年关闭。然后，在2024年，建设该商场的同一开发商获得了县规划部门批准，建造一个价值50亿美元的数据中心园区。住在不到一英里外的泰勒·弗雷泽·麦考勒姆（Taylor Frazier McCollum）描述了她得知该开发项目时的那一刻。"
-      },
-      {
-       "en": "TAYLOR FRAZIER MCCOLLUM: I was like, oh, hell, no. Why would you want to bring water-polluting, diesel-generating, like, data centers right down the street from where people live, work, play? Like, it just - it didn't make sense to me.",
-       "zh": "泰勒·弗雷泽·麦考勒姆：我当时想，哦，绝不。你为什么要把污染水源、产生柴油排放的数据中心建在离人们生活、工作、娱乐的地方这么近呢？这对我来说根本讲不通。"
-      },
-      {
-       "en": "ABAMU: Frazier McCollum isn't the typical land use protester, the not in my backyard homeowner. She doesn't own a home. In fact, in 2024, as a single mother, her and her young daughter were evicted from their rental. She worked at a waxing center that reduced its wages, and she fell behind on her rent. Since then, they've moved around.",
-       "zh": "ABAMU：弗雷泽·麦考勒姆不是典型的土地使用抗议者，也不是那种‘不要在我家后院建’的房主。她没有房子。事实上，在2024年，作为单亲母亲，她和年幼的女儿从租住的房子中被驱逐。她在一家脱毛中心工作，该中心降低了工资，她因此拖欠了房租。从那以后，她们一直在搬来搬去。"
-      },
-      {
-       "en": "FRAZIER MCCOLLUM: It was difficult. It was just hard for me because I created this ideal life, paying for us to live in this apartment and have our own space. And then to have it taken away, it felt like something that wasn't ever going to end.",
-       "zh": "弗雷泽·麦考勒姆：这很困难。对我来说很难，因为我创造了这种理想的生活，支付我们的公寓住房并拥有我们自己的空间。然后当这一切被剥夺时，感觉像是永远不会结束的事情。"
-      },
-      {
-       "en": "ABAMU: They lived in her grandfather's home when she learned about the proposed project. She created a petition, gaining over 25,000 signatures, leading to widely attended protests and culminating with moratoriums on data centers throughout the county, blocking the $5 billion project. She went to county meetings, testified at the state capitol and endorsed political candidates. Along the way, she found herself an unusual coalition, socialists, environmentalists, neighbors angry about their electricity bills. Staci Hartwell, a long-term environmental activist, said she struggled to get traction on the data centers until Frazier McCollum came along.",
-       "zh": "ABAMU：她在得知拟议项目时住在她祖父的家里。她发起了一份请愿书，收集了超过25,000个签名，导致广泛参与的抗议活动，并最终促使整个县对数据中心实施了暂停，阻止了50亿美元的项目。她参加了县议会会议，在州议会作证，并支持政治候选人。在此过程中，她找到了一个不同寻常的联盟，包括社会主义者、环保主义者以及对电费感到愤怒的邻居。长期环保活动家Staci Hartwell表示，在Frazier McCollum出现之前，她在数据中心问题上一直难以取得进展。"
-      },
-      {
-       "en": "STACI HARTWELL: This is something that was happening in her neighborhood. And it was really like her awakening.",
-       "zh": "斯塔西·哈特韦尔：这是发生在她社区的事情。这确实像是她的觉醒。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "financial",
-       "pos": "adj.",
-       "zh": "金融的；财务的",
-       "ex": "Despite her hard financial times, a Maryland woman became a leading local data center activist — an example of the way the issue has prompted people to get involved.",
-       "forms": []
-      },
-      {
-       "w": "local",
-       "pos": "adj.",
-       "zh": "当地的",
-       "ex": "Despite her hard financial times, a Maryland woman became a leading local data center activist — an example of the way the issue has prompted people to get involved.",
-       "forms": []
-      },
-      {
-       "w": "data",
-       "pos": "n.",
-       "zh": "数据",
-       "ex": "Despite her hard financial times, a Maryland woman became a leading local data center activist — an example of the way the issue has prompted people to get involved.",
-       "forms": []
-      },
-      {
-       "w": "activist",
-       "pos": "n.",
-       "zh": "活动家；积极分子",
-       "ex": "Despite her hard financial times, a Maryland woman became a leading local data center activist — an example of the way the issue has prompted people to get involved.",
-       "forms": []
-      },
-      {
-       "w": "issue",
-       "pos": "n.",
-       "zh": "议题；问题",
-       "ex": "Despite her hard financial times, a Maryland woman became a leading local data center activist — an example of the way the issue has prompted people to get involved.",
-       "forms": []
-      },
-      {
-       "w": "challenge",
-       "pos": "n.",
-       "zh": "挑战",
-       "ex": "The backlash against data centers has inspired newcomers to get involved in civic activism, like one woman in Prince George's County, Maryland, who got more involved despite facing a lot of challenges in her own life.",
-       "forms": [
-        "challenges"
-       ]
-      },
-      {
-       "w": "report",
-       "pos": "n.",
-       "zh": "报告；报道",
-       "ex": "Jenny Abamu of member station WAMU in Washington, D.C., reports.",
-       "forms": [
-        "reports"
-       ]
-      },
-      {
-       "w": "land",
-       "pos": "n.",
-       "zh": "土地；陆地",
-       "ex": "JENNY ABAMU, BYLINE: The overgrown grass and weeds seem to stretch into the horizon, nearly 90 acres of empty land in Landover, Maryland, in a predominantly Black community.",
-       "forms": []
-      },
-      {
-       "w": "community",
-       "pos": "n.",
-       "zh": "社区；群体",
-       "ex": "JENNY ABAMU, BYLINE: The overgrown grass and weeds seem to stretch into the horizon, nearly 90 acres of empty land in Landover, Maryland, in a predominantly Black community.",
-       "forms": []
-      },
-      {
-       "w": "billion",
-       "pos": "n.",
-       "zh": "十亿",
-       "ex": "Then, in 2024, the same developer that built the mall won approval from county planners for a $5 billion data center campus.",
-       "forms": []
-      },
-      {
-       "w": "describe",
-       "pos": "v.",
-       "zh": "描述",
-       "ex": "Taylor Frazier McCollum, who lived less than a mile away, described the moment she learned about the development.",
-       "forms": [
-        "described"
-       ]
-      },
-      {
-       "w": "young",
-       "pos": "adj.",
-       "zh": "年轻的",
-       "ex": "In fact, in 2024, as a single mother, her and her young daughter were evicted from their rental.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "financial",
-      "local",
-      "data",
-      "activist",
-      "issue"
-     ],
-     "keyVocab": [
-      "financial",
-      "local",
-      "data",
-      "activist",
-      "issue",
-      "challenge",
-      "report",
-      "land"
      ]
     }
    ]
