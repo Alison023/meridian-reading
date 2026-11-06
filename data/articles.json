@@ -1,6 +1,807 @@
 {
- "updated": "2026-11-05T07:07:58.998779+00:00",
+ "updated": "2026-11-06T07:07:11.245414+00:00",
  "days": [
+  {
+   "date": "2026-11-06",
+   "articles": [
+    {
+     "id": "2026-11-06-world",
+     "section": "World",
+     "sectionZh": "国际",
+     "title": "Paraguay's president is impeached minutes after resigning following a bank collapse",
+     "dek": "ASUNCIÓN, Paraguay — Paraguayan President Santiago Peña announced his resignation Thursday after the collapse of a major digital bank tied to his government triggered widespread protests, froze…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse",
+     "byline": "The Associated Press",
+     "dateLabel": "2026-11-06",
+     "words": 325,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "ASUNCIÓN, Paraguay — Paraguayan President Santiago Peña announced his resignation Thursday after the collapse of a major digital bank tied to his government triggered widespread protests, froze millions of people's savings and cost him the support of his own party.",
+       "zh": "巴拉圭亚松森——巴拉圭总统圣地亚哥·佩尼亚在周四宣布辞职，此前与他政府有关的一家大型数字银行倒闭，引发了大规模抗议，冻结了数百万人的储蓄，并使他失去了自己党派的支持。"
+      },
+      {
+       "en": "The crisis at Ueno Bank turned Peña's long-ruling Colorado Party against him, a stunning reversal for the former International Monetary Fund economist who had enjoyed the backing of the country's most powerful politicians and was welcomed in Washington just weeks ago as a key ally of the Trump administration.",
+       "zh": "上野银行的危机使佩尼亚长期执政的科罗拉多党转而反对他，这对这位曾享有国内最有权势政治家支持，并在几周前被华盛顿欢迎为特朗普政府关键盟友的前国际货币基金组织经济学家来说，是一次令人震惊的逆转。"
+      },
+      {
+       "en": "Minutes after Peña's announcement, the lower house voted 78-0 to impeach him, sending the charges to the Senate. Congressional leaders were expected to accept his resignation later Thursday, clearing the way for Vice President Pedro Alliana to be sworn in without waiting for a Senate trial.",
+       "zh": "在佩尼亚宣布后几分钟，下议院以78票对0票投票弹劾他，并将指控送交参议院。预计国会领导人将在周四晚些时候接受他的辞职，为副总统佩德罗·阿利亚纳在无需等待参议院审判的情况下宣誓就职铺平道路。"
+      },
+      {
+       "en": "Opposition senators were still demanding a trial, arguing that allowing Peña to resign would preserve his eligibility to become a senator for life, with legal protections that could prevent his prosecution.",
+       "zh": "反对派参议员仍然要求审判，他们认为允许佩尼亚辞职将保留他成为终身参议员的资格，并享有可能阻止他被起诉的法律保护。"
+      },
+      {
+       "en": "As lawmakers debated his impeachment, Peña said in a video posted to X that he was stepping down in the interest of \"the stability of our country, social peace and the need to preserve our democratic institutions.\"",
+       "zh": "当立法者讨论对他进行弹劾时，佩尼亚在发布到 X 的视频中表示，他是为了“国家的稳定、社会和平以及维护我们民主制度的需要”而辞职。"
+      },
+      {
+       "en": "Even Peña's mentor, Colorado Party leader and former President Horacio Cartes, backed impeachment, saying the party would not side with \"the plundering of public and private funds and pensioners' money.\" The United States Treasury sanctioned Cartes in 2023 over bribery allegations that the Trump administration lifted last year.",
+       "zh": "甚至佩尼亚的导师、科罗拉多党领导人及前总统霍拉西奥·卡尔特斯也支持弹劾，他表示该党不会支持“对公共和私人资金以及养老金资金的掠夺”。由于贿赂指控，美国财政部在2023年对卡尔特斯实施了制裁，而特朗普政府去年取消了这些制裁。"
+      },
+      {
+       "en": "Peña, who until last year held a stake in a company linked to Ueno, expressed contrition. But he stopped short of accepting responsibility for the turmoil, which has left millions of depositors, retirees and workers scrambling to recoup their frozen savings and unpaid wages.",
+       "zh": "佩尼亚直到去年还持有与上野有关的公司股份，他表示了悔意。但他没有完全承担造成混乱的责任，这场混乱让数百万储户、退休人员和工人争相追回被冻结的储蓄和未支付的工资。"
+      },
+      {
+       "en": "\"I want to apologize to the people if I have failed them at any point,\" he said. \"It was never my intention to betray the trust they placed in me.\"",
+       "zh": "“如果我在任何时候辜负了人民，我想向他们道歉，”他说。“我从未打算背叛他们对我的信任。”"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "ASUNCIÓN, Paraguay — Paraguayan President Santiago Peña announced his resignation Thursday after the collapse of a major digital bank tied to his government triggered widespread protests, froze millions of people's savings and cost him the support of his own party.",
+       "forms": []
+      },
+      {
+       "w": "announce",
+       "pos": "v.",
+       "zh": "宣布；公布",
+       "ex": "ASUNCIÓN, Paraguay — Paraguayan President Santiago Peña announced his resignation Thursday after the collapse of a major digital bank tied to his government triggered widespread protests, froze millions of people's savings and cost him the support of his own party.",
+       "forms": [
+        "announced"
+       ]
+      },
+      {
+       "w": "resignation",
+       "pos": "n.",
+       "zh": "辞职",
+       "ex": "ASUNCIÓN, Paraguay — Paraguayan President Santiago Peña announced his resignation Thursday after the collapse of a major digital bank tied to his government triggered widespread protests, froze millions of people's savings and cost him the support of his own party.",
+       "forms": []
+      },
+      {
+       "w": "collapse",
+       "pos": "v.",
+       "zh": "崩溃；倒塌",
+       "ex": "ASUNCIÓN, Paraguay — Paraguayan President Santiago Peña announced his resignation Thursday after the collapse of a major digital bank tied to his government triggered widespread protests, froze millions of people's savings and cost him the support of his own party.",
+       "forms": []
+      },
+      {
+       "w": "digital",
+       "pos": "adj.",
+       "zh": "数字的",
+       "ex": "ASUNCIÓN, Paraguay — Paraguayan President Santiago Peña announced his resignation Thursday after the collapse of a major digital bank tied to his government triggered widespread protests, froze millions of people's savings and cost him the support of his own party.",
+       "forms": []
+      },
+      {
+       "w": "trigger",
+       "pos": "v.",
+       "zh": "引发；触发",
+       "ex": "ASUNCIÓN, Paraguay — Paraguayan President Santiago Peña announced his resignation Thursday after the collapse of a major digital bank tied to his government triggered widespread protests, froze millions of people's savings and cost him the support of his own party.",
+       "forms": [
+        "triggered"
+       ]
+      },
+      {
+       "w": "widespread",
+       "pos": "adj.",
+       "zh": "广泛的；普遍的",
+       "ex": "ASUNCIÓN, Paraguay — Paraguayan President Santiago Peña announced his resignation Thursday after the collapse of a major digital bank tied to his government triggered widespread protests, froze millions of people's savings and cost him the support of his own party.",
+       "forms": []
+      },
+      {
+       "w": "protest",
+       "pos": "n.",
+       "zh": "抗议",
+       "ex": "ASUNCIÓN, Paraguay — Paraguayan President Santiago Peña announced his resignation Thursday after the collapse of a major digital bank tied to his government triggered widespread protests, froze millions of people's savings and cost him the support of his own party.",
+       "forms": [
+        "protests"
+       ]
+      },
+      {
+       "w": "million",
+       "pos": "n.",
+       "zh": "百万",
+       "ex": "ASUNCIÓN, Paraguay — Paraguayan President Santiago Peña announced his resignation Thursday after the collapse of a major digital bank tied to his government triggered widespread protests, froze millions of people's savings and cost him the support of his own party.",
+       "forms": [
+        "millions"
+       ]
+      },
+      {
+       "w": "cost",
+       "pos": "n.",
+       "zh": "成本；代价",
+       "ex": "ASUNCIÓN, Paraguay — Paraguayan President Santiago Peña announced his resignation Thursday after the collapse of a major digital bank tied to his government triggered widespread protests, froze millions of people's savings and cost him the support of his own party.",
+       "forms": []
+      },
+      {
+       "w": "support",
+       "pos": "v.",
+       "zh": "支持",
+       "ex": "ASUNCIÓN, Paraguay — Paraguayan President Santiago Peña announced his resignation Thursday after the collapse of a major digital bank tied to his government triggered widespread protests, froze millions of people's savings and cost him the support of his own party.",
+       "forms": []
+      },
+      {
+       "w": "party",
+       "pos": "n.",
+       "zh": "政党；一方",
+       "ex": "ASUNCIÓN, Paraguay — Paraguayan President Santiago Peña announced his resignation Thursday after the collapse of a major digital bank tied to his government triggered widespread protests, froze millions of people's savings and cost him the support of his own party.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "president",
+      "announce",
+      "resignation",
+      "collapse",
+      "digital"
+     ],
+     "keyVocab": [
+      "president",
+      "announce",
+      "resignation",
+      "collapse",
+      "digital",
+      "trigger",
+      "widespread",
+      "protest"
+     ]
+    },
+    {
+     "id": "2026-11-06-business",
+     "section": "Business",
+     "sectionZh": "商业 · 财经",
+     "title": "Fears of an AI crackdown after midterms spark $2 trillion rout in tech stocks",
+     "dek": "Two days after Democrats won overwhelmingly in the national midterm elections — and in state races across the country — investors started to come to terms with the potential consequences.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections",
+     "byline": "Rafael Nam",
+     "dateLabel": "2026-11-06",
+     "words": 320,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "Two days after Democrats won overwhelmingly in the national midterm elections — and in state races across the country — investors started to come to terms with the potential consequences.",
+       "zh": "在全国中期选举以及全国各州的选举中，民主党大获全胜两天后，投资者开始意识到潜在的后果。"
+      },
+      {
+       "en": "Fears that an incoming Democratic Congress would crack down on AI sent the tech-heavy Nasdaq down more than 5% and wiped out more than $2 trillion in market value. The Dow Jones and S&P also sank.",
+       "zh": "对即将到来的民主党主导的国会将打压人工智能的担忧，使以科技股为主的纳斯达克下跌超过5%，市值蒸发超过2万亿美元。道琼斯和标准普尔指数也下跌了。"
+      },
+      {
+       "en": "The losses were a stark reversal from Wednesday, when investors had initially sent shares higher across the board, relieved that the midterms did not end with the fate of Congress undecided.",
+       "zh": "这些损失与周三形成了鲜明对比，当时投资者最初将股票普遍推高，因为他们松了一口气，认为中期选举没有以国会命运未定而结束。"
+      },
+      {
+       "en": "The sobering-up seen across markets on Thursday reflected investors' concern about a big signal sent by voters: They revolted against AI data centers, which many people worry will gobble up water and energy resources. Those voters supported Democrats who have vowed to push back against the proliferation of these projects.",
+       "zh": "周四市场的冷静反应反映了投资者对选民发出的重大信号的担忧：选民反对人工智能数据中心，许多人担心这些数据中心会消耗大量水和能源资源。这些选民支持那些承诺抵制这些项目扩张的民主党人。"
+      },
+      {
+       "en": "But many AI companies — including Meta and Alphabet, the parent company of Google — need to keep building out these data centers to continue developing the technology.",
+       "zh": "但是许多人工智能公司——包括Meta和谷歌的母公司Alphabet——需要继续建设这些数据中心，以继续开发这项技术。"
+      },
+      {
+       "en": "The Nasdaq's decline comes after what has already been a rough year of technology shares on Wall Street, with investors starting to question whether the massive investments companies have plowed into AI will pay off anytime soon.",
+       "zh": "纳斯达克的下跌是在科技股已经经历了艰难的一年的背景下发生的，投资者开始质疑公司投向人工智能的大量投资是否会在短期内带来回报。"
+      },
+      {
+       "en": "\"There is some concern regarding AI regulation, and fears that there could be far more regulations coming to AI technology, as well as a pushback on the buildout of data centers across the country,\" says David Busch, chief investment officer of Trajan Wealth.",
+       "zh": "Trajan Wealth 的首席投资官 David Busch 表示：“人们对人工智能的监管存在一些担忧，并且担心可能会出台更多针对人工智能技术的监管，同时全国范围内数据中心的建设也可能受到阻力。”"
+      },
+      {
+       "en": "AI-related or AI-dependent stocks of all kinds were among the biggest decliners on Thursday, with Tesla and SpaceX — both controlled by billionaire Elon Musk — falling particularly sharply. Musk spent hundreds of millions of dollars in an unsuccessful attempt to elect more Republicans, and investors fear he and his companies could also come under Democratic scrutiny when the new Congress is seated in January.",
+       "zh": "各种与人工智能相关或依赖人工智能的股票在周四是跌幅最大的，其中特斯拉和太空探索公司——两者都由亿万富翁埃隆·马斯克控制——跌幅尤为明显。马斯克花费了数亿美元试图让更多共和党人当选，但未能成功，投资者担心他和他的公司在新一届国会于一月就职后，也可能受到民主党的审查。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "national",
+       "pos": "adj.",
+       "zh": "国家的；全国的",
+       "ex": "Two days after Democrats won overwhelmingly in the national midterm elections — and in state races across the country — investors started to come to terms with the potential consequences.",
+       "forms": []
+      },
+      {
+       "w": "election",
+       "pos": "n.",
+       "zh": "选举",
+       "ex": "Two days after Democrats won overwhelmingly in the national midterm elections — and in state races across the country — investors started to come to terms with the potential consequences.",
+       "forms": [
+        "elections"
+       ]
+      },
+      {
+       "w": "investor",
+       "pos": "n.",
+       "zh": "投资者",
+       "ex": "Two days after Democrats won overwhelmingly in the national midterm elections — and in state races across the country — investors started to come to terms with the potential consequences.",
+       "forms": [
+        "investors"
+       ]
+      },
+      {
+       "w": "income",
+       "pos": "n.",
+       "zh": "收入",
+       "ex": "Fears that an incoming Democratic Congress would crack down on AI sent the tech-heavy Nasdaq down more than 5% and wiped out more than $2 trillion in market value.",
+       "forms": [
+        "incoming"
+       ]
+      },
+      {
+       "w": "congress",
+       "pos": "n.",
+       "zh": "国会",
+       "ex": "Fears that an incoming Democratic Congress would crack down on AI sent the tech-heavy Nasdaq down more than 5% and wiped out more than $2 trillion in market value.",
+       "forms": []
+      },
+      {
+       "w": "market",
+       "pos": "n.",
+       "zh": "市场",
+       "ex": "Fears that an incoming Democratic Congress would crack down on AI sent the tech-heavy Nasdaq down more than 5% and wiped out more than $2 trillion in market value.",
+       "forms": [
+        "markets"
+       ]
+      },
+      {
+       "w": "data",
+       "pos": "n.",
+       "zh": "数据",
+       "ex": "The sobering-up seen across markets on Thursday reflected investors' concern about a big signal sent by voters: They revolted against AI data centers, which many people worry will gobble up water and energy resources.",
+       "forms": []
+      },
+      {
+       "w": "water",
+       "pos": "n.",
+       "zh": "水",
+       "ex": "The sobering-up seen across markets on Thursday reflected investors' concern about a big signal sent by voters: They revolted against AI data centers, which many people worry will gobble up water and energy resources.",
+       "forms": []
+      },
+      {
+       "w": "energy",
+       "pos": "n.",
+       "zh": "能源；精力",
+       "ex": "The sobering-up seen across markets on Thursday reflected investors' concern about a big signal sent by voters: They revolted against AI data centers, which many people worry will gobble up water and energy resources.",
+       "forms": []
+      },
+      {
+       "w": "support",
+       "pos": "v.",
+       "zh": "支持",
+       "ex": "Those voters supported Democrats who have vowed to push back against the proliferation of these projects.",
+       "forms": [
+        "supported"
+       ]
+      },
+      {
+       "w": "vow",
+       "pos": "v.",
+       "zh": "发誓；郑重承诺",
+       "ex": "Those voters supported Democrats who have vowed to push back against the proliferation of these projects.",
+       "forms": [
+        "vowed"
+       ]
+      },
+      {
+       "w": "technology",
+       "pos": "n.",
+       "zh": "技术；科技",
+       "ex": "But many AI companies — including Meta and Alphabet, the parent company of Google — need to keep building out these data centers to continue developing the technology.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "national",
+      "election",
+      "investor",
+      "income",
+      "congress"
+     ],
+     "keyVocab": [
+      "national",
+      "election",
+      "investor",
+      "income",
+      "congress",
+      "market",
+      "data",
+      "water"
+     ]
+    },
+    {
+     "id": "2026-11-06-technology",
+     "section": "Technology",
+     "sectionZh": "科技",
+     "title": "Review: The Legend of Zelda: Ocarina of Time remake is superb, streamlined and safe",
+     "dek": "With its tale of an idyllic world despoiled by the lust for power, The Legend of Zelda: Ocarina of Time feels as relevant today as it did in 1998. Nintendo's new remake, out Thursday on the Switch…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/04/nx-s1-6026597/review-legend-of-zelda-ocarina-of-time-remake-switch-2",
+     "byline": "James Perkins Mastromarino",
+     "dateLabel": "2026-11-06",
+     "words": 509,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "With its tale of an idyllic world despoiled by the lust for power, The Legend of Zelda: Ocarina of Time feels as relevant today as it did in 1998. Nintendo's new remake, out Thursday on the Switch 2, enshrines its place in the gaming canon for generations to come. But despite its stupendous production values and painstaking details, the game left me feeling oddly bereft.",
+       "zh": "凭借关于一个因权力欲望而被破坏的田园世界的故事，《塞尔达传说：时之笛》在今天仍然和1998年一样具有现实意义。任天堂的新重制版将于周四在Switch 2上发布，确保其在游戏经典中的地位能够传承几代人。但尽管其制作价值惊人，细节精雕细琢，这款游戏仍让我感到莫名的空虚。"
+      },
+      {
+       "en": "Perhaps I should have expected as much. Ocarina of Time weaponizes nostalgia even within its narrative, as the protagonist Link ventures to save his post-apocalyptic world as an adult after first working through it as a kid. You'll uncover old characters enduring new catastrophes. You'll try to rescue everyone you meet. You'll strive to bring things back to how they were before — no, better than they were before.",
+       "zh": "也许我早该料到如此。《时之笛》即使在其叙事中也利用了怀旧感，当主角林克在孩童时期经历过这个世界后，再作为成年人去拯救他那后末日的世界。你会遇到老角色经历新的灾难。你会尝试拯救你遇到的每一个人。你会努力让一切恢复到以前的样子——不，恢复得比以前更好。"
+      },
+      {
+       "en": "Seven years stretch between Link's childhood and adult adventures. 28 years yawn between the remake and the original's release. Both in and out of the game, Ocarina of Time makes us yearn for an idealized past.",
+       "zh": "林克的童年与成年冒险之间相隔七年。《时之笛》重制版与原版发布之间相隔二十八年。无论在游戏内外，《时之笛》都让我们渴望一个理想化的过去。"
+      },
+      {
+       "en": "Decent remakes evoke how you remember a game rather than re-create dated controls and chunky graphics. In myriad small ways, Nintendo has brought Ocarina of Time up to contemporary standards while (mostly) preserving its soul.",
+       "zh": "体面的重制版唤起你对游戏的记忆，而不是重新创建过时的操作和粗糙的画面。在无数细微之处，任天堂已经将《时之笛》提升到现代标准，同时（大部分）保留了其灵魂。"
+      },
+      {
+       "en": "I miss the thoughtfully-composed camera angles from the original, but quickly got used to the over-the-shoulder camera the remake employs (though I was irked that it abandoned the top-down view when you sneak into Hyrule Castle). The new jump and sprint buttons made navigating the world feel more natural. Combat's smoother too, though it's still not easy to switch between targeted enemies (unlike modern third-person games like Elden Ring, where you can toggle between foes by simply flicking the right stick).",
+       "zh": "我怀念原作中精心设计的摄像机角度，但很快就习惯了重制版使用的肩膀视角摄像机（尽管当我潜入海利亚城时，它放弃了俯视视角让我感到恼火）。新的跳跃和冲刺按钮让探索世界的感觉更自然。战斗也更流畅了，尽管在切换目标敌人时仍然不容易（不像现代第三人称游戏《艾尔登法环》，你只需轻弹右摇杆就能在敌人之间切换）。"
+      },
+      {
+       "en": "You can, thankfully, swap between items in a quick menu — the same system introduced to the series in 2023's Tears of the Kingdom and continued in 2024's Echoes of Wisdom. It's still not as fast as I'd wish (I'd have preferred a customizable wheel), but I vastly prefer it to constantly pausing to access my equipment. It made it easy to change my strategy on the fly. I'd often cast Naryu's Love and deploy Bombchus, for example, where before I'd mostly stick to the Longshot and Bow.",
+       "zh": "值得庆幸的是，你可以在快速菜单中切换物品——这是在2023年的《王国之泪》中首次引入该系列的系统，并在2024年的《智慧回声》中继续使用。它仍然没有我期望的那么快（我更希望有一个可自定义的轮盘），但我仍远远更喜欢它，而不是不断暂停来访问我的装备。这让即时改变策略变得很容易。例如，我经常会施放纳吕之爱并布置炸弹鼠，而以前我大多只使用长钩和弓。"
+      },
+      {
+       "en": "If you get stuck, a new \"Threads of Time\" quest log can point you in the right direction (though you'll likely still need to look up a guide for the convoluted Biggoron Sword quest!). And yes, the notoriously frustrating Water Temple is much more tolerable this time around. But mind your rupees! Inflation's hit Hyrule. While wallets can now carry double the cash that they used to, Great Fairy upgrades are no longer free. They can cost up to 500 rupees!",
+       "zh": "如果你卡住了，全新的“时间之线”任务日志可以为你指明正确的方向（尽管你可能仍然需要查阅指南来完成复杂的比格隆之剑任务！）。是的，臭名昭著的令人沮丧的水之神庙这次要容易得多。但注意你的卢比！通货膨胀已经影响了海利亚。虽然钱包现在可以携带双倍的现金，但大精灵升级不再免费，可能需要高达500卢比！"
+      },
+      {
+       "en": "It's the remake's aesthetic changes that stand out most. The game's astonishingly ornate textures can jar with its cartoony proportions. Ninety-eight percent of the time the translation is a clear upgrade, but other times it leads straight into the uncanny valley (Nabooru looks bizarrely yassified with huge red lips and golden eye-shadow, for example).",
+       "zh": "最引人注目的是重制版的美学变化。游戏异常华丽的纹理可能会与其卡通化的比例产生冲突。百分之九十八的情况下，这次翻译明显是一次提升，但有时却直接进入了恐怖谷（例如，纳布鲁看起来奇怪地被美化了，有着巨大的红唇和金色眼影）。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "power",
+       "pos": "n.",
+       "zh": "权力；电力",
+       "ex": "With its tale of an idyllic world despoiled by the lust for power, The Legend of Zelda: Ocarina of Time feels as relevant today as it did in 1998.",
+       "forms": []
+      },
+      {
+       "w": "generation",
+       "pos": "n.",
+       "zh": "一代人；世代",
+       "ex": "Nintendo's new remake, out Thursday on the Switch 2, enshrines its place in the gaming canon for generations to come.",
+       "forms": [
+        "generations"
+       ]
+      },
+      {
+       "w": "expect",
+       "pos": "v.",
+       "zh": "预期；期待",
+       "ex": "Perhaps I should have expected as much.",
+       "forms": [
+        "expected"
+       ]
+      },
+      {
+       "w": "narrative",
+       "pos": "n.",
+       "zh": "叙事；叙述",
+       "ex": "Ocarina of Time weaponizes nostalgia even within its narrative, as the protagonist Link ventures to save his post-apocalyptic world as an adult after first working through it as a kid.",
+       "forms": []
+      },
+      {
+       "w": "venture",
+       "pos": "n.",
+       "zh": "风险投资；冒险",
+       "ex": "Ocarina of Time weaponizes nostalgia even within its narrative, as the protagonist Link ventures to save his post-apocalyptic world as an adult after first working through it as a kid.",
+       "forms": [
+        "ventures"
+       ]
+      },
+      {
+       "w": "change",
+       "pos": "n.",
+       "zh": "变化；改变",
+       "ex": "It made it easy to change my strategy on the fly.",
+       "forms": [
+        "changes"
+       ]
+      },
+      {
+       "w": "water",
+       "pos": "n.",
+       "zh": "水",
+       "ex": "And yes, the notoriously frustrating Water Temple is much more tolerable this time around.",
+       "forms": []
+      },
+      {
+       "w": "double",
+       "pos": "v.",
+       "zh": "翻倍",
+       "ex": "While wallets can now carry double the cash that they used to, Great Fairy upgrades are no longer free.",
+       "forms": []
+      },
+      {
+       "w": "cost",
+       "pos": "n.",
+       "zh": "成本；代价",
+       "ex": "They can cost up to 500 rupees!",
+       "forms": []
+      },
+      {
+       "w": "aesthetic",
+       "pos": "n.",
+       "zh": "美学；审美",
+       "ex": "It's the remake's aesthetic changes that stand out most.",
+       "forms": []
+      },
+      {
+       "w": "percent",
+       "pos": "n.",
+       "zh": "百分比",
+       "ex": "Ninety-eight percent of the time the translation is a clear upgrade, but other times it leads straight into the uncanny valley (Nabooru looks bizarrely yassified with huge red lips and golden eye-shadow, for example).",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "power",
+      "generation",
+      "expect",
+      "narrative",
+      "venture"
+     ],
+     "keyVocab": [
+      "power",
+      "generation",
+      "expect",
+      "narrative",
+      "venture",
+      "change",
+      "water",
+      "double"
+     ]
+    },
+    {
+     "id": "2026-11-06-science",
+     "section": "Science",
+     "sectionZh": "科学",
+     "title": "Trump administration wants to remove regulations on a super planet-heating gas",
+     "dek": "The Trump administration is proposing to dramatically scale back a Biden-era rule that aimed to cut methane emissions from the oil and gas industry at drilling sites nationwide.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/10/28/nx-s1-5995910/trump-wants-remove-regulations-planet-heating-methane",
+     "byline": "Julia Simon",
+     "dateLabel": "2026-11-06",
+     "words": 322,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "The Trump administration is proposing to dramatically scale back a Biden-era rule that aimed to cut methane emissions from the oil and gas industry at drilling sites nationwide.",
+       "zh": "特朗普政府正在提议大幅缩减拜登时代的一项规则，该规则旨在减少全国范围内钻探现场石油和天然气行业的甲烷排放。"
+      },
+      {
+       "en": "Methane is a major contributor to climate change and is estimated to be 80 times more planet-warming than carbon dioxide in a twenty-year time frame. In 2023, the Biden administration finalized rules that were meant to rein in methane emissions from the oil and gas sector.",
+       "zh": "甲烷是导致气候变化的主要因素，据估计，在二十年的时间范围内，其对地球变暖的影响是二氧化碳的80倍。2023年，拜登政府最终制定了旨在限制石油和天然气行业甲烷排放的规则。"
+      },
+      {
+       "en": "President Trump made the announcement while campaigning in Lubbock, Texas, Tuesday, saying his administration's revision, under the Clean Air Act, would save the industry billions in production costs and spur more domestic drilling. The proposal comes as Republicans face a backlash from voters over high gas prices heading into the midterms.",
+       "zh": "特朗普总统周二在德克萨斯州拉伯克竞选时宣布此事，称其政府根据《清洁空气法》修订将为行业节省数十亿美元的生产成本，并促进更多国内钻探。该提案出台之际，共和党面临选民对高昂天然气价格的强烈反弹，临近中期选举。"
+      },
+      {
+       "en": "\"Behind every barrel of oil and every cubic foot of natural gas produced in the U.S. are millions of workers, businesses, and the heartbeat of this nation's economy. The Biden EPA destructively targeted all this,\" EPA Administrator Lee Zeldin said in a press release.",
+       "zh": "美国环保局局长李·泽尔丁在一份新闻稿中表示：“在美国生产的每一桶石油和每一立方英尺的天然气背后，都有数百万工人、企业以及这个国家经济的脉搏。拜登政府的环保局以破坏性的方式针对了这一切。”"
+      },
+      {
+       "en": "The oil and gas industry, which vigorously opposed the 2023 rules, said EPA's proposed rollback will address some of the challenges companies have faced in trying to comply with the regulations.",
+       "zh": "积极反对2023年规则的石油和天然气行业表示，环保局提议的撤销将解决公司在尝试遵守这些法规时面临的部分挑战。"
+      },
+      {
+       "en": "\"We look forward to working with the Trump administration on a more workable approach that supports American energy production, provides greater regulatory certainty and advances continued emissions reductions,\" Dustin Meyer, vice president at the American Petroleum Institute, a trade organization for the U.S. oil and gas industry, said in a statement.",
+       "zh": "美国石油协会（一家美国石油和天然气行业的贸易组织）副总裁达斯汀·迈耶在一份声明中表示：“我们期待与特朗普政府合作，采取一种更可行的方法，支持美国能源生产，提供更大的监管确定性，并推进持续的减排。”"
+      },
+      {
+       "en": "But environmentalists say this may end up actually costing the industry more.",
+       "zh": "但环保人士表示，这实际上可能会让行业花费更多。"
+      },
+      {
+       "en": "\"Methane is natural gas, or natural gas is methane,\" says Jon Goldstein, associate vice president at the Environmental Defense Fund. \"And so if you're capturing more natural gas, you're not allowing it to leak out, you're not allowing it to be flared, you have more product that you can sell. And so that offsets a lot of the costs.\"",
+       "zh": "环境保护基金副总裁乔恩·戈德斯坦说：“甲烷就是天然气，或者说天然气就是甲烷。如果你捕获了更多的天然气，就不会让它泄漏，也不会让它被燃烧掉，你就有更多的产品可以出售。这就抵消了很多成本。”"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "administration",
+       "pos": "n.",
+       "zh": "政府；行政",
+       "ex": "The Trump administration is proposing to dramatically scale back a Biden-era rule that aimed to cut methane emissions from the oil and gas industry at drilling sites nationwide.",
+       "forms": []
+      },
+      {
+       "w": "propose",
+       "pos": "v.",
+       "zh": "提议；提出",
+       "ex": "The Trump administration is proposing to dramatically scale back a Biden-era rule that aimed to cut methane emissions from the oil and gas industry at drilling sites nationwide.",
+       "forms": [
+        "proposed",
+        "proposing"
+       ]
+      },
+      {
+       "w": "methane",
+       "pos": "n.",
+       "zh": "甲烷",
+       "ex": "The Trump administration is proposing to dramatically scale back a Biden-era rule that aimed to cut methane emissions from the oil and gas industry at drilling sites nationwide.",
+       "forms": []
+      },
+      {
+       "w": "emission",
+       "pos": "n.",
+       "zh": "排放；排放物",
+       "ex": "The Trump administration is proposing to dramatically scale back a Biden-era rule that aimed to cut methane emissions from the oil and gas industry at drilling sites nationwide.",
+       "forms": [
+        "emissions"
+       ]
+      },
+      {
+       "w": "oil",
+       "pos": "n.",
+       "zh": "石油",
+       "ex": "The Trump administration is proposing to dramatically scale back a Biden-era rule that aimed to cut methane emissions from the oil and gas industry at drilling sites nationwide.",
+       "forms": []
+      },
+      {
+       "w": "gas",
+       "pos": "n.",
+       "zh": "天然气；气体",
+       "ex": "The Trump administration is proposing to dramatically scale back a Biden-era rule that aimed to cut methane emissions from the oil and gas industry at drilling sites nationwide.",
+       "forms": []
+      },
+      {
+       "w": "industry",
+       "pos": "n.",
+       "zh": "行业；工业",
+       "ex": "The Trump administration is proposing to dramatically scale back a Biden-era rule that aimed to cut methane emissions from the oil and gas industry at drilling sites nationwide.",
+       "forms": []
+      },
+      {
+       "w": "climate",
+       "pos": "n.",
+       "zh": "气候",
+       "ex": "Methane is a major contributor to climate change and is estimated to be 80 times more planet-warming than carbon dioxide in a twenty-year time frame.",
+       "forms": []
+      },
+      {
+       "w": "change",
+       "pos": "n.",
+       "zh": "变化；改变",
+       "ex": "Methane is a major contributor to climate change and is estimated to be 80 times more planet-warming than carbon dioxide in a twenty-year time frame.",
+       "forms": []
+      },
+      {
+       "w": "estimate",
+       "pos": "n.",
+       "zh": "估计；估算",
+       "ex": "Methane is a major contributor to climate change and is estimated to be 80 times more planet-warming than carbon dioxide in a twenty-year time frame.",
+       "forms": [
+        "estimated"
+       ]
+      },
+      {
+       "w": "carbon",
+       "pos": "n.",
+       "zh": "碳",
+       "ex": "Methane is a major contributor to climate change and is estimated to be 80 times more planet-warming than carbon dioxide in a twenty-year time frame.",
+       "forms": []
+      },
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "President Trump made the announcement while campaigning in Lubbock, Texas, Tuesday, saying his administration's revision, under the Clean Air Act, would save the industry billions in production costs and spur more domestic drilling.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "administration",
+      "propose",
+      "methane",
+      "emission",
+      "oil"
+     ],
+     "keyVocab": [
+      "administration",
+      "propose",
+      "methane",
+      "emission",
+      "oil",
+      "gas",
+      "industry",
+      "climate"
+     ]
+    },
+    {
+     "id": "2026-11-06-culture",
+     "section": "Culture",
+     "sectionZh": "文化",
+     "title": "A judge blocks construction of Trump's arch moments after it won federal approval",
+     "dek": "A federal judge blocked construction of President Trump's arch early Friday morning, stopping work the administration had hoped to begin immediately.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/06/nx-s1-6031990/trump-arch-planning-commission-injunction",
+     "byline": "Rachel Treisman",
+     "dateLabel": "2026-11-06",
+     "words": 302,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "A federal judge blocked construction of President Trump's arch early Friday morning, stopping work the administration had hoped to begin immediately.",
+       "zh": "周五清晨，一名联邦法官阻止了特朗普总统拱门的建设，停止了政府原本希望立即开始的工作。"
+      },
+      {
+       "en": "Just before midnight, District Court Judge Tanya Chutkan issued an order barring the government from any construction work for 14 days, granting a request filed days earlier by the governments of D.C. and Virginia.",
+       "zh": "就在午夜前，地区法院法官Tanya Chutkan发布了一项命令，禁止政府进行任何建设工作，为期14天，这项命令是应华盛顿特区和弗吉尼亚州政府几天前提出的请求而批准的。"
+      },
+      {
+       "en": "She laid out her reasoning in a 33-page opinion, in which she scrutinized the administration's competing justifications for the arch — particularly its sudden emphasis on national security — and agreed that the local governments are likely to be harmed by its construction. The 250-foot arch would stand in Memorial Circle, a traffic island on the bridge linking the Lincoln Memorial to Arlington National Cemetery.",
+       "zh": "她在一份33页的意见书中阐述了她的推理，其中她仔细审查了政府对拱门提出的相互矛盾的理由——特别是其对国家安全突如其来的强调——并同意地方政府可能会因其建设而受到损害。这个250英尺高的拱门将矗立在纪念圆环上，该圆环是连接林肯纪念堂和阿灵顿国家公墓的大桥上的一个交通岛。"
+      },
+      {
+       "en": "Trump administration officials have said work would take place 20 hours a day, year-round, for two to three years. In addition to questioning the arch's legality, D.C. and Virginia argue the construction would cause all sorts of financial and logistical disruptions.",
+       "zh": "特朗普政府官员表示，这项工作将全年每天进行 20 小时，持续两到三年。除了质疑拱门的合法性，华盛顿特区和弗吉尼亚州还认为建设将引起各种财务和后勤方面的干扰。"
+      },
+      {
+       "en": "\"The threatened harms will materialize as soon as construction begins, in part because the traffic disruptions will occur immediately,\" Chutkan agreed.",
+       "zh": "Chutkan同意，“一旦施工开始，威胁的损害将立即显现，部分原因是交通中断将立即发生。”"
+      },
+      {
+       "en": "Chutkan's ruling came less than two hours after a federal planning commission packed with presidential allies granted final approval to the arch in an 8-4 vote. The National Capital Planning Commission heard nearly eight hours of impassioned pleas from veterans, lawmakers, residents and concerned citizens opposed to the structure.",
+       "zh": "Chutkan的裁决是在一个由总统盟友组成的联邦规划委员会以8比4投票最终批准拱门不到两小时后做出的。国家首都规划委员会听取了退伍军人、立法者、居民和反对该建筑的关切公民近八小时充满激情的呼吁。"
+      },
+      {
+       "en": "The Trump administration had previously told the court it could begin excavation work that same day, despite lacking authorization from Congress and an expanding legal challenge.",
+       "zh": "特朗普政府此前曾告诉法庭，尽管缺乏国会授权并面临日益扩大的法律挑战，但它可以在同一天开始挖掘工作。"
+      },
+      {
+       "en": "A group of Vietnam War veterans and an architectural historian sued the government earlier this year, arguing that an arch is unlawful without Congressional approval, which the administration has not sought. The Democratic governments of D.C. and Virginia jointly filed a similar lawsuit last weekend.",
+       "zh": "今年早些时候，一群越战老兵和一位建筑历史学家起诉了政府，认为拱门如果没有国会批准是违法的，而政府并未寻求该批准。上周末，华盛顿特区和弗吉尼亚州的民主党政府联合提起了类似的诉讼。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "federal",
+       "pos": "adj.",
+       "zh": "联邦的",
+       "ex": "A federal judge blocked construction of President Trump's arch early Friday morning, stopping work the administration had hoped to begin immediately.",
+       "forms": []
+      },
+      {
+       "w": "judge",
+       "pos": "n.",
+       "zh": "法官",
+       "ex": "A federal judge blocked construction of President Trump's arch early Friday morning, stopping work the administration had hoped to begin immediately.",
+       "forms": []
+      },
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "A federal judge blocked construction of President Trump's arch early Friday morning, stopping work the administration had hoped to begin immediately.",
+       "forms": []
+      },
+      {
+       "w": "administration",
+       "pos": "n.",
+       "zh": "政府；行政",
+       "ex": "A federal judge blocked construction of President Trump's arch early Friday morning, stopping work the administration had hoped to begin immediately.",
+       "forms": []
+      },
+      {
+       "w": "court",
+       "pos": "n.",
+       "zh": "法院；法庭",
+       "ex": "Just before midnight, District Court Judge Tanya Chutkan issued an order barring the government from any construction work for 14 days, granting a request filed days earlier by the governments of D.C.",
+       "forms": []
+      },
+      {
+       "w": "issue",
+       "pos": "n.",
+       "zh": "议题；问题",
+       "ex": "Just before midnight, District Court Judge Tanya Chutkan issued an order barring the government from any construction work for 14 days, granting a request filed days earlier by the governments of D.C.",
+       "forms": [
+        "issued"
+       ]
+      },
+      {
+       "w": "reason",
+       "pos": "n.",
+       "zh": "原因；理由",
+       "ex": "She laid out her reasoning in a 33-page opinion, in which she scrutinized the administration's competing justifications for the arch — particularly its sudden emphasis on national security — and agreed that the local governments are likely to be harmed by its construction.",
+       "forms": [
+        "reasoning"
+       ]
+      },
+      {
+       "w": "national",
+       "pos": "adj.",
+       "zh": "国家的；全国的",
+       "ex": "She laid out her reasoning in a 33-page opinion, in which she scrutinized the administration's competing justifications for the arch — particularly its sudden emphasis on national security — and agreed that the local governments are likely to be harmed by its construction.",
+       "forms": []
+      },
+      {
+       "w": "local",
+       "pos": "adj.",
+       "zh": "当地的",
+       "ex": "She laid out her reasoning in a 33-page opinion, in which she scrutinized the administration's competing justifications for the arch — particularly its sudden emphasis on national security — and agreed that the local governments are likely to be harmed by its construction.",
+       "forms": []
+      },
+      {
+       "w": "official",
+       "pos": "n.",
+       "zh": "官员；adj. 官方的",
+       "ex": "Trump administration officials have said work would take place 20 hours a day, year-round, for two to three years.",
+       "forms": [
+        "officials"
+       ]
+      },
+      {
+       "w": "argue",
+       "pos": "v.",
+       "zh": "主张；争论",
+       "ex": "and Virginia argue the construction would cause all sorts of financial and logistical disruptions.",
+       "forms": [
+        "arguing"
+       ]
+      },
+      {
+       "w": "financial",
+       "pos": "adj.",
+       "zh": "金融的；财务的",
+       "ex": "and Virginia argue the construction would cause all sorts of financial and logistical disruptions.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "federal",
+      "judge",
+      "president",
+      "administration",
+      "court"
+     ],
+     "keyVocab": [
+      "federal",
+      "judge",
+      "president",
+      "administration",
+      "court",
+      "issue",
+      "reason",
+      "national"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-05",
    "articles": [
@@ -4541,734 +5342,6 @@
       "museum",
       "resident",
       "social"
-     ]
-    }
-   ]
-  },
-  {
-   "date": "2026-10-30",
-   "articles": [
-    {
-     "id": "2026-10-30-world",
-     "section": "World",
-     "sectionZh": "国际",
-     "title": "US and Japan agree to establish a Japanese facility for joint missile production",
-     "dek": "CEBU, Philippines — The United States and Japan have agreed to establish a Japanese facility for the joint production of advanced medium-range air-to-air missiles, the Japanese defense chief said.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
-     "byline": "The Associated Press",
-     "dateLabel": "2026-10-30",
-     "words": 349,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "CEBU, Philippines — The United States and Japan have agreed to establish a Japanese facility for the joint production of advanced medium-range air-to-air missiles, the Japanese defense chief said.",
-       "zh": "菲律宾宿务——日本防卫负责人表示，美国和日本已同意建立一个用于联合生产先进中程空对空导弹的日本设施。"
-      },
-      {
-       "en": "It is the latest move by the allies, which have repeatedly expressed alarm over China's growing assertiveness in Asia.",
-       "zh": "这是盟友的最新举动，他们已多次对中国在亚洲日益增长的自信表示担忧。"
-      },
-      {
-       "en": "Japanese Defense Minister Shinjiro Koizumi made the announcement in a news conference Wednesday night in the central Philippine province of Cebu, where he met U.S. Defense Secretary Pete Hegseth on the sidelines of an annual meeting of Southeast Asian defense chiefs and their major Asian and Western counterparts.",
-       "zh": "日本防卫大臣小泉进次郎在周三晚上于菲律宾中部宿务省举行的新闻发布会上宣布此消息，他在那里在东南亚防长及其主要亚洲和西方同行年度会议的间隙会见了美国国防部长皮特·赫格塞斯。"
-      },
-      {
-       "en": "Koizumi raised concern Thursday about China's increasing naval activity in southwestern Japan. He said that three Chinese destroyers and a coast guard ship together crossed the Osumi Strait south of the southern main island of Kyushu and headed east to the Pacific Ocean this week. It was the first such fleet configuration his ministry has spotted, he said.",
-       "zh": "小泉周四对中国在日本西南部日益增加的海军活动表示关注。他说，本周有三艘中国驱逐舰和一艘海警船一起穿过九州南部主岛以南的大隅海峡，向东驶向太平洋。他表示，这是他所在部门首次发现这样的舰队配置。"
-      },
-      {
-       "en": "Koizumi said he cited the incident as \"an example illustrating the challenging security environment in the region\" in his remark at a session Thursday. His ministry will keep watching the Chinese activity with high level of interest, he said. Japan has been accelerating military buildup in southwestern Japan to deter China.",
-       "zh": "小泉在周四的一个会议上表示，他引用这一事件是“作为说明该地区安全环境严峻的一个例子”。他表示，政府将以高度关注继续观察中国的活动。日本一直在加速加强西南日本的军事建设，以威慑中国。"
-      },
-      {
-       "en": "The annual meetings aim to avert a major regional conflict and strengthen defense cooperation. On the sidelines of the meetings, however, the U.S. and China and their allies have often traded criticisms.",
-       "zh": "年度会议旨在避免重大地区冲突并加强防务合作。然而，在会议期间，美国和中国及其盟友经常互相批评。"
-      },
-      {
-       "en": "The missiles that will be produced as part of a joint effort called \"Operation Supercharge\" are essential for the F-35 fighter jets, Koizumi said. The two sides agreed to build a final assembly and inspection plant for the Advanced Medium-Range Air-to-Air Missile, or AMRAAM, in Japan, he said. The U.S.-made F-35s are one of the world's most advanced aircraft and are also used by the Japanese military.",
-       "zh": "小泉表示，作为名为“超级充能行动”的联合努力一部分将生产的导弹对于F-35战斗机至关重要。他说，双方同意在日本建造一座先进中程空对空导弹（AMRAAM）的最终装配和检查工厂。美国制造的F-35是世界上最先进的飞机之一，也被日本军方使用。"
-      },
-      {
-       "en": "During his brief meeting with Hegseth in Cebu, Koizumi said he \"shared a sense of crisis … regarding the increasingly severe regional situation and we agreed to strengthen the deterrence and response capabilities of the Japan-U.S. alliance with greater speed and intensity than ever before.\"",
-       "zh": "在他与赫格塞斯在宿务的简短会面中，小泉表示，他“对日益严峻的地区局势有共同的危机感……我们同意比以往任何时候都更快、更强地加强日美联盟的威慑和应对能力。”"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "missile",
-       "pos": "n.",
-       "zh": "导弹",
-       "ex": "CEBU, Philippines — The United States and Japan have agreed to establish a Japanese facility for the joint production of advanced medium-range air-to-air missiles, the Japanese defense chief said.",
-       "forms": [
-        "missiles"
-       ]
-      },
-      {
-       "w": "minister",
-       "pos": "n.",
-       "zh": "部长；大臣",
-       "ex": "Japanese Defense Minister Shinjiro Koizumi made the announcement in a news conference Wednesday night in the central Philippine province of Cebu, where he met U.S.",
-       "forms": []
-      },
-      {
-       "w": "announcement",
-       "pos": "n.",
-       "zh": "公告；声明",
-       "ex": "Japanese Defense Minister Shinjiro Koizumi made the announcement in a news conference Wednesday night in the central Philippine province of Cebu, where he met U.S.",
-       "forms": []
-      },
-      {
-       "w": "news",
-       "pos": "n.",
-       "zh": "新闻",
-       "ex": "Japanese Defense Minister Shinjiro Koizumi made the announcement in a news conference Wednesday night in the central Philippine province of Cebu, where he met U.S.",
-       "forms": []
-      },
-      {
-       "w": "increase",
-       "pos": "v.",
-       "zh": "增加",
-       "ex": "Koizumi raised concern Thursday about China's increasing naval activity in southwestern Japan.",
-       "forms": [
-        "increasing"
-       ]
-      },
-      {
-       "w": "cite",
-       "pos": "v.",
-       "zh": "引用；援引",
-       "ex": "Koizumi said he cited the incident as \"an example illustrating the challenging security environment in the region\" in his remark at a session Thursday.",
-       "forms": [
-        "cited"
-       ]
-      },
-      {
-       "w": "challenge",
-       "pos": "n.",
-       "zh": "挑战",
-       "ex": "Koizumi said he cited the incident as \"an example illustrating the challenging security environment in the region\" in his remark at a session Thursday.",
-       "forms": [
-        "challenging"
-       ]
-      },
-      {
-       "w": "region",
-       "pos": "n.",
-       "zh": "地区；区域",
-       "ex": "Koizumi said he cited the incident as \"an example illustrating the challenging security environment in the region\" in his remark at a session Thursday.",
-       "forms": []
-      },
-      {
-       "w": "level",
-       "pos": "n.",
-       "zh": "水平；层级",
-       "ex": "His ministry will keep watching the Chinese activity with high level of interest, he said.",
-       "forms": []
-      },
-      {
-       "w": "accelerate",
-       "pos": "v.",
-       "zh": "加速",
-       "ex": "Japan has been accelerating military buildup in southwestern Japan to deter China.",
-       "forms": [
-        "accelerating"
-       ]
-      },
-      {
-       "w": "military",
-       "pos": "n.",
-       "zh": "军队；军方",
-       "ex": "Japan has been accelerating military buildup in southwestern Japan to deter China.",
-       "forms": []
-      },
-      {
-       "w": "conflict",
-       "pos": "n.",
-       "zh": "冲突",
-       "ex": "The annual meetings aim to avert a major regional conflict and strengthen defense cooperation.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "missile",
-      "minister",
-      "announcement",
-      "news",
-      "increase"
-     ],
-     "keyVocab": [
-      "missile",
-      "minister",
-      "announcement",
-      "news",
-      "increase",
-      "cite",
-      "challenge",
-      "region"
-     ]
-    },
-    {
-     "id": "2026-10-30-business",
-     "section": "Business",
-     "sectionZh": "商业 · 财经",
-     "title": "With days to go before the midterms, data shows the U.S. economy is doing well",
-     "dek": "The U.S. economy grew faster in the summer compared to the spring, driven by consumer spending as well as investments in AI.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/29/nx-s1-6021008/economy-gdp-inflation-midterms-voters-affordability",
-     "byline": "Stephan Bisaha",
-     "dateLabel": "2026-10-30",
-     "words": 252,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "The U.S. economy grew faster in the summer compared to the spring, driven by consumer spending as well as investments in AI.",
-       "zh": "美国经济在夏季的增长速度比春季更快，这得益于消费者支出以及对人工智能的投资。"
-      },
-      {
-       "en": "Gross domestic product, which broadly measures economic activity, grew at an annual rate of 3.4% July through September, according to a report from the Commerce Department released Thursday. The previous quarter GDP grew at a 2.2% annual pace.",
-       "zh": "根据商务部周四发布的一份报告，从七月到九月，广泛衡量经济活动的国内生产总值以3.4%的年增长率增长。上一季度国内生产总值的年增长速度为2.2%。"
-      },
-      {
-       "en": "A big driver for GDP growth in the third quarter was the strong investments from AI companies, which continue to build out data centers and spend big money in developing the technology.",
-       "zh": "第三季度 GDP 增长的一个重要驱动力是人工智能公司的强劲投资，这些公司继续建设数据中心，并在技术开发上投入大量资金。"
-      },
-      {
-       "en": "Meanwhile, consumer spending was another of the big drivers of GDP growth, led in part by higher-income Americans who are better able to withstand stubbornly high inflation.",
-       "zh": "与此同时，消费者支出是国内生产总值增长的另一个重要推动力，部分原因是高收入的美国人能够更好地应对持续高企的通货膨胀。"
-      },
-      {
-       "en": "The sturdy GDP data comes just days before the midterm elections, with many Americans saying they feel gloomy about the economy as inflation jacks up the costs of many day-to-day necessities, while the ongoing conflict with Iran drives up energy costs like gasoline.",
-       "zh": "坚挺的国内生产总值数据发布就在中期选举前几天，许多美国人表示他们对经济感到悲观，因为通货膨胀推高了许多日常必需品的成本，而与伊朗的持续冲突又推高了汽油等能源成本。"
-      },
-      {
-       "en": "Although consumer spending has been growing steadily, it has not spread out evenly across households, with lower-income Americans struggling more than high-earners. Wage growth has also fallen behind inflation, further squeezing many Americans.",
-       "zh": "尽管消费者支出一直在稳步增长，但它在各家庭之间的分布并不均匀，低收入美国人的困难比高收入者更多。工资增长也落后于通货膨胀，进一步压缩了许多美国人的生活空间。"
-      },
-      {
-       "en": "Siri Steven, a manager at a resale store in Decorah, Iowa, says she and her husband are putting off fixing up their more than 130-year-old house.",
-       "zh": "爱荷华州德科拉一家转售店的经理Siri Steven说，她和她的丈夫正在推迟修缮他们那座已有130多年历史的房子。"
-      },
-      {
-       "en": "\"We barely go out to eat now,\" Steven said. \"I really have to be mindful of our budget and make sure that we can pay all our bills and not overdraft.\"",
-       "zh": "“我们现在几乎不出去吃饭了，”史蒂文说。“我真的必须注意我们的预算，确保我们能支付所有账单，避免透支。”"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "economy",
-       "pos": "n.",
-       "zh": "经济",
-       "ex": "economy grew faster in the summer compared to the spring, driven by consumer spending as well as investments in AI.",
-       "forms": []
-      },
-      {
-       "w": "consumer",
-       "pos": "n.",
-       "zh": "消费者",
-       "ex": "economy grew faster in the summer compared to the spring, driven by consumer spending as well as investments in AI.",
-       "forms": []
-      },
-      {
-       "w": "investment",
-       "pos": "n.",
-       "zh": "投资",
-       "ex": "economy grew faster in the summer compared to the spring, driven by consumer spending as well as investments in AI.",
-       "forms": [
-        "investments"
-       ]
-      },
-      {
-       "w": "domestic",
-       "pos": "adj.",
-       "zh": "国内的；家庭的",
-       "ex": "Gross domestic product, which broadly measures economic activity, grew at an annual rate of 3.4% July through September, according to a report from the Commerce Department released Thursday.",
-       "forms": []
-      },
-      {
-       "w": "product",
-       "pos": "n.",
-       "zh": "产品",
-       "ex": "Gross domestic product, which broadly measures economic activity, grew at an annual rate of 3.4% July through September, according to a report from the Commerce Department released Thursday.",
-       "forms": []
-      },
-      {
-       "w": "economic",
-       "pos": "adj.",
-       "zh": "经济的",
-       "ex": "Gross domestic product, which broadly measures economic activity, grew at an annual rate of 3.4% July through September, according to a report from the Commerce Department released Thursday.",
-       "forms": []
-      },
-      {
-       "w": "rate",
-       "pos": "n.",
-       "zh": "比率；速度",
-       "ex": "Gross domestic product, which broadly measures economic activity, grew at an annual rate of 3.4% July through September, according to a report from the Commerce Department released Thursday.",
-       "forms": []
-      },
-      {
-       "w": "report",
-       "pos": "n.",
-       "zh": "报告；报道",
-       "ex": "Gross domestic product, which broadly measures economic activity, grew at an annual rate of 3.4% July through September, according to a report from the Commerce Department released Thursday.",
-       "forms": []
-      },
-      {
-       "w": "growth",
-       "pos": "n.",
-       "zh": "增长",
-       "ex": "A big driver for GDP growth in the third quarter was the strong investments from AI companies, which continue to build out data centers and spend big money in developing the technology.",
-       "forms": []
-      },
-      {
-       "w": "data",
-       "pos": "n.",
-       "zh": "数据",
-       "ex": "A big driver for GDP growth in the third quarter was the strong investments from AI companies, which continue to build out data centers and spend big money in developing the technology.",
-       "forms": []
-      },
-      {
-       "w": "technology",
-       "pos": "n.",
-       "zh": "技术；科技",
-       "ex": "A big driver for GDP growth in the third quarter was the strong investments from AI companies, which continue to build out data centers and spend big money in developing the technology.",
-       "forms": []
-      },
-      {
-       "w": "inflation",
-       "pos": "n.",
-       "zh": "通货膨胀",
-       "ex": "Meanwhile, consumer spending was another of the big drivers of GDP growth, led in part by higher-income Americans who are better able to withstand stubbornly high inflation.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "economy",
-      "consumer",
-      "investment",
-      "domestic",
-      "product"
-     ],
-     "keyVocab": [
-      "economy",
-      "consumer",
-      "investment",
-      "domestic",
-      "product",
-      "economic",
-      "rate",
-      "report"
-     ]
-    },
-    {
-     "id": "2026-10-30-technology",
-     "section": "Technology",
-     "sectionZh": "科技",
-     "title": "Who benefits when massive AI data centers come to town?",
-     "dek": "The battle over data centers is hitting the ballot box. Brookings scholar Darrell West talks about how the backlash against the AI boom, flock cameras and tech companies is crossing party lines.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/29/nx-s1-6022096/who-benefits-when-massive-ai-data-centers-come-to-town",
-     "byline": "Tonya Mosley",
-     "dateLabel": "2026-10-30",
-     "words": 435,
-     "readTime": 3,
-     "level": "B2",
-     "levelEn": "Upper-intermediate",
-     "paragraphs": [
-      {
-       "en": "The battle over data centers is hitting the ballot box. Brookings scholar Darrell West talks about how the backlash against the AI boom, flock cameras and tech companies is crossing party lines.",
-       "zh": "围绕数据中心的争斗正影响到投票箱。布鲁金斯学者达雷尔·韦斯特谈到，对人工智能热潮、聚众摄像头和科技公司的反弹正跨越党派界限。"
-      },
-      {
-       "en": "This is FRESH AIR. I'm Tonya Mosley. The AI boom has a problem. It has to be built somewhere, and to power it, tech companies are building massive data centers. They need land, enormous amounts of electricity, and in many cases, water. In exchange, they promise jobs and community investment. But people who live in these communities are demanding to know, what's this going to cost us? There's also another question, who gets to decide? In communities from Wisconsin to Louisiana, residents say local officials are negotiating data center deals without their input.",
-       "zh": "这里是《清新空气》。我是托尼娅·莫斯利。人工智能热潮存在一个问题。它必须在某个地方建造，而为了为其提供动力，科技公司正在建设庞大的数据中心。他们需要土地、大量的电力，并且在很多情况下，还需要水资源。作为交换，他们承诺提供就业机会和社区投资。但住在这些社区的人们要求知道，这将花费我们什么代价？还有另一个问题，谁有权决定？从威斯康星到路易斯安那的社区，居民们表示，当地官员在未经他们参与的情况下，正在协商数据中心的交易。"
-      },
-      {
-       "en": "This midterm election, voters in more than 40 cities and towns across eight states will decide ballot measures on data center bans, moratoriums and requirements that residents get a vote before one is built. And Democrats and Republicans are going after their opponents for what used to be a bragging right, the ability to bring billions of dollars in investment to town. My guest is Darrell West, a senior fellow at the Brookings Institution. He and his colleague, Nicol Turner Lee, write about the backlash against AI data centers and how these local fights are becoming part of something much bigger, a challenge to the enormous power of the tech industry and who gets to decide what our future looks like. And, Darrell West, welcome to FRESH AIR.",
-       "zh": "在这次中期选举中，来自八个州的40多个城市和城镇的选民将决定关于数据中心禁止、暂停建设以及居民在数据中心建成前必须投票表决的选票措施。民主党人和共和党人现在相互攻击对手，而批评的焦点曾经是他们的骄傲所在——能够为城镇带来数十亿美元的投资。我的嘉宾是布鲁金斯学会的高级研究员达雷尔·韦斯特。他和同事尼科尔·特纳·李撰文讨论了针对人工智能数据中心的反弹，以及这些地方斗争如何成为更大事物的一部分——对科技行业巨大力量的挑战，以及谁来决定我们的未来会是什么样子。达雷尔·韦斯特，欢迎来到《新鲜空气》节目。"
-      },
-      {
-       "en": "MOSLEY: Well, I actually want to start with a couple of political ads. And the first one is from Ohio, where Democrat Sherrod Brown is challenging Republican Senator Jon Husted. And Brown accuses Husted of aggressively courting data centers and backing corporate tax breaks while residents face rising electricity bills. Let's listen.",
-       "zh": "莫斯利：好吧，我实际上想从几条政治广告开始。第一条来自俄亥俄州，民主党人谢罗德·布朗正在挑战共和党参议员乔恩·赫斯特。布朗指责赫斯特积极争取数据中心，并支持企业减税，而居民则面临不断上涨的电费账单。让我们来听听。"
-      },
-      {
-       "en": "UNIDENTIFIED NARRATOR #1: He's been called the face of data centers in Ohio. Why? Because Jon Husted spent years aggressively recruiting data centers to the state, cutting sweetheart tax deals and fast-tracking approvals while ordinary residents watch their electricity bills explode.",
-       "zh": "未确认叙述者 #1：他被称为俄亥俄州数据中心的代言人。为什么？因为Jon Husted花了多年时间积极招揽数据中心落户该州，提供优惠税收协议并加快审批流程，而普通居民却眼睁睁看着自己的电费飙升。"
-      },
-      {
-       "en": "UNIDENTIFIED JOURNALIST: We're here with Ohio Senator Jon Husted. You have a lot of experience with something called data centers.",
-       "zh": "身份不明的记者：我们现在与俄亥俄州参议员乔恩·休斯特在一起。您在一种叫做数据中心的事物上有很多经验。"
-      },
-      {
-       "en": "UNIDENTIFIED NARRATOR #1: Jon Husted, who's he really working for?",
-       "zh": "未知叙述者 #1：乔恩·赫斯特德，他到底为谁工作？"
-      },
-      {
-       "en": "SHERROD BROWN: I'm Sherrod Brown and I approve this message.",
-       "zh": "谢罗德·布朗：我是谢罗德·布朗，我批准这则信息。"
-      },
-      {
-       "en": "MOSLEY: OK, now listen to this one. And it comes out of Wisconsin. Republican Tom Tiffany is running for governor against Democrat David Crowley. And Tiffany accuses Crowley of wanting to turn Wisconsin into a global data center hub at the expense of taxpayers and local communities. Let's listen.",
-       "zh": "MOSLEY：好，现在听这个。这来自威斯康星州。共和党人汤姆·蒂芬尼正在与民主党人大卫·克劳利竞选州长。蒂芬尼指责克劳利想把威斯康星州变成全球数据中心的枢纽，而代价是纳税人和当地社区。我们来听听。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "data",
-       "pos": "n.",
-       "zh": "数据",
-       "ex": "The battle over data centers is hitting the ballot box.",
-       "forms": []
-      },
-      {
-       "w": "ballot",
-       "pos": "n.",
-       "zh": "选票；投票",
-       "ex": "The battle over data centers is hitting the ballot box.",
-       "forms": []
-      },
-      {
-       "w": "boom",
-       "pos": "n.",
-       "zh": "繁荣；激增",
-       "ex": "Brookings scholar Darrell West talks about how the backlash against the AI boom, flock cameras and tech companies is crossing party lines.",
-       "forms": []
-      },
-      {
-       "w": "party",
-       "pos": "n.",
-       "zh": "政党；一方",
-       "ex": "Brookings scholar Darrell West talks about how the backlash against the AI boom, flock cameras and tech companies is crossing party lines.",
-       "forms": []
-      },
-      {
-       "w": "problem",
-       "pos": "n.",
-       "zh": "问题",
-       "ex": "The AI boom has a problem.",
-       "forms": []
-      },
-      {
-       "w": "power",
-       "pos": "n.",
-       "zh": "权力；电力",
-       "ex": "It has to be built somewhere, and to power it, tech companies are building massive data centers.",
-       "forms": []
-      },
-      {
-       "w": "land",
-       "pos": "n.",
-       "zh": "土地；陆地",
-       "ex": "They need land, enormous amounts of electricity, and in many cases, water.",
-       "forms": []
-      },
-      {
-       "w": "enormous",
-       "pos": "adj.",
-       "zh": "巨大的；庞大的",
-       "ex": "They need land, enormous amounts of electricity, and in many cases, water.",
-       "forms": []
-      },
-      {
-       "w": "electricity",
-       "pos": "n.",
-       "zh": "电力",
-       "ex": "They need land, enormous amounts of electricity, and in many cases, water.",
-       "forms": []
-      },
-      {
-       "w": "water",
-       "pos": "n.",
-       "zh": "水",
-       "ex": "They need land, enormous amounts of electricity, and in many cases, water.",
-       "forms": []
-      },
-      {
-       "w": "community",
-       "pos": "n.",
-       "zh": "社区；群体",
-       "ex": "In exchange, they promise jobs and community investment.",
-       "forms": [
-        "communities"
-       ]
-      },
-      {
-       "w": "investment",
-       "pos": "n.",
-       "zh": "投资",
-       "ex": "In exchange, they promise jobs and community investment.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "data",
-      "ballot",
-      "boom",
-      "party",
-      "problem"
-     ],
-     "keyVocab": [
-      "data",
-      "ballot",
-      "boom",
-      "party",
-      "problem",
-      "power",
-      "land",
-      "enormous"
-     ]
-    },
-    {
-     "id": "2026-10-30-science",
-     "section": "Science",
-     "sectionZh": "科学",
-     "title": "Even birds get jet lagged, study shows",
-     "dek": "New research shows that humans are not the only species to get jet lag: Some birds appear to experience it too.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/29/nx-s1-6019228/manx-shearwater-jet-lag-birds",
-     "byline": "Geoff Brumfiel",
-     "dateLabel": "2026-10-30",
-     "words": 267,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "New research shows that humans are not the only species to get jet lag: Some birds appear to experience it too.",
-       "zh": "新的研究表明，人类并不是唯一会经历时差反应的物种：一些鸟类似乎也会经历时差反应。"
-      },
-      {
-       "en": "A study published in the journal Science found that a type of seabird known as the Manx shearwater appears to become slightly disoriented during long flights across the Atlantic Ocean. That disorientation, the authors say, is due to the bird's internal clock falling out of sync with the sun's position in the sky.",
-       "zh": "发表在《科学》杂志上的一项研究发现，一种被称为曼岛剪尾鸥的海鸟在穿越大西洋的长途飞行中似乎会稍微迷失方向。作者表示，这种迷失方向是由于鸟类的生物钟与太阳在天空中的位置不同步所导致的。"
-      },
-      {
-       "en": "Manx shearwaters are a common bird in the British Isles. They look a little like seagulls, but \"they're actually very closely related to an albatross,\" said Patrick Lewin, a behavioral ecologist at the University of Oxford.",
-       "zh": "曼岛海燕是英伦群岛常见的鸟类。它们看起来有点像海鸥，但“它们实际上与信天翁关系非常密切，”牛津大学行为生态学家帕特里克·卢因说。"
-      },
-      {
-       "en": "Shearwaters mate for life, and when they breed, a couple lays just one egg.",
-       "zh": "海燕终生配偶，当它们繁殖时，一对只会下一个蛋。"
-      },
-      {
-       "en": "Then they take turns incubating it: \"One partner will sit on the egg nonstop while the other one goes out to sea,\" Lewin said.",
-       "zh": "然后它们轮流孵蛋：“一只伴侣会一直坐在蛋上，而另一只则出海，”卢因说道。"
-      },
-      {
-       "en": "For up to two weeks the hunting partners scour the North Atlantic for fish and squid, often travelling hundreds of miles from their nests.",
-       "zh": "在长达两周的时间里，捕猎伙伴在北大西洋寻找鱼类和鱿鱼，常常从它们的巢穴出发，行程达数百英里。"
-      },
-      {
-       "en": "Once these birds' bellies are full \"they absolutely bomb it back to their colony,\" Lewin said. Often they make the long journey home in just a day or so.",
-       "zh": "Lewin 说，一旦这些鸟的肚子吃饱了，它们就会“立即飞回它们的巢穴”。它们通常只需一天左右就能完成漫长的回家旅程。"
-      },
-      {
-       "en": "Which raised an interesting question: Do Manx shearwaters feel jet lag (or perhaps more aptly, flap lag)?",
-       "zh": "这就引出了一个有趣的问题：马恩岛剪尾海燕会感到时差反应（或者更恰当地说，拍翅疲劳）吗？"
-      },
-      {
-       "en": "To see if these little birds really did feel the effects of flying through time zones like humans do, Lewin used a remarkable tool – for 20 years, his colleagues had been tagging birds with GPS trackers and collecting data on their flights out to the Atlantic and back.",
-       "zh": "为了看看这些小鸟是否真的像人类一样感受到穿越时区的影响，刘文使用了一种非凡的工具——在过去20年里，他的同事们一直在给鸟类装上GPS追踪器，并收集它们往返大西洋的飞行数据。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "research",
-       "pos": "n.",
-       "zh": "研究",
-       "ex": "New research shows that humans are not the only species to get jet lag: Some birds appear to experience it too.",
-       "forms": []
-      },
-      {
-       "w": "species",
-       "pos": "n.",
-       "zh": "物种",
-       "ex": "New research shows that humans are not the only species to get jet lag: Some birds appear to experience it too.",
-       "forms": []
-      },
-      {
-       "w": "lag",
-       "pos": "v.",
-       "zh": "落后",
-       "ex": "New research shows that humans are not the only species to get jet lag: Some birds appear to experience it too.",
-       "forms": []
-      },
-      {
-       "w": "study",
-       "pos": "n.",
-       "zh": "研究；学习",
-       "ex": "A study published in the journal Science found that a type of seabird known as the Manx shearwater appears to become slightly disoriented during long flights across the Atlantic Ocean.",
-       "forms": []
-      },
-      {
-       "w": "fall",
-       "pos": "n.",
-       "zh": "下降；下跌",
-       "ex": "That disorientation, the authors say, is due to the bird's internal clock falling out of sync with the sun's position in the sky.",
-       "forms": [
-        "falling"
-       ]
-      },
-      {
-       "w": "university",
-       "pos": "n.",
-       "zh": "大学",
-       "ex": "They look a little like seagulls, but \"they're actually very closely related to an albatross,\" said Patrick Lewin, a behavioral ecologist at the University of Oxford.",
-       "forms": []
-      },
-      {
-       "w": "effect",
-       "pos": "n.",
-       "zh": "影响；效果",
-       "ex": "To see if these little birds really did feel the effects of flying through time zones like humans do, Lewin used a remarkable tool – for 20 years, his colleagues had been tagging birds with GPS trackers and collecting data on their flights out to the Atlantic and back.",
-       "forms": [
-        "effects"
-       ]
-      },
-      {
-       "w": "remarkable",
-       "pos": "adj.",
-       "zh": "非凡的；引人注目的",
-       "ex": "To see if these little birds really did feel the effects of flying through time zones like humans do, Lewin used a remarkable tool – for 20 years, his colleagues had been tagging birds with GPS trackers and collecting data on their flights out to the Atlantic and back.",
-       "forms": []
-      },
-      {
-       "w": "data",
-       "pos": "n.",
-       "zh": "数据",
-       "ex": "To see if these little birds really did feel the effects of flying through time zones like humans do, Lewin used a remarkable tool – for 20 years, his colleagues had been tagging birds with GPS trackers and collecting data on their flights out to the Atlantic and back.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "research",
-      "species",
-      "lag",
-      "study",
-      "fall"
-     ],
-     "keyVocab": [
-      "research",
-      "species",
-      "lag",
-      "study",
-      "fall",
-      "university",
-      "effect",
-      "remarkable"
-     ]
-    },
-    {
-     "id": "2026-10-30-culture",
-     "section": "Culture",
-     "sectionZh": "文化",
-     "title": "Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86",
-     "dek": "Sir Patrick Stewart's most famous characters tackled concepts such as honor, morality and courage. He played Professor X in the X-Men franchise and Jean-Luc Picard, captain of the starship USS…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/29/1230906945/patrick-stewart-dead",
-     "byline": "Adwoa Gyimah-Brempong",
-     "dateLabel": "2026-10-30",
-     "words": 359,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "Sir Patrick Stewart's most famous characters tackled concepts such as honor, morality and courage. He played Professor X in the X-Men franchise and Jean-Luc Picard, captain of the starship USS Enterprise, on the show Star Trek: The Next Generation and its later spinoff, Picard.",
-       "zh": "帕特里克·斯图尔特爵士最著名的角色探讨了荣誉、道德和勇气等概念。他在《X 战警》系列中饰演了X教授，在电视剧《星际迷航：下一代》及其后来的衍生剧《皮卡德》中饰演了星舰企业号的船长让-卢克·皮卡尔。"
-      },
-      {
-       "en": "Stewart died Wednesday at 86. A post on his Facebook and Instagram pages said he died at home in Los Angeles after a \"brief and poignant journey with Alzheimer's Disease and Lewy Body Dementia.\"",
-       "zh": "斯图尔特于周三去世，享年86岁。他的Facebook和Instagram页面上的一则帖子称，他在洛杉矶的家中去世，死因是在经历了“与阿尔茨海默病和路易体痴呆症的短暂而深刻的旅程”之后。"
-      },
-      {
-       "en": "Although he was beloved for playing compassionate father figures who united families of misfits, Stewart's own upbringing in Yorkshire, England, was harsh. He remembered his father as alcoholic and abusive. He found solace in school and, eventually, in Shakespeare. He joined the Royal Shakespeare Company in 1966 and debuted on Broadway in 1970 in A Midsummer Night's Dream.",
-       "zh": "尽管他因扮演充满同情心、能够团结各种怪人家庭的父亲角色而受到喜爱，但斯图尔特自己在英国约克郡的成长经历却十分艰难。他记得自己的父亲酗酒且虐待人。他在学校找到了慰藉，最终在莎士比亚的作品中找到了安慰。他于1966年加入皇家莎士比亚剧团，并于1970年在百老汇的《仲夏夜之梦》中首次登台演出。"
-      },
-      {
-       "en": "\"To stand in the middle of an empty stage in an empty theater and feel that I was at home was everything,\" he told NPR in 2023. \"But it took a while for me to get there.\"",
-       "zh": "他在2023年告诉NPR：“站在一座空剧院的空舞台中央，感受到自己仿佛在家里，这就是一切。但我花了一段时间才达到那个状态。”"
-      },
-      {
-       "en": "Stewart played alongside some of the best Shakespeareans of his time, including Judi Dench and Ian McKellen. He was lecturing on Shakespeare at UCLA when his name came up for the lead in a new series of Star Trek.",
-       "zh": "斯图尔特与他那个时代的一些最优秀的莎士比亚演员一起演出，包括朱迪·丹奇和伊恩·麦克莱恩。当他在加州大学洛杉矶分校讲授莎士比亚时，他的名字被提名为新一季《星际迷航》的主角。"
-      },
-      {
-       "en": "\"Don't do this, Patrick,\" he remembered McKellen advising him. \"You're a very good stage actor. That's where you ought to be. Don't do it.\"",
-       "zh": "“别这么做，帕特里克，”他记得麦克凯伦曾劝告他。“你是个非常好的舞台演员。你应该待在舞台上。别做这件事。”"
-      },
-      {
-       "en": "But Stewart's agent had reassured him that the show was unlikely to make it past the first season. As the actor recalled to NPR, he was encouraged to take what he believed to be a quick and easy job. \"'Do six months' work. Make some money for the first time in your life and get well known. Get a suntan, and go home.' And I thought, 'Yeah, that doesn't sound too bad. I could live with that.'\"",
-       "zh": "但斯图尔特的经纪人向他保证，这部剧不太可能超过第一季。正如这位演员向NPR回忆的那样，他被鼓励去接他认为是一个快速且轻松的工作。‘干六个月的活。第一次赚钱并让自己出名。晒晒太阳，然后回家。’我当时心想，‘是啊，这听起来还不错。我能接受这个。’"
-      },
-      {
-       "en": "But Star Trek: The Next Generation was a tremendous hit. It aired for seven seasons, from 1987 to 1994. Stewart was embraced by fans, who adored the character's penchant for Earl Grey tea and cool-headed leadership, with such signature phrases as \"Engage!\" and \"Make it so!\"",
-       "zh": "但是《星际迷航：下一代》取得了巨大的成功。它从1987年播出到1994年，共播出七季。斯图尔特受到了粉丝的喜爱，粉丝们喜爱这个角色对伯爵茶的偏爱以及冷静的领导风格，以及他标志性的台词，如“出发！”和“照办！”"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "generation",
-       "pos": "n.",
-       "zh": "一代人；世代",
-       "ex": "He played Professor X in the X-Men franchise and Jean-Luc Picard, captain of the starship USS Enterprise, on the show Star Trek: The Next Generation and its later spinoff, Picard.",
-       "forms": []
-      },
-      {
-       "w": "disease",
-       "pos": "n.",
-       "zh": "疾病",
-       "ex": "A post on his Facebook and Instagram pages said he died at home in Los Angeles after a \"brief and poignant journey with Alzheimer's Disease and Lewy Body Dementia.\" Although he was beloved for playing compassionate father figures who united families of misfits, Stewart's own upbringing in Yorkshire, England, was harsh.",
-       "forms": []
-      },
-      {
-       "w": "family",
-       "pos": "n.",
-       "zh": "家庭",
-       "ex": "A post on his Facebook and Instagram pages said he died at home in Los Angeles after a \"brief and poignant journey with Alzheimer's Disease and Lewy Body Dementia.\" Although he was beloved for playing compassionate father figures who united families of misfits, Stewart's own upbringing in Yorkshire, England, was harsh.",
-       "forms": [
-        "families"
-       ]
-      },
-      {
-       "w": "school",
-       "pos": "n.",
-       "zh": "学校",
-       "ex": "He found solace in school and, eventually, in Shakespeare.",
-       "forms": []
-      },
-      {
-       "w": "theater",
-       "pos": "n.",
-       "zh": "剧院；戏剧",
-       "ex": "\"To stand in the middle of an empty stage in an empty theater and feel that I was at home was everything,\" he told NPR in 2023.",
-       "forms": []
-      },
-      {
-       "w": "actor",
-       "pos": "n.",
-       "zh": "演员",
-       "ex": "\"You're a very good stage actor.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "generation",
-      "disease",
-      "family",
-      "school",
-      "theater"
-     ],
-     "keyVocab": [
-      "generation",
-      "disease",
-      "family",
-      "school",
-      "theater",
-      "actor"
      ]
     }
    ]
