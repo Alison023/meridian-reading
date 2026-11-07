@@ -1,6 +1,724 @@
 window.__MERIDIAN_DATA__ = {
- "updated": "2026-11-06T07:07:11.245414+00:00",
+ "updated": "2026-11-07T06:19:48.202917+00:00",
  "days": [
+  {
+   "date": "2026-11-07",
+   "articles": [
+    {
+     "id": "2026-11-07-world",
+     "section": "World",
+     "sectionZh": "国际",
+     "title": "Israel's Arab-led parties in spotlight after inconclusive election",
+     "dek": "Arab parties hold the key to power in deadlocked Israel election",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
+     "byline": "Ruth Sherlock",
+     "dateLabel": "2026-11-07",
+     "words": 306,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "Arab parties hold the key to power in deadlocked Israel election",
+       "zh": "阿拉伯政党掌握以色列僵局选举中的权力关键"
+      },
+      {
+       "en": "KUFR QASI, Israel — In recent years many Palestinian citizens of Israel shunned elections, believing there was little to gain from participating in the politics of a state which, they say, regularly marginalizes their communities and oppresses their fellow Palestinians in the West Bank and Gaza.",
+       "zh": "库夫尔卡西，以色列——近年来，许多以色列的巴勒斯坦公民回避选举，认为参与一个他们说经常边缘化自己的社区并压迫约旦河西岸和加沙地区同行巴勒斯坦人的国家的政治，没有什么可获得的。"
+      },
+      {
+       "en": "But last month, Palestinian Arabs in Israel came to the ballot boxes in record numbers, helping strip Prime Minister Benjamin Netanyahu's most far-right government in Israel's history of its majority, and giving Arab-led parties the votes they needed to become a powerful force in Israeli politics.",
+       "zh": "但在上个月，居住在以色列的巴勒斯坦阿拉伯人大规模前往投票站，以创纪录的方式投票，这帮助剥夺了本杰明·内塔尼亚胡担任的以色列历史上最极右政府的多数席位，并为阿拉伯主导的政党提供了他们在以色列政治中成为一个强大力量所需的选票。"
+      },
+      {
+       "en": "\"We blocked the government of Netanyahu from continuing,\" said Jamal Zahalka, chairman of the High Follow-Up Committee, the main umbrella body representing Palestinian citizens of Israel. \"It's a historical achievement. I think our community found its strength.\"",
+       "zh": "“我们阻止了内塔尼亚胡政府的继续执政，”高级跟进委员会主席贾迈勒·扎哈尔卡说，该委员会是代表以色列巴勒斯坦公民的主要伞形机构。“这是一个历史性的成就。我认为我们的社区找到了自己的力量。”"
+      },
+      {
+       "en": "Neither Netanyahu's coalition, nor his main challenger Gadi Eisenkot's center-right opposition, reached the threshold of 61 seats needed to form a government. Arab-led parties won 19 out of 120 seats — enough to give them a critical role in the negotiations that will now determine who governs Israel at this turbulent moment in the country's history.",
+       "zh": "无论是内塔尼亚胡的联盟，还是他主要的对手加迪·艾森科特领导的中右翼反对派，都未能达到组建政府所需的61个席位门槛。由阿拉伯人领导的政党赢得了120个席位中的19个——足以使他们在谈判中发挥关键作用，而这些谈判将决定在以色列历史这个动荡时刻谁来执政。"
+      },
+      {
+       "en": "The election results strike at the heart of the decades-long questions about how Israel defines itself and the role of Palestinian Arabs in its society.",
+       "zh": "选举结果触及了关于以色列如何定义自身以及巴勒斯坦阿拉伯人在其社会中角色的长期问题的核心。"
+      },
+      {
+       "en": "At a park in the Palestinian-majority town of Kufr Qasim two days after the election, hundreds of people gathered for the annual commemoration of residents gunned down in 1956 by Israeli border police on the opening day of the Suez Crisis in the violent early years of the state, when Israel, Britain and France attacked Egypt after it nationalized the Suez Canal.",
+       "zh": "在选举两天后的巴勒斯坦人占多数的库夫尔卡西姆镇的一座公园里，数百人聚集在一起，参加年度纪念活动，以缅怀1956年以色列边境警察在苏伊士运河危机开端当天枪杀的居民。那是以色列建国初期的动荡岁月，当时以色列、英国和法国在埃及将苏伊士运河国有化后对埃及发起了攻击。"
+      },
+      {
+       "en": "\"And today we stand here, 70 years later,\" the speaker told the large crowd from a podium: \"And the story still isn't over.\"",
+       "zh": "演讲者站在讲台上对聚集的大群人说：“而今天，70年过去了，我们依然站在这里，故事还没有结束。”"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "party",
+       "pos": "n.",
+       "zh": "政党；一方",
+       "ex": "Arab parties hold the key to power in deadlocked Israel election KUFR QASI, Israel — In recent years many Palestinian citizens of Israel shunned elections, believing there was little to gain from participating in the politics of a state which, they say, regularly marginalizes their communities and oppresses their fellow Palestinians in the West Bank and Gaza.",
+       "forms": [
+        "parties"
+       ]
+      },
+      {
+       "w": "power",
+       "pos": "n.",
+       "zh": "权力；电力",
+       "ex": "Arab parties hold the key to power in deadlocked Israel election KUFR QASI, Israel — In recent years many Palestinian citizens of Israel shunned elections, believing there was little to gain from participating in the politics of a state which, they say, regularly marginalizes their communities and oppresses their fellow Palestinians in the West Bank and Gaza.",
+       "forms": []
+      },
+      {
+       "w": "election",
+       "pos": "n.",
+       "zh": "选举",
+       "ex": "Arab parties hold the key to power in deadlocked Israel election KUFR QASI, Israel — In recent years many Palestinian citizens of Israel shunned elections, believing there was little to gain from participating in the politics of a state which, they say, regularly marginalizes their communities and oppresses their fellow Palestinians in the West Bank and Gaza.",
+       "forms": [
+        "elections"
+       ]
+      },
+      {
+       "w": "community",
+       "pos": "n.",
+       "zh": "社区；群体",
+       "ex": "Arab parties hold the key to power in deadlocked Israel election KUFR QASI, Israel — In recent years many Palestinian citizens of Israel shunned elections, believing there was little to gain from participating in the politics of a state which, they say, regularly marginalizes their communities and oppresses their fellow Palestinians in the West Bank and Gaza.",
+       "forms": [
+        "communities"
+       ]
+      },
+      {
+       "w": "ballot",
+       "pos": "n.",
+       "zh": "选票；投票",
+       "ex": "But last month, Palestinian Arabs in Israel came to the ballot boxes in record numbers, helping strip Prime Minister Benjamin Netanyahu's most far-right government in Israel's history of its majority, and giving Arab-led parties the votes they needed to become a powerful force in Israeli politics.",
+       "forms": []
+      },
+      {
+       "w": "number",
+       "pos": "n.",
+       "zh": "数量；数字",
+       "ex": "But last month, Palestinian Arabs in Israel came to the ballot boxes in record numbers, helping strip Prime Minister Benjamin Netanyahu's most far-right government in Israel's history of its majority, and giving Arab-led parties the votes they needed to become a powerful force in Israeli politics.",
+       "forms": [
+        "numbers"
+       ]
+      },
+      {
+       "w": "minister",
+       "pos": "n.",
+       "zh": "部长；大臣",
+       "ex": "But last month, Palestinian Arabs in Israel came to the ballot boxes in record numbers, helping strip Prime Minister Benjamin Netanyahu's most far-right government in Israel's history of its majority, and giving Arab-led parties the votes they needed to become a powerful force in Israeli politics.",
+       "forms": []
+      },
+      {
+       "w": "history",
+       "pos": "n.",
+       "zh": "历史",
+       "ex": "But last month, Palestinian Arabs in Israel came to the ballot boxes in record numbers, helping strip Prime Minister Benjamin Netanyahu's most far-right government in Israel's history of its majority, and giving Arab-led parties the votes they needed to become a powerful force in Israeli politics.",
+       "forms": []
+      },
+      {
+       "w": "majority",
+       "pos": "n.",
+       "zh": "多数；大多数",
+       "ex": "But last month, Palestinian Arabs in Israel came to the ballot boxes in record numbers, helping strip Prime Minister Benjamin Netanyahu's most far-right government in Israel's history of its majority, and giving Arab-led parties the votes they needed to become a powerful force in Israeli politics.",
+       "forms": []
+      },
+      {
+       "w": "vote",
+       "pos": "n.",
+       "zh": "投票；表决",
+       "ex": "But last month, Palestinian Arabs in Israel came to the ballot boxes in record numbers, helping strip Prime Minister Benjamin Netanyahu's most far-right government in Israel's history of its majority, and giving Arab-led parties the votes they needed to become a powerful force in Israeli politics.",
+       "forms": [
+        "votes"
+       ]
+      },
+      {
+       "w": "coalition",
+       "pos": "n.",
+       "zh": "联合政府；联盟",
+       "ex": "I think our community found its strength.\" Neither Netanyahu's coalition, nor his main challenger Gadi Eisenkot's center-right opposition, reached the threshold of 61 seats needed to form a government.",
+       "forms": []
+      },
+      {
+       "w": "opposition",
+       "pos": "n.",
+       "zh": "反对派；反对",
+       "ex": "I think our community found its strength.\" Neither Netanyahu's coalition, nor his main challenger Gadi Eisenkot's center-right opposition, reached the threshold of 61 seats needed to form a government.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "party",
+      "power",
+      "election",
+      "community",
+      "ballot"
+     ],
+     "keyVocab": [
+      "party",
+      "power",
+      "election",
+      "community",
+      "ballot",
+      "number",
+      "minister",
+      "history"
+     ]
+    },
+    {
+     "id": "2026-11-07-business",
+     "section": "Business",
+     "sectionZh": "商业 · 财经",
+     "title": "This was the week the AI trade cracked. So what's next?",
+     "dek": "Big losses by AI shares in stock markets after Democrats won the midterm elections have left investors shaken and wondering comes next.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/06/nx-s1-6032695/this-was-the-week-the-ai-trade-cracked-so-whats-next",
+     "byline": "Rafael Nam",
+     "dateLabel": "2026-11-07",
+     "words": 402,
+     "readTime": 3,
+     "level": "B2",
+     "levelEn": "Upper-intermediate",
+     "paragraphs": [
+      {
+       "en": "Big losses by AI shares in stock markets after Democrats won the midterm elections have left investors shaken and wondering comes next.",
+       "zh": "在中期选举中民主党获胜后，人工智能股票在股市中遭遇重大损失，这让投资者感到震惊并在思考接下来会发生什么。"
+      },
+      {
+       "en": "It has been a bumpy ride for AI and tech stocks this week. AI shares bounced back today. That was after suffering a huge loss yesterday that wiped out more than $2 trillion in value. Big Democratic victories have raised big fears about the outlook for AI, which, of course, is a game-changing technology, and tech companies are pouring a ton of money into developing it. It's not clear, though, if we are in the middle of a tech bubble that is about to burst.",
+       "zh": "本周人工智能和科技股经历了颠簸的一周。今天，人工智能股票反弹了。在昨天遭受了巨大损失之后，这些损失抹去了超过2万亿美元的市值。民主党取得重大胜利，引发了人们对人工智能前景的巨大担忧。当然，人工智能是一项改变游戏规则的技术，而科技公司正在投入大量资金进行开发。不过，目前尚不清楚我们是否正处在即将破裂的科技泡沫之中。"
+      },
+      {
+       "en": "Let's bring in NPR senior economics and finance editor Rafael Nam and NPR tech correspondent John Ruwitch. Hey to the both of you.",
+       "zh": "让我们请来NPR高级经济与金融编辑拉斐尔·纳姆以及NPR科技记者约翰·鲁维奇。向你们两位打个招呼。"
+      },
+      {
+       "en": "KELLY: Hey. Rafael, you start. AI shares did recover today. Let's underscore that. But investors are still feeling queasy.",
+       "zh": "凯利：嘿，拉斐尔，你先说。人工智能股票今天确实回升了。我们要强调这一点。但是投资者仍然感到不安。"
+      },
+      {
+       "en": "NAM: Yeah, I think the scale of the losses yesterday was pretty staggering. And another kind you see - the kind you only see every once in a while, to be honest. And investors are still a little shaken. I mean, traders had already been feeling very uneasy all year long about the AI trade, and there's a lot of money riding on AI.",
+       "zh": "NAM：是的，我认为昨天的损失规模相当惊人。你还看到另一种情况——说实话，这种情况很少见。投资者们仍然有些震惊。我的意思是，交易员们整整一年对人工智能交易一直感到非常不安，而在人工智能上押注的资金很大。"
+      },
+      {
+       "en": "NAM: Yeah, and a lot of concerns about whether all of this is going to pay off. And data centers are critical to AI companies, so when you have a wave of Democrats being elected talking about things like creating moratoriums or slowing down the development of data centers, investors can freak out.",
+       "zh": "NAM: 是的，很多人都担心这一切是否能够带来回报。数据中心对人工智能公司至关重要，所以当一波民主党人当选并讨论诸如制定暂停令或减缓数据中心发展之类的事情时，投资者可能会感到恐慌。"
+      },
+      {
+       "en": "KELLY: John, dig into that, if you would. Explain the freakout.",
+       "zh": "凯利：约翰，如果你愿意的话，深入研究一下。解释一下这种惊慌情绪。"
+      },
+      {
+       "en": "RUWITCH: Yeah. So there has been this boom in construction in AI data centers. There's trillions of dollars committed to more of them, but people are nervous about them - about the water and electricity costs, about what it means for jobs. I mean, just last night, I was at a town hall in San Jose, California. This is the heart of Silicon Valley, like, home turf for AI. And there are plans for as many as 13 new data centers there. Residents like Justin Brown say things are just moving way too fast.",
+       "zh": "RUWITCH：是的。所以在人工智能数据中心的建设方面出现了繁荣现象。已经有数万亿美元投入到更多的数据中心，但人们对它们感到紧张——担心水电成本，以及它对就业意味着什么。我的意思是，就在昨晚，我在加利福尼亚州圣何塞参加了一次市政厅会议。这里是硅谷的核心，算是人工智能的主阵地。而且计划在那里建多达13个新的数据中心。像贾斯廷·布朗这样的居民说，一切进展得太快了。"
+      },
+      {
+       "en": "JUSTIN BROWN: Like, let's actually have a debate, and let's talk about this and see if there's some sort of common ground so the residents can get something out of this.",
+       "zh": "贾斯廷·布朗：比如，我们实际上来进行一场辩论，讨论一下这个问题，看看是否有某种共同点，这样居民们就能从中受益。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "market",
+       "pos": "n.",
+       "zh": "市场",
+       "ex": "Big losses by AI shares in stock markets after Democrats won the midterm elections have left investors shaken and wondering comes next.",
+       "forms": [
+        "markets"
+       ]
+      },
+      {
+       "w": "election",
+       "pos": "n.",
+       "zh": "选举",
+       "ex": "Big losses by AI shares in stock markets after Democrats won the midterm elections have left investors shaken and wondering comes next.",
+       "forms": [
+        "elections"
+       ]
+      },
+      {
+       "w": "investor",
+       "pos": "n.",
+       "zh": "投资者",
+       "ex": "Big losses by AI shares in stock markets after Democrats won the midterm elections have left investors shaken and wondering comes next.",
+       "forms": [
+        "investors"
+       ]
+      },
+      {
+       "w": "outlook",
+       "pos": "n.",
+       "zh": "前景；展望",
+       "ex": "Big Democratic victories have raised big fears about the outlook for AI, which, of course, is a game-changing technology, and tech companies are pouring a ton of money into developing it.",
+       "forms": []
+      },
+      {
+       "w": "technology",
+       "pos": "n.",
+       "zh": "技术；科技",
+       "ex": "Big Democratic victories have raised big fears about the outlook for AI, which, of course, is a game-changing technology, and tech companies are pouring a ton of money into developing it.",
+       "forms": []
+      },
+      {
+       "w": "bubble",
+       "pos": "n.",
+       "zh": "泡沫",
+       "ex": "It's not clear, though, if we are in the middle of a tech bubble that is about to burst.",
+       "forms": []
+      },
+      {
+       "w": "economic",
+       "pos": "adj.",
+       "zh": "经济的",
+       "ex": "Let's bring in NPR senior economics and finance editor Rafael Nam and NPR tech correspondent John Ruwitch.",
+       "forms": [
+        "economics"
+       ]
+      },
+      {
+       "w": "data",
+       "pos": "n.",
+       "zh": "数据",
+       "ex": "And data centers are critical to AI companies, so when you have a wave of Democrats being elected talking about things like creating moratoriums or slowing down the development of data centers, investors can freak out.",
+       "forms": []
+      },
+      {
+       "w": "critical",
+       "pos": "adj.",
+       "zh": "关键的；批评的",
+       "ex": "And data centers are critical to AI companies, so when you have a wave of Democrats being elected talking about things like creating moratoriums or slowing down the development of data centers, investors can freak out.",
+       "forms": []
+      },
+      {
+       "w": "explain",
+       "pos": "v.",
+       "zh": "解释",
+       "ex": "Explain the freakout.",
+       "forms": []
+      },
+      {
+       "w": "boom",
+       "pos": "n.",
+       "zh": "繁荣；激增",
+       "ex": "So there has been this boom in construction in AI data centers.",
+       "forms": []
+      },
+      {
+       "w": "water",
+       "pos": "n.",
+       "zh": "水",
+       "ex": "There's trillions of dollars committed to more of them, but people are nervous about them - about the water and electricity costs, about what it means for jobs.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "market",
+      "election",
+      "investor",
+      "outlook",
+      "technology"
+     ],
+     "keyVocab": [
+      "market",
+      "election",
+      "investor",
+      "outlook",
+      "technology",
+      "bubble",
+      "economic",
+      "data"
+     ]
+    },
+    {
+     "id": "2026-11-07-technology",
+     "section": "Technology",
+     "sectionZh": "科技",
+     "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
+     "dek": "In a new security bulletin, the information sharing and analysis center devoted to the healthcare industry, Health ISAC, alerted members to a recent wave of cyberattacks targeting refrigeration…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/06/nx-s1-6032602/cyberattack-blood-bank-healthcare",
+     "byline": "Jenna McLaughlin",
+     "dateLabel": "2026-11-07",
+     "words": 378,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "In a new security bulletin, the information sharing and analysis center devoted to the healthcare industry, Health ISAC, alerted members to a recent wave of cyberattacks targeting refrigeration controllers — including one incident that affected a major French blood bank.",
+       "zh": "在一份新的安全公告中，专注于医疗行业的信息共享与分析中心 Health ISAC 提醒其成员注意近期针对制冷控制器的一波网络攻击——其中一起事件影响了法国一家主要的血液银行。"
+      },
+      {
+       "en": "\"This alert is issued for situational awareness, highlighting how recent operational technology (OT) attacks against specific refrigeration brands directly intersect with emerging threats to the health sector,\" reads the bulletin seen by NPR. Operational technology refers to the machines that control physical processes in the real world, from cooling systems to water pumps.",
+       "zh": "NPR看到的公告上写道：“此警报的发布是为了增强情境意识，强调近期针对特定制冷品牌的操作技术（OT）攻击如何与新兴的卫生部门威胁直接交叉。”操作技术是指控制现实世界物理过程的机器，从冷却系统到水泵。"
+      },
+      {
+       "en": "Cyberattacks on grocery stores and food processing plants everywhere from Europe and Israel to U.S. military bases have drawn headlines in recent months, particularly as attacks have resulted in spoiled food, fires, broken machinery, and major business disruptions. Attackers are clearly aware of the vulnerability of these systems and are taking advantage.",
+       "zh": "针对从欧洲和以色列到美国军事基地的杂货店和食品加工厂的网络攻击在最近几个月引起了头条关注，特别是因为这些攻击导致了食物变质、火灾、设备损坏以及重大业务中断。攻击者显然意识到这些系统的脆弱性，并正在加以利用。"
+      },
+      {
+       "en": "However, until news broke that the French blood bank, known as the French Blood Establishment, had also been targeted, there was less public attention focused on the potential consequences of refrigeration controllers failing in other industries, particularly healthcare, where lifesaving implements like blood and vaccines often require finely tuned temperature-controlled environments to remain viable.",
+       "zh": "然而，直到有消息传出法国血液银行，即法国血液机构，也成为目标之前，公众对制冷控制器在其他行业中失效可能带来的后果关注较少，尤其是在医疗行业，因为像血液和疫苗这样的救命工具通常需要精确调控的温控环境才能保持有效。"
+      },
+      {
+       "en": "\"This incident underscores a stark operational reality: cybersecurity in healthcare is fundamentally about patient safety,\" wrote Errol Weiss, the chief security officer at Health ISAC in an email to NPR. \"When threat actors manipulate operational technology like cold-chain storage and refrigeration units holding donor blood, plasma, or critical therapies, they aren't merely stealing data or locking down administrative files, they are directly endangering the physical resources required to sustain human life.\"",
+       "zh": "Health ISAC 的首席安全官 Errol Weiss 在给 NPR 的一封电子邮件中写道：“这一事件凸显了一个严峻的运营现实：医疗保健中的网络安全本质上关乎患者安全。当威胁行为者操纵如冷链储存和存放捐赠血液、血浆或关键治疗药物的制冷设备等运营技术时，他们不仅仅是在窃取数据或锁定管理文件，而是直接危及维持人类生命所需的物理资源。”"
+      },
+      {
+       "en": "On Thursday, the Cybersecurity and Infrastructure Security Agency, the FBI, the Department of Health and Human Services, and the U.S. Department of Agriculture published their own fact sheet about threats to industrial refrigeration and cold chain monitoring systems, tools they identify as critical to multiple industries from healthcare to chemical production, food and agriculture, and transportation.",
+       "zh": "星期四，网络安全和基础设施安全局、联邦调查局、卫生与公共服务部以及美国农业部发布了关于工业制冷和冷链监控系统威胁的各自事实说明，这些工具被认为对从医疗保健到化学生产、食品与农业以及运输等多个行业至关重要。"
+      },
+      {
+       "en": "The FBI Cyber Branch Operations director, Brett Leatherman, said the bureau is tracking bad actors targeting these systems \"across critical infrastructure sectors globally, putting inventory and equipment at risk.\"",
+       "zh": "联邦调查局网络分支机构运营主管布雷特·莱瑟曼表示，该局正在追踪针对这些系统的恶意行为者，“这些行为者遍及全球关键基础设施部门，使库存和设备面临风险。”"
+      },
+      {
+       "en": "\"Industrial refrigeration and cold-chain monitoring systems protect food, medicine, and other temperature-sensitive products, making them attractive targets for malicious cyber actors,\" Leatherman said.",
+       "zh": "Leatherman 说：“工业制冷和冷链监控系统保护食品、药品及其他对温度敏感的产品，使它们成为恶意网络行为者的有吸引力的目标。”"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "analysis",
+       "pos": "n.",
+       "zh": "分析",
+       "ex": "In a new security bulletin, the information sharing and analysis center devoted to the healthcare industry, Health ISAC, alerted members to a recent wave of cyberattacks targeting refrigeration controllers — including one incident that affected a major French blood bank.",
+       "forms": []
+      },
+      {
+       "w": "industry",
+       "pos": "n.",
+       "zh": "行业；工业",
+       "ex": "In a new security bulletin, the information sharing and analysis center devoted to the healthcare industry, Health ISAC, alerted members to a recent wave of cyberattacks targeting refrigeration controllers — including one incident that affected a major French blood bank.",
+       "forms": [
+        "industries"
+       ]
+      },
+      {
+       "w": "health",
+       "pos": "n.",
+       "zh": "健康；卫生",
+       "ex": "In a new security bulletin, the information sharing and analysis center devoted to the healthcare industry, Health ISAC, alerted members to a recent wave of cyberattacks targeting refrigeration controllers — including one incident that affected a major French blood bank.",
+       "forms": []
+      },
+      {
+       "w": "issue",
+       "pos": "n.",
+       "zh": "议题；问题",
+       "ex": "\"This alert is issued for situational awareness, highlighting how recent operational technology (OT) attacks against specific refrigeration brands directly intersect with emerging threats to the health sector,\" reads the bulletin seen by NPR.",
+       "forms": [
+        "issued"
+       ]
+      },
+      {
+       "w": "technology",
+       "pos": "n.",
+       "zh": "技术；科技",
+       "ex": "\"This alert is issued for situational awareness, highlighting how recent operational technology (OT) attacks against specific refrigeration brands directly intersect with emerging threats to the health sector,\" reads the bulletin seen by NPR.",
+       "forms": []
+      },
+      {
+       "w": "emerge",
+       "pos": "v.",
+       "zh": "出现；浮现",
+       "ex": "\"This alert is issued for situational awareness, highlighting how recent operational technology (OT) attacks against specific refrigeration brands directly intersect with emerging threats to the health sector,\" reads the bulletin seen by NPR.",
+       "forms": [
+        "emerging"
+       ]
+      },
+      {
+       "w": "threat",
+       "pos": "n.",
+       "zh": "威胁",
+       "ex": "\"This alert is issued for situational awareness, highlighting how recent operational technology (OT) attacks against specific refrigeration brands directly intersect with emerging threats to the health sector,\" reads the bulletin seen by NPR.",
+       "forms": [
+        "threats"
+       ]
+      },
+      {
+       "w": "water",
+       "pos": "n.",
+       "zh": "水",
+       "ex": "Operational technology refers to the machines that control physical processes in the real world, from cooling systems to water pumps.",
+       "forms": []
+      },
+      {
+       "w": "food",
+       "pos": "n.",
+       "zh": "食物",
+       "ex": "Cyberattacks on grocery stores and food processing plants everywhere from Europe and Israel to U.S.",
+       "forms": []
+      },
+      {
+       "w": "plant",
+       "pos": "n.",
+       "zh": "工厂；植物",
+       "ex": "Cyberattacks on grocery stores and food processing plants everywhere from Europe and Israel to U.S.",
+       "forms": [
+        "plants"
+       ]
+      },
+      {
+       "w": "military",
+       "pos": "n.",
+       "zh": "军队；军方",
+       "ex": "military bases have drawn headlines in recent months, particularly as attacks have resulted in spoiled food, fires, broken machinery, and major business disruptions.",
+       "forms": []
+      },
+      {
+       "w": "result",
+       "pos": "n.",
+       "zh": "结果",
+       "ex": "military bases have drawn headlines in recent months, particularly as attacks have resulted in spoiled food, fires, broken machinery, and major business disruptions.",
+       "forms": [
+        "resulted"
+       ]
+      }
+     ],
+     "homeWords": [
+      "analysis",
+      "industry",
+      "health",
+      "issue",
+      "technology"
+     ],
+     "keyVocab": [
+      "analysis",
+      "industry",
+      "health",
+      "issue",
+      "technology",
+      "emerge",
+      "threat",
+      "water"
+     ]
+    },
+    {
+     "id": "2026-11-07-science",
+     "section": "Science",
+     "sectionZh": "科学",
+     "title": "Even birds get jet lagged, study shows",
+     "dek": "New research shows that humans are not the only species to get jet lag: Some birds appear to experience it too.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/10/29/nx-s1-6019228/manx-shearwater-jet-lag-birds",
+     "byline": "Geoff Brumfiel",
+     "dateLabel": "2026-11-07",
+     "words": 267,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "New research shows that humans are not the only species to get jet lag: Some birds appear to experience it too.",
+       "zh": "新的研究表明，人类并不是唯一会经历时差反应的物种：一些鸟类似乎也会经历时差反应。"
+      },
+      {
+       "en": "A study published in the journal Science found that a type of seabird known as the Manx shearwater appears to become slightly disoriented during long flights across the Atlantic Ocean. That disorientation, the authors say, is due to the bird's internal clock falling out of sync with the sun's position in the sky.",
+       "zh": "发表在《科学》杂志上的一项研究发现，一种被称为曼克斯剪尾海燕的海鸟在横穿大西洋的长途飞行中似乎会出现轻微的迷失方向。作者表示，这种迷失方向是由于鸟类的内部时钟与太阳在天空中的位置不同步所导致的。"
+      },
+      {
+       "en": "Manx shearwaters are a common bird in the British Isles. They look a little like seagulls, but \"they're actually very closely related to an albatross,\" said Patrick Lewin, a behavioral ecologist at the University of Oxford.",
+       "zh": "曼岛海燕是英伦群岛常见的鸟类。它们看起来有点像海鸥，但“它们实际上与信天翁关系非常密切，”牛津大学行为生态学家帕特里克·卢因说。"
+      },
+      {
+       "en": "Shearwaters mate for life, and when they breed, a couple lays just one egg.",
+       "zh": "海燕终生配偶，当它们繁殖时，一对只会产一枚蛋。"
+      },
+      {
+       "en": "Then they take turns incubating it: \"One partner will sit on the egg nonstop while the other one goes out to sea,\" Lewin said.",
+       "zh": "然后它们轮流孵蛋：“一只伴侣会一直坐在蛋上，而另一只则出海，”卢因说道。"
+      },
+      {
+       "en": "For up to two weeks the hunting partners scour the North Atlantic for fish and squid, often travelling hundreds of miles from their nests.",
+       "zh": "在长达两周的时间里，捕猎伙伴在北大西洋寻找鱼类和鱿鱼，常常从它们的巢穴出发，行程达数百英里。"
+      },
+      {
+       "en": "Once these birds' bellies are full \"they absolutely bomb it back to their colony,\" Lewin said. Often they make the long journey home in just a day or so.",
+       "zh": "Lewin 说，一旦这些鸟的肚子吃饱了，“它们就会立即飞回自己的巢穴。” 它们通常只需一天左右的时间就能完成漫长的回家旅程。"
+      },
+      {
+       "en": "Which raised an interesting question: Do Manx shearwaters feel jet lag (or perhaps more aptly, flap lag)?",
+       "zh": "这就引出了一个有趣的问题：马恩岛剪尾海燕会感到时差（或者更恰当地说，是拍翅时差）吗？"
+      },
+      {
+       "en": "To see if these little birds really did feel the effects of flying through time zones like humans do, Lewin used a remarkable tool – for 20 years, his colleagues had been tagging birds with GPS trackers and collecting data on their flights out to the Atlantic and back.",
+       "zh": "为了看看这些小鸟是否真的像人类一样感受到穿越时区飞行的影响，卢因使用了一个非凡的工具——20年来，他的同事们一直在用GPS追踪器标记鸟类，并收集它们飞往大西洋及返回的飞行数据。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "research",
+       "pos": "n.",
+       "zh": "研究",
+       "ex": "New research shows that humans are not the only species to get jet lag: Some birds appear to experience it too.",
+       "forms": []
+      },
+      {
+       "w": "species",
+       "pos": "n.",
+       "zh": "物种",
+       "ex": "New research shows that humans are not the only species to get jet lag: Some birds appear to experience it too.",
+       "forms": []
+      },
+      {
+       "w": "lag",
+       "pos": "v.",
+       "zh": "落后",
+       "ex": "New research shows that humans are not the only species to get jet lag: Some birds appear to experience it too.",
+       "forms": []
+      },
+      {
+       "w": "study",
+       "pos": "n.",
+       "zh": "研究；学习",
+       "ex": "A study published in the journal Science found that a type of seabird known as the Manx shearwater appears to become slightly disoriented during long flights across the Atlantic Ocean.",
+       "forms": []
+      },
+      {
+       "w": "fall",
+       "pos": "n.",
+       "zh": "下降；下跌",
+       "ex": "That disorientation, the authors say, is due to the bird's internal clock falling out of sync with the sun's position in the sky.",
+       "forms": [
+        "falling"
+       ]
+      },
+      {
+       "w": "university",
+       "pos": "n.",
+       "zh": "大学",
+       "ex": "They look a little like seagulls, but \"they're actually very closely related to an albatross,\" said Patrick Lewin, a behavioral ecologist at the University of Oxford.",
+       "forms": []
+      },
+      {
+       "w": "effect",
+       "pos": "n.",
+       "zh": "影响；效果",
+       "ex": "To see if these little birds really did feel the effects of flying through time zones like humans do, Lewin used a remarkable tool – for 20 years, his colleagues had been tagging birds with GPS trackers and collecting data on their flights out to the Atlantic and back.",
+       "forms": [
+        "effects"
+       ]
+      },
+      {
+       "w": "remarkable",
+       "pos": "adj.",
+       "zh": "非凡的；引人注目的",
+       "ex": "To see if these little birds really did feel the effects of flying through time zones like humans do, Lewin used a remarkable tool – for 20 years, his colleagues had been tagging birds with GPS trackers and collecting data on their flights out to the Atlantic and back.",
+       "forms": []
+      },
+      {
+       "w": "data",
+       "pos": "n.",
+       "zh": "数据",
+       "ex": "To see if these little birds really did feel the effects of flying through time zones like humans do, Lewin used a remarkable tool – for 20 years, his colleagues had been tagging birds with GPS trackers and collecting data on their flights out to the Atlantic and back.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "research",
+      "species",
+      "lag",
+      "study",
+      "fall"
+     ],
+     "keyVocab": [
+      "research",
+      "species",
+      "lag",
+      "study",
+      "fall",
+      "university",
+      "effect",
+      "remarkable"
+     ]
+    },
+    {
+     "id": "2026-11-07-culture",
+     "section": "Culture",
+     "sectionZh": "文化",
+     "title": "Busy Philipps talks about treating her brain tumor and filming a new show",
+     "dek": "On Wild Card, Philipps unpacks the experience of treating her brain tumor and filming her new show, the CBS drama Cupertino. But she also opened up about another aspect of her life.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/06/nx-s1-6027839/busy-philipps-talks-about-treating-her-brain-tumor-and-filming-a-new-show",
+     "byline": "Rachel Martin",
+     "dateLabel": "2026-11-07",
+     "words": 296,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "On Wild Card, Philipps unpacks the experience of treating her brain tumor and filming her new show, the CBS drama Cupertino. But she also opened up about another aspect of her life.",
+       "zh": "在《Wild Card》中，Philipps 讲述了她治疗脑瘤和拍摄新剧集 CBS 剧集《Cupertino》的经历。但她也谈到了自己生活中的另一个方面。"
+      },
+      {
+       "en": "Each week, a guest draws a card from NPR's Wild Card deck and answers a big question about their life. Earlier this year, Busy Philipps had a morning that can give you whiplash. She had recently auditioned for the new CBS drama \"Cupertino.\" And then she got two calls.",
+       "zh": "每周，一位嘉宾会从NPR的《Wild Card》牌堆中抽一张牌，并回答关于他们生活中的一个重大问题。今年早些时候，Busy Philipps经历了一个可能让你目不暇接的早晨。她最近为CBS的新剧《Cupertino》参加了试镜。然后她收到了两个电话。"
+      },
+      {
+       "en": "BUSY PHILIPPS: I found out in the morning that \"Cupertino\" was happening. They were all so excited about me joining the cast. And a few hours later, Dr. Davinski called me from NYU and was like, you have a real brain tumor, and it's got to come out of your head. And I was like, OK, but I'm starting a new TV show (laughter), so I don't know if this is going to work for me.",
+       "zh": "比茜·菲利普斯：我早上才知道《库比蒂诺》要开拍。他们都对我加入剧组感到非常兴奋。几小时后，达文斯基医生从纽约大学给我打电话，说，你真的有一个脑瘤，必须从你脑子里取出来。我当时的反应是，好吧，但我正准备开一档新的电视剧（笑声），所以我不知道这是否适合我。"
+      },
+      {
+       "en": "KELLY: On Wild Card, Philipps unpacks the experience of treating her brain tumor and filming that new show. She also opened up about another aspect of her life with host Rachel Martin, and we will note, this conversation does touch on sex and child sexual assault.",
+       "zh": "凯利：在《Wild Card》中，菲利普斯讲述了她治疗脑瘤和拍摄新节目的经历。她还向主持人瑞秋·马丁敞开心扉，谈到了她生活的另一个方面，我们需要说明的是，这段对话确实涉及性和儿童性侵话题。"
+      },
+      {
+       "en": "RACHEL MARTIN: What's something you love that you discovered later in life?",
+       "zh": "瑞秋·马丁：你晚年才发现但却很喜欢的东西是什么？"
+      },
+      {
+       "en": "PHILIPPS: No, I mean, I had sex very early, but I think I was, like, not - I think I had been raped, and I was a woman of a - and I'm a woman of a certain age.",
+       "zh": "菲利普斯：不，我是说，我很早就发生了性关系，但我想，我不是——我想我曾经被强奸过，而且我是一个——我是一个有一定年纪的女性。"
+      },
+      {
+       "en": "PHILIPPS: ...Just was brought up in an era where, like, our pleasure was not a thing that we were sort of encouraged to even explore.",
+       "zh": "PHILIPPS: ……只是生长在那个时代，我们的快乐几乎不是一种我们被鼓励去探索的东西。"
+      },
+      {
+       "en": "PHILIPPS: And I didn't really - I, like, didn't get it kind of in a weird way.",
+       "zh": "PHILIPPS：其实我也没有完全明白——有点奇怪，我就是没弄懂。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "tumor",
+       "pos": "n.",
+       "zh": "肿瘤",
+       "ex": "On Wild Card, Philipps unpacks the experience of treating her brain tumor and filming her new show, the CBS drama Cupertino.",
+       "forms": []
+      },
+      {
+       "w": "film",
+       "pos": "n.",
+       "zh": "电影；影片",
+       "ex": "On Wild Card, Philipps unpacks the experience of treating her brain tumor and filming her new show, the CBS drama Cupertino.",
+       "forms": [
+        "filming"
+       ]
+      },
+      {
+       "w": "child",
+       "pos": "n.",
+       "zh": "儿童；孩子",
+       "ex": "She also opened up about another aspect of her life with host Rachel Martin, and we will note, this conversation does touch on sex and child sexual assault.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "tumor",
+      "film",
+      "child"
+     ],
+     "keyVocab": [
+      "tumor",
+      "film",
+      "child"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-06",
    "articles": [
@@ -4536,812 +5254,6 @@ window.__MERIDIAN_DATA__ = {
       "drone",
       "reveal",
       "global"
-     ]
-    }
-   ]
-  },
-  {
-   "date": "2026-10-31",
-   "articles": [
-    {
-     "id": "2026-10-31-world",
-     "section": "World",
-     "sectionZh": "国际",
-     "title": "Israel is in a political deadlock. What comes next?",
-     "dek": "TEL AVIV, Israel — Israel's election has produced a political deadlock, leaving neither Prime Minister Benjamin Netanyahu nor his main challenger, Gadi Eisenkot, with a clear path to forming a…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/30/g-s1-150761/israel-election-politics-deadlock-arabs",
-     "byline": "Itay Stern",
-     "dateLabel": "2026-10-31",
-     "words": 281,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "TEL AVIV, Israel — Israel's election has produced a political deadlock, leaving neither Prime Minister Benjamin Netanyahu nor his main challenger, Gadi Eisenkot, with a clear path to forming a government.",
-       "zh": "以色列特拉维夫--以色列大选造成了政治僵局，本雅明·内塔尼亚胡总理和他的主要挑战者加迪·艾森科特都没有走上组建政府的明确道路。"
-      },
-      {
-       "en": "The final results announced Friday give opposition parties more seats than Netanyahu's right-wing bloc. But Eisenkot, a center-right former military chief of staff, cannot reach a governing majority without the support of predominantly Arab parties — an option Eisenkot's allies repeatedly ruled out during the campaign.",
-       "zh": "周五公布的最终结果使反对党比内塔尼亚胡的右翼集团获得更多席位。但是，如果没有主要是阿拉伯政党的支持，中右翼的前军事参谋长艾森科特就无法获得执政党的多数席位—艾森科特的盟友在竞选期间一再排除了这一选择。"
-      },
-      {
-       "en": "Netanyahu's Likud party received the most votes — winning 27 seats — but his bloc lost the majority it had before the election. The coalition of right-wing, far-right and ultra-Orthodox parties that supported his government won a combined 53 seats. At least 61 seats are needed for a majority in Israel's 120-seat parliament, known as the Knesset.",
-       "zh": "内塔尼亚胡的利库德集团获得了最多的选票，赢得了27个席位，但他的集团失去了选举前的多数席位。支持他的政府的右翼、极右翼和极端东正教政党联盟共赢得了53个席位。在以色列120个席位的议会（即以色列议会）中，至少需要61个席位才能获得多数席位。"
-      },
-      {
-       "en": "Here is what happens next and the possible paths to a new Israeli government.",
-       "zh": "以下是接下来会发生什么，以及通往以色列新政府的可能途径。"
-      },
-      {
-       "en": "In the next few days, Israel's president will consult with the leaders of every party elected to parliament. Each party will recommend the party leader it believes should be given the first opportunity to form a coalition.",
-       "zh": "在接下来的几天里，以色列总统将与当选议会的每个政党的领导人进行磋商。每个政党都会推荐它认为应该第一次有机会组成联盟的政党领导人。"
-      },
-      {
-       "en": "The president is not required to choose the leader of the largest party. Instead, the president selects the candidate considered most likely to assemble a governing coalition.",
-       "zh": "总统不需要选择最大政党的领导人。相反，总统选择最有可能组建执政联盟的候选人。"
-      },
-      {
-       "en": "That candidate is given 28 days to secure the support of at least 61 lawmakers. The president may grant an extension of up to 14 days. If the effort fails, the president can give another candidate an opportunity to form a government.",
-       "zh": "该候选人有28天的时间获得至少61名立法者的支持。总统可以批准最多14天的延期。如果这一努力失败，总统可以给另一位候选人组建政府的机会。"
-      },
-      {
-       "en": "The process could take weeks, or months, or end without anyone assembling a majority.",
-       "zh": "这个过程可能需要数周或数月，或者在没有人占多数的情况下结束。"
-      },
-      {
-       "en": "Who is most likely to get the first opportunity to form a coalition?",
-       "zh": "谁最有可能获得组建联盟的第一个机会？"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "election",
-       "pos": "n.",
-       "zh": "选举",
-       "ex": "TEL AVIV, Israel — Israel's election has produced a political deadlock, leaving neither Prime Minister Benjamin Netanyahu nor his main challenger, Gadi Eisenkot, with a clear path to forming a government.",
-       "forms": []
-      },
-      {
-       "w": "minister",
-       "pos": "n.",
-       "zh": "部长；大臣",
-       "ex": "TEL AVIV, Israel — Israel's election has produced a political deadlock, leaving neither Prime Minister Benjamin Netanyahu nor his main challenger, Gadi Eisenkot, with a clear path to forming a government.",
-       "forms": []
-      },
-      {
-       "w": "result",
-       "pos": "n.",
-       "zh": "结果",
-       "ex": "The final results announced Friday give opposition parties more seats than Netanyahu's right-wing bloc.",
-       "forms": [
-        "results"
-       ]
-      },
-      {
-       "w": "announce",
-       "pos": "v.",
-       "zh": "宣布；公布",
-       "ex": "The final results announced Friday give opposition parties more seats than Netanyahu's right-wing bloc.",
-       "forms": [
-        "announced"
-       ]
-      },
-      {
-       "w": "opposition",
-       "pos": "n.",
-       "zh": "反对派；反对",
-       "ex": "The final results announced Friday give opposition parties more seats than Netanyahu's right-wing bloc.",
-       "forms": []
-      },
-      {
-       "w": "party",
-       "pos": "n.",
-       "zh": "政党；一方",
-       "ex": "The final results announced Friday give opposition parties more seats than Netanyahu's right-wing bloc.",
-       "forms": [
-        "parties"
-       ]
-      },
-      {
-       "w": "military",
-       "pos": "n.",
-       "zh": "军队；军方",
-       "ex": "But Eisenkot, a center-right former military chief of staff, cannot reach a governing majority without the support of predominantly Arab parties — an option Eisenkot's allies repeatedly ruled out during the campaign.",
-       "forms": []
-      },
-      {
-       "w": "majority",
-       "pos": "n.",
-       "zh": "多数；大多数",
-       "ex": "But Eisenkot, a center-right former military chief of staff, cannot reach a governing majority without the support of predominantly Arab parties — an option Eisenkot's allies repeatedly ruled out during the campaign.",
-       "forms": []
-      },
-      {
-       "w": "support",
-       "pos": "v.",
-       "zh": "支持",
-       "ex": "But Eisenkot, a center-right former military chief of staff, cannot reach a governing majority without the support of predominantly Arab parties — an option Eisenkot's allies repeatedly ruled out during the campaign.",
-       "forms": [
-        "supported"
-       ]
-      },
-      {
-       "w": "campaign",
-       "pos": "n.",
-       "zh": "竞选；运动",
-       "ex": "But Eisenkot, a center-right former military chief of staff, cannot reach a governing majority without the support of predominantly Arab parties — an option Eisenkot's allies repeatedly ruled out during the campaign.",
-       "forms": []
-      },
-      {
-       "w": "vote",
-       "pos": "n.",
-       "zh": "投票；表决",
-       "ex": "Netanyahu's Likud party received the most votes — winning 27 seats — but his bloc lost the majority it had before the election.",
-       "forms": [
-        "votes"
-       ]
-      },
-      {
-       "w": "coalition",
-       "pos": "n.",
-       "zh": "联合政府；联盟",
-       "ex": "The coalition of right-wing, far-right and ultra-Orthodox parties that supported his government won a combined 53 seats.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "election",
-      "minister",
-      "result",
-      "announce",
-      "opposition"
-     ],
-     "keyVocab": [
-      "election",
-      "minister",
-      "result",
-      "announce",
-      "opposition",
-      "party",
-      "military",
-      "majority"
-     ]
-    },
-    {
-     "id": "2026-10-31-business",
-     "section": "Business",
-     "sectionZh": "商业 · 财经",
-     "title": "Hackers steal over $6 billion from crypto exchange Binance in staggering heist",
-     "dek": "More than $6 billion worth of cryptocurrencies were stolen from Binance, the world's biggest crypto exchange. It's the biggest cyber heist ever — and many suspect North Korea may be behind it.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/30/nx-s1-6023175/hackers-steal-over-6-billion-from-crypto-exchange-binance-in-staggering-heist",
-     "byline": "Rafael Nam",
-     "dateLabel": "2026-10-31",
-     "words": 341,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "More than $6 billion worth of cryptocurrencies were stolen from Binance, the world's biggest crypto exchange. It's the biggest cyber heist ever — and many suspect North Korea may be behind it.",
-       "zh": "全球最大的加密货币交易所币安（ Binance ）价值超过60 $十亿的加密货币被盗。这是有史以来规模最大的网络抢劫，许多人怀疑朝鲜可能是幕后黑手。"
-      },
-      {
-       "en": "It is the biggest cyber heist in history. Hackers were able to steal over $6 billion worth of cryptocurrency from Binance, the biggest crypto exchange in the world. Among those likely affected was everyone from investment funds to everyday investors who trade digital currencies like Bitcoin in the exchange. For more on this developing story, I am joined by NPR senior business editor Rafael Nam. Hey, Rafael.",
-       "zh": "这是有史以来规模最大的网络抢劫案。黑客能够从世界上最大的加密货币交易所Binance窃取价值超过60 $十亿的加密货币。可能受到影响的人包括从投资基金到在交易所交易比特币等数字货币的日常投资者。关于这个发展中的故事的更多信息， NPR高级商业编辑Rafael Nam也加入了我的行列。嘿，拉斐尔。"
-      },
-      {
-       "en": "DETROW: So if you took $6 billion out of a bank in bags, you would need quite a lot of bags to get it out. I mean, this is a staggering amount of money. What happened?",
-       "zh": "DETROW ：所以，如果你从银行拿出60亿美元的袋子，你需要很多袋子才能把它拿出来。我的意思是，这是一笔惊人的钱，发生了什么？"
-      },
-      {
-       "en": "NAM: I know. And it's such a fascinating story, honestly. So according to researchers, the heist happened in late afternoon, and the entire thing only took about 20 minutes - 20 minutes for the bulk of the $6 billion to be stolen.",
-       "zh": "南：我知道，老实说，这是一个非常有趣的故事。因此，根据研究人员的说法，抢劫发生在下午晚些时候，整个过程只花了大约20分钟- 20分钟，大部分60亿美元的$被盗。"
-      },
-      {
-       "en": "Now, Binance and researchers are still trying to figure out exactly how it happened. But the gist of it is that the hackers were able to effectively bypass all kinds of security systems and hack into the trading accounts that people held at this crypto exchange. So this is how Ari Redbord, who's the global head of policy at TRM Labs, a major crypto research firm, put it.",
-       "zh": "现在，币安和研究人员仍在试图弄清楚它是如何发生的。但其要点是，黑客能够有效地绕过各种安全系统，侵入人们在这个加密交易所持有的交易账户。这就是大型加密研究公司TRM Labs的全球政策主管Ari Redbord所说的。"
-      },
-      {
-       "en": "ARI REDBORD: What happened last night is the largest bank robbery in human history. Imagine a world where someone could walk into a bank and walk out with $6.36 billion in stolen funds and then move those funds at the speed of the internet.",
-       "zh": "ARI REDBORD ：昨晚发生的事情是人类历史上最大的银行抢劫案。想象一下这样一个世界：有人走进银行，带着63.6亿美元的被盗资金走出去，然后以互联网的速度转移这些资金。"
-      },
-      {
-       "en": "NAM: I mean, imagine. And TRM and other researchers I talked to say they are very confident that all fingers point to the state of North Korea.",
-       "zh": "NAM ：我的意思是，想象一下。TRM和我采访过的其他研究人员表示，他们非常有信心，所有人都指向朝鲜的状态。"
-      },
-      {
-       "en": "NAM: Now, Redbord says he's sure it's North Korea because they have a history of cyberattacks, and this heist was really well planned and executed.",
-       "zh": "NAM ：现在， Redbord说他确信这是朝鲜，因为他们有网络攻击的历史，这次抢劫非常精心策划和执行。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "billion",
-       "pos": "n.",
-       "zh": "十亿",
-       "ex": "More than $6 billion worth of cryptocurrencies were stolen from Binance, the world's biggest crypto exchange.",
-       "forms": []
-      },
-      {
-       "w": "cryptocurrency",
-       "pos": "n.",
-       "zh": "加密货币",
-       "ex": "More than $6 billion worth of cryptocurrencies were stolen from Binance, the world's biggest crypto exchange.",
-       "forms": [
-        "cryptocurrencies"
-       ]
-      },
-      {
-       "w": "history",
-       "pos": "n.",
-       "zh": "历史",
-       "ex": "It is the biggest cyber heist in history.",
-       "forms": []
-      },
-      {
-       "w": "investment",
-       "pos": "n.",
-       "zh": "投资",
-       "ex": "Among those likely affected was everyone from investment funds to everyday investors who trade digital currencies like Bitcoin in the exchange.",
-       "forms": []
-      },
-      {
-       "w": "fund",
-       "pos": "n.",
-       "zh": "基金；资金",
-       "ex": "Among those likely affected was everyone from investment funds to everyday investors who trade digital currencies like Bitcoin in the exchange.",
-       "forms": [
-        "funds"
-       ]
-      },
-      {
-       "w": "investor",
-       "pos": "n.",
-       "zh": "投资者",
-       "ex": "Among those likely affected was everyone from investment funds to everyday investors who trade digital currencies like Bitcoin in the exchange.",
-       "forms": [
-        "investors"
-       ]
-      },
-      {
-       "w": "digital",
-       "pos": "adj.",
-       "zh": "数字的",
-       "ex": "Among those likely affected was everyone from investment funds to everyday investors who trade digital currencies like Bitcoin in the exchange.",
-       "forms": []
-      },
-      {
-       "w": "currency",
-       "pos": "n.",
-       "zh": "货币",
-       "ex": "Among those likely affected was everyone from investment funds to everyday investors who trade digital currencies like Bitcoin in the exchange.",
-       "forms": [
-        "currencies"
-       ]
-      },
-      {
-       "w": "researcher",
-       "pos": "n.",
-       "zh": "研究人员",
-       "ex": "So according to researchers, the heist happened in late afternoon, and the entire thing only took about 20 minutes - 20 minutes for the bulk of the $6 billion to be stolen.",
-       "forms": [
-        "researchers"
-       ]
-      },
-      {
-       "w": "global",
-       "pos": "adj.",
-       "zh": "全球的",
-       "ex": "So this is how Ari Redbord, who's the global head of policy at TRM Labs, a major crypto research firm, put it.",
-       "forms": []
-      },
-      {
-       "w": "policy",
-       "pos": "n.",
-       "zh": "政策；方针",
-       "ex": "So this is how Ari Redbord, who's the global head of policy at TRM Labs, a major crypto research firm, put it.",
-       "forms": []
-      },
-      {
-       "w": "research",
-       "pos": "n.",
-       "zh": "研究",
-       "ex": "So this is how Ari Redbord, who's the global head of policy at TRM Labs, a major crypto research firm, put it.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "billion",
-      "cryptocurrency",
-      "history",
-      "investment",
-      "fund"
-     ],
-     "keyVocab": [
-      "billion",
-      "cryptocurrency",
-      "history",
-      "investment",
-      "fund",
-      "investor",
-      "digital",
-      "currency"
-     ]
-    },
-    {
-     "id": "2026-10-31-technology",
-     "section": "Technology",
-     "sectionZh": "科技",
-     "title": "Nearly 2 out of 3 teens and tweens use AI chatbots, new research shows",
-     "dek": "Artificial intelligence chatbots are increasingly becoming a regular part of life for American youth. Two new surveys show that nearly two-thirds of tweens and teens use AI chatbots. While most…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/30/nx-s1-6022278/ai-artificial-intelligence-teens-jed-common-sense-media",
-     "byline": "Rhitu Chatterjee",
-     "dateLabel": "2026-10-31",
-     "words": 335,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "Artificial intelligence chatbots are increasingly becoming a regular part of life for American youth. Two new surveys show that nearly two-thirds of tweens and teens use AI chatbots. While most kids use the technology for help with school work, and for companionship and emotional support, certain uses were linked with worse mental health symptoms.",
-       "zh": "人工智能聊天机器人正日益成为美国年轻人日常生活的一部分。两项新的调查显示，近三分之二的青少年使用人工智能聊天机器人。虽然大多数孩子使用这项技术来帮助学校工作，以及友谊和情感支持，但某些用途与更严重的心理健康症状有关。"
-      },
-      {
-       "en": "One survey, done by the online safety advocacy group, Common Sense Media, found that AI use starts early – years before kids hit the minimum age of 13 on most popular chatbots. Nearly half 9-to-12-year-olds have used an AI chatbot or companion. By the time kids are 13 years old, nearly three-quarters of them have used chatbots.",
-       "zh": "由在线安全倡导组织Common Sense Media进行的一项调查发现，人工智能的使用始于早期，即儿童在最受欢迎的聊天机器人上达到13岁的最低年龄之前几年。将近一半的9至12岁儿童使用过人工智能聊天机器人或伴侣。到孩子13岁时，近四分之三的孩子使用过聊天机器人。"
-      },
-      {
-       "en": "The other survey, done by the mental health advocacy group JED Foundation, found that 90% of the 5,500 9-to-17-year-olds in schools across the country have used an AI chatbot. Nearly two-thirds use it both for schoolwork and as companions, or when they are stressed, lonely, anxious or overwhelmed.",
-       "zh": "另一项由心理健康倡导组织JED基金会进行的调查发现，全国学校中5500名9至17岁的青少年中，90%的人使用过人工智能聊天机器人。近三分之二的人将其用于完成学校作业、陪伴学习，或在感到压力、孤独、焦虑或不知所措时使用。"
-      },
-      {
-       "en": "The findings are \"remarkable\" in showing how dramatically AI use by children and teens has changed in a short time, says developmental psychologist Anne Maheux at the University of North Carolina, Chapel Hill, who wasn't involved in the surveys.",
-       "zh": "北卡罗来纳大学教堂山分校（ University of North Carolina, Chapel Hill ）的发展心理学家安妮·马赫（ Anne Maheux ）说，这一发现“引人注目”地表明，儿童和青少年使用人工智能的情况在短时间内发生了巨大变化。"
-      },
-      {
-       "en": "\"It seems like just a few years ago, no one was using\" the technology, she says. \"And now it seems like roughly the same number of kids using it for homework are using it to get emotional support or help with coping.\"",
-       "zh": "她说： “几年前，似乎没有人使用这项技术。” “现在看来，大约有相同数量的孩子用它来做作业，以获得情感支持或帮助应对。”"
-      },
-      {
-       "en": "\"I use it to make myself practice sample questions – sample test questions that I will answer with my own work,\" says 15-year-old Arjun Sharda, in Round Rock, Texas. \"I use it to understand concepts outside of the classroom.\"",
-       "zh": "15岁的Arjun Sharda在德克萨斯州的Round Rock说： “我用它来练习样题--我将用自己的作品回答的样题。” “我用它来理解课堂之外的概念。”"
-      },
-      {
-       "en": "He uses both OpenAI's ChatGPT and Google's Gemini, he says, although he prefers the latter lately.",
-       "zh": "他说，他同时使用OpenAI的ChatGPT和谷歌的Gemini ，尽管他最近更喜欢后者。"
-      },
-      {
-       "en": "In Raynham, Mass., McKenzie Craig, 17, has been using chatbots since she was in eighth grade. \"I use it typically if I'm overwhelmed with a bunch of tasks I have,\" she says. \"I'll have it help me prioritize the tasks.\"",
-       "zh": "在马萨诸塞州雷纳姆， 17岁的麦肯齐·克雷格（ McKenzie Craig ）从八年级开始就一直在使用聊天机器人。她说：「如果我有很多任务要处理，我通常会使用它。」“我会让它帮我确定任务的优先顺序。”"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "artificial",
-       "pos": "adj.",
-       "zh": "人工的；人造的",
-       "ex": "Artificial intelligence chatbots are increasingly becoming a regular part of life for American youth.",
-       "forms": []
-      },
-      {
-       "w": "intelligence",
-       "pos": "n.",
-       "zh": "情报；智能",
-       "ex": "Artificial intelligence chatbots are increasingly becoming a regular part of life for American youth.",
-       "forms": []
-      },
-      {
-       "w": "chatbot",
-       "pos": "n.",
-       "zh": "聊天机器人",
-       "ex": "Artificial intelligence chatbots are increasingly becoming a regular part of life for American youth.",
-       "forms": [
-        "chatbots"
-       ]
-      },
-      {
-       "w": "survey",
-       "pos": "n.",
-       "zh": "调查",
-       "ex": "Two new surveys show that nearly two-thirds of tweens and teens use AI chatbots.",
-       "forms": [
-        "surveys"
-       ]
-      },
-      {
-       "w": "technology",
-       "pos": "n.",
-       "zh": "技术；科技",
-       "ex": "While most kids use the technology for help with school work, and for companionship and emotional support, certain uses were linked with worse mental health symptoms.",
-       "forms": []
-      },
-      {
-       "w": "school",
-       "pos": "n.",
-       "zh": "学校",
-       "ex": "While most kids use the technology for help with school work, and for companionship and emotional support, certain uses were linked with worse mental health symptoms.",
-       "forms": [
-        "schools"
-       ]
-      },
-      {
-       "w": "support",
-       "pos": "v.",
-       "zh": "支持",
-       "ex": "While most kids use the technology for help with school work, and for companionship and emotional support, certain uses were linked with worse mental health symptoms.",
-       "forms": []
-      },
-      {
-       "w": "health",
-       "pos": "n.",
-       "zh": "健康；卫生",
-       "ex": "While most kids use the technology for help with school work, and for companionship and emotional support, certain uses were linked with worse mental health symptoms.",
-       "forms": []
-      },
-      {
-       "w": "symptom",
-       "pos": "n.",
-       "zh": "症状",
-       "ex": "While most kids use the technology for help with school work, and for companionship and emotional support, certain uses were linked with worse mental health symptoms.",
-       "forms": [
-        "symptoms"
-       ]
-      },
-      {
-       "w": "online",
-       "pos": "adj.",
-       "zh": "在线的",
-       "ex": "One survey, done by the online safety advocacy group, Common Sense Media, found that AI use starts early – years before kids hit the minimum age of 13 on most popular chatbots.",
-       "forms": []
-      },
-      {
-       "w": "media",
-       "pos": "n.",
-       "zh": "媒体",
-       "ex": "One survey, done by the online safety advocacy group, Common Sense Media, found that AI use starts early – years before kids hit the minimum age of 13 on most popular chatbots.",
-       "forms": []
-      },
-      {
-       "w": "remarkable",
-       "pos": "adj.",
-       "zh": "非凡的；引人注目的",
-       "ex": "The findings are \"remarkable\" in showing how dramatically AI use by children and teens has changed in a short time, says developmental psychologist Anne Maheux at the University of North Carolina, Chapel Hill, who wasn't involved in the surveys.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "artificial",
-      "intelligence",
-      "chatbot",
-      "survey",
-      "technology"
-     ],
-     "keyVocab": [
-      "artificial",
-      "intelligence",
-      "chatbot",
-      "survey",
-      "technology",
-      "school",
-      "support",
-      "health"
-     ]
-    },
-    {
-     "id": "2026-10-31-science",
-     "section": "Science",
-     "sectionZh": "科学",
-     "title": "Trump says he's ending restrictions on climate-warming methane from oil drilling",
-     "dek": "BILLINGS, Mont. — President Donald Trump said Tuesday that his administration is \"terminating\" a Biden-era rule that aimed to cut planet-warming emissions of methane from oil and gas drilling.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/28/g-s1-150299/trump-methane-restrictions",
-     "byline": "The Associated Press",
-     "dateLabel": "2026-10-31",
-     "words": 249,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "BILLINGS, Mont. — President Donald Trump said Tuesday that his administration is \"terminating\" a Biden-era rule that aimed to cut planet-warming emissions of methane from oil and gas drilling.",
-       "zh": "蒙大拿州比林斯——总统唐纳德·特朗普周二表示，他的政府正在“终止”拜登时期的一项规则，该规则旨在减少石油和天然气钻探产生的温室气体甲烷排放。"
-      },
-      {
-       "en": "Trump said during a campaign rally in Texas that the change would save companies and consumers billions of dollars and unlock 210 million barrels of oil. That's equivalent to about 10 days of U.S. petroleum consumption.",
-       "zh": "特朗普在德克萨斯州的一次竞选集会上表示，这一变化将为公司和消费者节省数十亿美元，并释放出2.1亿桶石油。这相当于美国约10天的石油消耗量。"
-      },
-      {
-       "en": "The move aims to encourage more domestic drilling as Trump faces criticism over high fuel prices amid the war in Iran.",
-       "zh": "此举旨在鼓励更多的国内钻探，因为特朗普在伊朗战争期间面临有关高油价的批评。"
-      },
-      {
-       "en": "Methane is responsible for about a third of planet-warming greenhouse gas emissions, scientists estimate.",
-       "zh": "科学家估计，甲烷约占导致地球变暖的温室气体排放的三分之一。"
-      },
-      {
-       "en": "Cuts in methane emissions have emerged in recent years as a global priority to slow the rate of climate change. Oil and gas operations are the largest industrial source of methane, which is the main component in natural gas and far more potent to the atmosphere than carbon dioxide in the short term.",
-       "zh": "近年来，减少甲烷排放已成为全球的优先事项，以减缓气候变化的速度。石油和天然气作业是最大的工业甲烷来源，甲烷是天然气的主要成分，在短期内对大气的影响远比二氧化碳更强。"
-      },
-      {
-       "en": "The invisible gas leaks from equipment and is released into the atmosphere or burned off as a waste product by oil drillers.",
-       "zh": "这种看不见的气体从设备中泄漏，并被释放到大气中，或被石油钻探工作为废弃物燃烧掉。"
-      },
-      {
-       "en": "Environmental Protection Agency Administrator Lee Zeldin previewed the changes last month, saying they would eliminate the agency's \"Super Emitter Program\" that requires companies to investigate and repair major methane releases from oil and natural gas facilities. The agency would also set less restrictive standards for small oil and gas wells.",
-       "zh": "环境保护局局长李·泽尔丁上个月预览了这些变化，他表示，这些变化将取消该机构的“超级排放者计划”，该计划要求公司调查并修复油气设施的大量甲烷泄漏。该机构还将为小型油气井设定较少限制的标准。"
-      },
-      {
-       "en": "Trump said during Tuesday's rally in Lubbock for Texas Republican Senate candidate Ken Paxton that Biden's plan \"crushed the small operators\" with crippling regulations.",
-       "zh": "特朗普在周二为德克萨斯州共和党参议员候选人肯·帕克斯顿在拉伯克举行的集会上表示，拜登的计划“用压垮性的法规摧毁了小型运营商”。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "president",
-       "pos": "n.",
-       "zh": "总统；总裁",
-       "ex": "— President Donald Trump said Tuesday that his administration is \"terminating\" a Biden-era rule that aimed to cut planet-warming emissions of methane from oil and gas drilling.",
-       "forms": []
-      },
-      {
-       "w": "administration",
-       "pos": "n.",
-       "zh": "政府；行政",
-       "ex": "— President Donald Trump said Tuesday that his administration is \"terminating\" a Biden-era rule that aimed to cut planet-warming emissions of methane from oil and gas drilling.",
-       "forms": []
-      },
-      {
-       "w": "emission",
-       "pos": "n.",
-       "zh": "排放；排放物",
-       "ex": "— President Donald Trump said Tuesday that his administration is \"terminating\" a Biden-era rule that aimed to cut planet-warming emissions of methane from oil and gas drilling.",
-       "forms": [
-        "emissions"
-       ]
-      },
-      {
-       "w": "methane",
-       "pos": "n.",
-       "zh": "甲烷",
-       "ex": "— President Donald Trump said Tuesday that his administration is \"terminating\" a Biden-era rule that aimed to cut planet-warming emissions of methane from oil and gas drilling.",
-       "forms": []
-      },
-      {
-       "w": "oil",
-       "pos": "n.",
-       "zh": "石油",
-       "ex": "— President Donald Trump said Tuesday that his administration is \"terminating\" a Biden-era rule that aimed to cut planet-warming emissions of methane from oil and gas drilling.",
-       "forms": []
-      },
-      {
-       "w": "gas",
-       "pos": "n.",
-       "zh": "天然气；气体",
-       "ex": "— President Donald Trump said Tuesday that his administration is \"terminating\" a Biden-era rule that aimed to cut planet-warming emissions of methane from oil and gas drilling.",
-       "forms": []
-      },
-      {
-       "w": "campaign",
-       "pos": "n.",
-       "zh": "竞选；运动",
-       "ex": "Trump said during a campaign rally in Texas that the change would save companies and consumers billions of dollars and unlock 210 million barrels of oil.",
-       "forms": []
-      },
-      {
-       "w": "rally",
-       "pos": "n.",
-       "zh": "反弹；集会",
-       "ex": "Trump said during a campaign rally in Texas that the change would save companies and consumers billions of dollars and unlock 210 million barrels of oil.",
-       "forms": []
-      },
-      {
-       "w": "change",
-       "pos": "n.",
-       "zh": "变化；改变",
-       "ex": "Trump said during a campaign rally in Texas that the change would save companies and consumers billions of dollars and unlock 210 million barrels of oil.",
-       "forms": [
-        "changes"
-       ]
-      },
-      {
-       "w": "consumer",
-       "pos": "n.",
-       "zh": "消费者",
-       "ex": "Trump said during a campaign rally in Texas that the change would save companies and consumers billions of dollars and unlock 210 million barrels of oil.",
-       "forms": [
-        "consumers"
-       ]
-      },
-      {
-       "w": "billion",
-       "pos": "n.",
-       "zh": "十亿",
-       "ex": "Trump said during a campaign rally in Texas that the change would save companies and consumers billions of dollars and unlock 210 million barrels of oil.",
-       "forms": [
-        "billions"
-       ]
-      },
-      {
-       "w": "million",
-       "pos": "n.",
-       "zh": "百万",
-       "ex": "Trump said during a campaign rally in Texas that the change would save companies and consumers billions of dollars and unlock 210 million barrels of oil.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "president",
-      "administration",
-      "emission",
-      "methane",
-      "oil"
-     ],
-     "keyVocab": [
-      "president",
-      "administration",
-      "emission",
-      "methane",
-      "oil",
-      "gas",
-      "campaign",
-      "rally"
-     ]
-    },
-    {
-     "id": "2026-10-31-culture",
-     "section": "Culture",
-     "sectionZh": "文化",
-     "title": "Here's what it's like to live in Salem, Mass., during the Halloween tourism season",
-     "dek": "NPR's Scott Detrow speaks with reporter Megan Johnson, who wrote about what it's like to live in Salem, Mass. — famous for the Salem Witch Trials — during Halloween tourism season.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/30/nx-s1-6011072/heres-what-its-like-to-live-in-salem-mass-during-the-halloween-tourism-season",
-     "byline": "Matt Ozug",
-     "dateLabel": "2026-10-31",
-     "words": 428,
-     "readTime": 3,
-     "level": "B2",
-     "levelEn": "Upper-intermediate",
-     "paragraphs": [
-      {
-       "en": "NPR's Scott Detrow speaks with reporter Megan Johnson, who wrote about what it's like to live in Salem, Mass. — famous for the Salem Witch Trials — during Halloween tourism season.",
-       "zh": "NPR的斯科特·德特罗与记者梅根·约翰逊交谈，约翰逊曾撰文描述在马萨诸塞州塞勒姆生活的感受——那里以塞勒姆女巫审判闻名——正值万圣节旅游季节。"
-      },
-      {
-       "en": "It is a pretty good time to be a witch in Salem, Massachusetts, certainly compared to 1692, when dozens of witchcraft claims led to 19 public executions plus other deaths in prison. This was, of course, the Salem witch trials. Over 300 years later, the story is why a different of mass hysteria takes over Salem every fall. The small city just north of Boston has become enormously popular for Halloween tourists in October. Reporter Megan Johnson has written about what that is like for boston.com and is with us now. Welcome.",
-       "zh": "现在在马萨诸塞州的塞勒姆当一名女巫是相当不错的时光，当然，相比1692年，当时数十起巫术指控导致19人被公开处决，以及其他人在狱中死亡。当然，那就是塞勒姆女巫审判。三百多年后，这个故事解释了为什么每年秋天不同的集体歇斯底里会席卷塞勒姆。这个位于波士顿北部的小城市在十月已成为万圣节游客的极受欢迎的目的地。记者梅根·约翰逊曾为boston.com撰写过相关报道，现在她也在我们这里。欢迎你。"
-      },
-      {
-       "en": "DETROW: Tell me what the draw is. I mean, it makes sense. This historic town tied to witch trials - makes sense that it would be a Halloween destination. But, like, what is there to do? Say you're thinking of driving up to Salem to check it out in October. What's available?",
-       "zh": "DETROW：告诉我吸引人的是什么。我的意思是，这很有道理。这个与女巫审判有关的历史小镇——作为万圣节目的地很合理。但是，有什么好玩的呢？假设你打算十月份开车去塞勒姆看看。那边有什么可做的事情？"
-      },
-      {
-       "en": "JOHNSON: There is so much to do. Besides the fact that it is just an absolutely stunning town that is the epitome of autumn when the weather changes, people love the historic aspect, so they want to go to the Salem Witch Museum, the House of Seven Gables, the nun on stilts, which is one of the very common buskers on the street. There's people in costume all the time. It's a big bachelorette trip draw.",
-       "zh": "约翰逊：有太多事情可以做。此外，这个小镇本身就非常迷人，当天气转凉时，它是秋天的典型代表。人们喜欢它的历史方面，所以他们想去塞勒姆女巫博物馆、七尖屋、踩高跷的修女，这些都是街上很常见的表演者。街上总是有人穿着服装。这是一个吸引大型单身派对旅行的地方。"
-      },
-      {
-       "en": "DETROW: Has all of this grown in recent years? Like, and is there...",
-       "zh": "DETROW：这些在近些年都有增长吗？比如说，是否有……"
-      },
-      {
-       "en": "JOHNSON: So it has grown tremendously in recent years, pretty across the board, every resident has said. And a lot of them really attribute that to social media - Instagram, social media influencers who descend upon the city and want to caption amazing content. And because there's so much of that content out there, that brings such a draw of visitors who see it and want to participate in it, too.",
-       "zh": "约翰逊：所以近年来它增长非常迅猛，几乎各方面都是如此，每位居民都这么说过。而且很多人真的将这种增长归因于社交媒体——Instagram、社交媒体影响者们来到这座城市，希望为精彩的内容加上说明。由于有那么多这样的内容，这吸引了大量的游客，他们看到后也想参与其中。"
-      },
-      {
-       "en": "DETROW: So let's set the scene. It's about 45,000 people live in Salem, and - what? - a million people visit in October. What is that like on a fall Saturday?",
-       "zh": "DETROW：那我们来设定一下场景。塞勒姆大约有45,000人居住，而——什么？——每年十月有一百万人来访。秋天的一个星期六会是怎样的情景？"
-      },
-      {
-       "en": "JOHNSON: The No. 1 complaint that people have is that it's nonstop traffic, and there's nowhere to park, and that comes from residents and visitors. But there's also just a constant onslaught of people in the streets, which often get shut down as an attempt to get rid of some of the traffic. But moving around, navigating the streets is pretty crazy.",
-       "zh": "约翰逊：人们抱怨最多的是交通不断，而且没有地方停车，这些抱怨来自居民和游客。但街上也有源源不断的人群，这些街道经常因为试图减少一些交通而被封闭。不过在街上移动、穿行还是相当疯狂的。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "trial",
-       "pos": "n.",
-       "zh": "审判；试验",
-       "ex": "— famous for the Salem Witch Trials — during Halloween tourism season.",
-       "forms": [
-        "trials"
-       ]
-      },
-      {
-       "w": "claim",
-       "pos": "v.",
-       "zh": "声称；主张",
-       "ex": "It is a pretty good time to be a witch in Salem, Massachusetts, certainly compared to 1692, when dozens of witchcraft claims led to 19 public executions plus other deaths in prison.",
-       "forms": [
-        "claims"
-       ]
-      },
-      {
-       "w": "public",
-       "pos": "adj.",
-       "zh": "公共的；公众的",
-       "ex": "It is a pretty good time to be a witch in Salem, Massachusetts, certainly compared to 1692, when dozens of witchcraft claims led to 19 public executions plus other deaths in prison.",
-       "forms": []
-      },
-      {
-       "w": "fall",
-       "pos": "n.",
-       "zh": "下降；下跌",
-       "ex": "Over 300 years later, the story is why a different of mass hysteria takes over Salem every fall.",
-       "forms": []
-      },
-      {
-       "w": "change",
-       "pos": "n.",
-       "zh": "变化；改变",
-       "ex": "Besides the fact that it is just an absolutely stunning town that is the epitome of autumn when the weather changes, people love the historic aspect, so they want to go to the Salem Witch Museum, the House of Seven Gables, the nun on stilts, which is one of the very common buskers on the street.",
-       "forms": [
-        "changes"
-       ]
-      },
-      {
-       "w": "museum",
-       "pos": "n.",
-       "zh": "博物馆",
-       "ex": "Besides the fact that it is just an absolutely stunning town that is the epitome of autumn when the weather changes, people love the historic aspect, so they want to go to the Salem Witch Museum, the House of Seven Gables, the nun on stilts, which is one of the very common buskers on the street.",
-       "forms": []
-      },
-      {
-       "w": "resident",
-       "pos": "n.",
-       "zh": "居民",
-       "ex": "JOHNSON: So it has grown tremendously in recent years, pretty across the board, every resident has said.",
-       "forms": [
-        "residents"
-       ]
-      },
-      {
-       "w": "social",
-       "pos": "adj.",
-       "zh": "社会的；社交的",
-       "ex": "And a lot of them really attribute that to social media - Instagram, social media influencers who descend upon the city and want to caption amazing content.",
-       "forms": []
-      },
-      {
-       "w": "media",
-       "pos": "n.",
-       "zh": "媒体",
-       "ex": "And a lot of them really attribute that to social media - Instagram, social media influencers who descend upon the city and want to caption amazing content.",
-       "forms": []
-      },
-      {
-       "w": "million",
-       "pos": "n.",
-       "zh": "百万",
-       "ex": "- a million people visit in October.",
-       "forms": []
-      },
-      {
-       "w": "park",
-       "pos": "n.",
-       "zh": "公园；园区",
-       "ex": "1 complaint that people have is that it's nonstop traffic, and there's nowhere to park, and that comes from residents and visitors.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "trial",
-      "claim",
-      "public",
-      "fall",
-      "change"
-     ],
-     "keyVocab": [
-      "trial",
-      "claim",
-      "public",
-      "fall",
-      "change",
-      "museum",
-      "resident",
-      "social"
      ]
     }
    ]
