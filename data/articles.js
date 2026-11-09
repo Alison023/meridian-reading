@@ -1,6 +1,733 @@
 window.__MERIDIAN_DATA__ = {
- "updated": "2026-11-08T06:25:42.546176+00:00",
+ "updated": "2026-11-09T06:58:00.949266+00:00",
  "days": [
+  {
+   "date": "2026-11-09",
+   "articles": [
+    {
+     "id": "2026-11-09-world",
+     "section": "World",
+     "sectionZh": "国际",
+     "title": "The world's largest telecoms firm is on trial and the outcome has global implications",
+     "dek": "Huawei, the world's biggest telecommunications company, is on trial in New York, accused of stealing American technology and evading US sanctions.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/08/nx-s1-6030670/the-worlds-largest-telecoms-firm-is-on-trial-and-the-outcome-has-global-implications",
+     "byline": "Michael Levitt",
+     "dateLabel": "2026-11-09",
+     "words": 351,
+     "readTime": 3,
+     "level": "B2",
+     "levelEn": "Upper-intermediate",
+     "paragraphs": [
+      {
+       "en": "Huawei, the world's biggest telecommunications company, is on trial in New York, accused of stealing American technology and evading US sanctions.",
+       "zh": "华为，这家世界上最大的电信公司，正在纽约受审，被控窃取美国技术并规避美国制裁。"
+      },
+      {
+       "en": "In a federal courtroom in Brooklyn, the world's biggest telecommunications company is on trial. Huawei is a Chinese firm that makes smartphones, laptops, routers and all sorts of telecoms equipment that's available all over the world. The U.S. has long alleged that Huawei products pose a security risk and have banned them from being sold in the United States. And according to the U.S. government, Huawei is also a criminal enterprise. U.S. prosecutors allege that Huawei built its telecoms empire by stealing from American companies and violated U.S. sanctions by doing business in Iran and North Korea. In 2018, this all came to a head.",
+       "zh": "在布鲁克林的联邦法庭上，世界上最大的电信公司正在受审。华为是一家中国公司，生产智能手机、笔记本电脑、路由器以及各种在全球范围内可用的电信设备。美国长期以来一直声称华为产品存在安全风险，并禁止其在美国销售。根据美国政府的说法，华为也是一个犯罪企业。美国检察官指控华为通过从美国公司窃取技术建立其电信帝国，并在伊朗和朝鲜开展业务，违反了美国的制裁。2018年，这一切达到了高潮。"
+      },
+      {
+       "en": "UNIDENTIFIED REPORTER: Canadian authorities have arrested the chief financial officer of the Chinese telecommunications giant Huawei.",
+       "zh": "未具名记者：加拿大当局已逮捕中国电信巨头华为的首席财务官。"
+      },
+      {
+       "en": "SCHMITZ: In what is widely seen as an act of retaliation, China arrested two Canadians living in China, detaining them for nearly three years.",
+       "zh": "施密茨：在广泛被视为报复的行为中，中国逮捕了两名居住在中国的加拿大人，并将他们拘留了近三年。"
+      },
+      {
+       "en": "SCOTT SIMON, BYLINE: Late last night, China released two Canadian businessmen who had been imprisoned in China for more than a thousand days.",
+       "zh": "斯科特·西蒙, 报道：昨晚晚些时候，中国释放了两名在中国被监禁了超过一千天的加拿大商人。"
+      },
+      {
+       "en": "SCHMITZ: The U.S. agreed to a plea deal that freed Meng and released the two Canadians. One of them, Michael Kovrig, joins us now. Welcome.",
+       "zh": "施密茨：美国同意了一项认罪协议，释放了孟晚舟并释放了两名加拿大人。其中一位，迈克尔·科夫里格，现在加入我们。欢迎。"
+      },
+      {
+       "en": "SCHMITZ: So before we begin, I think it's worth doing a thorough introduction, so our audience understands exactly who you are and why we are talking to you. In 2018, you were living in China, working as an analyst for the nonprofit International Crisis Group. Then in December of that year, Chinese police arrested you on suspicion of espionage. You were held for nearly three years. It's been around five years since you were released. Why do you think the Chinese targeted you?",
+       "zh": "施密茨：所以在我们开始之前，我认为有必要做一个彻底的介绍，让我们的观众确切了解你是谁，以及我们为什么要跟你谈话。2018年，你居住在中国，作为非营利组织国际危机组织的分析师工作。然后在那年的12月，中国警方以间谍活动的嫌疑逮捕了你。你被关押了将近三年。自你获释以来已经大约五年了。你认为中国为什么会针对你？"
+      },
+      {
+       "en": "KOVRIG: It's a two-part question, Rob. The first is, why did they grab Canadians, and then why did they pick me specifically? So the Chinese Communist Party directed the Beijing State Security Bureau to abduct Canadians because they wanted to blackmail the Canadian government into releasing Meng Wanzhou. It was hostage diplomacy, that simple.",
+       "zh": "KOVRIG：这是个两部分的问题，Rob。第一个是，他们为什么抓加拿大人，第二个是，为什么特别选中我？所以，中国共产党指示北京国家安全局绑架加拿大人，因为他们想通过勒索加拿大政府来释放孟晚舟。这就是人质外交，就这么简单。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "trial",
+       "pos": "n.",
+       "zh": "审判；试验",
+       "ex": "Huawei, the world's biggest telecommunications company, is on trial in New York, accused of stealing American technology and evading US sanctions.",
+       "forms": []
+      },
+      {
+       "w": "technology",
+       "pos": "n.",
+       "zh": "技术；科技",
+       "ex": "Huawei, the world's biggest telecommunications company, is on trial in New York, accused of stealing American technology and evading US sanctions.",
+       "forms": []
+      },
+      {
+       "w": "sanction",
+       "pos": "n.",
+       "zh": "制裁",
+       "ex": "Huawei, the world's biggest telecommunications company, is on trial in New York, accused of stealing American technology and evading US sanctions.",
+       "forms": [
+        "sanctions"
+       ]
+      },
+      {
+       "w": "federal",
+       "pos": "adj.",
+       "zh": "联邦的",
+       "ex": "In a federal courtroom in Brooklyn, the world's biggest telecommunications company is on trial.",
+       "forms": []
+      },
+      {
+       "w": "product",
+       "pos": "n.",
+       "zh": "产品",
+       "ex": "has long alleged that Huawei products pose a security risk and have banned them from being sold in the United States.",
+       "forms": [
+        "products"
+       ]
+      },
+      {
+       "w": "risk",
+       "pos": "n.",
+       "zh": "风险",
+       "ex": "has long alleged that Huawei products pose a security risk and have banned them from being sold in the United States.",
+       "forms": []
+      },
+      {
+       "w": "violate",
+       "pos": "v.",
+       "zh": "违反；侵犯",
+       "ex": "prosecutors allege that Huawei built its telecoms empire by stealing from American companies and violated U.S.",
+       "forms": [
+        "violated"
+       ]
+      },
+      {
+       "w": "authority",
+       "pos": "n.",
+       "zh": "当局；权威机构",
+       "ex": "UNIDENTIFIED REPORTER: Canadian authorities have arrested the chief financial officer of the Chinese telecommunications giant Huawei.",
+       "forms": [
+        "authorities"
+       ]
+      },
+      {
+       "w": "arrest",
+       "pos": "v.",
+       "zh": "逮捕",
+       "ex": "UNIDENTIFIED REPORTER: Canadian authorities have arrested the chief financial officer of the Chinese telecommunications giant Huawei.",
+       "forms": [
+        "arrested"
+       ]
+      },
+      {
+       "w": "financial",
+       "pos": "adj.",
+       "zh": "金融的；财务的",
+       "ex": "UNIDENTIFIED REPORTER: Canadian authorities have arrested the chief financial officer of the Chinese telecommunications giant Huawei.",
+       "forms": []
+      },
+      {
+       "w": "audience",
+       "pos": "n.",
+       "zh": "观众；受众",
+       "ex": "SCHMITZ: So before we begin, I think it's worth doing a thorough introduction, so our audience understands exactly who you are and why we are talking to you.",
+       "forms": []
+      },
+      {
+       "w": "international",
+       "pos": "adj.",
+       "zh": "国际的",
+       "ex": "In 2018, you were living in China, working as an analyst for the nonprofit International Crisis Group.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "trial",
+      "technology",
+      "sanction",
+      "federal",
+      "product"
+     ],
+     "keyVocab": [
+      "trial",
+      "technology",
+      "sanction",
+      "federal",
+      "product",
+      "risk",
+      "violate",
+      "authority"
+     ]
+    },
+    {
+     "id": "2026-11-09-business",
+     "section": "Business",
+     "sectionZh": "商业 · 财经",
+     "title": "First-time homebuyers remain scarce, but a record share of them pay all cash",
+     "dek": "The share of first-time homebuyers remains at a near-record low of 22% as a housing shortage and high prices sideline many, according to a new report by the National Association of Realtors. But…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/05/nx-s1-6022491/real-estate-all-cash-offer",
+     "byline": "Jennifer Ludden",
+     "dateLabel": "2026-11-09",
+     "words": 346,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "The share of first-time homebuyers remains at a near-record low of 22% as a housing shortage and high prices sideline many, according to a new report by the National Association of Realtors. But those who are managing to buy are older and wealthier than in the past, and 1 in 10 paid all cash, a record high since such data was collected starting in 2003.",
+       "zh": "根据全国房地产经纪人协会的一份新报告，由于住房短缺和高房价让许多人无法参与，首次购房者的比例仍维持在接近历史低点的22%。但那些能够购房的人比过去更年长且更富有，且每10个人中就有1人全款支付，这是自2003年开始收集此类数据以来的最高纪录。"
+      },
+      {
+       "en": "\"Inheritances are really driving this,\" said Jessica Lautz, deputy chief economist at the NAR.",
+       "zh": "全国房地产经纪人协会副首席经济学家杰西卡·劳茨表示：“遗产转让确实在推动这一进程。”"
+      },
+      {
+       "en": "First-time buyers who paid all-cash were more likely than those who financed a house to use an inheritance (28%) or proceeds from the sale of an inherited property (21%). They were also older.",
+       "zh": "一次性付清现金的首次购房者，比那些贷款购房的人更可能使用遗产（28%）或出售继承财产的收益（21%）。他们的年龄也更大。"
+      },
+      {
+       "en": "NAR finds the median age of all first-time buyers remains at 40, a record high. For first-time buyers who financed a purchase it was 38, while for those who paid all-cash it was 54. \"They waited a significant period of time for that generational transfer of wealth to come through,\" Lautz said.",
+       "zh": "NAR发现，所有首次购房者的中位年龄仍为40岁，创历史新高。对于通过融资购买的首次购房者，中位年龄为38岁，而全款购买者的中位年龄为54岁。Lautz表示：“他们等待了很长一段时间，才迎来这次代际财富的转移。”"
+      },
+      {
+       "en": "For first-time buyers overall, personal savings was the biggest source of funding for a down payment. But in another shift, more people used assets – like a 401(k), stocks, or cryptocurrency – than financial help from family or friends. Older buyers have had more time to save up, Lautz said, but she thinks there's another factor: \"I think it's uncomfortable to ask mom and dad for a gift or loan when you're hitting 40 versus your young 30s.\"",
+       "zh": "对于首次购房者而言，总体上个人储蓄是首付的最大资金来源。但另一方面，更多人使用资产——如401(k)账户、股票或加密货币——而非来自家人或朋友的经济帮助。Lautz表示，年长的购房者有更多时间积蓄，但她认为还有另一个因素：“我觉得当你四十岁左右时，向父母请求赠与或贷款会让人感到不舒服，而在三十出头时则没有这种感觉。”"
+      },
+      {
+       "en": "The share of first time buyers using an inheritance is likely to grow in coming years as boomers reach their 80's and beyond. As the report noted, \"there is a growing divide among those who are saving independently and priced out of homeownership, versus those who are waiting on the sidelines but then given a generational transfer of wealth.\"",
+       "zh": "随着婴儿潮一代步入80岁及以上，首次购房者使用遗产的比例在未来几年可能会增加。正如报告所指出的，“在那些独立储蓄却被房价排除在外的人群，与那些一直在旁观但随后获得代际财富转移的人群之间，分化日益加剧。”"
+      },
+      {
+       "en": "Real estate agents around the country are seeing the change.",
+       "zh": "全国各地的房地产经纪人都在看到这个变化。"
+      },
+      {
+       "en": "\"I would say in the first 15 years of my career, I saw virtually zero first-time home buyers paying all cash,\" said Jason Miller, a broker with Trust Real Estate Company in St. Cloud, Minn.",
+       "zh": "明尼苏达州圣克劳德Trust房地产公司的经纪人杰森·米勒说：“我会说，在我职业生涯的前15年，我几乎没有看到第一次购房者全现金付款。”"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "shortage",
+       "pos": "n.",
+       "zh": "短缺；不足",
+       "ex": "The share of first-time homebuyers remains at a near-record low of 22% as a housing shortage and high prices sideline many, according to a new report by the National Association of Realtors.",
+       "forms": []
+      },
+      {
+       "w": "price",
+       "pos": "n.",
+       "zh": "价格",
+       "ex": "The share of first-time homebuyers remains at a near-record low of 22% as a housing shortage and high prices sideline many, according to a new report by the National Association of Realtors.",
+       "forms": [
+        "priced",
+        "prices"
+       ]
+      },
+      {
+       "w": "report",
+       "pos": "n.",
+       "zh": "报告；报道",
+       "ex": "The share of first-time homebuyers remains at a near-record low of 22% as a housing shortage and high prices sideline many, according to a new report by the National Association of Realtors.",
+       "forms": []
+      },
+      {
+       "w": "national",
+       "pos": "adj.",
+       "zh": "国家的；全国的",
+       "ex": "The share of first-time homebuyers remains at a near-record low of 22% as a housing shortage and high prices sideline many, according to a new report by the National Association of Realtors.",
+       "forms": []
+      },
+      {
+       "w": "data",
+       "pos": "n.",
+       "zh": "数据",
+       "ex": "But those who are managing to buy are older and wealthier than in the past, and 1 in 10 paid all cash, a record high since such data was collected starting in 2003.",
+       "forms": []
+      },
+      {
+       "w": "significant",
+       "pos": "adj.",
+       "zh": "显著的；重要的",
+       "ex": "\"They waited a significant period of time for that generational transfer of wealth to come through,\" Lautz said.",
+       "forms": []
+      },
+      {
+       "w": "wealth",
+       "pos": "n.",
+       "zh": "财富",
+       "ex": "\"They waited a significant period of time for that generational transfer of wealth to come through,\" Lautz said.",
+       "forms": []
+      },
+      {
+       "w": "fund",
+       "pos": "n.",
+       "zh": "基金；资金",
+       "ex": "For first-time buyers overall, personal savings was the biggest source of funding for a down payment.",
+       "forms": [
+        "funding"
+       ]
+      },
+      {
+       "w": "shift",
+       "pos": "n.",
+       "zh": "转变；转移",
+       "ex": "But in another shift, more people used assets – like a 401(k), stocks, or cryptocurrency – than financial help from family or friends.",
+       "forms": []
+      },
+      {
+       "w": "asset",
+       "pos": "n.",
+       "zh": "资产",
+       "ex": "But in another shift, more people used assets – like a 401(k), stocks, or cryptocurrency – than financial help from family or friends.",
+       "forms": [
+        "assets"
+       ]
+      },
+      {
+       "w": "cryptocurrency",
+       "pos": "n.",
+       "zh": "加密货币",
+       "ex": "But in another shift, more people used assets – like a 401(k), stocks, or cryptocurrency – than financial help from family or friends.",
+       "forms": []
+      },
+      {
+       "w": "financial",
+       "pos": "adj.",
+       "zh": "金融的；财务的",
+       "ex": "But in another shift, more people used assets – like a 401(k), stocks, or cryptocurrency – than financial help from family or friends.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "shortage",
+      "price",
+      "report",
+      "national",
+      "data"
+     ],
+     "keyVocab": [
+      "shortage",
+      "price",
+      "report",
+      "national",
+      "data",
+      "significant",
+      "wealth",
+      "fund"
+     ]
+    },
+    {
+     "id": "2026-11-09-technology",
+     "section": "Technology",
+     "sectionZh": "科技",
+     "title": "Google, Meta and TikTok sue to block California youth social media law",
+     "dek": "Google, Meta, and TikTok have sued California to block the enforcement of a state law meant to protect children from getting addicted to social media.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/07/nx-s1-6032764/google-meta-and-tiktok-sue-to-block-california-youth-social-media-law",
+     "byline": "Rachael Myrow",
+     "dateLabel": "2026-11-09",
+     "words": 426,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "Google, Meta, and TikTok have sued California to block the enforcement of a state law meant to protect children from getting addicted to social media.",
+       "zh": "谷歌、Meta 和抖音已起诉加利福尼亚州，以阻止执行一项旨在保护儿童免受社交媒体上瘾的州法律。"
+      },
+      {
+       "en": "Google, Meta and TikTok sued the state of California this week to block a new law aimed at shielding youngsters from features of addictive social media. KQED's Rachael Myrow joins us. She's senior editor of member station KQED's Silicon Valley News Desk. And before we begin, we should note that Google is among NPR's financial supporters. Rachael, thanks so much for being with us.",
+       "zh": "本周，谷歌、Meta 和 TikTok 起诉了加利福尼亚州，试图阻止一项旨在保护青少年免受社交媒体成瘾功能影响的新法律。KQED 的 Rachael Myrow 加入了我们的讨论。她是 KQED 会员电台硅谷新闻台的高级编辑。在我们开始之前，我们应该指出，谷歌是 NPR 的财务支持者之一。Rachael，非常感谢你与我们一同参与讨论。"
+      },
+      {
+       "en": "SIMON: First, please remind us about the law these companies are suing over. It was only signed in September - hasn't gone into effect yet. What's it supposed to do?",
+       "zh": "西蒙：首先，请提醒我们一下这些公司正在起诉的法律。它只是九月份签署的——还没有生效。它应该起什么作用？"
+      },
+      {
+       "en": "MYROW: The law goes into effect in January. It prohibits social media platforms from offering children under 16 things like personalized feeds and autoplay for videos. It also requires the deletion of children's accounts with those features. So in separate lawsuits filed in San Francisco, San Jose and Los Angeles, Meta, Google and TikTok respectively said the law wrongly compels them to honor California's preferred means of presenting content to children and substitutes the state's judgment for that of parents.",
+       "zh": "MYROW：这项法律将于一月生效。它禁止社交媒体平台向16岁以下的儿童提供个性化信息流和视频自动播放等功能。它还要求删除拥有这些功能的儿童账户。因此，在旧金山、圣何塞和洛杉矶分别提起的诉讼中，Meta、谷歌和TikTok分别表示，这项法律错误地强制他们遵守加利福尼亚州对向儿童展示内容的偏好方式，并将该州的判断替代了父母的判断。"
+      },
+      {
+       "en": "They also said the law violates First Amendment free-speech protections, as well as Section 230 of the federal Communications Decency Act. That broadly shields online platforms from liability over user content. The California attorney general's office wrote me that it is reviewing the lawsuits, adding, quote, \"our office is committed to defending California's commonsense laws to protect kids online.\"",
+       "zh": "他们还表示，该法律侵犯了第一修正案的言论自由保护，以及联邦《通信体面法案》第230条。该条款广泛地保护在线平台免于对用户内容承担责任。加利福尼亚州总检察长办公室写信给我说，他们正在审查这些诉讼，并补充说，引用，“我们的办公室致力于维护加利福尼亚州保护儿童在线的常识性法律。”"
+      },
+      {
+       "en": "SIMON: And, Rachael, I gather there are groups and individuals in the state who oppose this law when it's passed. What's been their reaction?",
+       "zh": "西蒙：瑞切尔，我了解到在州内有一些团体和个人在这项法律通过时会反对它。他们的反应是什么？"
+      },
+      {
+       "en": "MYROW: Well, one law professor here in Silicon Valley I talked to argued AB 1709 is filled with censorship problems. He's particularly worried about what I mentioned earlier - that the law requires these companies to delete children's accounts if the platforms refuse to withdraw the features that make them so addictive. From his perspective, that deprives those children of the ability to publish their own speech in really what has become the public square. Meta and TikTok echoed those arguments in email statements to KQED.",
+       "zh": "MYROW：嗯，我在硅谷采访的一位法律教授认为 AB 1709 存在很多审查问题。他尤其担心我之前提到的——该法律要求这些公司如果平台拒绝撤销那些让孩子上瘾的功能，就必须删除儿童账号。在他看来，这剥夺了那些孩子在实际上已经成为公共广场的地方发表自己言论的能力。Meta 和 TikTok 在给 KQED 的电子邮件声明中也表达了类似的观点。"
+      },
+      {
+       "en": "I also talked to the digital rights group the Electronic Frontier Foundation, which also lobbied in Sacramento against the bill. They want to see a comprehensive privacy law at the federal level that limits the data social media companies can collect, sell and use to hook consumers. The group isn't pro-Big Tech, but they don't like this law.",
+       "zh": "我还与数字权利组织电子前沿基金会（Electronic Frontier Foundation）进行了交谈，该组织也曾在萨克拉门托为反对该法案进行游说。他们希望在联邦层面看到一项全面的隐私法，限制社交媒体公司可以收集、出售和用于吸引消费者的数据。该组织并非支持大型科技公司，但他们不喜欢这项法律。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "social",
+       "pos": "adj.",
+       "zh": "社会的；社交的",
+       "ex": "Google, Meta, and TikTok have sued California to block the enforcement of a state law meant to protect children from getting addicted to social media.",
+       "forms": []
+      },
+      {
+       "w": "media",
+       "pos": "n.",
+       "zh": "媒体",
+       "ex": "Google, Meta, and TikTok have sued California to block the enforcement of a state law meant to protect children from getting addicted to social media.",
+       "forms": []
+      },
+      {
+       "w": "news",
+       "pos": "n.",
+       "zh": "新闻",
+       "ex": "She's senior editor of member station KQED's Silicon Valley News Desk.",
+       "forms": []
+      },
+      {
+       "w": "financial",
+       "pos": "adj.",
+       "zh": "金融的；财务的",
+       "ex": "And before we begin, we should note that Google is among NPR's financial supporters.",
+       "forms": []
+      },
+      {
+       "w": "effect",
+       "pos": "n.",
+       "zh": "影响；效果",
+       "ex": "It was only signed in September - hasn't gone into effect yet.",
+       "forms": []
+      },
+      {
+       "w": "prohibit",
+       "pos": "v.",
+       "zh": "禁止",
+       "ex": "It prohibits social media platforms from offering children under 16 things like personalized feeds and autoplay for videos.",
+       "forms": [
+        "prohibits"
+       ]
+      },
+      {
+       "w": "platform",
+       "pos": "n.",
+       "zh": "平台",
+       "ex": "It prohibits social media platforms from offering children under 16 things like personalized feeds and autoplay for videos.",
+       "forms": [
+        "platforms"
+       ]
+      },
+      {
+       "w": "lawsuit",
+       "pos": "n.",
+       "zh": "诉讼",
+       "ex": "So in separate lawsuits filed in San Francisco, San Jose and Los Angeles, Meta, Google and TikTok respectively said the law wrongly compels them to honor California's preferred means of presenting content to children and substitutes the state's judgment for that of parents.",
+       "forms": [
+        "lawsuits"
+       ]
+      },
+      {
+       "w": "substitute",
+       "pos": "v.",
+       "zh": "替代；用……代替",
+       "ex": "So in separate lawsuits filed in San Francisco, San Jose and Los Angeles, Meta, Google and TikTok respectively said the law wrongly compels them to honor California's preferred means of presenting content to children and substitutes the state's judgment for that of parents.",
+       "forms": [
+        "substitutes"
+       ]
+      },
+      {
+       "w": "violate",
+       "pos": "v.",
+       "zh": "违反；侵犯",
+       "ex": "They also said the law violates First Amendment free-speech protections, as well as Section 230 of the federal Communications Decency Act.",
+       "forms": [
+        "violates"
+       ]
+      },
+      {
+       "w": "amendment",
+       "pos": "n.",
+       "zh": "修正案",
+       "ex": "They also said the law violates First Amendment free-speech protections, as well as Section 230 of the federal Communications Decency Act.",
+       "forms": []
+      },
+      {
+       "w": "federal",
+       "pos": "adj.",
+       "zh": "联邦的",
+       "ex": "They also said the law violates First Amendment free-speech protections, as well as Section 230 of the federal Communications Decency Act.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "social",
+      "media",
+      "news",
+      "financial",
+      "effect"
+     ],
+     "keyVocab": [
+      "social",
+      "media",
+      "news",
+      "financial",
+      "effect",
+      "prohibit",
+      "platform",
+      "lawsuit"
+     ]
+    },
+    {
+     "id": "2026-11-09-science",
+     "section": "Science",
+     "sectionZh": "科学",
+     "title": "SS United States, a historic ship will be sunk to create an artificial reef",
+     "dek": "NPR's Ayesha Rascoe talks to Alex Fogg, Natural Resources Chief of Okaloosa County, Florida, about efforts to deliberately sink the SS United States and create an artificial reef in its wreckage.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/08/nx-s1-6030918/ss-united-states-a-historic-ship-will-be-sunk-to-create-an-artificial-reef",
+     "byline": "Ayesha Rascoe",
+     "dateLabel": "2026-11-09",
+     "words": 472,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "NPR's Ayesha Rascoe talks to Alex Fogg, Natural Resources Chief of Okaloosa County, Florida, about efforts to deliberately sink the SS United States and create an artificial reef in its wreckage.",
+       "zh": "NPR的艾莎·拉斯科（Ayesha Rascoe）与佛罗里达州奥卡卢萨县自然资源主管亚历克斯·福格（Alex Fogg）谈论了故意将美国号客轮沉入海中并在其残骸中创建人工珊瑚礁的努力。"
+      },
+      {
+       "en": "A historic ship docked on the Gulf Coast is getting a second life by being put down, down as in the ocean floor. This Thursday, the SS United States will be sunk on purpose to create the largest artificial reef in the world near Destin, Florida. Joining me now is Alex Fogg, the natural resources chief for Okaloosa County, Florida. Thank you so much for joining us.",
+       "zh": "一艘停靠在墨西哥湾沿岸的历史船正通过被下沉，也就是下沉到海底，获得第二次生命。本周四，SS美国号将被故意沉没，以在佛罗里达州德斯廷附近创造世界上最大的人工礁。现在加入我们的是佛罗里达州奥卡卢萨县的自然资源主管亚历克斯·福格。非常感谢您的加入。"
+      },
+      {
+       "en": "RASCOE: So first of all, tell us a little bit about the ship, its history and why it's so special.",
+       "zh": "RASCOE：首先，请告诉我们一些关于这艘船的信息，它的历史以及为什么它如此特别。"
+      },
+      {
+       "en": "FOGG: So the SS United States, it's huge. We've done a lot of artificial reef projects in the past, and this one really sticks out really 'cause of its size, but also its storied past. It's a vessel that was built back in the early 1950s, went back and forth to Europe. It was eventually retired in the late 1960s when air travel just became so much more efficient. But during that time, it carried all sorts of really famous people and was geared to be a troop carrier in the event of the United States getting involved in another world war.",
+       "zh": "FOGG：所以SS United States号，非常巨大。我们过去做过很多人工礁项目，而这个项目确实非常突出，不仅因为它的规模，还因为它丰富的历史。这是一艘建造于20世纪50年代初的船，往返欧洲。到了20世纪60年代末，由于航空旅行变得更加高效，它最终退役。但在那段时间，它运载过各种非常有名的人物，并且在美国卷入另一场世界大战的情况下，还被设计成可以运送军队的船只。"
+      },
+      {
+       "en": "RASCOE: My understanding is that it sat for decades in Philadelphia and made its way around the world, as you talked about. But then eventually down to Florida. How did it get down to Florida?",
+       "zh": "RASCOE：我理解的是，它在费城搁置了数十年，然后像你说的那样辗转世界各地。但最终到了佛罗里达州。它是怎么到佛罗里达的？"
+      },
+      {
+       "en": "FOGG: Yeah. It was a very long tow. So we had to do a lot of checks and balances with our contractor, naval architects, U.S. Coast Guard, all sorts of different entities, to make sure that it was seaworthy enough to be towed from Philadelphia all the way down to Mobile, Alabama, where the full remediation was going to occur.",
+       "zh": "FOGG：是的。这是一次非常长的拖航。因此我们不得不与我们的承包商、海军建筑师、美国海岸警卫队以及各种不同的机构进行大量的检查和平衡，以确保它足够适航，能够从费城拖到阿拉巴马州的莫比尔，在那里将进行全面的修复。"
+      },
+      {
+       "en": "RASCOE: Well, let's talk about the big plans for the ship's new life. Like, why would you sink a nearly 900-foot ship intentionally in the Gulf of Mexico?",
+       "zh": "RASCOE：好吧，让我们谈谈这艘船新生活的大计划。比如，为什么你要故意把一艘接近900英尺的船沉在墨西哥湾？"
+      },
+      {
+       "en": "FOGG: We tried to talk about or tried to figure out ways that we could increase our artificial reef construction to benefit tourism, to benefit the environment. Came up with a whole plan to acquire a bunch of vessels to sink as artificial reefs 'cause when people come diving in a destination, they don't want to dive, you know, sand, or maybe don't want to dive natural reefs all the time. They want to be a bona fide wreck diver. So by deploying these wrecks, it started to put us on the map as a dive destination, and there was a plan that if a vessel of very large size or a very cool story comes along, we would pursue it. And the SS United States was that ship.",
+       "zh": "FOGG：我们尝试讨论或尝试找出方法来增加人工礁的建设，以惠及旅游业和环境。我们制定了一个完整的计划，打算收购一批船只用于沉入海中作为人工礁，因为当人们去某个地方潜水时，他们不想潜入沙地，或者有时不总是想潜自然礁。他们想成为真正的沉船潜水者。所以通过部署这些沉船，我们开始在潜水目的地上打响了名声，而且有一个计划，如果出现一艘非常大或故事非常特别的船，我们会去争取。而“美利坚号”就是那艘船。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "artificial",
+       "pos": "adj.",
+       "zh": "人工的；人造的",
+       "ex": "NPR's Ayesha Rascoe talks to Alex Fogg, Natural Resources Chief of Okaloosa County, Florida, about efforts to deliberately sink the SS United States and create an artificial reef in its wreckage.",
+       "forms": []
+      },
+      {
+       "w": "history",
+       "pos": "n.",
+       "zh": "历史",
+       "ex": "RASCOE: So first of all, tell us a little bit about the ship, its history and why it's so special.",
+       "forms": []
+      },
+      {
+       "w": "increase",
+       "pos": "v.",
+       "zh": "增加",
+       "ex": "FOGG: We tried to talk about or tried to figure out ways that we could increase our artificial reef construction to benefit tourism, to benefit the environment.",
+       "forms": []
+      },
+      {
+       "w": "acquire",
+       "pos": "v.",
+       "zh": "收购；获得",
+       "ex": "Came up with a whole plan to acquire a bunch of vessels to sink as artificial reefs 'cause when people come diving in a destination, they don't want to dive, you know, sand, or maybe don't want to dive natural reefs all the time.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "artificial",
+      "history",
+      "increase",
+      "acquire"
+     ],
+     "keyVocab": [
+      "artificial",
+      "history",
+      "increase",
+      "acquire"
+     ]
+    },
+    {
+     "id": "2026-11-09-culture",
+     "section": "Culture",
+     "sectionZh": "文化",
+     "title": "After a successful trip to Uruguay, Pope Leo heads to Argentina",
+     "dek": "FLORIDA, Uruguay — Pope Leo XIV wrapped up his visit to Uruguay on Sunday by praising the women who have passed the Catholic faith onto younger generations, as he highlighted the role the church…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina",
+     "byline": "The Associated Press",
+     "dateLabel": "2026-11-09",
+     "words": 307,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "FLORIDA, Uruguay — Pope Leo XIV wrapped up his visit to Uruguay on Sunday by praising the women who have passed the Catholic faith onto younger generations, as he highlighted the role the church has played since the founding of Latin America's most secular country.",
+       "zh": "乌拉圭，佛罗里达——教皇利奥十四世在周日结束对乌拉圭的访问时，赞扬了那些将天主教信仰传给年轻一代的女性，并强调了教会自拉丁美洲最世俗国家建国以来所发挥的作用。"
+      },
+      {
+       "en": "Leo traveled to the city of Florida, north of Montevideo, to mark an important Catholic feast day before heading to Argentina for the second leg of his South American tour. It's expected to be the most politically delicate stop, given the Catholic Church's sharp criticisms of the austerity program of libertarian President Javier Milei.",
+       "zh": "Leo 前往位于蒙得维的北方的佛罗里达市，以纪念一个重要的天主教节日，然后前往阿根廷进行他南美之旅的第二站。考虑到天主教会对自由主义总统哈维尔·米莱的紧缩计划提出了尖锐批评，这一站预计将是政治上最为敏感的。"
+      },
+      {
+       "en": "For his final event in Uruguay, Leo celebrated the feast of the Virgin of the Thirty-three. According to tradition, 33 independence patriots acquired the Guaraní statue and had it with them when independence was declared from the Brazilian empire in Florida on Aug. 25, 1825.",
+       "zh": "在乌拉圭的最后一场活动中，莱奥庆祝了三十三圣母节。根据传统，33位独立爱国者获得了瓜拉尼圣像，并在1825年8月25日从巴西帝国在佛罗里达宣布独立时随身携带它。"
+      },
+      {
+       "en": "Leo became the first pope in nearly four decades to visit Uruguay, in hopes of reminding its people that the Catholic Church is part of their very identity as a nation — even if, in subsequent decades, the country went on a deeply secular, and at times anticlerical, route.",
+       "zh": "莱奥成为近四十年来首位访问乌拉圭的教皇，希望提醒乌拉圭人民，天主教会是他们作为一个国家身份的一部分——即使在随后的几十年里，该国走上了深度世俗化，有时甚至反教士的道路。"
+      },
+      {
+       "en": "In his homily, delivered in front of Florida's cathedral, Leo recalled the presence of the statue at the time of independence in reminding Uruguayans that \"the history of peoples, too, cannot be fully understood without reference to God,\" and especially a mother.",
+       "zh": "在他于佛罗里达大教堂前发表的讲道中，列奥回忆起独立时雕像的存在，提醒乌拉圭人，“没有提到上帝，民族的历史也无法被完全理解”，尤其是一位母亲。"
+      },
+      {
+       "en": "He thanked all the mothers and grandmothers who have passed the faith onto younger generations, and acknowledged their pain when their efforts didn't stick.",
+       "zh": "他感谢了所有将信仰传给下一代的母亲和祖母，并认可了当她们的努力未能成功时所经历的痛苦。"
+      },
+      {
+       "en": "\"You taught your children to pray, and today they no longer do so. You used to attend Mass together, and it has been years since they entered a church,\" he said. But he urged them to not despair.",
+       "zh": "“你教你的孩子们祈祷，但今天他们已经不再祈祷。你们曾经一起去做弥撒，但他们已经多年没有进入教堂了，”他说。但他鼓励他们不要绝望。"
+      },
+      {
+       "en": "\"Mothers and grandmothers: never tire of passing on the faith!\"",
+       "zh": "母亲和祖母：永远不要厌倦传递信仰！"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "generation",
+       "pos": "n.",
+       "zh": "一代人；世代",
+       "ex": "FLORIDA, Uruguay — Pope Leo XIV wrapped up his visit to Uruguay on Sunday by praising the women who have passed the Catholic faith onto younger generations, as he highlighted the role the church has played since the founding of Latin America's most secular country.",
+       "forms": [
+        "generations"
+       ]
+      },
+      {
+       "w": "expect",
+       "pos": "v.",
+       "zh": "预期；期待",
+       "ex": "It's expected to be the most politically delicate stop, given the Catholic Church's sharp criticisms of the austerity program of libertarian President Javier Milei.",
+       "forms": [
+        "expected"
+       ]
+      },
+      {
+       "w": "sharp",
+       "pos": "adj.",
+       "zh": "急剧的；锋利的",
+       "ex": "It's expected to be the most politically delicate stop, given the Catholic Church's sharp criticisms of the austerity program of libertarian President Javier Milei.",
+       "forms": []
+      },
+      {
+       "w": "austerity",
+       "pos": "n.",
+       "zh": "紧缩（政策）",
+       "ex": "It's expected to be the most politically delicate stop, given the Catholic Church's sharp criticisms of the austerity program of libertarian President Javier Milei.",
+       "forms": []
+      },
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "It's expected to be the most politically delicate stop, given the Catholic Church's sharp criticisms of the austerity program of libertarian President Javier Milei.",
+       "forms": []
+      },
+      {
+       "w": "tradition",
+       "pos": "n.",
+       "zh": "传统",
+       "ex": "According to tradition, 33 independence patriots acquired the Guaraní statue and had it with them when independence was declared from the Brazilian empire in Florida on Aug.",
+       "forms": []
+      },
+      {
+       "w": "acquire",
+       "pos": "v.",
+       "zh": "收购；获得",
+       "ex": "According to tradition, 33 independence patriots acquired the Guaraní statue and had it with them when independence was declared from the Brazilian empire in Florida on Aug.",
+       "forms": [
+        "acquired"
+       ]
+      },
+      {
+       "w": "history",
+       "pos": "n.",
+       "zh": "历史",
+       "ex": "In his homily, delivered in front of Florida's cathedral, Leo recalled the presence of the statue at the time of independence in reminding Uruguayans that \"the history of peoples, too, cannot be fully understood without reference to God,\" and especially a mother.",
+       "forms": []
+      },
+      {
+       "w": "acknowledge",
+       "pos": "v.",
+       "zh": "承认",
+       "ex": "He thanked all the mothers and grandmothers who have passed the faith onto younger generations, and acknowledged their pain when their efforts didn't stick.",
+       "forms": [
+        "acknowledged"
+       ]
+      },
+      {
+       "w": "urge",
+       "pos": "v.",
+       "zh": "敦促；力劝",
+       "ex": "But he urged them to not despair.",
+       "forms": [
+        "urged"
+       ]
+      }
+     ],
+     "homeWords": [
+      "generation",
+      "expect",
+      "sharp",
+      "austerity",
+      "president"
+     ],
+     "keyVocab": [
+      "generation",
+      "expect",
+      "sharp",
+      "austerity",
+      "president",
+      "tradition",
+      "acquire",
+      "history"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-08",
    "articles": [
@@ -4512,736 +5239,6 @@ window.__MERIDIAN_DATA__ = {
       "student",
       "charge",
       "hospital"
-     ]
-    }
-   ]
-  },
-  {
-   "date": "2026-11-02",
-   "articles": [
-    {
-     "id": "2026-11-02-world",
-     "section": "World",
-     "sectionZh": "国际",
-     "title": "This legendary board game could take decades to complete",
-     "dek": "Andy Taeger & James Purcell are trying to become the first people ever complete the board game Campaign for North Africa. The is so complex it could take decades to finish.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/01/nx-s1-6025438/this-legendary-board-game-could-take-decades-to-complete",
-     "byline": "Michael Levitt",
-     "dateLabel": "2026-11-02",
-     "words": 297,
-     "readTime": 3,
-     "level": "B2",
-     "levelEn": "Upper-intermediate",
-     "paragraphs": [
-      {
-       "en": "Andy Taeger & James Purcell are trying to become the first people ever complete the board game Campaign for North Africa. The is so complex it could take decades to finish.",
-       "zh": "安迪·泰格和詹姆斯·珀塞尔正试图成为有史以来第一个完成桌面游戏《北非战役》的玩家。这个游戏如此复杂，可能需要几十年才能完成。"
-      },
-      {
-       "en": "In the U.K., two friends have begun a challenge that many people believe is impossible. The board game Campaign for North Africa is legendary for its complexity and detail and its extreme time commitment. Andy Taeger and James Purcell are trying to become the first people ever to complete it. Hi to both of you.",
-       "zh": "在英国，两个朋友开始了一项许多人认为不可能完成的挑战。棋盘游戏《北非战役》以其复杂性、细节丰富和极高的时间投入而闻名。安迪·泰格和詹姆斯·珀塞尔正试图成为有史以来第一个完成它的人。向你们两位问好。"
-      },
-      {
-       "en": "PFEIFFER: So this board game covers a period of World War II that lasted roughly three years. Yet the game itself could take almost 10 times that, you know, many years more. What is it that makes it what you guys have described as comically complicated?",
-       "zh": "PFEIFFER：所以这个棋盘游戏涵盖了二战时期大约三年的时间。然而，游戏本身可能需要几乎十倍的时间，你知道，也就是多年。究竟是什么让它变成了你们所描述的滑稽复杂？"
-      },
-      {
-       "en": "PURCELL: I suppose, first and foremost, we aren't generals. So we have no experience in warfare. There is everything to keep track of in this game down to how much water each unit has to drink, how much of that water evaporates, just about every granular detail you can think of.",
-       "zh": "普塞尔：我想，最重要的是，我们不是将军。因此我们没有战争经验。在这个游戏中，有太多事情需要跟踪，包括每个单位需要喝多少水、有多少水会蒸发，你能想到的几乎每一个细节。"
-      },
-      {
-       "en": "TAEGER: There's a rule Italian infantry uses more water so they could boil their pasta.",
-       "zh": "TAEGER：意大利步兵有一个规定，就是使用更多的水，这样他们就可以煮意大利面。"
-      },
-      {
-       "en": "PFEIFFER: The pasta is that the Italians are going to go through drinking water faster, and they need to calculate that in?",
-       "zh": "PFEIFFER：意大利人喝水会更快，而他们需要把这一点计算在内吗？"
-      },
-      {
-       "en": "PURCELL: Yeah. Apparently, they have to use more to boil their pasta. I'm not sure how accurate that is, but that's part of the rules.",
-       "zh": "普塞尔：是的。显然，他们必须用更多的水来煮意大利面。我不确定这有多准确，但这是规则的一部分。"
-      },
-      {
-       "en": "PFEIFFER: All right, so the big question is - why? Why are the two of you doing this, if you know it could take years or even decades to complete?",
-       "zh": "PFEIFFER：好吧，那么大问题是——为什么？如果你们知道这可能需要几年甚至几十年才能完成，你们为什么还要做这件事？"
-      },
-      {
-       "en": "PURCELL: We'd love to give an answer that makes some aspect of sense, but we really don't know why we're doing this.",
-       "zh": "珀塞尔：我们很希望给出一个有某种意义的回答，但我们真的不知道自己为什么要这样做。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "campaign",
-       "pos": "n.",
-       "zh": "竞选；运动",
-       "ex": "Andy Taeger & James Purcell are trying to become the first people ever complete the board game Campaign for North Africa.",
-       "forms": []
-      },
-      {
-       "w": "challenge",
-       "pos": "n.",
-       "zh": "挑战",
-       "ex": "In the U.K., two friends have begun a challenge that many people believe is impossible.",
-       "forms": []
-      },
-      {
-       "w": "describe",
-       "pos": "v.",
-       "zh": "描述",
-       "ex": "What is it that makes it what you guys have described as comically complicated?",
-       "forms": [
-        "described"
-       ]
-      },
-      {
-       "w": "water",
-       "pos": "n.",
-       "zh": "水",
-       "ex": "There is everything to keep track of in this game down to how much water each unit has to drink, how much of that water evaporates, just about every granular detail you can think of.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "campaign",
-      "challenge",
-      "describe",
-      "water"
-     ],
-     "keyVocab": [
-      "campaign",
-      "challenge",
-      "describe",
-      "water"
-     ]
-    },
-    {
-     "id": "2026-11-02-business",
-     "section": "Business",
-     "sectionZh": "商业 · 财经",
-     "title": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter",
-     "dek": "Saying the president was \"grasping at straws,\" a federal judge on Saturday threw out Donald Trump's $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/01/nx-s1-6025342/judge-dismisses-trump-suit-against-wall-street-journal-epstein-letter",
-     "byline": "The Associated Press",
-     "dateLabel": "2026-11-02",
-     "words": 285,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "Saying the president was \"grasping at straws,\" a federal judge on Saturday threw out Donald Trump's $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to Jeffrey Epstein.",
-       "zh": "一位联邦法官在周六表示，总统是在“抓救命稻草”，并驳回了唐纳德·特朗普针对《华尔街日报》和媒体大亨鲁珀特·默多克关于报道他与杰弗里·爱泼斯坦关系的新闻提起的100亿美元诉讼。"
-      },
-      {
-       "en": "U.S. District Judge Darrin Gayles in Miami dismissed the suit with prejudice, ruling that the president did not prove the defendants made defamatory statements with actual malice as required by law. The ruling said the lawsuit had attempted to \"manufacture\" flaws in the Journal's investigative reporting.",
-       "zh": "迈阿密的美国地方法官达林·盖尔斯（Darrin Gayles）以有偏见的方式驳回了这起诉讼，裁定总统未能证明被告按照法律要求以实际恶意发表了诽谤性言论。裁决指出，这起诉讼试图“捏造”《华尔街日报》调查报道中的缺陷。"
-      },
-      {
-       "en": "When a case is thrown out \"with prejudice,\" it cannot be refiled again and the dismissal is permanent and incontrovertible.",
-       "zh": "当案件被以“有偏见”的理由驳回时，不能再次提起诉讼，该驳回是永久且无可争辩的。"
-      },
-      {
-       "en": "The dismissal is a blow to Trump and his administration, which have both pursued adversarial relationships with news organizations during his second term. In addition to the Journal, he is embroiled in lawsuits involving the BBC, The Associated Press and — most recently — CNN, MS NOW and Politico, which are suing him for restored access after he banished them from the White House in mid-September.",
-       "zh": "这次解职对特朗普及其政府是一次打击，他们在第二任期内一直与新闻机构保持对抗关系。除了《华尔街日报》，他还卷入了涉及英国广播公司、美联社以及——最近——CNN、MS NOW和Politico的诉讼，这些机构正在起诉他以恢复访问权限，此前他在九月中旬将它们驱逐出白宫。"
-      },
-      {
-       "en": "Trump has denounced media outlets that write things to which he objects and frequently calls them \"fake news\" and insults their journalists.",
-       "zh": "特朗普谴责那些写出他反对内容的媒体，并经常称它们为“假新闻”，还侮辱它们的记者。"
-      },
-      {
-       "en": "The White House did not immediately react publicly to Saturday's dismissal or respond to an AP request for comment.",
-       "zh": "白宫没有立即就周六的解雇作出公开反应，也没有回应美联社的置评请求。"
-      },
-      {
-       "en": "The lawsuit against the Journal was over a story it published last year describing a sexually suggestive letter and drawing that the paper said bore Trump's name and was included in a 2003 album compiled for Epstein's 50th birthday.",
-       "zh": "对该报的诉讼是关于它去年发表的一篇报道，该报道描述了一封具有性暗示的信件和一幅画，报纸称这些信件和画作署有特朗普的名字，并被收录在为爱泼斯坦50岁生日编制的2003年相册中。"
-      },
-      {
-       "en": "The letter was reportedly collected by disgraced British socialite Ghislaine Maxwell as part of a birthday album for Epstein years before he was first arrested in 2006 and subsequently had a falling-out with Trump.",
-       "zh": "据报道，这封信是由声名狼藉的英国社交名流吉丝兰·麦克斯韦收集的，作为为埃普斯坦制作的生日相册的一部分，这发生在他2006年首次被逮捕之前的几年，之后他与特朗普反目成仇。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "president",
-       "pos": "n.",
-       "zh": "总统；总裁",
-       "ex": "Saying the president was \"grasping at straws,\" a federal judge on Saturday threw out Donald Trump's $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to Jeffrey Epstein.",
-       "forms": []
-      },
-      {
-       "w": "federal",
-       "pos": "adj.",
-       "zh": "联邦的",
-       "ex": "Saying the president was \"grasping at straws,\" a federal judge on Saturday threw out Donald Trump's $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to Jeffrey Epstein.",
-       "forms": []
-      },
-      {
-       "w": "judge",
-       "pos": "n.",
-       "zh": "法官",
-       "ex": "Saying the president was \"grasping at straws,\" a federal judge on Saturday threw out Donald Trump's $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to Jeffrey Epstein.",
-       "forms": []
-      },
-      {
-       "w": "billion",
-       "pos": "n.",
-       "zh": "十亿",
-       "ex": "Saying the president was \"grasping at straws,\" a federal judge on Saturday threw out Donald Trump's $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to Jeffrey Epstein.",
-       "forms": []
-      },
-      {
-       "w": "lawsuit",
-       "pos": "n.",
-       "zh": "诉讼",
-       "ex": "Saying the president was \"grasping at straws,\" a federal judge on Saturday threw out Donald Trump's $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to Jeffrey Epstein.",
-       "forms": [
-        "lawsuits"
-       ]
-      },
-      {
-       "w": "media",
-       "pos": "n.",
-       "zh": "媒体",
-       "ex": "Saying the president was \"grasping at straws,\" a federal judge on Saturday threw out Donald Trump's $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to Jeffrey Epstein.",
-       "forms": []
-      },
-      {
-       "w": "report",
-       "pos": "n.",
-       "zh": "报告；报道",
-       "ex": "Saying the president was \"grasping at straws,\" a federal judge on Saturday threw out Donald Trump's $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to Jeffrey Epstein.",
-       "forms": [
-        "reporting"
-       ]
-      },
-      {
-       "w": "dismiss",
-       "pos": "v.",
-       "zh": "驳回；不予理会",
-       "ex": "District Judge Darrin Gayles in Miami dismissed the suit with prejudice, ruling that the president did not prove the defendants made defamatory statements with actual malice as required by law.",
-       "forms": [
-        "dismissed"
-       ]
-      },
-      {
-       "w": "ruling",
-       "pos": "n.",
-       "zh": "裁决；裁定",
-       "ex": "District Judge Darrin Gayles in Miami dismissed the suit with prejudice, ruling that the president did not prove the defendants made defamatory statements with actual malice as required by law.",
-       "forms": []
-      },
-      {
-       "w": "statement",
-       "pos": "n.",
-       "zh": "声明；陈述",
-       "ex": "District Judge Darrin Gayles in Miami dismissed the suit with prejudice, ruling that the president did not prove the defendants made defamatory statements with actual malice as required by law.",
-       "forms": [
-        "statements"
-       ]
-      },
-      {
-       "w": "administration",
-       "pos": "n.",
-       "zh": "政府；行政",
-       "ex": "The dismissal is a blow to Trump and his administration, which have both pursued adversarial relationships with news organizations during his second term.",
-       "forms": []
-      },
-      {
-       "w": "news",
-       "pos": "n.",
-       "zh": "新闻",
-       "ex": "The dismissal is a blow to Trump and his administration, which have both pursued adversarial relationships with news organizations during his second term.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "president",
-      "federal",
-      "judge",
-      "billion",
-      "lawsuit"
-     ],
-     "keyVocab": [
-      "president",
-      "federal",
-      "judge",
-      "billion",
-      "lawsuit",
-      "media",
-      "report",
-      "dismiss"
-     ]
-    },
-    {
-     "id": "2026-11-02-technology",
-     "section": "Technology",
-     "sectionZh": "科技",
-     "title": "Your writing was flagged as AI. What does that actually mean?",
-     "dek": "Ghostwriter Sally McGraw was hoping to land a job developing a book proposal for a prospective client. But after submitting a writing sample, she got an unexpected response: an email telling her…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram",
-     "byline": "Windsor Johnston",
-     "dateLabel": "2026-11-02",
-     "words": 284,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "Ghostwriter Sally McGraw was hoping to land a job developing a book proposal for a prospective client. But after submitting a writing sample, she got an unexpected response: an email telling her that multiple artificial intelligence detection tools had flagged her work as machine-generated.",
-       "zh": "代笔作家萨莉·麦格劳希望获得一份为潜在客户开发书籍提案的工作。但在提交写作样本后，她收到了一份意想不到的回复：一封电子邮件告诉她，多个人工智能检测工具已经将她的作品标记为机器生成。"
-      },
-      {
-       "en": "\"I was floored because I had not used AI to generate the text,\" McGraw said. \"I'd written it all myself.\"",
-       "zh": "麦格劳说：“我震惊了，因为我没有用人工智能来生成这段文字，我完全是自己写的。”"
-      },
-      {
-       "en": "Having spent more than 20 years as a professional nonfiction writer, McGraw said she was angry that her work had been dismissed as AI-written.",
-       "zh": "麦格劳说，作为一名拥有超过20年经验的专业非虚构作家，她对自己的作品被认为是人工智能写的而感到愤怒。"
-      },
-      {
-       "en": "\"You know where you see a cartoon character going red from their chin all the way up to the crown of their head? I felt my ears starting to burn,\" she said. \"I thought, what is going on?\"",
-       "zh": "“你知道在卡通里你看到一个角色从下巴一直红到头顶的情景吗？我感觉我的耳朵也开始发热了，”她说。“我当时想，发生什么事了？”"
-      },
-      {
-       "en": "McGraw said she assured the client she had written the proposal herself, but decided not to press the issue because she considered the job \"minor.\"",
-       "zh": "麦格劳说她向客户保证自己亲自撰写了提案，但她决定不再坚持这个问题，因为她认为这份工作“微不足道”。"
-      },
-      {
-       "en": "In an email to NPR, the client confirmed that she had screened McGraw's work for AI. But she said the results were not the determining factor in choosing to hire a different writer, instead citing experience and fit. McGraw says she was paid for her writing samples, but believes the detector results cost her the opportunity to write the full book proposal.",
-       "zh": "在给NPR的电子邮件中，这位客户确认她已经对麦格劳的作品进行了人工智能检测。但她表示，检测结果并不是选择雇用其他作者的决定性因素，而是引用了经验和契合度。麦格劳表示，她为自己的写作样本获得了报酬，但认为检测结果让她失去了撰写完整书籍提案的机会。"
-      },
-      {
-       "en": "As editors struggle to keep up with a growing influx of AI-generated content, some are turning to detection tools to help sift through the mounting number of submissions. But these tools aren't perfect: They've been known to falsely flag human-written work as AI, which can leave writers with little idea of what triggered the result and how to prove otherwise.",
-       "zh": "随着编辑们努力跟上不断增长的 AI 生成内容，一些人开始使用检测工具来帮助筛选不断增加的投稿数量。但这些工具并不完美：它们已知会错误地将人工撰写的作品标记为 AI，这可能让作者对触发结果的原因几乎一无所知，也不知如何证明其作品是人工创作的。"
-      },
-      {
-       "en": "\"Everyone knows that these screeners are not 100% accurate,\" said McGraw.",
-       "zh": "麦格劳说：“每个人都知道这些筛查器并不是百分之百准确。”"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "land",
-       "pos": "n.",
-       "zh": "土地；陆地",
-       "ex": "Ghostwriter Sally McGraw was hoping to land a job developing a book proposal for a prospective client.",
-       "forms": []
-      },
-      {
-       "w": "artificial",
-       "pos": "adj.",
-       "zh": "人工的；人造的",
-       "ex": "But after submitting a writing sample, she got an unexpected response: an email telling her that multiple artificial intelligence detection tools had flagged her work as machine-generated.",
-       "forms": []
-      },
-      {
-       "w": "intelligence",
-       "pos": "n.",
-       "zh": "情报；智能",
-       "ex": "But after submitting a writing sample, she got an unexpected response: an email telling her that multiple artificial intelligence detection tools had flagged her work as machine-generated.",
-       "forms": []
-      },
-      {
-       "w": "dismiss",
-       "pos": "v.",
-       "zh": "驳回；不予理会",
-       "ex": "\"I'd written it all myself.\" Having spent more than 20 years as a professional nonfiction writer, McGraw said she was angry that her work had been dismissed as AI-written.",
-       "forms": [
-        "dismissed"
-       ]
-      },
-      {
-       "w": "issue",
-       "pos": "n.",
-       "zh": "议题；问题",
-       "ex": "\"I thought, what is going on?\" McGraw said she assured the client she had written the proposal herself, but decided not to press the issue because she considered the job \"minor.\" In an email to NPR, the client confirmed that she had screened McGraw's work for AI.",
-       "forms": []
-      },
-      {
-       "w": "confirm",
-       "pos": "v.",
-       "zh": "证实；确认",
-       "ex": "\"I thought, what is going on?\" McGraw said she assured the client she had written the proposal herself, but decided not to press the issue because she considered the job \"minor.\" In an email to NPR, the client confirmed that she had screened McGraw's work for AI.",
-       "forms": [
-        "confirmed"
-       ]
-      },
-      {
-       "w": "result",
-       "pos": "n.",
-       "zh": "结果",
-       "ex": "But she said the results were not the determining factor in choosing to hire a different writer, instead citing experience and fit.",
-       "forms": [
-        "results"
-       ]
-      },
-      {
-       "w": "cite",
-       "pos": "v.",
-       "zh": "引用；援引",
-       "ex": "But she said the results were not the determining factor in choosing to hire a different writer, instead citing experience and fit.",
-       "forms": [
-        "citing"
-       ]
-      },
-      {
-       "w": "cost",
-       "pos": "n.",
-       "zh": "成本；代价",
-       "ex": "McGraw says she was paid for her writing samples, but believes the detector results cost her the opportunity to write the full book proposal.",
-       "forms": []
-      },
-      {
-       "w": "opportunity",
-       "pos": "n.",
-       "zh": "机会",
-       "ex": "McGraw says she was paid for her writing samples, but believes the detector results cost her the opportunity to write the full book proposal.",
-       "forms": []
-      },
-      {
-       "w": "number",
-       "pos": "n.",
-       "zh": "数量；数字",
-       "ex": "As editors struggle to keep up with a growing influx of AI-generated content, some are turning to detection tools to help sift through the mounting number of submissions.",
-       "forms": []
-      },
-      {
-       "w": "trigger",
-       "pos": "v.",
-       "zh": "引发；触发",
-       "ex": "But these tools aren't perfect: They've been known to falsely flag human-written work as AI, which can leave writers with little idea of what triggered the result and how to prove otherwise.",
-       "forms": [
-        "triggered"
-       ]
-      }
-     ],
-     "homeWords": [
-      "land",
-      "artificial",
-      "intelligence",
-      "dismiss",
-      "issue"
-     ],
-     "keyVocab": [
-      "land",
-      "artificial",
-      "intelligence",
-      "dismiss",
-      "issue",
-      "confirm",
-      "result",
-      "cite"
-     ]
-    },
-    {
-     "id": "2026-11-02-science",
-     "section": "Science",
-     "sectionZh": "科学",
-     "title": "Oyster stocks have plunged in the Chesapeake. This resident wants to bring them back",
-     "dek": "John Consoli stands on the edge of his pier, which juts out from the southern tip of Maryland's Kent Island and into the Chesapeake Bay. He leans over and hoists a mesh the size and shape of a…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/31/nx-s1-6011228/oyster-farming-conservation-chesapeake-bay",
-     "byline": "Ari Daniel",
-     "dateLabel": "2026-11-02",
-     "words": 406,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "John Consoli stands on the edge of his pier, which juts out from the southern tip of Maryland's Kent Island and into the Chesapeake Bay. He leans over and hoists a mesh the size and shape of a pillowcase out of the water.",
-       "zh": "约翰·康索利站在他码头的尽头，码头从马里兰州肯特岛的南端伸入切萨皮克湾。他俯身，将一个大小和形状像枕头套的网从水中提起。"
-      },
-      {
-       "en": "It's packed with oysters. He manages to get it onto the pier. \"These are brand new oysters from this year,\" he says. \"When I got them, they weighed nothing. And this is just three months of growth. The net is chock full, I can hardly pull it up.\"",
-       "zh": "里面满是牡蛎。他设法把它弄到码头上。“这些是今年的新牡蛎，”他说。“当我拿到它们时，几乎没重量。这只是三个月的生长。网满得不得了，我几乎拉不上来。”"
-      },
-      {
-       "en": "Once he catches his breath, Consoli marvels at these molluscs. \"I think I'm more enthusiastic about something that's like a rock than anybody else could possibly be,\" he says with a big grin. \"I really can't think of many more creatures that do the good that oysters do.\"",
-       "zh": "一旦他喘过气来，康索利对这些软体动物感到惊讶。他咧着大大的笑容说：“我想我对像石头一样的东西的热情，比其他任何人可能都要高。”他接着说：“我真的想不出还有多少生物能像牡蛎那样带来好处。”"
-      },
-      {
-       "en": "Oysters underpin the Chesapeake's coastal and estuarine ecosystem. Each adult filters up to 50 gallons of water a day. Cleaner water leads to a healthier bay and more sea grass. \"That helps crabs and other organisms,\" says Consoli.",
-       "zh": "牡蛎支撑着切萨皮克湾的沿海和河口生态系统。每只成牡蛎每天可以过滤多达50加仑的水。水质更清洁意味着海湾更健康，海草更多。“这对螃蟹和其他生物都有帮助，”康索利说。"
-      },
-      {
-       "en": "Plus, oyster shells are a habitat unto themselves. \"Because of all the nooks and crannies,\" he explains, \"a lot of small fish and crabs live and eat amongst them and hide, so it creates a biodiverse environment. I even found a seahorse, which was incredible. I've never seen a seahorse in my life!\"",
-       "zh": "此外，牡蛎壳本身就是一个栖息地。他解释说：“因为有各种各样的缝隙和角落，很多小鱼和螃蟹在其中生活、觅食和藏身，所以它创造了一个生物多样化的环境。我甚至发现了一只海马，这太不可思议了。我这辈子从未见过海马！”"
-      },
-      {
-       "en": "Oyster reefs used to abound in the Chesapeake, but overharvesting decimated their ranks — by over 99% by 2011, according to one estimate. This monumental shift in the bay contributed to poorer water quality and less habitat for other species.",
-       "zh": "牡蛎礁曾经在切萨皮克湾大量存在，但过度捕捞摧毁了它们的数量——据一项估计，到2011年减少了超过99%。这一巨大变化导致海湾水质下降，并为其他物种留下的栖息地减少。"
-      },
-      {
-       "en": "Oyster farming in the Chesapeake has expanded in recent years, despite environmental and disease challenges, says Ryan Carnegie, a biologist at the Virginia Institute of Marine Science. He adds that wild oysters have also made a partial comeback, helped by better management and investments in restoration. But, says Elizabeth North, a fisheries oceanographer at the University of Maryland Center for Environmental Science, \"current oyster populations are likely still a fraction of these historic populations.\"",
-       "zh": "弗吉尼亚海洋科学研究所的生物学家瑞安·卡内基表示，尽管面临环境和疾病的挑战，近年来切萨皮克湾的牡蛎养殖业仍在扩大。他补充说，野生牡蛎也部分恢复，这得益于更好的管理和对修复工作的投资。但是，马里兰大学环境科学中心的渔业海洋学家伊丽莎白·诺斯表示，“当前的牡蛎种群可能仍只是历史种群的一小部分。”"
-      },
-      {
-       "en": "Consoli's goal, therefore, is to be a caretaker of sorts, stocking the bay with ever more oysters and looking after their wellbeing. He floats them just below the surface where he says the nutrients are concentrated to help them grow quickly. And although his oysters aren't intended for eating, a cleaner bay does mean better habitat for those that are harvested commercially.",
-       "zh": "因此，Consoli 的目标是成为某种照管者，为海湾储存越来越多的牡蛎并照顾它们的健康。他将牡蛎漂浮在水面下方，他说那里营养物质集中，有助于它们快速生长。尽管他的牡蛎并不用于食用，但清洁的海湾确实意味着为商业采收的牡蛎提供了更好的栖息环境。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "water",
-       "pos": "n.",
-       "zh": "水",
-       "ex": "He leans over and hoists a mesh the size and shape of a pillowcase out of the water.",
-       "forms": []
-      },
-      {
-       "w": "growth",
-       "pos": "n.",
-       "zh": "增长",
-       "ex": "And this is just three months of growth.",
-       "forms": []
-      },
-      {
-       "w": "ecosystem",
-       "pos": "n.",
-       "zh": "生态系统",
-       "ex": "\"I really can't think of many more creatures that do the good that oysters do.\" Oysters underpin the Chesapeake's coastal and estuarine ecosystem.",
-       "forms": []
-      },
-      {
-       "w": "habitat",
-       "pos": "n.",
-       "zh": "栖息地",
-       "ex": "Plus, oyster shells are a habitat unto themselves.",
-       "forms": []
-      },
-      {
-       "w": "explain",
-       "pos": "v.",
-       "zh": "解释",
-       "ex": "\"Because of all the nooks and crannies,\" he explains, \"a lot of small fish and crabs live and eat amongst them and hide, so it creates a biodiverse environment.",
-       "forms": [
-        "explains"
-       ]
-      },
-      {
-       "w": "estimate",
-       "pos": "n.",
-       "zh": "估计；估算",
-       "ex": "I've never seen a seahorse in my life!\" Oyster reefs used to abound in the Chesapeake, but overharvesting decimated their ranks — by over 99% by 2011, according to one estimate.",
-       "forms": []
-      },
-      {
-       "w": "shift",
-       "pos": "n.",
-       "zh": "转变；转移",
-       "ex": "This monumental shift in the bay contributed to poorer water quality and less habitat for other species.",
-       "forms": []
-      },
-      {
-       "w": "species",
-       "pos": "n.",
-       "zh": "物种",
-       "ex": "This monumental shift in the bay contributed to poorer water quality and less habitat for other species.",
-       "forms": []
-      },
-      {
-       "w": "expand",
-       "pos": "v.",
-       "zh": "扩大；扩张",
-       "ex": "Oyster farming in the Chesapeake has expanded in recent years, despite environmental and disease challenges, says Ryan Carnegie, a biologist at the Virginia Institute of Marine Science.",
-       "forms": [
-        "expanded"
-       ]
-      },
-      {
-       "w": "disease",
-       "pos": "n.",
-       "zh": "疾病",
-       "ex": "Oyster farming in the Chesapeake has expanded in recent years, despite environmental and disease challenges, says Ryan Carnegie, a biologist at the Virginia Institute of Marine Science.",
-       "forms": []
-      },
-      {
-       "w": "challenge",
-       "pos": "n.",
-       "zh": "挑战",
-       "ex": "Oyster farming in the Chesapeake has expanded in recent years, despite environmental and disease challenges, says Ryan Carnegie, a biologist at the Virginia Institute of Marine Science.",
-       "forms": [
-        "challenges"
-       ]
-      },
-      {
-       "w": "investment",
-       "pos": "n.",
-       "zh": "投资",
-       "ex": "He adds that wild oysters have also made a partial comeback, helped by better management and investments in restoration.",
-       "forms": [
-        "investments"
-       ]
-      }
-     ],
-     "homeWords": [
-      "water",
-      "growth",
-      "ecosystem",
-      "habitat",
-      "explain"
-     ],
-     "keyVocab": [
-      "water",
-      "growth",
-      "ecosystem",
-      "habitat",
-      "explain",
-      "estimate",
-      "shift",
-      "species"
-     ]
-    },
-    {
-     "id": "2026-11-02-culture",
-     "section": "Culture",
-     "sectionZh": "文化",
-     "title": "At a Moscow movie screening, Anthony Bourdain's Russian fixer remembers the late chef",
-     "dek": "Zamir Gotta, Anthony Bourdain's longtime fixer in Russia, remembers working with and becoming friends with the late chef.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/01/nx-s1-6020404/at-a-moscow-movie-screening-anthony-bourdains-russian-fixer-remembers-the-late-chef",
-     "byline": "Hannah Bloch",
-     "dateLabel": "2026-11-02",
-     "words": 303,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "Zamir Gotta, Anthony Bourdain's longtime fixer in Russia, remembers working with and becoming friends with the late chef.",
-       "zh": "扎米尔·戈塔，安东尼·布尔丹在俄罗斯的长期联络人，回忆起与已故厨师共事并成为朋友的时光。"
-      },
-      {
-       "en": "Eight years after the death of Anthony Bourdain, people around the world still mourn the chef, author and TV star. At a movie theater in Moscow, hundreds of Russian fans gathered in September for the premiere of \"Tony,\" the new Hollywood film based on Bourdain's early life. Among them was a man Bourdain loved to call International Man of Mystery. He's someone who became central to Bourdain's success in Russia and beyond. NPR's Charles Maynes reports from Moscow. And a note - this story includes mention of suicide.",
-       "zh": "在安东尼·布尔丹去世八年后，全世界的人们仍在悼念这位厨师、作家和电视明星。在莫斯科的一家电影院，数百名俄罗斯影迷于九月聚集，观看基于布尔丹早年生活的新好莱坞电影《托尼》的首映式。其中有一位布尔丹喜欢称之为“国际神秘人”的男子。他是一个在俄罗斯及其他地方对布尔丹的成功起到关键作用的人。NPR的查尔斯·梅因斯从莫斯科报道。此外，提示——本故事提及自杀内容。"
-      },
-      {
-       "en": "CHARLES MAYNES, BYLINE: Oysters on the half shell, bottles of imported beer, Peroni, if you must know. Russia may be under Western sanctions, but at last month's Moscow premiere of the film \"Tony,\" the Russian Organizers pulled out all the stops to honor Anthony Bourdain, the American chef, travel writer and something of a life coach to so many, even here.",
-       "zh": "查尔斯·梅恩斯，署名：半壳生蚝，进口啤酒，如果你一定要知道的话，是佩罗尼。在俄罗斯可能受到西方制裁之际，但在上个月莫斯科举行的电影《托尼》首映礼上，俄罗斯主办方竭尽全力向美国厨师、旅游作家，以及对许多人来说甚至是生活导师的安东尼·布尔丹致敬。"
-      },
-      {
-       "en": "KATERINA KODENKA: My shirt says, God, I miss Anthony Bourdain.",
-       "zh": "卡特里娜·科登卡：我的衬衫上写着，天啊，我想念安东尼·布尔丹。"
-      },
-      {
-       "en": "MAYNES: Katerina Kodenka (ph), a recent university graduate who attended the screening, says Bourdain has been one of her heroes since she was a teenager. In an age seemingly dominated by war and hate, Kodenka says Bourdain's TV essays and writings point the way towards a better world.",
-       "zh": "梅恩斯：卡特琳娜·科登卡（音），一位刚刚毕业的大学生，参加了放映会，她说布尔丹自她还是青少年时起就是她的偶像。在这个看似被战争和仇恨主导的时代，科登卡说布尔丹的电视随笔和著作为通向更美好世界指明了方向。"
-      },
-      {
-       "en": "KODENKA: All of us - well, most of us are the same, and most of us want the same thing - peace, love and good food.",
-       "zh": "KODENKA：我们所有人——嗯，大多数人都是一样的，而且我们大多数人想要的东西也一样——和平、爱和美食。"
-      },
-      {
-       "en": "ANTHONY BOURDAIN: (As self) Russia - this is the birthplace of communism.",
-       "zh": "安东尼·布尔丹：（作为自己）俄罗斯——这是共产主义的发源地。"
-      },
-      {
-       "en": "MAYNES: It's been a quarter century since Anthony Bourdain first set foot in Russia on his debut show \"A Cook's Tour\" and a quarter century since Bourdain met the man who made his travels in the former Soviet Union possible...",
-       "zh": "梅恩斯：自安东尼·布尔丹在他的首个节目《厨师之旅》中第一次踏足俄罗斯以来，已经过去了四分之一世纪；自布尔丹遇到那位使他在前苏联旅行成为可能的人，也已经四分之一世纪了……"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "theater",
-       "pos": "n.",
-       "zh": "剧院；戏剧",
-       "ex": "At a movie theater in Moscow, hundreds of Russian fans gathered in September for the premiere of \"Tony,\" the new Hollywood film based on Bourdain's early life.",
-       "forms": []
-      },
-      {
-       "w": "film",
-       "pos": "n.",
-       "zh": "电影；影片",
-       "ex": "At a movie theater in Moscow, hundreds of Russian fans gathered in September for the premiere of \"Tony,\" the new Hollywood film based on Bourdain's early life.",
-       "forms": []
-      },
-      {
-       "w": "international",
-       "pos": "adj.",
-       "zh": "国际的",
-       "ex": "Among them was a man Bourdain loved to call International Man of Mystery.",
-       "forms": []
-      },
-      {
-       "w": "report",
-       "pos": "n.",
-       "zh": "报告；报道",
-       "ex": "NPR's Charles Maynes reports from Moscow.",
-       "forms": [
-        "reports"
-       ]
-      },
-      {
-       "w": "import",
-       "pos": "n.",
-       "zh": "进口",
-       "ex": "CHARLES MAYNES, BYLINE: Oysters on the half shell, bottles of imported beer, Peroni, if you must know.",
-       "forms": [
-        "imported"
-       ]
-      },
-      {
-       "w": "sanction",
-       "pos": "n.",
-       "zh": "制裁",
-       "ex": "Russia may be under Western sanctions, but at last month's Moscow premiere of the film \"Tony,\" the Russian Organizers pulled out all the stops to honor Anthony Bourdain, the American chef, travel writer and something of a life coach to so many, even here.",
-       "forms": [
-        "sanctions"
-       ]
-      },
-      {
-       "w": "university",
-       "pos": "n.",
-       "zh": "大学",
-       "ex": "MAYNES: Katerina Kodenka (ph), a recent university graduate who attended the screening, says Bourdain has been one of her heroes since she was a teenager.",
-       "forms": []
-      },
-      {
-       "w": "dominate",
-       "pos": "v.",
-       "zh": "主导；支配",
-       "ex": "In an age seemingly dominated by war and hate, Kodenka says Bourdain's TV essays and writings point the way towards a better world.",
-       "forms": [
-        "dominated"
-       ]
-      },
-      {
-       "w": "food",
-       "pos": "n.",
-       "zh": "食物",
-       "ex": "KODENKA: All of us - well, most of us are the same, and most of us want the same thing - peace, love and good food.",
-       "forms": []
-      },
-      {
-       "w": "union",
-       "pos": "n.",
-       "zh": "工会；联盟",
-       "ex": "MAYNES: It's been a quarter century since Anthony Bourdain first set foot in Russia on his debut show \"A Cook's Tour\" and a quarter century since Bourdain met the man who made his travels in the former Soviet Union possible...",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "theater",
-      "film",
-      "international",
-      "report",
-      "import"
-     ],
-     "keyVocab": [
-      "theater",
-      "film",
-      "international",
-      "report",
-      "import",
-      "sanction",
-      "university",
-      "dominate"
      ]
     }
    ]
