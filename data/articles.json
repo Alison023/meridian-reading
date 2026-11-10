@@ -1,6 +1,810 @@
 {
- "updated": "2026-11-09T06:58:00.949266+00:00",
+ "updated": "2026-11-10T07:34:55.311199+00:00",
  "days": [
+  {
+   "date": "2026-11-10",
+   "articles": [
+    {
+     "id": "2026-11-10-world",
+     "section": "World",
+     "sectionZh": "国际",
+     "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
+     "dek": "France is accusing Iran of having launched a series of destructive cyberattacks against its critical infrastructure in October.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
+     "byline": "Jenna McLaughlin",
+     "dateLabel": "2026-11-10",
+     "words": 364,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "France is accusing Iran of having launched a series of destructive cyberattacks against its critical infrastructure in October.",
+       "zh": "法国指责伊朗在十月对其关键基础设施发动了一系列破坏性网络攻击。"
+      },
+      {
+       "en": "According to the French National Cybersecurity Agency, ANSSI, Iranian military hackers took over refrigeration controllers at around 700 different retail sites in France, from supermarkets to butcher shops, turning up the temperature in the middle of the night and spoiling millions of dollars' worth of food.",
+       "zh": "根据法国国家网络安全局（ANSSI）的说法，伊朗军事黑客接管了法国大约700个不同零售场所的制冷控制器，从超市到肉店，在深夜调高温度，导致价值数百万美元的食品被毁坏。"
+      },
+      {
+       "en": "They also targeted several small hydroelectric power plants, resulting in \"moderate effects,\" wrote ANSSI in its press release.",
+       "zh": "ANSSI在其新闻稿中写道，他们还针对了几座小型水电站，造成了“中等影响”。"
+      },
+      {
+       "en": "The hacking campaign was \"unprecedented in both its scale and its level of aggression,\" said French Foreign Minister Jean-Noël Barrot. He said it \"marks the first large-scale cyberattack aimed at sabotage on our national territory, and it constitutes a major attack on the nation's interests and the security of the French people.\"",
+       "zh": "法国外交部长让-诺埃尔·巴罗表示，这次黑客行动在规模和攻击性水平上都是“前所未有的”。他表示，这“标志着首次针对我国国土进行的大规模破坏性网络攻击，并构成了对国家利益和法国人民安全的重大攻击。”"
+      },
+      {
+       "en": "The Paris Prosecutor's Office has opened its own investigation into the Iranian cyber unit, Shahid Kaveh, which the French government is linking to Iran's Islamic Revolutionary Guard Corps. \"The Paris Public Prosecutor's Office is requesting the issuance of international arrest warrants,\" the office said in a statement.",
+       "zh": "巴黎检察官办公室已经对伊朗网络单位Shahid Kaveh展开了自己的调查，法国政府将其与伊朗伊斯兰革命卫队联系起来。检察官办公室在一份声明中表示：“巴黎公共检察官办公室正在请求发布国际逮捕令。”"
+      },
+      {
+       "en": "The attacks on French industrial controllers are part of a larger trend. In 2026 alone, hackers have targeted refrigeration controllers from Europe to Israel and the United States.",
+       "zh": "对法国工业控制器的攻击是更大趋势的一部分。仅在2026年，黑客就已经针对从欧洲到以色列和美国的制冷控制器进行了攻击。"
+      },
+      {
+       "en": "Grocery stores in European countries including Sweden and Ireland were hit in similar attacks last week.",
+       "zh": "包括瑞典和爱尔兰在内的欧洲国家的杂货店上周遭到了类似的袭击。"
+      },
+      {
+       "en": "In a separate incident in France, employees at a major French blood bank had to act fast to save blood samples from heating up when their refrigeration system was hit last week, prompting international calls for the health sector to protect its lifesaving products from spoiling.",
+       "zh": "在法国的另一事件中，上周一家主要法国血液银行的员工在其制冷系统受损时不得不迅速行动，以防血液样本升温，这引发了国际上呼吁卫生部门保护其救命产品不被损坏。"
+      },
+      {
+       "en": "In Israel in the spring, suspected Iranian hackers going by the name of \"Cyber Isnaad Front\" claimed responsibility for sabotaging an industrial food processing plant, including infecting its corporate computers with malware, taking over office printers to print out threatening messages and hacking office cameras for use in a propaganda video released in early October. That video included a taunt in French referencing ongoing education-related protests, and came just before the attacks on French supermarket fridges. Cyber incident response firm Profero attributed the Israel attack to a wing of Iran's Revolutionary Guard Corps.",
+       "zh": "在以色列的春季，自称为“网络援助前线”的疑似伊朗黑客声称负责破坏一家工业食品加工厂，包括用恶意软件感染其公司计算机、接管办公室打印机打印威胁信息以及入侵办公室摄像头，用于拍摄一则在十月初发布的宣传视频。该视频包含用法语的挑衅内容，提及正在进行的教育相关抗议活动，并且紧接在法国超市冰箱遭攻击之前。网络事件响应公司Profero将这次以色列的攻击归因于伊朗革命卫队的一个分支。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "critical",
+       "pos": "adj.",
+       "zh": "关键的；批评的",
+       "ex": "France is accusing Iran of having launched a series of destructive cyberattacks against its critical infrastructure in October.",
+       "forms": []
+      },
+      {
+       "w": "infrastructure",
+       "pos": "n.",
+       "zh": "基础设施",
+       "ex": "France is accusing Iran of having launched a series of destructive cyberattacks against its critical infrastructure in October.",
+       "forms": []
+      },
+      {
+       "w": "national",
+       "pos": "adj.",
+       "zh": "国家的；全国的",
+       "ex": "According to the French National Cybersecurity Agency, ANSSI, Iranian military hackers took over refrigeration controllers at around 700 different retail sites in France, from supermarkets to butcher shops, turning up the temperature in the middle of the night and spoiling millions of dollars' worth of food.",
+       "forms": []
+      },
+      {
+       "w": "cybersecurity",
+       "pos": "n.",
+       "zh": "网络安全",
+       "ex": "According to the French National Cybersecurity Agency, ANSSI, Iranian military hackers took over refrigeration controllers at around 700 different retail sites in France, from supermarkets to butcher shops, turning up the temperature in the middle of the night and spoiling millions of dollars' worth of food.",
+       "forms": []
+      },
+      {
+       "w": "agency",
+       "pos": "n.",
+       "zh": "机构；代理",
+       "ex": "According to the French National Cybersecurity Agency, ANSSI, Iranian military hackers took over refrigeration controllers at around 700 different retail sites in France, from supermarkets to butcher shops, turning up the temperature in the middle of the night and spoiling millions of dollars' worth of food.",
+       "forms": []
+      },
+      {
+       "w": "military",
+       "pos": "n.",
+       "zh": "军队；军方",
+       "ex": "According to the French National Cybersecurity Agency, ANSSI, Iranian military hackers took over refrigeration controllers at around 700 different retail sites in France, from supermarkets to butcher shops, turning up the temperature in the middle of the night and spoiling millions of dollars' worth of food.",
+       "forms": []
+      },
+      {
+       "w": "retail",
+       "pos": "n.",
+       "zh": "零售",
+       "ex": "According to the French National Cybersecurity Agency, ANSSI, Iranian military hackers took over refrigeration controllers at around 700 different retail sites in France, from supermarkets to butcher shops, turning up the temperature in the middle of the night and spoiling millions of dollars' worth of food.",
+       "forms": []
+      },
+      {
+       "w": "million",
+       "pos": "n.",
+       "zh": "百万",
+       "ex": "According to the French National Cybersecurity Agency, ANSSI, Iranian military hackers took over refrigeration controllers at around 700 different retail sites in France, from supermarkets to butcher shops, turning up the temperature in the middle of the night and spoiling millions of dollars' worth of food.",
+       "forms": [
+        "millions"
+       ]
+      },
+      {
+       "w": "food",
+       "pos": "n.",
+       "zh": "食物",
+       "ex": "According to the French National Cybersecurity Agency, ANSSI, Iranian military hackers took over refrigeration controllers at around 700 different retail sites in France, from supermarkets to butcher shops, turning up the temperature in the middle of the night and spoiling millions of dollars' worth of food.",
+       "forms": []
+      },
+      {
+       "w": "power",
+       "pos": "n.",
+       "zh": "权力；电力",
+       "ex": "They also targeted several small hydroelectric power plants, resulting in \"moderate effects,\" wrote ANSSI in its press release.",
+       "forms": []
+      },
+      {
+       "w": "plant",
+       "pos": "n.",
+       "zh": "工厂；植物",
+       "ex": "They also targeted several small hydroelectric power plants, resulting in \"moderate effects,\" wrote ANSSI in its press release.",
+       "forms": [
+        "plants"
+       ]
+      },
+      {
+       "w": "result",
+       "pos": "n.",
+       "zh": "结果",
+       "ex": "They also targeted several small hydroelectric power plants, resulting in \"moderate effects,\" wrote ANSSI in its press release.",
+       "forms": [
+        "resulting"
+       ]
+      }
+     ],
+     "homeWords": [
+      "critical",
+      "infrastructure",
+      "national",
+      "cybersecurity",
+      "agency"
+     ],
+     "keyVocab": [
+      "critical",
+      "infrastructure",
+      "national",
+      "cybersecurity",
+      "agency",
+      "military",
+      "retail",
+      "million"
+     ]
+    },
+    {
+     "id": "2026-11-10-business",
+     "section": "Business",
+     "sectionZh": "商业 · 财经",
+     "title": "Nvidia shares tumble as the company says it's investigating CEO Jensen Huang",
+     "dek": "Nvidia's share price falls after the company begins an investigation into CEO Jensen Huang's alleged relationship with a woman accused of being a Chinese spy.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/09/nx-s1-6034478/nvidia-shares-tumble-as-the-company-says-its-investigating-ceo-jensen-huang",
+     "byline": "John Ruwitch",
+     "dateLabel": "2026-11-10",
+     "words": 481,
+     "readTime": 3,
+     "level": "B2",
+     "levelEn": "Upper-intermediate",
+     "paragraphs": [
+      {
+       "en": "Nvidia's share price falls after the company begins an investigation into CEO Jensen Huang's alleged relationship with a woman accused of being a Chinese spy.",
+       "zh": "在公司开始调查首席执行官黄仁勋与一名被指控为中国间谍的女性的所谓关系后，英伟达的股价下跌。"
+      },
+      {
+       "en": "Shares in the chipmaker NVIDIA tumbled today. That's because the $4.3 trillion company said it is investigating its CEO, and that is due to allegations that he had a relationship with a woman suspected by U.S. intelligence of being a Chinese spy. NPR tech correspondent John Ruwitch is here to bring us up to speed. Hi, John.",
+       "zh": "芯片制造商英伟达的股票今天暴跌。原因是，这家市值4.3万亿美元的公司表示正在调查其首席执行官，这是因为有指控称他与一名被美国情报部门怀疑为中国间谍的女性有关系。NPR科技记者约翰·鲁维奇在这里为我们带来最新情况。你好，约翰。"
+      },
+      {
+       "en": "RUWITCH: Yeah. Yesterday, NVIDIA posted two announcements online. One said the board was investigating CEO Jensen Huang after reports that he was, quote, \"the target of a foreign intelligence effort.\" The other was a memo from Huang himself admitting to having an affair and saying that he'd cooperate with the investigation. Now, The New York Times and others have been reporting that U.S. intelligence agencies believe that Huang became involved with a Chinese woman at a Singapore-based company called Megaspeed. That company was a customer buying NVIDIA chips.",
+       "zh": "RUWITCH：是的。昨天，英伟达在网上发布了两个公告。一个说董事会正在调查首席执行官黄仁勋，此前有报道称他是“外国情报活动的目标”。另一个是黄本人发出的备忘录，承认有婚外情，并表示将配合调查。现在，《纽约时报》和其他媒体报道称，美国情报机构认为，黄参与了与一家总部位于新加坡的公司Megaspeed的中国女性的关系。这家公司是购买英伟达芯片的客户。"
+      },
+      {
+       "en": "Those reports, which NPR has not independently corroborated, said the woman was recruited by China's Ministry of State Security to spy on Huang or possibly try to influence U.S. policy. The New York Times has reported that Megaspeed was being investigated by the government for circumventing U.S. export controls and helping Chinese tech companies get access to restricted chips. I reached out to Megaspeed and haven't heard back, but the company has previously denied wrongdoing.",
+       "zh": "这些报道称，该女子被中国国家安全部招募，以监视黄某，或可能试图影响美国政策，NPR 尚未独立证实这些报道。《纽约时报》报道称，Megaspeed 正在接受政府调查，因为其规避美国出口管制并帮助中国科技公司获取受限制的芯片。我联系了 Megaspeed，但尚未收到回复，不过该公司此前否认有任何不当行为。"
+      },
+      {
+       "en": "PFEIFFER: John, as you know, China spying on foreign companies is not uncommon. So explain why this one is so headline-grabbing.",
+       "zh": "PFEIFFER：约翰，你也知道，中国对外国公司的间谍活动并不罕见。那么解释一下，为什么这次会如此引人注意。"
+      },
+      {
+       "en": "RUWITCH: Yeah. I covered China for a number of years, and foreign businesses in China were constantly complaining about the government trying to hack or spy on them to learn their corporate secrets. But NVIDIA is really in a league of its own in terms of its importance. You know, the chips that NVIDIA makes are crucial to the AI boom. The company's also entangled in a web of investments with other AI companies. So for example, NVIDIA has invested in OpenAI and Anthropic, and in turn, those companies are buying chips from NVIDIA.",
+       "zh": "RUWITCH：是的。我曾报道过中国好几年，外国企业在中国经常抱怨政府试图入侵或监视他们，以了解他们的企业机密。但在重要性方面，NVIDIA 确实是独一无二的。你知道，NVIDIA 生产的芯片对人工智能的快速发展至关重要。该公司还与其他人工智能公司有着复杂的投资关系。例如，NVIDIA 投资了 OpenAI 和 Anthropic，而这些公司反过来又从 NVIDIA 购买芯片。"
+      },
+      {
+       "en": "NVIDIA and its chips are also right at the center of the AI competition between the U.S. and China. The U.S. banned NVIDIA's best chips from being sold there out of a concern that they could be used to help China's AI industry catch up with the U.S. But Jensen Huang, the CEO, has been one of the most prominent voices arguing against that ban. He says it would be actually good for the U.S. if Chinese companies were hooked on American chips.",
+       "zh": "英伟达及其芯片也正处于美中人工智能竞争的中心。美国出于担心这些芯片可能被用来帮助中国的人工智能产业追赶美国，而禁止在美销售英伟达最好的芯片。但首席执行官黄仁勋一直是反对这一禁令的最突出声音之一。他表示，如果中国公司依赖美国芯片，实际上对美国是有好处的。"
+      },
+      {
+       "en": "PFEIFFER: And the company now has to decide what to do about this and what to do about him, whether maybe to dismiss him. I mean, give us a sense of how important he is to this company.",
+       "zh": "PFEIFFER：公司现在必须决定如何处理这件事以及如何处理他，是否可能解雇他。我的意思是，让我们了解一下他对这家公司有多重要。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "price",
+       "pos": "n.",
+       "zh": "价格",
+       "ex": "Nvidia's share price falls after the company begins an investigation into CEO Jensen Huang's alleged relationship with a woman accused of being a Chinese spy.",
+       "forms": []
+      },
+      {
+       "w": "fall",
+       "pos": "n.",
+       "zh": "下降；下跌",
+       "ex": "Nvidia's share price falls after the company begins an investigation into CEO Jensen Huang's alleged relationship with a woman accused of being a Chinese spy.",
+       "forms": [
+        "falls"
+       ]
+      },
+      {
+       "w": "investigation",
+       "pos": "n.",
+       "zh": "调查",
+       "ex": "Nvidia's share price falls after the company begins an investigation into CEO Jensen Huang's alleged relationship with a woman accused of being a Chinese spy.",
+       "forms": []
+      },
+      {
+       "w": "tumble",
+       "pos": "v.",
+       "zh": "暴跌；下跌",
+       "ex": "Shares in the chipmaker NVIDIA tumbled today.",
+       "forms": [
+        "tumbled"
+       ]
+      },
+      {
+       "w": "intelligence",
+       "pos": "n.",
+       "zh": "情报；智能",
+       "ex": "intelligence of being a Chinese spy.",
+       "forms": []
+      },
+      {
+       "w": "announcement",
+       "pos": "n.",
+       "zh": "公告；声明",
+       "ex": "Yesterday, NVIDIA posted two announcements online.",
+       "forms": [
+        "announcements"
+       ]
+      },
+      {
+       "w": "online",
+       "pos": "adj.",
+       "zh": "在线的",
+       "ex": "Yesterday, NVIDIA posted two announcements online.",
+       "forms": []
+      },
+      {
+       "w": "report",
+       "pos": "n.",
+       "zh": "报告；报道",
+       "ex": "One said the board was investigating CEO Jensen Huang after reports that he was, quote, \"the target of a foreign intelligence effort.\" The other was a memo from Huang himself admitting to having an affair and saying that he'd cooperate with the investigation.",
+       "forms": [
+        "reported",
+        "reporting",
+        "reports"
+       ]
+      },
+      {
+       "w": "foreign",
+       "pos": "adj.",
+       "zh": "外国的",
+       "ex": "One said the board was investigating CEO Jensen Huang after reports that he was, quote, \"the target of a foreign intelligence effort.\" The other was a memo from Huang himself admitting to having an affair and saying that he'd cooperate with the investigation.",
+       "forms": []
+      },
+      {
+       "w": "admit",
+       "pos": "v.",
+       "zh": "承认；准许进入",
+       "ex": "One said the board was investigating CEO Jensen Huang after reports that he was, quote, \"the target of a foreign intelligence effort.\" The other was a memo from Huang himself admitting to having an affair and saying that he'd cooperate with the investigation.",
+       "forms": [
+        "admitting"
+       ]
+      },
+      {
+       "w": "agency",
+       "pos": "n.",
+       "zh": "机构；代理",
+       "ex": "intelligence agencies believe that Huang became involved with a Chinese woman at a Singapore-based company called Megaspeed.",
+       "forms": [
+        "agencies"
+       ]
+      },
+      {
+       "w": "customer",
+       "pos": "n.",
+       "zh": "顾客；客户",
+       "ex": "That company was a customer buying NVIDIA chips.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "price",
+      "fall",
+      "investigation",
+      "tumble",
+      "intelligence"
+     ],
+     "keyVocab": [
+      "price",
+      "fall",
+      "investigation",
+      "tumble",
+      "intelligence",
+      "announcement",
+      "online",
+      "report"
+     ]
+    },
+    {
+     "id": "2026-11-10-technology",
+     "section": "Technology",
+     "sectionZh": "科技",
+     "title": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
+     "dek": "Tech companies are expecting a wave of scrutiny from Democrats for the industry's ties with the Trump administration when they take over Congress in January. In anticipation, many are hiring…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/09/nx-s1-6029641/palantir-congress-jon-tester-investigations",
+     "byline": "Luke Garrett",
+     "dateLabel": "2026-11-10",
+     "words": 372,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "Tech companies are expecting a wave of scrutiny from Democrats for the industry's ties with the Trump administration when they take over Congress in January. In anticipation, many are hiring former Democratic lawmakers and aides to make their case to the incoming House and Senate majorities.",
+       "zh": "科技公司预计，当民主党在一月接管国会时，由于该行业与特朗普政府的联系，将面临民主党的审查浪潮。为了应对，许多公司正在雇佣前民主党议员和助手，以向即将上任的众议院和参议院多数派阐述他们的立场。"
+      },
+      {
+       "en": "Among the latest to make that move is Palantir, which has hired former Sen. Jon Tester, a colorful Montana Democrat who's also an organic farmer.",
+       "zh": "最近采取这一举动的公司之一是Palantir，该公司聘请了前参议员乔恩·特斯特，他是蒙大拿州的一个多彩的民主党人，同时也是一名有机农民。"
+      },
+      {
+       "en": "\"My agreement with Palantir is advisory in nature, it is not lobbying,\" Tester, who lost reelection to the Senate in 2024, told NPR in an interview.",
+       "zh": "在接受NPR采访时，2024年失去参议院连任的特斯特表示：“我与Palantir的协议是咨询性质的，不是游说。”"
+      },
+      {
+       "en": "The secretive American software and artificial intelligence company has drawn the ire of Democrats in Congress during President Trump's second term. Palantir — named by billionaire founder Peter Theil after the mythical \"seeing stone\" from J.R.R. Tolkien's The Lord of the Rings — has been accused of abetting mass surveillance on Americans and immigrants.",
+       "zh": "这家神秘的美国软件和人工智能公司在特朗普总统任期的第二阶段引起了国会中民主党的愤怒。Palantir——由亿万富翁创始人彼得·蒂尔以J.R.R. 托尔金《指环王》中的神话“洞察石”命名——被指控助长对美国人和移民的全面监控。"
+      },
+      {
+       "en": "\"Perception is reality in Washington, D.C. and in politics in general,\" said Tester. \"But the fact is, I think Palantir has got a good story to tell, and they need to tell it. And hopefully folks will be receptive to it.\"",
+       "zh": "特斯特说：“在华盛顿特区以及整体政治中，感知就是现实。但事实上，我认为Palantir有一个很好的故事要讲，而且他们需要讲出来。希望人们能够接受。”"
+      },
+      {
+       "en": "Palantir has long denied claims it aids mass surveillance on the American public — saying it doesn't gather or manipulate data at all, but instead creates tools for government agencies and private companies to organize and optimize their own information. The company has said it is committed to \"protecting privacy and upholding liberal democratic values.\"",
+       "zh": "Palantir 长期以来一直否认其协助对美国公众进行大规模监控的说法——称其根本不收集或操纵数据，而是为政府机构和私人公司创建工具，以组织和优化它们自己的信息。该公司表示，它致力于“保护隐私并维护自由民主价值观。”"
+      },
+      {
+       "en": "Earlier this year, while in the minority, Sen. Ron Wyden, D-Ore., along with 30 other Democratic lawmakers demanded answers about Palantir's contracts with the Department of Homeland Security and whether its tools are part of efforts by the federal government to surveil Americans. Palantir denied the accusation and said it is \"neither conducting nor enabling mass surveillance of American citizens,\" but Wyden wasn't fully satisfied with its response, according to his Senate office.",
+       "zh": "今年早些时候，当时身处少数派的俄勒冈州民主党参议员罗恩·怀登（Sen. Ron Wyden）与其他30位民主党议员一起，要求就Palantir与国土安全部的合同提供答案，并询问其工具是否是联邦政府监视美国人的努力的一部分。Palantir否认了这一指控，并表示其“既不进行也不支持对美国公民的大规模监控”，但据怀登的参议院办公室称，他对其回应并不完全满意。"
+      },
+      {
+       "en": "\"Senator Wyden has a number of questions about Palantir's work to facilitate the Trump-Vance abuse of government data that he intends to ask again as chairman of the Finance Committee,\" Wyden's staff wrote in a statement to NPR. \"If Palantir is not responsive next year, compulsory processes will be on the table.\"",
+       "zh": "怀登参议员的工作人员在给NPR的一份声明中写道：“怀登参议员对Palantir帮助特朗普-万斯滥用政府数据的工作有很多问题，他打算在担任财政委员会主席时再次提出。如果明年Palantir不予回应，强制程序将会被考虑在内。”"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "expect",
+       "pos": "v.",
+       "zh": "预期；期待",
+       "ex": "Tech companies are expecting a wave of scrutiny from Democrats for the industry's ties with the Trump administration when they take over Congress in January.",
+       "forms": [
+        "expecting"
+       ]
+      },
+      {
+       "w": "administration",
+       "pos": "n.",
+       "zh": "政府；行政",
+       "ex": "Tech companies are expecting a wave of scrutiny from Democrats for the industry's ties with the Trump administration when they take over Congress in January.",
+       "forms": []
+      },
+      {
+       "w": "congress",
+       "pos": "n.",
+       "zh": "国会",
+       "ex": "Tech companies are expecting a wave of scrutiny from Democrats for the industry's ties with the Trump administration when they take over Congress in January.",
+       "forms": []
+      },
+      {
+       "w": "income",
+       "pos": "n.",
+       "zh": "收入",
+       "ex": "In anticipation, many are hiring former Democratic lawmakers and aides to make their case to the incoming House and Senate majorities.",
+       "forms": [
+        "incoming"
+       ]
+      },
+      {
+       "w": "senate",
+       "pos": "n.",
+       "zh": "参议院",
+       "ex": "In anticipation, many are hiring former Democratic lawmakers and aides to make their case to the incoming House and Senate majorities.",
+       "forms": []
+      },
+      {
+       "w": "majority",
+       "pos": "n.",
+       "zh": "多数；大多数",
+       "ex": "In anticipation, many are hiring former Democratic lawmakers and aides to make their case to the incoming House and Senate majorities.",
+       "forms": [
+        "majorities"
+       ]
+      },
+      {
+       "w": "lobby",
+       "pos": "v.",
+       "zh": "游说",
+       "ex": "\"My agreement with Palantir is advisory in nature, it is not lobbying,\" Tester, who lost reelection to the Senate in 2024, told NPR in an interview.",
+       "forms": [
+        "lobbying"
+       ]
+      },
+      {
+       "w": "interview",
+       "pos": "n.",
+       "zh": "采访；面试",
+       "ex": "\"My agreement with Palantir is advisory in nature, it is not lobbying,\" Tester, who lost reelection to the Senate in 2024, told NPR in an interview.",
+       "forms": []
+      },
+      {
+       "w": "software",
+       "pos": "n.",
+       "zh": "软件",
+       "ex": "The secretive American software and artificial intelligence company has drawn the ire of Democrats in Congress during President Trump's second term.",
+       "forms": []
+      },
+      {
+       "w": "artificial",
+       "pos": "adj.",
+       "zh": "人工的；人造的",
+       "ex": "The secretive American software and artificial intelligence company has drawn the ire of Democrats in Congress during President Trump's second term.",
+       "forms": []
+      },
+      {
+       "w": "intelligence",
+       "pos": "n.",
+       "zh": "情报；智能",
+       "ex": "The secretive American software and artificial intelligence company has drawn the ire of Democrats in Congress during President Trump's second term.",
+       "forms": []
+      },
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "The secretive American software and artificial intelligence company has drawn the ire of Democrats in Congress during President Trump's second term.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "expect",
+      "administration",
+      "congress",
+      "income",
+      "senate"
+     ],
+     "keyVocab": [
+      "expect",
+      "administration",
+      "congress",
+      "income",
+      "senate",
+      "majority",
+      "lobby",
+      "interview"
+     ]
+    },
+    {
+     "id": "2026-11-10-science",
+     "section": "Science",
+     "sectionZh": "科学",
+     "title": "Trump administration moves to lift ban on roadbuilding and logging in national forests",
+     "dek": "The Trump administration is working to rescind the \"Roadless Rule,\" which blocks road construction in some national forests. This could affect Alaska's Tongass National Forest.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/08/nx-s1-5981452/trump-administration-moves-to-lift-ban-on-roadbuilding-and-logging-in-national-forests",
+     "byline": "Alix Soliman",
+     "dateLabel": "2026-11-10",
+     "words": 363,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "The Trump administration is working to rescind the \"Roadless Rule,\" which blocks road construction in some national forests. This could affect Alaska's Tongass National Forest.",
+       "zh": "特朗普政府正在努力废除“无路规则”，该规则禁止在一些国家森林中修建道路。这可能会影响阿拉斯加的汤加斯国家森林。"
+      },
+      {
+       "en": "For decades, an administrative rule known as the Roadless Rule banned new road building and logging across millions of acres of national forest lands. Now the Trump administration has moved to lift the ban. That's controversial in places like Alaska's Tongass National Forest, the largest national forest in the U.S. Reporter Alix Soliman from member station KTOO has the story.",
+       "zh": "几十年来，一项被称为“无路规则”的行政规定禁止在数百万英亩的国家森林土地上新建道路和采伐木材。如今，特朗普政府已采取行动取消这一禁令。这在阿拉斯加的通加斯国家森林等地引发了争议，该森林是美国最大的国家森林。会员电台KTOO的记者Alix Soliman带来了报道。"
+      },
+      {
+       "en": "ALIX SOLIMAN, BYLINE: Around half of the Tongass National Forest in Southeast Alaska has no active roads. That's more than 9 million acres.",
+       "zh": "阿利克斯·索利曼，署名：阿拉斯加东南部的通加斯国家森林约有一半没有通行道路。这超过 900 万英亩。"
+      },
+      {
+       "en": "SOLIMAN: On a recent afternoon, Judith Daxootsu Ramos walked through a roadless area. She's a Tlingit anthropologist from Yakutat, a small Alaska Native village. And she says the forest supports a number of Tlingit traditions, like harvesting berries and hunting deer.",
+       "zh": "SOLIMAN：在一个最近的下午，朱迪斯·达克苏图·拉莫斯走过一片没有道路的地区。她是来自雅库塔特，一个阿拉斯加原住民小村庄的特林吉特人类学家。她说，这片森林支持许多特林吉特人的传统活动，比如采摘浆果和打猎鹿。"
+      },
+      {
+       "en": "JUDITH DAXOOTSU RAMOS: Without this, we're going to lose our traditional medicines, our traditional art styles, our traditional foods. And all of that is really connected to the forest.",
+       "zh": "朱迪思·达克舒特苏·拉莫斯：没有这些，我们将失去我们的传统药物、传统艺术风格、传统食物。而这一切都与森林密切相关。"
+      },
+      {
+       "en": "SOLIMAN: Ramos sits on the board of the Southeast Alaska Conservation Council, a local nonprofit advocating to keep the Roadless Rule in place. She visited Prince of Wales Island, a heavily logged part of the forest, and says the trees that grew back in old-growth clearcuts looked sterile.",
+       "zh": "SOLIMAN：拉莫斯是东南阿拉斯加保护委员会的董事会成员，该委员会是一个本地非营利组织，倡导维持无道路区规则。她访问了威尔士亲王岛，这是森林中被大量伐木的地区，她表示在老林区清伐后重新生长的树木看起来毫无生气。"
+      },
+      {
+       "en": "RAMOS: It's a very different forest. And there was no animals, no birds there, and it was kind of really quiet. And so it was kind of scary.",
+       "zh": "拉莫斯：这是一个完全不同的森林。那里没有动物，没有鸟，而且非常安静。所以有点可怕。"
+      },
+      {
+       "en": "SOLIMAN: Others in the region oppose lifting the Roadless Rule because they worry it will hurt ecotourism or undermine the climate benefits of the Tongass, which holds a third of all carbon stored in intact U.S. national forests. But the U.S. Department of Agriculture says that it wants to roll back the Roadless Rule to give firefighters access to fight wildfires and remove what they say are outdated regulatory barriers. But many in this part of Alaska think it's to increase logging. The Trump administration has tried to boost national timber production in the past, and the first Trump administration temporarily rolled back the rule in just the Tongass.",
+       "zh": "SOLIMAN：该地区的其他人反对取消无路区规则，因为他们担心这会损害生态旅游或削弱汤加斯国家森林的气候效益，而汤加斯拥有美国完整国家森林储存的三分之一碳。但美国农业部表示，他们希望取消无路区规则，以便让消防员进入扑灭野火，并移除他们所说的过时监管障碍。但阿拉斯加这一地区的许多人认为这是为了增加伐木。特朗普政府过去曾试图提高国家木材产量，特朗普政府的第一次任期仅在汤加斯暂时取消了该规则。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "administration",
+       "pos": "n.",
+       "zh": "政府；行政",
+       "ex": "The Trump administration is working to rescind the \"Roadless Rule,\" which blocks road construction in some national forests.",
+       "forms": []
+      },
+      {
+       "w": "national",
+       "pos": "adj.",
+       "zh": "国家的；全国的",
+       "ex": "The Trump administration is working to rescind the \"Roadless Rule,\" which blocks road construction in some national forests.",
+       "forms": []
+      },
+      {
+       "w": "forest",
+       "pos": "n.",
+       "zh": "森林",
+       "ex": "The Trump administration is working to rescind the \"Roadless Rule,\" which blocks road construction in some national forests.",
+       "forms": [
+        "forests"
+       ]
+      },
+      {
+       "w": "million",
+       "pos": "n.",
+       "zh": "百万",
+       "ex": "For decades, an administrative rule known as the Roadless Rule banned new road building and logging across millions of acres of national forest lands.",
+       "forms": [
+        "millions"
+       ]
+      },
+      {
+       "w": "land",
+       "pos": "n.",
+       "zh": "土地；陆地",
+       "ex": "For decades, an administrative rule known as the Roadless Rule banned new road building and logging across millions of acres of national forest lands.",
+       "forms": [
+        "lands"
+       ]
+      },
+      {
+       "w": "support",
+       "pos": "v.",
+       "zh": "支持",
+       "ex": "And she says the forest supports a number of Tlingit traditions, like harvesting berries and hunting deer.",
+       "forms": [
+        "supports"
+       ]
+      },
+      {
+       "w": "number",
+       "pos": "n.",
+       "zh": "数量；数字",
+       "ex": "And she says the forest supports a number of Tlingit traditions, like harvesting berries and hunting deer.",
+       "forms": []
+      },
+      {
+       "w": "tradition",
+       "pos": "n.",
+       "zh": "传统",
+       "ex": "And she says the forest supports a number of Tlingit traditions, like harvesting berries and hunting deer.",
+       "forms": [
+        "traditions"
+       ]
+      },
+      {
+       "w": "food",
+       "pos": "n.",
+       "zh": "食物",
+       "ex": "JUDITH DAXOOTSU RAMOS: Without this, we're going to lose our traditional medicines, our traditional art styles, our traditional foods.",
+       "forms": [
+        "foods"
+       ]
+      },
+      {
+       "w": "conservation",
+       "pos": "n.",
+       "zh": "保护；保育",
+       "ex": "SOLIMAN: Ramos sits on the board of the Southeast Alaska Conservation Council, a local nonprofit advocating to keep the Roadless Rule in place.",
+       "forms": []
+      },
+      {
+       "w": "local",
+       "pos": "adj.",
+       "zh": "当地的",
+       "ex": "SOLIMAN: Ramos sits on the board of the Southeast Alaska Conservation Council, a local nonprofit advocating to keep the Roadless Rule in place.",
+       "forms": []
+      },
+      {
+       "w": "advocate",
+       "pos": "v.",
+       "zh": "倡导；拥护",
+       "ex": "SOLIMAN: Ramos sits on the board of the Southeast Alaska Conservation Council, a local nonprofit advocating to keep the Roadless Rule in place.",
+       "forms": [
+        "advocating"
+       ]
+      }
+     ],
+     "homeWords": [
+      "administration",
+      "national",
+      "forest",
+      "million",
+      "land"
+     ],
+     "keyVocab": [
+      "administration",
+      "national",
+      "forest",
+      "million",
+      "land",
+      "support",
+      "number",
+      "tradition"
+     ]
+    },
+    {
+     "id": "2026-11-10-culture",
+     "section": "Culture",
+     "sectionZh": "文化",
+     "title": "Apocalyptic sci-fi novel 'The End of Everything' wins this year's Booker Prize",
+     "dek": "The End of Everything by British author M. John Harrison has won the 2026 Booker Prize. In a statement, Mary Beard, chair of this year's judges, called it a book that turns you upside down, raises…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/09/nx-s1-6028700/2026-booker-prize-winner-the-end-of-everything",
+     "byline": "Andrew Limbong",
+     "dateLabel": "2026-11-10",
+     "words": 345,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "The End of Everything by British author M. John Harrison has won the 2026 Booker Prize. In a statement, Mary Beard, chair of this year's judges, called it a book that turns you upside down, raises a wry smile – and surprisingly, given the subject matter, leaves you with a twinge of optimism.\"",
+       "zh": "英国作家M·约翰·哈里森的《万物的终结》获得了2026年布克奖。在一份声明中，今年评委会主席玛丽·比尔德称，这是一本会让你颠倒过来思考、露出苦笑——令人惊讶的是，考虑到主题，它还能让你感到一丝乐观的书。"
+      },
+      {
+       "en": "The satirical sci-fi novel follows Philip, a man who looks for \"artifacts\" along the coast in Kent, England, and his aunt Marnie. The book is set in a post-apocalyptic future, dealing with the slow-burning invasion of the shape-shifting iGhetti.",
+       "zh": "这部讽刺性的科幻小说讲述了菲利普的故事，他是一个在英国肯特海岸寻找“文物”的人，以及他的姑妈玛妮。小说设定在末日后的未来，讲述了变形的iGhetti缓慢入侵的故事。"
+      },
+      {
+       "en": "In an interview with the Booker Prize team, Harrison said he drew inspiration from current affairs: \"What happens when all of our expectations and explanations of the world become an ongoing disaster, but we still have to make a life?\"",
+       "zh": "在接受布克奖团队采访时，哈里森表示他从时事中获得灵感：“当我们对世界的所有期望和解释都变成持续的灾难时，我们仍然必须生活，这会发生什么？”"
+      },
+      {
+       "en": "At 81, Harrison is the oldest author to win in the history of the prize. He's had a decades-long writing career, with Everything being his 13th novel. Most of his career has been spent writing science fiction. His 2006 novel, Nova Swing, won both the Arthur C. Clarke and Philip K. Dick awards (which reward the best in science fiction in the U.K. and U.S., respectively).",
+       "zh": "哈里森在81岁时成为该奖历史上最年长的获奖作家。他拥有长达数十年的写作生涯，《万物》是他的第13部小说。他的大部分职业生涯都专注于科幻写作。他2006年的小说《新星摇摆》赢得了阿瑟·C·克拉克奖和菲利普·K·迪克奖（分别奖励英国和美国的最佳科幻作品）。"
+      },
+      {
+       "en": "\"Many past Booker Prize authors have borrowed facets of science fiction in their work,\" wrote Gaby Wood, chief executive of the Booker Prize Foundation, in a statement. \"But M. John Harrison is the first Booker winner to have emerged from the bona fide SF world. He is a genuinely original thinker, a genre-defying writer who takes ideas seriously.\"",
+       "zh": "布克奖基金会首席执行官加比·伍德在一份声明中写道：“许多过去的布克奖得主在他们的作品中借鉴了科幻小说的元素。但M. 约翰·哈里森是首位从真正的科幻世界中脱颖而出的布克奖得主。他是一个真正的原创思想者，一位超越类型的作家，认真对待思想。”"
+      },
+      {
+       "en": "The Booker Prize honors the best fiction published in the U.K. and Ireland. Besides Beard, this year's judges included the poet Raymond Antrobus, Pulp frontman Jarvis Cocker, editor and critic Rebecca Liu, and poet and novelist Patricia Lockwood. The other books shortlisted for the prize this year included Marlon James' The Disappearers and The Things We Never Say by Elizabeth Strout.",
+       "zh": "布克奖表彰在英国和爱尔兰出版的最佳小说。除了比尔德，今年的评委还包括诗人雷蒙德·安特鲁布斯（Raymond Antrobus）、Pulp乐队主唱贾维斯·考克（Jarvis Cocker）、编辑和评论家刘瑞贝卡（Rebecca Liu）、以及诗人兼小说家帕特里夏·洛克伍德（Patricia Lockwood）。今年入围该奖的其他书籍还包括马龙·詹姆斯（Marlon James）的《消失者》和伊丽莎白·斯特劳特（Elizabeth Strout）的《我们从未说过的事》。"
+      },
+      {
+       "en": "Winners of the prize receive £50,000 (about $67,000), and a trophy presented by the previous year's winner. Author David Szalay won the 2025 prize with his novel Flesh.",
+       "zh": "获奖者将获得50,000英镑（约67,000美元）的奖金，以及由上一年获奖者颁发的奖杯。作家大卫·萨莱凭借他的小说《血肉》赢得了2025年的奖项。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "statement",
+       "pos": "n.",
+       "zh": "声明；陈述",
+       "ex": "In a statement, Mary Beard, chair of this year's judges, called it a book that turns you upside down, raises a wry smile – and surprisingly, given the subject matter, leaves you with a twinge of optimism.\" The satirical sci-fi novel follows Philip, a man who looks for \"artifacts\" along the coast in Kent, England, and his aunt Marnie.",
+       "forms": []
+      },
+      {
+       "w": "judge",
+       "pos": "n.",
+       "zh": "法官",
+       "ex": "In a statement, Mary Beard, chair of this year's judges, called it a book that turns you upside down, raises a wry smile – and surprisingly, given the subject matter, leaves you with a twinge of optimism.\" The satirical sci-fi novel follows Philip, a man who looks for \"artifacts\" along the coast in Kent, England, and his aunt Marnie.",
+       "forms": [
+        "judges"
+       ]
+      },
+      {
+       "w": "future",
+       "pos": "n.",
+       "zh": "未来",
+       "ex": "The book is set in a post-apocalyptic future, dealing with the slow-burning invasion of the shape-shifting iGhetti.",
+       "forms": []
+      },
+      {
+       "w": "invasion",
+       "pos": "n.",
+       "zh": "入侵；侵略",
+       "ex": "The book is set in a post-apocalyptic future, dealing with the slow-burning invasion of the shape-shifting iGhetti.",
+       "forms": []
+      },
+      {
+       "w": "interview",
+       "pos": "n.",
+       "zh": "采访；面试",
+       "ex": "In an interview with the Booker Prize team, Harrison said he drew inspiration from current affairs: \"What happens when all of our expectations and explanations of the world become an ongoing disaster, but we still have to make a life?\" At 81, Harrison is the oldest author to win in the history of the prize.",
+       "forms": []
+      },
+      {
+       "w": "history",
+       "pos": "n.",
+       "zh": "历史",
+       "ex": "In an interview with the Booker Prize team, Harrison said he drew inspiration from current affairs: \"What happens when all of our expectations and explanations of the world become an ongoing disaster, but we still have to make a life?\" At 81, Harrison is the oldest author to win in the history of the prize.",
+       "forms": []
+      },
+      {
+       "w": "career",
+       "pos": "n.",
+       "zh": "职业；生涯",
+       "ex": "He's had a decades-long writing career, with Everything being his 13th novel.",
+       "forms": []
+      },
+      {
+       "w": "fiction",
+       "pos": "n.",
+       "zh": "小说；虚构",
+       "ex": "Most of his career has been spent writing science fiction.",
+       "forms": []
+      },
+      {
+       "w": "emerge",
+       "pos": "v.",
+       "zh": "出现；浮现",
+       "ex": "John Harrison is the first Booker winner to have emerged from the bona fide SF world.",
+       "forms": [
+        "emerged"
+       ]
+      },
+      {
+       "w": "critic",
+       "pos": "n.",
+       "zh": "评论家；批评家",
+       "ex": "Besides Beard, this year's judges included the poet Raymond Antrobus, Pulp frontman Jarvis Cocker, editor and critic Rebecca Liu, and poet and novelist Patricia Lockwood.",
+       "forms": []
+      },
+      {
+       "w": "novelist",
+       "pos": "n.",
+       "zh": "小说家",
+       "ex": "Besides Beard, this year's judges included the poet Raymond Antrobus, Pulp frontman Jarvis Cocker, editor and critic Rebecca Liu, and poet and novelist Patricia Lockwood.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "statement",
+      "judge",
+      "future",
+      "invasion",
+      "interview"
+     ],
+     "keyVocab": [
+      "statement",
+      "judge",
+      "future",
+      "invasion",
+      "interview",
+      "history",
+      "career",
+      "fiction"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-09",
    "articles": [
@@ -4542,703 +5346,6 @@
       "result",
       "community",
       "park"
-     ]
-    }
-   ]
-  },
-  {
-   "date": "2026-11-03",
-   "articles": [
-    {
-     "id": "2026-11-03-world",
-     "section": "World",
-     "sectionZh": "国际",
-     "title": "Hundreds evacuate city during temporary ceasefire between Russia and Ukraine",
-     "dek": "The ceasefire in a Russian-occupied Ukrainian city has ended. The ceasefire, which lasted several days, allowed hundreds of residents to evacuate.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/02/nx-s1-6022261/hundreds-evacuate-city-during-temporary-ceasefire-between-russia-and-ukraine",
-     "byline": "Joanna Kakissis",
-     "dateLabel": "2026-11-03",
-     "words": 348,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "The ceasefire in a Russian-occupied Ukrainian city has ended. The ceasefire, which lasted several days, allowed hundreds of residents to evacuate.",
-       "zh": "俄罗斯占领的乌克兰城市的停火已经结束。持续了几天的停火允许数百名居民撤离。"
-      },
-      {
-       "en": "A ceasefire brokered by Pope Leo and Melania Trump in a corner of southern Ukraine has ended. The truce enabled the evacuation of hundreds of residents in a Russian-occupied town, and across the river in the Ukrainian-held city of Kherson, the truce also allowed residents to walk the streets without being targeted by Russian drones. NPR's Joanna Kakissis traveled there this weekend and is on the line from Kyiv. Good morning, Joanna.",
-       "zh": "由教皇利奥和梅拉尼娅·特朗普在乌克兰南部一个角落斡旋的停火已经结束。这次休战使数百名居民得以从一个被俄罗斯占领的城镇撤离，在河对岸的乌克兰控制的赫尔松市，这次休战也允许居民在街上行走而不被俄罗斯无人机锁定。NPR的乔安娜·卡基西斯本周末前往那里，并正在基辅通话。早上好，乔安娜。"
-      },
-      {
-       "en": "KAKISSIS: Well, Leila, tunnels of heavy-duty nets cover nearly every street and many of the buildings in Kherson, if you can imagine that. These nets help protect residents from drones because for the last couple of years, Russian soldiers have used FPV, or first-person view drones strapped with explosives, to actually hunt and kill civilians in Kherson. So Russian troops are also about a mile away across a river. They also drop a lot of guided air bombs into the city.",
-       "zh": "KAKISSIS：嗯，莱拉，如果你能想象的话，赫尔松几乎每条街道和许多建筑物上都覆盖了重型网。这些网帮助保护居民免受无人机的袭击，因为在过去几年里，俄罗斯士兵使用配备炸药的FPV无人机，也就是第一人称视角无人机，实际上在赫尔松猎杀和杀害平民。俄罗斯军队也在大约一英里外的河对岸。他们还向城市投下了许多制导空炸弹。"
-      },
-      {
-       "en": "Now, this is a city I first visited in late 2022, right after Ukrainian forces freed Kherson from Russian occupation. Last time I was there was about a year ago. It's a lovely city filled with parks, but, you know, Russian forces have destroyed so many buildings there, and people never left their homes while I was there last time without drone detectors and sometimes even body armor.",
-       "zh": "现在，这是一座我第一次访问的城市，时间是在2022年底，正好在乌克兰军队将赫尔松从俄罗斯占领中解放出来之后。我上次去那里大约是一年前。这是一个充满公园的可爱城市，但是，你知道，俄罗斯军队在那里摧毁了许多建筑，而且我上次在那里时，人们离开家时总是带着无人机探测器，有时甚至还穿着防弹衣。"
-      },
-      {
-       "en": "FADEL: So how much has changed since you were last there, especially given there was a ceasefire this weekend?",
-       "zh": "FADEL：自从你上次去那里以来，情况有多大变化，尤其考虑到这个周末有停火？"
-      },
-      {
-       "en": "KAKISSIS: Well, Leila, the locals were not wearing body armor this time, and the city did show signs of normal life.",
-       "zh": "卡基西斯：嗯，莱拉，这次当地人没有穿防弹衣，而且城市确实显现出正常生活的迹象。"
-      },
-      {
-       "en": "KAKISSIS: We saw people strolling outside with their kids, stocking up on groceries, having coffee in the sun. And at one very busy cafe, we met two best friends, Anna Hersomenko (ph) and Olena Soboleva (ph). They are 21 years old, and here's Olena.",
-       "zh": "KAKISSIS：我们看到有人带着孩子在外面散步，购买杂货，在阳光下喝咖啡。在一家非常繁忙的咖啡馆，我们遇到了两位最好的朋友，安娜·赫尔索门科（Anna Hersomenko）和奥莱娜·索博列娃（Olena Soboleva）。她们都21岁，这是奥莱娜。"
-      },
-      {
-       "en": "OLENA SOBOLEVA: There is no drones. There is no explosions. It is like a feeling that no one wants to kill you.",
-       "zh": "奥莱娜·索博列娃：没有无人机。没有爆炸。这种感觉就像没人想杀你一样。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "ceasefire",
-       "pos": "n.",
-       "zh": "停火；停战",
-       "ex": "The ceasefire in a Russian-occupied Ukrainian city has ended.",
-       "forms": []
-      },
-      {
-       "w": "resident",
-       "pos": "n.",
-       "zh": "居民",
-       "ex": "The ceasefire, which lasted several days, allowed hundreds of residents to evacuate.",
-       "forms": [
-        "residents"
-       ]
-      },
-      {
-       "w": "drone",
-       "pos": "n.",
-       "zh": "无人机",
-       "ex": "The truce enabled the evacuation of hundreds of residents in a Russian-occupied town, and across the river in the Ukrainian-held city of Kherson, the truce also allowed residents to walk the streets without being targeted by Russian drones.",
-       "forms": [
-        "drones"
-       ]
-      },
-      {
-       "w": "troops",
-       "pos": "n.",
-       "zh": "部队；军队",
-       "ex": "So Russian troops are also about a mile away across a river.",
-       "forms": []
-      },
-      {
-       "w": "occupation",
-       "pos": "n.",
-       "zh": "占领；职业",
-       "ex": "Now, this is a city I first visited in late 2022, right after Ukrainian forces freed Kherson from Russian occupation.",
-       "forms": []
-      },
-      {
-       "w": "park",
-       "pos": "n.",
-       "zh": "公园；园区",
-       "ex": "It's a lovely city filled with parks, but, you know, Russian forces have destroyed so many buildings there, and people never left their homes while I was there last time without drone detectors and sometimes even body armor.",
-       "forms": [
-        "parks"
-       ]
-      },
-      {
-       "w": "change",
-       "pos": "n.",
-       "zh": "变化；改变",
-       "ex": "FADEL: So how much has changed since you were last there, especially given there was a ceasefire this weekend?",
-       "forms": [
-        "changed"
-       ]
-      },
-      {
-       "w": "local",
-       "pos": "adj.",
-       "zh": "当地的",
-       "ex": "KAKISSIS: Well, Leila, the locals were not wearing body armor this time, and the city did show signs of normal life.",
-       "forms": [
-        "locals"
-       ]
-      }
-     ],
-     "homeWords": [
-      "ceasefire",
-      "resident",
-      "drone",
-      "troops",
-      "occupation"
-     ],
-     "keyVocab": [
-      "ceasefire",
-      "resident",
-      "drone",
-      "troops",
-      "occupation",
-      "park",
-      "change",
-      "local"
-     ]
-    },
-    {
-     "id": "2026-11-03-business",
-     "section": "Business",
-     "sectionZh": "商业 · 财经",
-     "title": "Two economists studied California's billionaire tax. They reached wildly different conclusions",
-     "dek": "In 1978, California voters approved Proposition 13, a historic tax revolt that became an opening salvo in the Reagan revolution and its national movement to slash taxes. Now, Californians are…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/sections/planet-money/2026/11/02/g-s1-151009/two-economists-studied-californias-billionaire-tax-they-reached-wildly-different-conclusions",
-     "byline": "Greg Rosalsky",
-     "dateLabel": "2026-11-03",
-     "words": 538,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "In 1978, California voters approved Proposition 13, a historic tax revolt that became an opening salvo in the Reagan revolution and its national movement to slash taxes. Now, Californians are voting on Proposition 40, which could prove to be just as revolutionary — but in the opposite direction: it would create America's first-ever wealth tax targeted at billionaires.",
-       "zh": "1978 年，加利福尼亚州选民通过了第 13 号提案，这是一场具有历史意义的税收反抗，成为里根革命及其全国范围内大幅削减税收运动的开端。现在，加利福尼亚州选民正在投票表决第 40 号提案，这可能被证明同样具有革命性——但方向相反：它将创建美国史上首次针对亿万富翁的财富税。"
-      },
-      {
-       "en": "As Election Day approaches, economists have been duking it out over this proposed wealth tax. It could provide a sort of nerdy preview of a coming national fight over taxing the superrich. Will this wealth tax help rein in runaway inequality and fill the state's coffers — or will it convince billionaires to fire up their private jets and set up residence in mansions outside the state? Some megabillionaires have already fled California since the tax was proposed.",
-       "zh": "随着选举日临近，经济学家们一直在就这项拟议的财富税进行激烈争论。它可能为即将到来的全国性超富人税收斗争提供一种书呆子式的预演。这项财富税能否帮助遏制失控的不平等现象并充实州财政——还是会让亿万富翁们启动私人飞机，搬到州外的豪宅定居呢？自从提出这项税收以来，一些超级亿万富翁已经逃离了加利福尼亚州。"
-      },
-      {
-       "en": "\"If California says, 'We can tax billionaires. We can tax the wealthiest, most powerful people in the world,' it will be the beginning of not only a broader U.S.-wide movement, ultimately paving the way for a federal wealth tax — but I think it will be the beginning of an international movement,\" Zucman tells Planet Money.",
-       "zh": "祖克曼在接受《Planet Money》采访时表示：“如果加州说，‘我们可以对亿万富翁征税。我们可以对世界上最富有、最有权势的人征税，’这不仅将是美国范围内更广泛运动的开始，最终为联邦财富税铺平道路——我认为这也将是一个国际运动的开始。”"
-      },
-      {
-       "en": "On the other side of the debate is Stanford economist and Hoover Institution senior fellow Joshua Rauh. His analysis, co-authored with Benjamin Jaros, comes to a wildly different conclusion: the tax could lead to an exodus of billionaires out of California, damaging the state's economy and blowing a hole in the income tax revenue the state already collects from billionaires.",
-       "zh": "辩论的另一边是斯坦福大学经济学家、胡佛研究所高级研究员约书亚·劳赫。他与本杰明·贾罗斯共同撰写的分析得出了截然不同的结论：这项税收可能导致亿万富翁离开加利福尼亚，损害该州的经济，并在州政府从亿万富翁那里已征收的所得税收入上造成缺口。"
-      },
-      {
-       "en": "\" It would not raise $100 billion for the state,\" Rauh argues. Instead, he estimates, this tax could actually end up draining California's state coffers. \" We calculate that Proposition 40 would cost the state of California $39 billion.\"",
-       "zh": "“这不会为州筹集1000亿美元，”Rauh 争辩道。相反，他估计，这项税收实际上可能会耗尽加利福尼亚州的财政。“我们计算得出，第40号提案将使加利福尼亚州损失390亿美元。”"
-      },
-      {
-       "en": "It's a classic Berkeley-Stanford rivalry, but the stakes are much higher than a football game. California voters are deciding whether to pursue a historic wealth tax experiment, which could influence tax policy around the nation, even the world. Indeed, the superrich, fearing that this wealth tax could spark a widespread movement, have poured a staggering $333 million into a group trying to defeat this proposition, according to a recent report in The New York Times.",
-       "zh": "这是经典的加州大学伯克利分校与斯坦福大学的对抗，但赌注远比一场橄榄球比赛高得多。加州选民正在决定是否推进一次历史性的财富税实验，这可能会影响全国乃至全世界的税收政策。事实上，据《纽约时报》最近的一篇报道，超级富豪们担心这项财富税可能引发广泛的运动，他们已经向一个试图反对该提案的组织投入了惊人的3.33亿美元。"
-      },
-      {
-       "en": "The wealth tax Prop 40 proposes is pretty straightforward: a one-time, 5% tax on the net worth of billionaires, with some assets exempted. It would apply retroactively to any billionaire who was a resident of California on January 1, 2026. The money would be earmarked mostly for the health care of low-income Californians, to help offset federal cuts to Medicaid.",
-       "zh": "财富税第40号提案相当简单：对亿万富翁的净资产征收一次性5%的税，部分资产除外。它将追溯适用于2026年1月1日居住在加利福尼亚的任何亿万富翁。资金主要用于低收入加州人的医疗保健，以帮助抵消联邦对医疗补助的削减。"
-      },
-      {
-       "en": "A wealth tax is sort of like a property tax, except it extends beyond real estate and taxes a whole range of assets: stocks, superyachts, Basquiat paintings, dinosaur skeletons, Mercedes G Wagons, samurai swords, basically everything a rich person owns. Of course, figuring out what all a billionaire's stuff is worth — especially assets that rarely change hands — can get complicated. Do you value a Picasso or a yacht by the price originally paid, what it might sell for today, by how much they've insured it for? And so on. That said, most of the wealth held by California billionaires is in publicly traded stocks, whose value is easy to determine.",
-       "zh": "财富税有点像财产税，但它不仅限于不动产，还对各种资产征税：股票、超级游艇、巴斯奎亚画作、恐龙骨架、梅赛德斯G级、武士刀，基本上就是富人拥有的所有东西。当然，要弄清一个亿万富翁的所有资产价值——尤其是那些不常易手的资产——可能会很复杂。你是按最初购买价格、现在可能的售价，还是按保险金额来评估一个毕加索画作或游艇的价值？如此等等。也就是说，加州亿万富翁持有的大部分财富都是公开交易的股票，其价值很容易确定。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "approve",
-       "pos": "v.",
-       "zh": "批准；赞成",
-       "ex": "In 1978, California voters approved Proposition 13, a historic tax revolt that became an opening salvo in the Reagan revolution and its national movement to slash taxes.",
-       "forms": [
-        "approved"
-       ]
-      },
-      {
-       "w": "tax",
-       "pos": "n.",
-       "zh": "税；税收",
-       "ex": "In 1978, California voters approved Proposition 13, a historic tax revolt that became an opening salvo in the Reagan revolution and its national movement to slash taxes.",
-       "forms": [
-        "taxes",
-        "taxing"
-       ]
-      },
-      {
-       "w": "national",
-       "pos": "adj.",
-       "zh": "国家的；全国的",
-       "ex": "In 1978, California voters approved Proposition 13, a historic tax revolt that became an opening salvo in the Reagan revolution and its national movement to slash taxes.",
-       "forms": []
-      },
-      {
-       "w": "vote",
-       "pos": "n.",
-       "zh": "投票；表决",
-       "ex": "Now, Californians are voting on Proposition 40, which could prove to be just as revolutionary — but in the opposite direction: it would create America's first-ever wealth tax targeted at billionaires.",
-       "forms": [
-        "voting"
-       ]
-      },
-      {
-       "w": "wealth",
-       "pos": "n.",
-       "zh": "财富",
-       "ex": "Now, Californians are voting on Proposition 40, which could prove to be just as revolutionary — but in the opposite direction: it would create America's first-ever wealth tax targeted at billionaires.",
-       "forms": []
-      },
-      {
-       "w": "election",
-       "pos": "n.",
-       "zh": "选举",
-       "ex": "As Election Day approaches, economists have been duking it out over this proposed wealth tax.",
-       "forms": []
-      },
-      {
-       "w": "propose",
-       "pos": "v.",
-       "zh": "提议；提出",
-       "ex": "As Election Day approaches, economists have been duking it out over this proposed wealth tax.",
-       "forms": [
-        "proposed",
-        "proposes"
-       ]
-      },
-      {
-       "w": "inequality",
-       "pos": "n.",
-       "zh": "不平等；差距",
-       "ex": "Will this wealth tax help rein in runaway inequality and fill the state's coffers — or will it convince billionaires to fire up their private jets and set up residence in mansions outside the state?",
-       "forms": []
-      },
-      {
-       "w": "private",
-       "pos": "adj.",
-       "zh": "私人的；私营的",
-       "ex": "Will this wealth tax help rein in runaway inequality and fill the state's coffers — or will it convince billionaires to fire up their private jets and set up residence in mansions outside the state?",
-       "forms": []
-      },
-      {
-       "w": "federal",
-       "pos": "adj.",
-       "zh": "联邦的",
-       "ex": "We can tax the wealthiest, most powerful people in the world,' it will be the beginning of not only a broader U.S.-wide movement, ultimately paving the way for a federal wealth tax — but I think it will be the beginning of an international movement,\" Zucman tells Planet Money.",
-       "forms": []
-      },
-      {
-       "w": "international",
-       "pos": "adj.",
-       "zh": "国际的",
-       "ex": "We can tax the wealthiest, most powerful people in the world,' it will be the beginning of not only a broader U.S.-wide movement, ultimately paving the way for a federal wealth tax — but I think it will be the beginning of an international movement,\" Zucman tells Planet Money.",
-       "forms": []
-      },
-      {
-       "w": "debate",
-       "pos": "n.",
-       "zh": "辩论；争论",
-       "ex": "On the other side of the debate is Stanford economist and Hoover Institution senior fellow Joshua Rauh.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "approve",
-      "tax",
-      "national",
-      "vote",
-      "wealth"
-     ],
-     "keyVocab": [
-      "approve",
-      "tax",
-      "national",
-      "vote",
-      "wealth",
-      "election",
-      "propose",
-      "inequality"
-     ]
-    },
-    {
-     "id": "2026-11-03-technology",
-     "section": "Technology",
-     "sectionZh": "科技",
-     "title": "How former Yahoo CEO Marissa Mayer sees AI assistants fitting into busy women's lives",
-     "dek": "NPR's Juana Summers talks with former Yahoo CEO Marissa Mayer about AI assistants and lightening the load of emotional labor.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/02/nx-s1-6022451/how-former-yahoo-ceo-marissa-mayer-sees-ai-assistants-fitting-into-busy-womens-lives",
-     "byline": "Juana Summers",
-     "dateLabel": "2026-11-03",
-     "words": 463,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "NPR's Juana Summers talks with former Yahoo CEO Marissa Mayer about AI assistants and lightening the load of emotional labor.",
-       "zh": "NPR的胡安娜·萨默斯与前雅虎首席执行官玛丽莎·梅耶谈论人工智能助理以及减轻情感劳动的负担。"
-      },
-      {
-       "en": "Former Yahoo CEO Marissa Mayer wants more women to use AI, so she created an AI assistant that centered on women's experiences to help lighten the mental load of parenting as a working mom. But she also touched off a heated debate about the role artificial intelligence should have in parenting and gender expectations. And we wanted to talk directly with the person who sparked this discussion. Marissa Mayer joins us now. Welcome to ALL THINGS CONSIDERED.",
-       "zh": "前雅虎首席执行官玛丽莎·梅耶希望更多女性使用人工智能，因此她创建了一款以女性经历为中心的人工智能助手，帮助减轻职业妈妈在育儿方面的心理负担。但她也引发了关于人工智能在育儿和性别期望中应发挥何种作用的激烈讨论。我们想直接与这位引发讨论的人交谈。玛丽莎·梅耶现在加入了我们的节目。欢迎来到《全部考虑》。"
-      },
-      {
-       "en": "SUMMERS: OK, let's just start at the beginning here because last week, the New York Times ran the super buzzy profile of you. It opened with a story where you used your AI assistant Dazzle to come up with a list of three bullet points about your daughter. And that anecdote just sparked a ton of backlash. It was all over my social media feeds last week. Were you surprised by the reaction?",
-       "zh": "萨默斯：好的，我们还是从头开始吧，因为上周，《纽约时报》刊登了对你的超级热门采访报道。文章以一个故事开头，说你使用你的人工智能助手 Dazzle 来列出关于你女儿的三个要点。这个轶事引发了大量的反对声音。上周我的社交媒体动态上到处都是相关讨论。你对这种反应感到惊讶吗？"
-      },
-      {
-       "en": "MAYER: I was because I think there was some context that was missing, which is I shared that anecdote because it was from back when we were first building the product. I was testing the technology. And what happened was basically all my engineers were really excited. From our photos, we could tell their pet's name. From their photos, we could tell, you know, their mother's birth date. And I wondered what it could tell.",
-       "zh": "MAYER：是的，因为我觉得有一些背景缺失。我之所以分享那个轶事，是因为那是我们刚开始构建产品的时候。我在测试这项技术。发生的事情基本上是，我所有的工程师都非常兴奋。从我们的照片中，我们可以看出他们宠物的名字。从他们的照片中，我们可以看出，比如，他们母亲的出生日期。我在想，这项技术还能告诉我们什么。"
-      },
-      {
-       "en": "And I got this assignment from the school to prepare a slide for my twins birthday, and I put it in. And I have to say, I didn't have high hopes because most facial recognition can't tell my twins apart. They're identical. And then, much to my surprise, Dazzle came back and described them pretty perfectly and also pulled up examples from kindergarten projects they had done five years before where these traits were evident.",
-       "zh": "我从学校接到这个任务，要为我的双胞胎的生日准备一张幻灯片，我就做了。我得说，我原本没抱太大希望，因为大多数人脸识别都分不清我的双胞胎。他们是完全一样的。然后，非常出乎我的意料，Dazzle 回来了，并且非常准确地描述了他们，还找出了五年前他们在幼儿园做的项目的例子，这些例子中就能看出这些特征。"
-      },
-      {
-       "en": "So it's just kind of a fun anecdote, not necessarily how people use the product. There's lots of different ways to use Dazzle, and we're delighted with however people do. But this is really more about the power of what's in our photos, and when you give that to an AI assistant, how that can help you.",
-       "zh": "所以这只是一个有趣的轶事，不一定是人们使用产品的方式。使用 Dazzle 有很多不同的方法，我们对人们无论如何使用它都感到高兴。但这更多是关于我们照片中所包含的力量，当你把它交给 AI 助手时，这能如何帮助你。"
-      },
-      {
-       "en": "SUMMERS: Why do you think women need their own tailored AI assistant or something that perhaps functions differently and more specially for us?",
-       "zh": "萨默斯：你认为为什么女性需要专门定制的人工智能助手，或者某种功能更特别、更适合我们的？"
-      },
-      {
-       "en": "MAYER: Well, first of all, Dazzle isn't just for women. It's for everyone. So, you know, it's not necessarily tailored for that experience. I do think, because busy women have a lot on their plates, this is a great thing, where you can actually delegate some of what you have to do, be it buying, fixing things around the house, booking things, calendaring.",
-       "zh": "MAYER：嗯，首先，Dazzle 不仅仅是为女性设计的。它适用于所有人。所以，你知道，这不一定专门针对女性的体验。我确实认为，因为繁忙的女性有很多事情要处理，这是一件很棒的事情，你实际上可以将一些你需要做的事情委托出去，无论是购物、修理家里的东西、预订事务还是安排日程。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "debate",
-       "pos": "n.",
-       "zh": "辩论；争论",
-       "ex": "But she also touched off a heated debate about the role artificial intelligence should have in parenting and gender expectations.",
-       "forms": []
-      },
-      {
-       "w": "artificial",
-       "pos": "adj.",
-       "zh": "人工的；人造的",
-       "ex": "But she also touched off a heated debate about the role artificial intelligence should have in parenting and gender expectations.",
-       "forms": []
-      },
-      {
-       "w": "intelligence",
-       "pos": "n.",
-       "zh": "情报；智能",
-       "ex": "But she also touched off a heated debate about the role artificial intelligence should have in parenting and gender expectations.",
-       "forms": []
-      },
-      {
-       "w": "spark",
-       "pos": "v.",
-       "zh": "引发；点燃",
-       "ex": "And we wanted to talk directly with the person who sparked this discussion.",
-       "forms": [
-        "sparked"
-       ]
-      },
-      {
-       "w": "social",
-       "pos": "adj.",
-       "zh": "社会的；社交的",
-       "ex": "It was all over my social media feeds last week.",
-       "forms": []
-      },
-      {
-       "w": "media",
-       "pos": "n.",
-       "zh": "媒体",
-       "ex": "It was all over my social media feeds last week.",
-       "forms": []
-      },
-      {
-       "w": "product",
-       "pos": "n.",
-       "zh": "产品",
-       "ex": "MAYER: I was because I think there was some context that was missing, which is I shared that anecdote because it was from back when we were first building the product.",
-       "forms": []
-      },
-      {
-       "w": "technology",
-       "pos": "n.",
-       "zh": "技术；科技",
-       "ex": "I was testing the technology.",
-       "forms": []
-      },
-      {
-       "w": "school",
-       "pos": "n.",
-       "zh": "学校",
-       "ex": "And I got this assignment from the school to prepare a slide for my twins birthday, and I put it in.",
-       "forms": []
-      },
-      {
-       "w": "describe",
-       "pos": "v.",
-       "zh": "描述",
-       "ex": "And then, much to my surprise, Dazzle came back and described them pretty perfectly and also pulled up examples from kindergarten projects they had done five years before where these traits were evident.",
-       "forms": [
-        "described"
-       ]
-      },
-      {
-       "w": "power",
-       "pos": "n.",
-       "zh": "权力；电力",
-       "ex": "But this is really more about the power of what's in our photos, and when you give that to an AI assistant, how that can help you.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "debate",
-      "artificial",
-      "intelligence",
-      "spark",
-      "social"
-     ],
-     "keyVocab": [
-      "debate",
-      "artificial",
-      "intelligence",
-      "spark",
-      "social",
-      "media",
-      "product",
-      "technology"
-     ]
-    },
-    {
-     "id": "2026-11-03-science",
-     "section": "Science",
-     "sectionZh": "科学",
-     "title": "After last year's storm, this remote Alaska town is still picking up the pieces",
-     "dek": "Last fall, the remnants of Typhoon Halong tore through numerous small Alaska Native villages off the road system in Western Alaska. The storm destroyed infrastructure, floated homes off their…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/31/nx-s1-6021471/ex-typhoon-halong-damages-western-alaska-native-villages-kipnuk",
-     "byline": "Samantha Watson",
-     "dateLabel": "2026-11-03",
-     "words": 290,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "Last fall, the remnants of Typhoon Halong tore through numerous small Alaska Native villages off the road system in Western Alaska. The storm destroyed infrastructure, floated homes off their foundations, and displaced over a thousand people. A year later, hundreds remain displaced as the slow work of repair in a remote part of the state continues. And in one of the hardest hit communities – the small town of Kipnuk – people still aren't sure when they'll be moving back.",
-       "zh": "去年秋天，台风哈尔隆残余冲击了阿拉斯加西部许多不通公路的原住民小村庄。风暴摧毁了基础设施，让房屋漂离地基，并迫使一千多人流离失所。一年后，数百人仍未安置妥当，因为在该州偏远地区的修复工作仍在缓慢进行。在受灾最严重的社区之一——小镇基普努克，人们仍不确定什么时候能够返回家园。"
-      },
-      {
-       "en": "The village of under 200 homes is situated on the wide open tundra and only consistently accessible by plane.",
-       "zh": "这个不足200户的村庄坐落在宽阔的苔原上，只有通过飞机才能持续到达。"
-      },
-      {
-       "en": "A year ago, 90% of the residences here were damaged by the remnants of Typhoon Halong, according to the State of Alaska's Emergency Operations Center. Dozens were swept off their foundations, some with families still inside. The community is now largely scattered across Alaska – some outside the region their ancestors have lived in for thousands of years.",
-       "zh": "根据阿拉斯加州应急行动中心的数据，一年前，这里的90%的住宅因台风哈龙的残余影响而受损。数十栋房屋被冲离了地基，有些房屋里还住着家庭。如今，该社区大多散布在阿拉斯加各地——有些甚至离开了其祖先生活了数千年的地区。"
-      },
-      {
-       "en": "Throughout the past year, crews have been working on repairs.",
-       "zh": "在过去的一年里，工作人员一直在进行维修工作。"
-      },
-      {
-       "en": "On a clear day in August, Eddie Chuckwuk's construction crew attempted what sounded like magic: raising a building back onto its foundations using air compressors.",
-       "zh": "在八月的一个晴朗日子，埃迪·查克沃克的建筑队尝试了听起来像魔法的事情：使用空气压缩机将一栋建筑重新升到其地基上。"
-      },
-      {
-       "en": "Chuckwuk is one of several dozen people who have been working long days to rebuild the place where he grew up.",
-       "zh": "查克沃克是几十个全天工作重建他成长地方的人之一。"
-      },
-      {
-       "en": "\"We're working as fast as possible as we can to get the people back in town,\" Chuckwuk says. \"That's what I just want to see – for everybody to come back and enjoy where they grew up instead of being placed in a different place … where they're not used to. It's pretty hard.\"",
-       "zh": "查克伍克说：“我们正尽可能快地工作，把人们带回城镇。我只想看到大家回到这里，享受他们成长的地方，而不是被安置在他们不习惯的其他地方……这相当困难。”"
-      },
-      {
-       "en": "This work is critical to getting Kipnuk's homes in shape to live in again, but the town is far from being fully restored.",
-       "zh": "这项工作对于让基普努克的住宅恢复适宜居住至关重要，但该镇还远未完全恢复。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "fall",
-       "pos": "n.",
-       "zh": "下降；下跌",
-       "ex": "Last fall, the remnants of Typhoon Halong tore through numerous small Alaska Native villages off the road system in Western Alaska.",
-       "forms": []
-      },
-      {
-       "w": "infrastructure",
-       "pos": "n.",
-       "zh": "基础设施",
-       "ex": "The storm destroyed infrastructure, floated homes off their foundations, and displaced over a thousand people.",
-       "forms": []
-      },
-      {
-       "w": "community",
-       "pos": "n.",
-       "zh": "社区；群体",
-       "ex": "And in one of the hardest hit communities – the small town of Kipnuk – people still aren't sure when they'll be moving back.",
-       "forms": [
-        "communities"
-       ]
-      },
-      {
-       "w": "family",
-       "pos": "n.",
-       "zh": "家庭",
-       "ex": "Dozens were swept off their foundations, some with families still inside.",
-       "forms": [
-        "families"
-       ]
-      },
-      {
-       "w": "region",
-       "pos": "n.",
-       "zh": "地区；区域",
-       "ex": "The community is now largely scattered across Alaska – some outside the region their ancestors have lived in for thousands of years.",
-       "forms": []
-      },
-      {
-       "w": "critical",
-       "pos": "adj.",
-       "zh": "关键的；批评的",
-       "ex": "It's pretty hard.\" This work is critical to getting Kipnuk's homes in shape to live in again, but the town is far from being fully restored.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "fall",
-      "infrastructure",
-      "community",
-      "family",
-      "region"
-     ],
-     "keyVocab": [
-      "fall",
-      "infrastructure",
-      "community",
-      "family",
-      "region",
-      "critical"
-     ]
-    },
-    {
-     "id": "2026-11-03-culture",
-     "section": "Culture",
-     "sectionZh": "文化",
-     "title": "John Turturro says he likes trying new things (even pickpocketing)",
-     "dek": "Actor John Turturro might be able to pick your pocket, but it depends on how you're dressed.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/02/nx-s1-6023217/john-turturro-pickpocket",
-     "byline": "Terry Gross",
-     "dateLabel": "2026-11-03",
-     "words": 422,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "Actor John Turturro might be able to pick your pocket, but it depends on how you're dressed.",
-       "zh": "演员约翰·图图罗可能会偷你的钱包，但这取决于你的穿着。"
-      },
-      {
-       "en": "\"Horizontal pockets that are really tight with tight jeans are hard; back pockets are easier,\" he says. Even better, he adds, \"If your purse or your backpack is on your back and your zipper isn't completely zipped up.\"",
-       "zh": "“与紧身牛仔裤一起穿时，水平口袋真的很紧，很难用；后口袋更容易，”他说。他补充道，更好的情况是，“如果你的手提包或背包背在背上，并且拉链没有完全拉上。”"
-      },
-      {
-       "en": "Lifting wallets was part of his training for the new film, The Only Living Pickpocket in New York. In it, Turturro stars as Harry, a skilled pickpocket who is also the primary caretaker for his wife, who's in a catatonic state. Harry's life takes a turn when he steals the backpack of a college-age kid who turns out to be the grandson of a crime boss.",
-       "zh": "偷钱包是他为新电影《纽约唯一的活捡贼》进行训练的一部分。在片中，图图罗饰演哈利，一个技术娴熟的小偷，同时也是他处于昏迷状态妻子的主要照顾者。当哈利偷了一个大学生的背包时，他的生活发生了转折，而这个大学生竟然是一个犯罪老大的孙子。"
-      },
-      {
-       "en": "To prepare for the role, Turturro practiced with Apollo Robbins, a famed sleight-of-hand artist, who coached him on the art of misdirection. \"He really helped me, gave me exercises, and worked with me,\" Turturro says. \"I [practiced picking pockets] in the production office and on the set all the time.\"",
-       "zh": "为了准备这个角色，特图罗与著名的手法艺术家阿波罗·罗宾斯一起练习，他指导特图罗掌握了转移注意力的技巧。特图罗说：“他真的帮了我，给了我练习，并与我一起训练。我经常在制片办公室和片场练习扒窃。”"
-      },
-      {
-       "en": "Harry isn't the first morally dubious character Turturro's played during his lengthy career in Hollywood. His film credits include Five Corners, The Big Lebowski, O Brother, Where Art Thou? and Do the Right Thing. In recent years, he's been on TV in the critically acclaimed series The Night Of, The Plot Against America, and Severance.",
-       "zh": "哈里并不是图图罗在好莱坞漫长职业生涯中扮演的第一个道德可疑的角色。他的电影作品包括《五角街区》、《大保龄球》、《哦兄弟，你到哪儿去了？》和《做正确的事》。近年来，他在电视上出演了备受好评的系列剧《夜晚》、《反美国阴谋》和《分裂》。"
-      },
-      {
-       "en": "Turturro says he's attracted to complex roles — and he's always willing to learn something new: \"I really do try to take the elevator down into the sub-basement and mine everything I possibly can because I'm a student,\" he says. \"I love to begin something because you never know. There's the unknown of, 'I may fail. I may not be able to do that.' And I find that exciting.\"",
-       "zh": "图图罗说他被复杂的角色所吸引——而且他总是愿意学习新事物：“我真的会尽量乘电梯下到地下室，尽可能挖掘一切，因为我是一名学生，”他说。“我喜欢开始某件事，因为你永远不知道。总有未知，比如‘我可能会失败，我可能做不到。’而我觉得这很令人兴奋。”"
-      },
-      {
-       "en": "On being a legal guardian to his late brother who had schizophrenia",
-       "zh": "作为他已故患有精神分裂症的兄弟的法定监护人"
-      },
-      {
-       "en": "I had to find different residences and then I put him in an apartment. I had to hire all the aides and then someone who was in charge of the aides so I could function and he wasn't used to being outside [the hospital]. So a lot of times he was not appreciative of that. He could be very abusive and very unpredictable, so you never knew what was going to happen. So I was always on sort of a high alert. No matter where I was in the world, I tried to protect my own family from him. And then eventually we finally got him on a medicine which he could take monthly. …",
-       "zh": "我不得不寻找不同的住所，然后我把他安排在一个公寓里。我不得不雇佣所有的护理人员，然后找一个负责这些护理人员的人，这样我才能正常运作，而他不习惯在[医院]之外的环境。所以很多时候他并不感激这一点。他可能非常虐待人，也非常不可预测，所以你永远不知道会发生什么。所以我总是处于一种高度警戒状态。无论我身处世界的哪个地方，我都尽力保护自己的家人不受他的伤害。最后我们终于让他服用一种每月一次的药物……"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "actor",
-       "pos": "n.",
-       "zh": "演员",
-       "ex": "Actor John Turturro might be able to pick your pocket, but it depends on how you're dressed.",
-       "forms": []
-      },
-      {
-       "w": "film",
-       "pos": "n.",
-       "zh": "电影；影片",
-       "ex": "Even better, he adds, \"If your purse or your backpack is on your back and your zipper isn't completely zipped up.\" Lifting wallets was part of his training for the new film, The Only Living Pickpocket in New York.",
-       "forms": []
-      },
-      {
-       "w": "career",
-       "pos": "n.",
-       "zh": "职业；生涯",
-       "ex": "\"I [practiced picking pockets] in the production office and on the set all the time.\" Harry isn't the first morally dubious character Turturro's played during his lengthy career in Hollywood.",
-       "forms": []
-      },
-      {
-       "w": "credit",
-       "pos": "n.",
-       "zh": "信贷；信用",
-       "ex": "His film credits include Five Corners, The Big Lebowski, O Brother, Where Art Thou?",
-       "forms": [
-        "credits"
-       ]
-      },
-      {
-       "w": "acclaim",
-       "pos": "n.",
-       "zh": "赞誉；好评",
-       "ex": "In recent years, he's been on TV in the critically acclaimed series The Night Of, The Plot Against America, and Severance.",
-       "forms": [
-        "acclaimed"
-       ]
-      },
-      {
-       "w": "student",
-       "pos": "n.",
-       "zh": "学生",
-       "ex": "Turturro says he's attracted to complex roles — and he's always willing to learn something new: \"I really do try to take the elevator down into the sub-basement and mine everything I possibly can because I'm a student,\" he says.",
-       "forms": []
-      },
-      {
-       "w": "charge",
-       "pos": "v.",
-       "zh": "指控；收费",
-       "ex": "I had to hire all the aides and then someone who was in charge of the aides so I could function and he wasn't used to being outside [the hospital].",
-       "forms": []
-      },
-      {
-       "w": "hospital",
-       "pos": "n.",
-       "zh": "医院",
-       "ex": "I had to hire all the aides and then someone who was in charge of the aides so I could function and he wasn't used to being outside [the hospital].",
-       "forms": []
-      },
-      {
-       "w": "family",
-       "pos": "n.",
-       "zh": "家庭",
-       "ex": "No matter where I was in the world, I tried to protect my own family from him.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "actor",
-      "film",
-      "career",
-      "credit",
-      "acclaim"
-     ],
-     "keyVocab": [
-      "actor",
-      "film",
-      "career",
-      "credit",
-      "acclaim",
-      "student",
-      "charge",
-      "hospital"
      ]
     }
    ]
