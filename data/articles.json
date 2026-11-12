@@ -1,6 +1,776 @@
 {
- "updated": "2026-11-11T06:52:21.416437+00:00",
+ "updated": "2026-11-12T07:29:59.865100+00:00",
  "days": [
+  {
+   "date": "2026-11-12",
+   "articles": [
+    {
+     "id": "2026-11-12-world",
+     "section": "World",
+     "sectionZh": "国际",
+     "title": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
+     "dek": "ABU DHABI, United Arab Emirates — Russia and Ukraine agreed to a large exchange of prisoners of war, both sides said Wednesday as two days of U.S. mediated talks concluded with no major…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
+     "byline": "The Associated Press",
+     "dateLabel": "2026-11-12",
+     "words": 242,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "ABU DHABI, United Arab Emirates — Russia and Ukraine agreed to a large exchange of prisoners of war, both sides said Wednesday as two days of U.S. mediated talks concluded with no major breakthrough on ending Moscow's nearly 5-year-old full-scale invasion.",
+       "zh": "阿拉伯联合酋长国阿布扎比——俄罗斯和乌克兰周三表示，双方已同意大规模交换战俘。为期两天的美国斡旋谈判结束，但未在结束莫斯科近5年全面入侵的问题上取得重大突破。"
+      },
+      {
+       "en": "Hopes had been low for any significant development in the first meeting in nine months between the delegations. Russia and Ukraine have from time to time swapped POWs but have remained far apart in their demands for accepting a peace settlement.",
+       "zh": "对于两国代表团九个月来的首次会晤能取得任何重大进展，人们的期望一直很低。俄罗斯和乌克兰不时交换战俘，但在接受和平解决的要求上仍存在很大分歧。"
+      },
+      {
+       "en": "U.S. officials say they are determined to revive Washington's peace efforts that so far have failed to deliver significant results.",
+       "zh": "美国官员表示，他们决心重振华盛顿的和平努力，而这些努力迄今为止未能取得显著成效。"
+      },
+      {
+       "en": "Along with postwar security guarantees for both countries, other key hurdles are the fate of Russian-occupied Ukrainian territory and what role European countries will play in an eventual settlement.",
+       "zh": "除了为两国提供战后安全保障外，其他关键障碍还包括俄罗斯占领的乌克兰领土的命运，以及欧洲国家将在最终的解决方案中扮演何种角色。"
+      },
+      {
+       "en": "The session was the first such meeting since February on Russia's invasion, which analysts and humanitarian organizations say has killed hundreds of thousands of soldiers and thousands of civilians.",
+       "zh": "这是自2月俄罗斯入侵乌克兰以来的首次此类会议，分析人士和人道主义组织称，这场战争已造成数十万名士兵和数千名平民丧生。"
+      },
+      {
+       "en": "The talks lasted just under two hours Wednesday, after a four-hour session the previous day.",
+       "zh": "在前一天进行四个小时的会谈后，周三的会谈持续了不到两个小时。"
+      },
+      {
+       "en": "\"One of the positives is we agreed that we're going to have the biggest humanitarian release of prisoners, which we're going to finalize the numbers tomorrow,\" said Jared Kushner, U.S. President Donald Trump's son-in-law, after the Abu Dhabi talks ended.",
+       "zh": "“其中一个积极因素是我们已经同意将进行最大规模的人道主义释放囚犯，我们将在明天敲定具体人数，”美国总统唐纳德·特朗普的女婿贾里德·库什纳在阿布扎比会谈结束后表示。"
+      },
+      {
+       "en": "Vladimir Medinsky, head of the Russian delegation, and Rustem Umerov, who led Kyiv's contingent, confirmed the planned POW exchange, although Medinsky noted the agreement was \"in principle.\"",
+       "zh": "俄罗斯代表团负责人弗拉基米尔·梅丁斯基以及基辅代表团负责人鲁斯特姆·乌梅罗夫确认了计划中的战俘交换，尽管梅丁斯基指出该协议是“原则性”的。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "invasion",
+       "pos": "n.",
+       "zh": "入侵；侵略",
+       "ex": "mediated talks concluded with no major breakthrough on ending Moscow's nearly 5-year-old full-scale invasion.",
+       "forms": []
+      },
+      {
+       "w": "significant",
+       "pos": "adj.",
+       "zh": "显著的；重要的",
+       "ex": "Hopes had been low for any significant development in the first meeting in nine months between the delegations.",
+       "forms": []
+      },
+      {
+       "w": "demand",
+       "pos": "n.",
+       "zh": "需求",
+       "ex": "Russia and Ukraine have from time to time swapped POWs but have remained far apart in their demands for accepting a peace settlement.",
+       "forms": [
+        "demands"
+       ]
+      },
+      {
+       "w": "accept",
+       "pos": "v.",
+       "zh": "接受",
+       "ex": "Russia and Ukraine have from time to time swapped POWs but have remained far apart in their demands for accepting a peace settlement.",
+       "forms": [
+        "accepting"
+       ]
+      },
+      {
+       "w": "official",
+       "pos": "n.",
+       "zh": "官员；adj. 官方的",
+       "ex": "officials say they are determined to revive Washington's peace efforts that so far have failed to deliver significant results.",
+       "forms": [
+        "officials"
+       ]
+      },
+      {
+       "w": "result",
+       "pos": "n.",
+       "zh": "结果",
+       "ex": "officials say they are determined to revive Washington's peace efforts that so far have failed to deliver significant results.",
+       "forms": [
+        "results"
+       ]
+      },
+      {
+       "w": "territory",
+       "pos": "n.",
+       "zh": "领土",
+       "ex": "Along with postwar security guarantees for both countries, other key hurdles are the fate of Russian-occupied Ukrainian territory and what role European countries will play in an eventual settlement.",
+       "forms": []
+      },
+      {
+       "w": "number",
+       "pos": "n.",
+       "zh": "数量；数字",
+       "ex": "\"One of the positives is we agreed that we're going to have the biggest humanitarian release of prisoners, which we're going to finalize the numbers tomorrow,\" said Jared Kushner, U.S.",
+       "forms": [
+        "numbers"
+       ]
+      },
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "President Donald Trump's son-in-law, after the Abu Dhabi talks ended.",
+       "forms": []
+      },
+      {
+       "w": "confirm",
+       "pos": "v.",
+       "zh": "证实；确认",
+       "ex": "Vladimir Medinsky, head of the Russian delegation, and Rustem Umerov, who led Kyiv's contingent, confirmed the planned POW exchange, although Medinsky noted the agreement was \"in principle.\"",
+       "forms": [
+        "confirmed"
+       ]
+      }
+     ],
+     "homeWords": [
+      "invasion",
+      "significant",
+      "demand",
+      "accept",
+      "official"
+     ],
+     "keyVocab": [
+      "invasion",
+      "significant",
+      "demand",
+      "accept",
+      "official",
+      "result",
+      "territory",
+      "number"
+     ]
+    },
+    {
+     "id": "2026-11-12-business",
+     "section": "Business",
+     "sectionZh": "商业 · 财经",
+     "title": "Why is gasoline suddenly under $4 a gallon?",
+     "dek": "Drivers are starting to see some relief from high fuel prices. For the first time in months, the average price of a gallon of gasoline has dipped below $4, according to AAA.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/11/nx-s1-6037588/gasoline-price-below-4-dollars-gallon",
+     "byline": "Willa Rubin",
+     "dateLabel": "2026-11-12",
+     "words": 310,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "Drivers are starting to see some relief from high fuel prices. For the first time in months, the average price of a gallon of gasoline has dipped below $4, according to AAA.",
+       "zh": "司机们开始从高油价中看到一些缓解。根据美国汽车协会（AAA）的数据，几个月来，汽油平均价格首次降至每加仑4美元以下。"
+      },
+      {
+       "en": "The price crossed below the $4 threshold on Tuesday, and is currently down to a national average of $3.94 for a gallon of regular. Prices have dipped about 40 cents over the past month, with much of that decline happening in the past two weeks.",
+       "zh": "周二价格跌破了4美元的门槛，目前普通汽油的全国平均价格降至每加仑3.94美元。过去一个月价格已下跌约40美分，其中大部分下跌发生在过去两周。"
+      },
+      {
+       "en": "Instead, he continued, gasoline prices are dropping for a more banal reason: \"For now, it's the seasonal shift, not politics, driving the relief at the pump.\"",
+       "zh": "他接着说，汽油价格下跌的原因更为平凡：“目前，是季节性变化，而不是政治因素，推动了加油站价格的下降。”"
+      },
+      {
+       "en": "One reason: It's no longer summer, which is the peak season for gas. (Fewer people drive in colder weather, AAA points out.) With less demand, there's a touch more gas on the market.",
+       "zh": "一个原因是：现在不再是夏天，而夏天是汽油的旺季。（AAA指出，天气冷的时候开车的人少。）需求减少，市场上的汽油供应稍微多一点。"
+      },
+      {
+       "en": "Refineries also finish their annual maintenance by late fall. So that adds a bit more gas to go around.",
+       "zh": "炼油厂也会在晚秋之前完成年度维护。因此，这会增加一些可供应的汽油。"
+      },
+      {
+       "en": "And the blend of gasoline that's on the market gets cheaper.",
+       "zh": "市面上的汽油混合物变得更便宜。"
+      },
+      {
+       "en": "Refineries make two types of gasoline every year: summer and winter blends. The summer blend produces less smog, because it evaporates less quickly in the heat; the winter blend helps engines start up in freezing weather, and uses a bit more butane, which helps lower its cost.",
+       "zh": "炼油厂每年生产两种类型的汽油：夏季汽油和冬季汽油。夏季汽油产生的烟雾较少，因为它在高温下蒸发得较慢；冬季汽油有助于发动机在冰冻天气启动，并使用更多一些丁烷，这有助于降低其成本。"
+      },
+      {
+       "en": "(Normally, the switch happens around September 15. This year, the Environmental Protection Agency and the Department of Energy said the switch would happen on September 1, citing gasoline prices that have been driven up by the war in Iran.)",
+       "zh": "（通常，转换大约在9月15日发生。今年，环境保护局和能源部表示，由于伊朗战争导致汽油价格上涨，转换将于9月1日进行。）"
+      },
+      {
+       "en": "But none of those are the biggest reason why gas prices are falling, says Jorge León, head of geopolitics at the research group Rystad Energy. The main driver is the falling price of Brent crude oil, which is now down to about $90 a barrel, and which is what refineries need to make gasoline, diesel and jet fuel.",
+       "zh": "但是，这些都不是油价下跌的最大原因，研究机构Rystad Energy地缘政治负责人Jorge León说。主要原因是布伦特原油价格下跌，现在已经降至大约每桶90美元，而炼油厂需要这种原油来生产汽油、柴油和喷气燃料。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "price",
+       "pos": "n.",
+       "zh": "价格",
+       "ex": "Drivers are starting to see some relief from high fuel prices.",
+       "forms": [
+        "prices"
+       ]
+      },
+      {
+       "w": "average",
+       "pos": "n.",
+       "zh": "平均值",
+       "ex": "For the first time in months, the average price of a gallon of gasoline has dipped below $4, according to AAA.",
+       "forms": []
+      },
+      {
+       "w": "national",
+       "pos": "adj.",
+       "zh": "国家的；全国的",
+       "ex": "The price crossed below the $4 threshold on Tuesday, and is currently down to a national average of $3.94 for a gallon of regular.",
+       "forms": []
+      },
+      {
+       "w": "decline",
+       "pos": "n.",
+       "zh": "下降；衰退",
+       "ex": "Prices have dipped about 40 cents over the past month, with much of that decline happening in the past two weeks.",
+       "forms": []
+      },
+      {
+       "w": "reason",
+       "pos": "n.",
+       "zh": "原因；理由",
+       "ex": "Instead, he continued, gasoline prices are dropping for a more banal reason: \"For now, it's the seasonal shift, not politics, driving the relief at the pump.\" One reason: It's no longer summer, which is the peak season for gas.",
+       "forms": []
+      },
+      {
+       "w": "shift",
+       "pos": "n.",
+       "zh": "转变；转移",
+       "ex": "Instead, he continued, gasoline prices are dropping for a more banal reason: \"For now, it's the seasonal shift, not politics, driving the relief at the pump.\" One reason: It's no longer summer, which is the peak season for gas.",
+       "forms": []
+      },
+      {
+       "w": "gas",
+       "pos": "n.",
+       "zh": "天然气；气体",
+       "ex": "Instead, he continued, gasoline prices are dropping for a more banal reason: \"For now, it's the seasonal shift, not politics, driving the relief at the pump.\" One reason: It's no longer summer, which is the peak season for gas.",
+       "forms": []
+      },
+      {
+       "w": "demand",
+       "pos": "n.",
+       "zh": "需求",
+       "ex": "(Fewer people drive in colder weather, AAA points out.) With less demand, there's a touch more gas on the market.",
+       "forms": []
+      },
+      {
+       "w": "market",
+       "pos": "n.",
+       "zh": "市场",
+       "ex": "(Fewer people drive in colder weather, AAA points out.) With less demand, there's a touch more gas on the market.",
+       "forms": []
+      },
+      {
+       "w": "fall",
+       "pos": "n.",
+       "zh": "下降；下跌",
+       "ex": "Refineries also finish their annual maintenance by late fall.",
+       "forms": [
+        "falling"
+       ]
+      },
+      {
+       "w": "cost",
+       "pos": "n.",
+       "zh": "成本；代价",
+       "ex": "The summer blend produces less smog, because it evaporates less quickly in the heat; the winter blend helps engines start up in freezing weather, and uses a bit more butane, which helps lower its cost.",
+       "forms": []
+      },
+      {
+       "w": "agency",
+       "pos": "n.",
+       "zh": "机构；代理",
+       "ex": "This year, the Environmental Protection Agency and the Department of Energy said the switch would happen on September 1, citing gasoline prices that have been driven up by the war in Iran.) But none of those are the biggest reason why gas prices are falling, says Jorge León, head of geopolitics at the research group Rystad Energy.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "price",
+      "average",
+      "national",
+      "decline",
+      "reason"
+     ],
+     "keyVocab": [
+      "price",
+      "average",
+      "national",
+      "decline",
+      "reason",
+      "shift",
+      "gas",
+      "demand"
+     ]
+    },
+    {
+     "id": "2026-11-12-technology",
+     "section": "Technology",
+     "sectionZh": "科技",
+     "title": "Investigation continues into Nvidia CEO's alleged relationship with Chinese spy",
+     "dek": "Fallout continues at the chip giant Nvidia. Its powerful CEO is accused of having an affair with a Chinese spy.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/10/nx-s1-6035019/investigation-continues-into-nvidia-ceos-alleged-relationship-with-chinese-spy",
+     "byline": "John Ruwitch",
+     "dateLabel": "2026-11-12",
+     "words": 248,
+     "readTime": 3,
+     "level": "B2",
+     "levelEn": "Upper-intermediate",
+     "paragraphs": [
+      {
+       "en": "Fallout continues at the chip giant Nvidia. Its powerful CEO is accused of having an affair with a Chinese spy.",
+       "zh": "芯片巨头英伟达的动荡仍在继续。其强势的首席执行官被指控与一名中国间谍有染。"
+      },
+      {
+       "en": "News that the AI chipmaker Nvidia is investigating its own CEO is reverberating from Wall Street to Capitol Hill.",
+       "zh": "关于人工智能芯片制造商英伟达正在调查其自身首席执行官的消息，从华尔街传到了国会山。"
+      },
+      {
+       "en": "The company's stock slipped yesterday after the CEO, Jensen Huang, admitted to having an affair. News reports say it was with a woman that U.S. intelligence agencies suspect of spying for China.",
+       "zh": "在首席执行官黄仁勋承认有婚外情后，公司股票昨日下跌。新闻报道称，这名女性被美国情报机构怀疑为中国从事情报活动。"
+      },
+      {
+       "en": "FADEL: NPR tech correspondent John Ruwitch joins us now to talk about this. Hey, John.",
+       "zh": "FADEL：NPR 技术记者约翰·鲁维奇现在加入我们，来谈谈这个话题。嗨，约翰。"
+      },
+      {
+       "en": "FADEL: Good morning. So just how bad has the fallout been so far for Nvidia?",
+       "zh": "FADEL：早上好。那么到目前为止，英伟达的影响有多严重？"
+      },
+      {
+       "en": "RUWITCH: Yeah, it's not great. Nvidia's share price dropped around 4.25% yesterday. Meanwhile, Nvidia's main competitor in AI chips - the No. 2 player, AMD - leapt more than 13% on the news. Three committees in the House of Representatives have summoned Jensen Huang to a joint closed-door session next week to answer questions about the allegations. You know, Nvidia has a huge market share in the chips that are used to build and run AI. But a question that, you know, investors are starting to think they may have to grapple with is, if this snowballs, what does Nvidia look like without Jensen Huang at the helm? I mean, he cofounded the company and put it on the map.",
+       "zh": "RUWITCH：是的，这情况不太好。英伟达的股价昨天下跌了约4.25%。与此同时，英伟达在人工智能芯片领域的主要竞争对手——第二大厂商AMD——因这一消息股价飙升了超过13%。众议院三个委员会已召集黄仁勋下周参加联合闭门会议，回答有关指控的问题。你知道，英伟达在用于构建和运行人工智能的芯片中占有巨大市场份额。但一个问题是，投资者开始考虑，如果事态进一步扩大，没有黄仁勋领导的英伟达会是什么样子？我的意思是，他共同创办了公司，并让公司声名鹊起。"
+      },
+      {
+       "en": "FADEL: Now, President Trump is friendly with Jensen Huang, and as you've...",
+       "zh": "FADEL：现在，特朗普总统和黄仁勋是朋友，正如你所..."
+      },
+      {
+       "en": "FADEL: ...Reported, has traveled to China with him recently. What's Trump saying about all this?",
+       "zh": "FADEL：...据报道，最近和他一起去了中国。特朗普对这一切有什么评论？"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "chip",
+       "pos": "n.",
+       "zh": "芯片",
+       "ex": "Fallout continues at the chip giant Nvidia.",
+       "forms": [
+        "chips"
+       ]
+      },
+      {
+       "w": "news",
+       "pos": "n.",
+       "zh": "新闻",
+       "ex": "News that the AI chipmaker Nvidia is investigating its own CEO is reverberating from Wall Street to Capitol Hill.",
+       "forms": []
+      },
+      {
+       "w": "admit",
+       "pos": "v.",
+       "zh": "承认；准许进入",
+       "ex": "The company's stock slipped yesterday after the CEO, Jensen Huang, admitted to having an affair.",
+       "forms": [
+        "admitted"
+       ]
+      },
+      {
+       "w": "report",
+       "pos": "n.",
+       "zh": "报告；报道",
+       "ex": "News reports say it was with a woman that U.S.",
+       "forms": [
+        "reported",
+        "reports"
+       ]
+      },
+      {
+       "w": "intelligence",
+       "pos": "n.",
+       "zh": "情报；智能",
+       "ex": "intelligence agencies suspect of spying for China.",
+       "forms": []
+      },
+      {
+       "w": "agency",
+       "pos": "n.",
+       "zh": "机构；代理",
+       "ex": "intelligence agencies suspect of spying for China.",
+       "forms": [
+        "agencies"
+       ]
+      },
+      {
+       "w": "price",
+       "pos": "n.",
+       "zh": "价格",
+       "ex": "Nvidia's share price dropped around 4.25% yesterday.",
+       "forms": []
+      },
+      {
+       "w": "market",
+       "pos": "n.",
+       "zh": "市场",
+       "ex": "You know, Nvidia has a huge market share in the chips that are used to build and run AI.",
+       "forms": []
+      },
+      {
+       "w": "investor",
+       "pos": "n.",
+       "zh": "投资者",
+       "ex": "But a question that, you know, investors are starting to think they may have to grapple with is, if this snowballs, what does Nvidia look like without Jensen Huang at the helm?",
+       "forms": [
+        "investors"
+       ]
+      },
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "FADEL: Now, President Trump is friendly with Jensen Huang, and as you've...",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "chip",
+      "news",
+      "admit",
+      "report",
+      "intelligence"
+     ],
+     "keyVocab": [
+      "chip",
+      "news",
+      "admit",
+      "report",
+      "intelligence",
+      "agency",
+      "price",
+      "market"
+     ]
+    },
+    {
+     "id": "2026-11-12-science",
+     "section": "Science",
+     "sectionZh": "科学",
+     "title": "World's fastest ocean liner is sunk to break another record: largest artificial reef",
+     "dek": "The fastest passenger liner in the world crossed the Atlantic Ocean in less than four days. On Wednesday, it sank in five hours.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/11/nx-s1-6030853/ss-united-states-artificial-reef-sinking",
+     "byline": "Henry Larson",
+     "dateLabel": "2026-11-12",
+     "words": 305,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "The fastest passenger liner in the world crossed the Atlantic Ocean in less than four days. On Wednesday, it sank in five hours.",
+       "zh": "世界上最快的客轮在不到四天的时间内横渡了大西洋。星期三，它在五小时内沉没了。"
+      },
+      {
+       "en": "The SS United States, launched in 1951 and longer than the RMS Titanic, once transported four presidents, the Mona Lisa and a slate of 20th century movie stars. After decades spent rusting, and facing the scrap heap, its minders settled on a deal to turn the vessel into what's expected to be the world's largest artificial reef off the coast of Okaloosa County, Fla.",
+       "zh": "美国联合号（SS United States）于1951年下水，其长度超过泰坦尼克号（RMS Titanic），曾运送过四位总统、《蒙娜丽莎》画作以及20世纪的一批电影明星。经过数十年生锈并面临报废，其管理者最终达成协议，将该船改造成预计将成为佛罗里达奥卡卢萨县海岸最大的人工珊瑚礁。"
+      },
+      {
+       "en": "Crews removed plugs in the ship's hull, allowing it to fill with water without the use of explosives. After hours of delays, its final moments went quickly. The ship tilted onto its side and dipped below the waves.",
+       "zh": "船员们拆除了船体上的塞子，使船在不用炸药的情况下充满水。在几个小时的延误后，它的最后时刻很快到来。船倾斜到一侧，沉入波浪之下。"
+      },
+      {
+       "en": "The sinking marks a bittersweet coda to the era of gleaming behemoths that crossed the seas in elegant fashion. It is also the latest in an ongoing effort by coastal communities to lure thrill-seeking tourists away from international destinations, one that has so far generated surprising economic benefits.",
+       "zh": "这次沉没标志着一个光辉庞然大物横渡大海、优雅航行时代的苦乐参半的尾声。这也是沿海社区为了吸引寻求刺激的游客远离国际目的地而进行的持续努力中的最新举措，到目前为止，这一努力已产生了令人惊讶的经济效益。"
+      },
+      {
+       "en": "\"For those of us who love shipwrecks and love ships in general, it was way more tragic to see it sitting and rusting away at the dock,\" wreck diver and maritime enthusiast Karen Flynn told NPR.",
+       "zh": "沉船潜水员和海事爱好者凯伦·弗林告诉NPR：“对于我们这些喜欢沉船并且总体上喜欢船的人来说，看着它停在码头上生锈、慢慢腐蚀是非常悲惨的。”"
+      },
+      {
+       "en": "Her diving club, the Maryland-based Atlantic Wreck Divers, booked tickets and a charter boat just days after a date for the ship's \"deployment,\" as the sinking is diplomatically described, was set.",
+       "zh": "她的潜水俱乐部——总部位于马里兰的亚特兰大残骸潜水员俱乐部——在沉船的“部署”（这是外交上对沉没的描述）日期确定的几天后，就预订了机票和包船。"
+      },
+      {
+       "en": "\"We've dove everything that you can around the world,\" Flynn said. \"This will just be one more unique, new thing for us to dive.\"",
+       "zh": "“我们已经潜过世界上所有可以潜的地方了，”弗林说。“这对我们来说只会是另一件独特的新潜水体验。”"
+      },
+      {
+       "en": "In many ways, Flynn and her club are the exact type of visitor that Okaloosa County is hoping to attract: divers planning to stay overnight who will spend a fair amount of money on equipment, food and lodging during their travels.",
+       "zh": "在许多方面，弗林和她的俱乐部正是奥卡卢萨县希望吸引的那类游客：计划过夜的潜水者，他们在旅行中会在装备、食物和住宿上花费相当多的钱。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "The SS United States, launched in 1951 and longer than the RMS Titanic, once transported four presidents, the Mona Lisa and a slate of 20th century movie stars.",
+       "forms": [
+        "presidents"
+       ]
+      },
+      {
+       "w": "expect",
+       "pos": "v.",
+       "zh": "预期；期待",
+       "ex": "After decades spent rusting, and facing the scrap heap, its minders settled on a deal to turn the vessel into what's expected to be the world's largest artificial reef off the coast of Okaloosa County, Fla.",
+       "forms": [
+        "expected"
+       ]
+      },
+      {
+       "w": "artificial",
+       "pos": "adj.",
+       "zh": "人工的；人造的",
+       "ex": "After decades spent rusting, and facing the scrap heap, its minders settled on a deal to turn the vessel into what's expected to be the world's largest artificial reef off the coast of Okaloosa County, Fla.",
+       "forms": []
+      },
+      {
+       "w": "water",
+       "pos": "n.",
+       "zh": "水",
+       "ex": "Crews removed plugs in the ship's hull, allowing it to fill with water without the use of explosives.",
+       "forms": []
+      },
+      {
+       "w": "fashion",
+       "pos": "n.",
+       "zh": "时尚；时装",
+       "ex": "The sinking marks a bittersweet coda to the era of gleaming behemoths that crossed the seas in elegant fashion.",
+       "forms": []
+      },
+      {
+       "w": "community",
+       "pos": "n.",
+       "zh": "社区；群体",
+       "ex": "It is also the latest in an ongoing effort by coastal communities to lure thrill-seeking tourists away from international destinations, one that has so far generated surprising economic benefits.",
+       "forms": [
+        "communities"
+       ]
+      },
+      {
+       "w": "international",
+       "pos": "adj.",
+       "zh": "国际的",
+       "ex": "It is also the latest in an ongoing effort by coastal communities to lure thrill-seeking tourists away from international destinations, one that has so far generated surprising economic benefits.",
+       "forms": []
+      },
+      {
+       "w": "economic",
+       "pos": "adj.",
+       "zh": "经济的",
+       "ex": "It is also the latest in an ongoing effort by coastal communities to lure thrill-seeking tourists away from international destinations, one that has so far generated surprising economic benefits.",
+       "forms": []
+      },
+      {
+       "w": "describe",
+       "pos": "v.",
+       "zh": "描述",
+       "ex": "Her diving club, the Maryland-based Atlantic Wreck Divers, booked tickets and a charter boat just days after a date for the ship's \"deployment,\" as the sinking is diplomatically described, was set.",
+       "forms": [
+        "described"
+       ]
+      },
+      {
+       "w": "food",
+       "pos": "n.",
+       "zh": "食物",
+       "ex": "\"This will just be one more unique, new thing for us to dive.\" In many ways, Flynn and her club are the exact type of visitor that Okaloosa County is hoping to attract: divers planning to stay overnight who will spend a fair amount of money on equipment, food and lodging during their travels.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "president",
+      "expect",
+      "artificial",
+      "water",
+      "fashion"
+     ],
+     "keyVocab": [
+      "president",
+      "expect",
+      "artificial",
+      "water",
+      "fashion",
+      "community",
+      "international",
+      "economic"
+     ]
+    },
+    {
+     "id": "2026-11-12-culture",
+     "section": "Culture",
+     "sectionZh": "文化",
+     "title": "Kennedy relatives join the fight against Trump's arch, alleging harm to JFK's grave",
+     "dek": "One of America's most prominent political dynasties has waded into the growing fight against President Trump's proposed arch in Washington, D.C.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/11/nx-s1-6037372/kennedys-trump-arch-lawsuit-jfk-grave-arlington-cemetery",
+     "byline": "Rachel Treisman",
+     "dateLabel": "2026-11-12",
+     "words": 333,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "One of America's most prominent political dynasties has waded into the growing fight against President Trump's proposed arch in Washington, D.C.",
+       "zh": "美国最著名的政治世家之一已介入对特朗普总统拟建的华盛顿特区拱门的日益激烈的反对之中。"
+      },
+      {
+       "en": "Nine members of the Kennedy family filed suit in federal court on Tuesday to block the 250-foot structure, saying it would obstruct their relatives' gravesites — including the John F. Kennedy Eternal Flame — at nearby Arlington National Cemetery.",
+       "zh": "肯尼迪家族的九名成员周二在联邦法院提起诉讼，试图阻止这座250英尺的建筑，称它将阻碍他们亲人的墓地，包括位于附近阿灵顿国家公墓的约翰·F·肯尼迪永恒之火。"
+      },
+      {
+       "en": "\"A towering arch casting shadows across the graves of our father, mother, and uncles, as well as the graves of so many who have served our country, would also cast a shadow over our democratic principles, undermining the safeguards established by our elected representatives to protect this hallowed ground for generations to come,\" Rory Kennedy and Maxwell Kennedy said in a statement on behalf of the family.",
+       "zh": "罗里·肯尼迪和麦克斯韦·肯尼迪代表家族在一份声明中表示：“一座高耸的拱门投下的阴影覆盖了我们父亲、母亲和叔叔的墓地，以及许多为国家服务者的墓地，也将对我们的民主原则投下阴影，削弱我们民选代表为保护这片神圣土地世代而建立的保障措施。”"
+      },
+      {
+       "en": "The plaintiffs include children of Sen. Robert F. Kennedy and Ethel Kennedy and a son of Sen. Edward M. Kennedy, all three of whom are buried at Arlington National Cemetery. There is one noticeable absence: Health and Human Services Secretary Robert F. Kennedy Jr., did not join his siblings in the lawsuit against his own administration.",
+       "zh": "原告包括参议员罗伯特·F·肯尼迪和埃塞尔·肯尼迪的孩子，以及参议员爱德华·M·肯尼迪的一个儿子，这三人都安葬在阿灵顿国家公墓。有一个显著的缺席者：卫生与公共服务部部长罗伯特·F·肯尼迪 Jr.，没有加入控告自己政府的兄弟姐妹们的诉讼。"
+      },
+      {
+       "en": "\"It is unfortunate to see that some members of the Kennedy family have joined the litigation against the Arch as the project is intended to honor our heroes who rest in Arlington Cemetery,\" White House spokesperson Davis Ingle told NPR in a statement. \"We will continue making the case for this beautiful and fitting monument and are confident we will be fully vindicated as this litigation proceeds.\"",
+       "zh": "白宫发言人戴维斯·英格尔在向NPR发表的一份声明中表示：“令人遗憾的是，肯尼迪家族的一些成员加入了针对拱门的诉讼，而该项目旨在纪念安息在阿灵顿公墓的英雄们。我们将继续为这一美丽而适宜的纪念碑辩护，并且有信心在诉讼过程中获得完全的平反。”"
+      },
+      {
+       "en": "Max Kennedy, one of RFK's sons, told NPR's All Things Considered on Wednesday that his family is acting to protect Arlington National Cemetery from \"the arbitrary, capricious vanity of one man.\"",
+       "zh": "RFK的一个儿子马克斯·肯尼迪周三在NPR的《全面考虑》中表示，他的家人正在采取行动保护阿灵顿国家公墓，以防“一个人的任意、反复无常的虚荣”。"
+      },
+      {
+       "en": "\"This is one man who wants to build this arch,\" he said. \"He's violated every rule. If this is a great idea, then bring it before Congress, follow the rules and get it approved.\"",
+       "zh": "“这是一个想建造这座拱门的人，”他说。“他违反了所有的规则。如果这是一个好主意，那么就把它提交给国会，遵循规则并获得批准。”"
+      },
+      {
+       "en": "The Kennedys' motion, filed hours before Veterans' Day, adds a highly personal layer to the ongoing legal fight.",
+       "zh": "肯尼迪家族在退伍军人节前几个小时提交的动议，为持续的法律斗争增添了高度个人化的层面。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "One of America's most prominent political dynasties has waded into the growing fight against President Trump's proposed arch in Washington, D.C.",
+       "forms": []
+      },
+      {
+       "w": "propose",
+       "pos": "v.",
+       "zh": "提议；提出",
+       "ex": "One of America's most prominent political dynasties has waded into the growing fight against President Trump's proposed arch in Washington, D.C.",
+       "forms": [
+        "proposed"
+       ]
+      },
+      {
+       "w": "family",
+       "pos": "n.",
+       "zh": "家庭",
+       "ex": "Nine members of the Kennedy family filed suit in federal court on Tuesday to block the 250-foot structure, saying it would obstruct their relatives' gravesites — including the John F.",
+       "forms": []
+      },
+      {
+       "w": "federal",
+       "pos": "adj.",
+       "zh": "联邦的",
+       "ex": "Nine members of the Kennedy family filed suit in federal court on Tuesday to block the 250-foot structure, saying it would obstruct their relatives' gravesites — including the John F.",
+       "forms": []
+      },
+      {
+       "w": "court",
+       "pos": "n.",
+       "zh": "法院；法庭",
+       "ex": "Nine members of the Kennedy family filed suit in federal court on Tuesday to block the 250-foot structure, saying it would obstruct their relatives' gravesites — including the John F.",
+       "forms": []
+      },
+      {
+       "w": "national",
+       "pos": "adj.",
+       "zh": "国家的；全国的",
+       "ex": "Kennedy Eternal Flame — at nearby Arlington National Cemetery.",
+       "forms": []
+      },
+      {
+       "w": "undermine",
+       "pos": "v.",
+       "zh": "削弱；破坏",
+       "ex": "\"A towering arch casting shadows across the graves of our father, mother, and uncles, as well as the graves of so many who have served our country, would also cast a shadow over our democratic principles, undermining the safeguards established by our elected representatives to protect this hallowed ground for generations to come,\" Rory Kennedy and Maxwell Kennedy said in a statement on behalf of the family.",
+       "forms": [
+        "undermining"
+       ]
+      },
+      {
+       "w": "generation",
+       "pos": "n.",
+       "zh": "一代人；世代",
+       "ex": "\"A towering arch casting shadows across the graves of our father, mother, and uncles, as well as the graves of so many who have served our country, would also cast a shadow over our democratic principles, undermining the safeguards established by our elected representatives to protect this hallowed ground for generations to come,\" Rory Kennedy and Maxwell Kennedy said in a statement on behalf of the family.",
+       "forms": [
+        "generations"
+       ]
+      },
+      {
+       "w": "statement",
+       "pos": "n.",
+       "zh": "声明；陈述",
+       "ex": "\"A towering arch casting shadows across the graves of our father, mother, and uncles, as well as the graves of so many who have served our country, would also cast a shadow over our democratic principles, undermining the safeguards established by our elected representatives to protect this hallowed ground for generations to come,\" Rory Kennedy and Maxwell Kennedy said in a statement on behalf of the family.",
+       "forms": []
+      },
+      {
+       "w": "health",
+       "pos": "n.",
+       "zh": "健康；卫生",
+       "ex": "There is one noticeable absence: Health and Human Services Secretary Robert F.",
+       "forms": []
+      },
+      {
+       "w": "service",
+       "pos": "n.",
+       "zh": "服务",
+       "ex": "There is one noticeable absence: Health and Human Services Secretary Robert F.",
+       "forms": [
+        "services"
+       ]
+      },
+      {
+       "w": "lawsuit",
+       "pos": "n.",
+       "zh": "诉讼",
+       "ex": "Kennedy Jr., did not join his siblings in the lawsuit against his own administration.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "president",
+      "propose",
+      "family",
+      "federal",
+      "court"
+     ],
+     "keyVocab": [
+      "president",
+      "propose",
+      "family",
+      "federal",
+      "court",
+      "national",
+      "undermine",
+      "generation"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-11",
    "articles": [
@@ -4669,704 +5439,6 @@
       "issue",
       "reason",
       "national"
-     ]
-    }
-   ]
-  },
-  {
-   "date": "2026-11-05",
-   "articles": [
-    {
-     "id": "2026-11-05-world",
-     "section": "World",
-     "sectionZh": "国际",
-     "title": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
-     "dek": "VATICAN CITY — Bob Dylan came knockin' on Pope Leo XIV' s door Wednesday, as the American singer-songwriter and poet visited with the American pope at the Vatican during a break between concert…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan",
-     "byline": "The Associated Press",
-     "dateLabel": "2026-11-05",
-     "words": 272,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "VATICAN CITY — Bob Dylan came knockin' on Pope Leo XIV' s door Wednesday, as the American singer-songwriter and poet visited with the American pope at the Vatican during a break between concert dates in Italy.",
-       "zh": "梵蒂冈——鲍勃·迪伦周三敲响了教皇列奥十四的门，这位美国歌手兼词曲创作人和诗人在意大利演出日期的间隙访问了梵蒂冈，与美国教皇会面。"
-      },
-      {
-       "en": "The Vatican said the encounter was brief, with Leo giving Dylan a rosary and Dylan presenting the pope with a copy of his autobiography, \"Chronicles: Volume One.\"",
-       "zh": "梵蒂冈表示，这次会面很短暂，教皇列奥向迪伦赠送了一个玫瑰经，而迪伦则向教皇赠送了他的自传《编年史：第一卷》一册。"
-      },
-      {
-       "en": "Leo had quoted from an unpublished protest song Dylan penned in 1963, \"Go Away You Bomb,\" in his 2026 book \"Disarmed and Disarming: Peace Is a Gift.\"",
-       "zh": "莱奥在他2026年的著作《解除武装与消除威胁：和平是一份礼物》中引用了鲍勃·迪伦在1963年创作的一首未发表的抗议歌曲《滚开吧，你这炸弹》中的歌词。"
-      },
-      {
-       "en": "Leo was warning against the race to rearm and the recourse to nuclear weapons and quoted the lyric, addressed to a hypothetical atomic bomb: \"I hate you cause yer man-made and man-owned, an' man-handled.\"",
-       "zh": "Leo 警告不要竞相重新武装和诉诸核武器，并引用了一句歌词，歌词是对一个假想的原子弹说的：“我恨你因为你是人造的、人拥有的，而且被人操纵。”"
-      },
-      {
-       "en": "Two Vatican officials accompanied Dylan: the Rev. Antonio Spadaro, a Vatican culture ministry official who also accompanied Patti Smith to a July audience with Leo; and Andrea Monda, the editor of the Vatican newspaper, L'Osservatore Romano.",
-       "zh": "两名梵蒂冈官员陪同迪兰：安东尼奥·斯帕达罗神父，梵蒂冈文化部官员，也曾陪同帕蒂·史密斯参加七月与教皇利奥的会面；以及安德烈亚·蒙达，梵蒂冈报纸《罗马观察家》的编辑。"
-      },
-      {
-       "en": "Spadaro said Dylan had wanted to speak with Leo, and the two met in private for a few minutes. In an essay in L'Osservatore Romano, he recalled that the former Robert Prevost, who was born in Chicago in 1955, grew up familiar with Dylan's music.",
-       "zh": "斯帕达罗说，迪兰曾想与里奥谈话，两人在私人会面了几分钟。在《罗马观察报》的一篇文章中，他回忆说，前罗伯特·普雷沃斯特生于1955年的芝加哥，从小就熟悉迪兰的音乐。"
-      },
-      {
-       "en": "He also noted that Dylan was very familiar with St. Augustine of Hippo, the inspiration of Leo's spirituality and Augustinian religious order, penning \"I Dreamed I Saw St. Augustine\" for the 1967 album John Wesley Harding.",
-       "zh": "他还指出，迪兰对希波的圣奥古斯丁非常熟悉，后者是利奥灵性和奥古斯丁宗教会的灵感来源，迪兰为1967年的专辑《约翰·韦斯利·哈丁》创作了《我梦见见到圣奥古斯丁》。"
-      },
-      {
-       "en": "Dylan, who won the Nobel Prize for Literature in 2016, wore a black hoodie and a loose tie. Vatican photos of the encounter showed him with the hood over his head.",
-       "zh": "迪伦，2016年诺贝尔文学奖得主，穿着一件黑色连帽衫和一条宽松的领带。梵蒂冈拍摄的会面照片显示他戴着帽子。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "protest",
-       "pos": "n.",
-       "zh": "抗议",
-       "ex": "The Vatican said the encounter was brief, with Leo giving Dylan a rosary and Dylan presenting the pope with a copy of his autobiography, \"Chronicles: Volume One.\" Leo had quoted from an unpublished protest song Dylan penned in 1963, \"Go Away You Bomb,\" in his 2026 book \"Disarmed and Disarming: Peace Is a Gift.\" Leo was warning against the race to rearm and the recourse to nuclear weapons and quoted the lyric, addressed to a hypothetical atomic bomb: \"I hate you cause yer man-made and man-owned, an' man-handled.\" Two Vatican officials accompanied Dylan: the Rev.",
-       "forms": []
-      },
-      {
-       "w": "warn",
-       "pos": "v.",
-       "zh": "警告",
-       "ex": "The Vatican said the encounter was brief, with Leo giving Dylan a rosary and Dylan presenting the pope with a copy of his autobiography, \"Chronicles: Volume One.\" Leo had quoted from an unpublished protest song Dylan penned in 1963, \"Go Away You Bomb,\" in his 2026 book \"Disarmed and Disarming: Peace Is a Gift.\" Leo was warning against the race to rearm and the recourse to nuclear weapons and quoted the lyric, addressed to a hypothetical atomic bomb: \"I hate you cause yer man-made and man-owned, an' man-handled.\" Two Vatican officials accompanied Dylan: the Rev.",
-       "forms": [
-        "warning"
-       ]
-      },
-      {
-       "w": "nuclear",
-       "pos": "adj.",
-       "zh": "核的；核能的",
-       "ex": "The Vatican said the encounter was brief, with Leo giving Dylan a rosary and Dylan presenting the pope with a copy of his autobiography, \"Chronicles: Volume One.\" Leo had quoted from an unpublished protest song Dylan penned in 1963, \"Go Away You Bomb,\" in his 2026 book \"Disarmed and Disarming: Peace Is a Gift.\" Leo was warning against the race to rearm and the recourse to nuclear weapons and quoted the lyric, addressed to a hypothetical atomic bomb: \"I hate you cause yer man-made and man-owned, an' man-handled.\" Two Vatican officials accompanied Dylan: the Rev.",
-       "forms": []
-      },
-      {
-       "w": "official",
-       "pos": "n.",
-       "zh": "官员；adj. 官方的",
-       "ex": "The Vatican said the encounter was brief, with Leo giving Dylan a rosary and Dylan presenting the pope with a copy of his autobiography, \"Chronicles: Volume One.\" Leo had quoted from an unpublished protest song Dylan penned in 1963, \"Go Away You Bomb,\" in his 2026 book \"Disarmed and Disarming: Peace Is a Gift.\" Leo was warning against the race to rearm and the recourse to nuclear weapons and quoted the lyric, addressed to a hypothetical atomic bomb: \"I hate you cause yer man-made and man-owned, an' man-handled.\" Two Vatican officials accompanied Dylan: the Rev.",
-       "forms": [
-        "officials"
-       ]
-      },
-      {
-       "w": "culture",
-       "pos": "n.",
-       "zh": "文化",
-       "ex": "Antonio Spadaro, a Vatican culture ministry official who also accompanied Patti Smith to a July audience with Leo; and Andrea Monda, the editor of the Vatican newspaper, L'Osservatore Romano.",
-       "forms": []
-      },
-      {
-       "w": "audience",
-       "pos": "n.",
-       "zh": "观众；受众",
-       "ex": "Antonio Spadaro, a Vatican culture ministry official who also accompanied Patti Smith to a July audience with Leo; and Andrea Monda, the editor of the Vatican newspaper, L'Osservatore Romano.",
-       "forms": []
-      },
-      {
-       "w": "private",
-       "pos": "adj.",
-       "zh": "私人的；私营的",
-       "ex": "Spadaro said Dylan had wanted to speak with Leo, and the two met in private for a few minutes.",
-       "forms": []
-      },
-      {
-       "w": "album",
-       "pos": "n.",
-       "zh": "专辑；唱片",
-       "ex": "Augustine\" for the 1967 album John Wesley Harding.",
-       "forms": []
-      },
-      {
-       "w": "literature",
-       "pos": "n.",
-       "zh": "文学",
-       "ex": "Dylan, who won the Nobel Prize for Literature in 2016, wore a black hoodie and a loose tie.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "protest",
-      "warn",
-      "nuclear",
-      "official",
-      "culture"
-     ],
-     "keyVocab": [
-      "protest",
-      "warn",
-      "nuclear",
-      "official",
-      "culture",
-      "audience",
-      "private",
-      "album"
-     ]
-    },
-    {
-     "id": "2026-11-05-business",
-     "section": "Business",
-     "sectionZh": "商业 · 财经",
-     "title": "A Binance engineer thought he was interviewing for a job. Then the hackers pounced",
-     "dek": "The massive $6.3 billion cyber heist suffered by crypto exchange Binance last week may have taken place in only about twenty minutes — but the attacks were months in the making.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/03/nx-s1-6027799/binance-crypto-exchange-cyber-heist",
-     "byline": "Rafael Nam",
-     "dateLabel": "2026-11-05",
-     "words": 276,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "The massive $6.3 billion cyber heist suffered by crypto exchange Binance last week may have taken place in only about twenty minutes — but the attacks were months in the making.",
-       "zh": "上周，加密交易所币安遭遇的规模高达63亿美元的网络盗窃可能只发生在大约二十分钟内——但这些攻击已经筹划了数月。"
-      },
-      {
-       "en": "That's according an initial assessment released by Binance on Tuesday about how it suffered the world's biggest-ever cyber heist by hackers the FBI has identified as being a North Korean state-sponsored unit.",
-       "zh": "这是根据币安周二发布的一份初步评估，该评估关于其如何遭遇全球最大规模的网络盗窃，联邦调查局已将嫌疑黑客确定为朝鲜国家支持的单位。"
-      },
-      {
-       "en": "Those findings show the hackers first tried testing and penetrating Binance's security systems back in June, though the crypto exchange was able to detect that attempt and stop it.",
-       "zh": "这些发现表明，黑客最初在六月就尝试测试并渗透币安的安全系统，尽管这家加密货币交易所能够检测到该尝试并阻止它。"
-      },
-      {
-       "en": "Though unsuccessful, that attempt allowed the hackers — identified by the FBI as a North Korean military unit called TraderTraitor — to learn more about Binance and its systems.",
-       "zh": "尽管未成功，但那次尝试让黑客——被 FBI 识别为名为 TraderTraitor 的朝鲜军事单位——得以更多地了解币安及其系统。"
-      },
-      {
-       "en": "Then, the hackers tried again. In September, a Binance engineer was contacted in a job-hunting platform by a person posing as a \"project director\" from a company that turned out to be fictious.",
-       "zh": "然后，黑客再次尝试。在九月份，一名币安工程师在一个求职平台上被一个冒充“项目总监”的人联系，该人称来自的一家公司后来被证明是虚构的。"
-      },
-      {
-       "en": "The engineer then conducted a first-round interview with a supposed HR representative from the fake company. The hackers used this interview to \"build trust,\" with the Binance employee, the exchange said. The interviewer even shared supposed social media accounts, as well as personal photos and videos with the Binance engineer.",
-       "zh": "随后，这名工程师与假公司的一位所谓人力资源代表进行了第一次面试。交易所表示，黑客利用这次面试“建立信任”，与币安员工之间。面试官甚至分享了所谓的社交媒体账户，以及与币安工程师的个人照片和视频。"
-      },
-      {
-       "en": "\"This was more advanced and deceptive than previously seen social engineering approaches,\" Binance said in its assessment.",
-       "zh": "币安在其评估中表示：“这比之前见过的社会工程手段更先进、更具欺骗性。”"
-      },
-      {
-       "en": "The engineer was then told he would be conducting a second interview with the supposed CEO of the company in a popular social chat app. It was in this interview that the Binance employee — who was at his work laptop — was asked to download \"an assignment\" as part of the job recruitment process.",
-       "zh": "然后工程师被告知，他将通过一个流行的社交聊天应用与该公司所谓的首席执行官进行第二次面试。正是在这次面试中，这名在工作笔记本电脑前的币安员工被要求下载“一个任务”，作为招聘过程的一部分。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "billion",
-       "pos": "n.",
-       "zh": "十亿",
-       "ex": "The massive $6.3 billion cyber heist suffered by crypto exchange Binance last week may have taken place in only about twenty minutes — but the attacks were months in the making.",
-       "forms": []
-      },
-      {
-       "w": "military",
-       "pos": "n.",
-       "zh": "军队；军方",
-       "ex": "Though unsuccessful, that attempt allowed the hackers — identified by the FBI as a North Korean military unit called TraderTraitor — to learn more about Binance and its systems.",
-       "forms": []
-      },
-      {
-       "w": "platform",
-       "pos": "n.",
-       "zh": "平台",
-       "ex": "In September, a Binance engineer was contacted in a job-hunting platform by a person posing as a \"project director\" from a company that turned out to be fictious.",
-       "forms": []
-      },
-      {
-       "w": "interview",
-       "pos": "n.",
-       "zh": "采访；面试",
-       "ex": "The engineer then conducted a first-round interview with a supposed HR representative from the fake company.",
-       "forms": []
-      },
-      {
-       "w": "employee",
-       "pos": "n.",
-       "zh": "雇员",
-       "ex": "The hackers used this interview to \"build trust,\" with the Binance employee, the exchange said.",
-       "forms": []
-      },
-      {
-       "w": "social",
-       "pos": "adj.",
-       "zh": "社会的；社交的",
-       "ex": "The interviewer even shared supposed social media accounts, as well as personal photos and videos with the Binance engineer.",
-       "forms": []
-      },
-      {
-       "w": "media",
-       "pos": "n.",
-       "zh": "媒体",
-       "ex": "The interviewer even shared supposed social media accounts, as well as personal photos and videos with the Binance engineer.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "billion",
-      "military",
-      "platform",
-      "interview",
-      "employee"
-     ],
-     "keyVocab": [
-      "billion",
-      "military",
-      "platform",
-      "interview",
-      "employee",
-      "social",
-      "media"
-     ]
-    },
-    {
-     "id": "2026-11-05-technology",
-     "section": "Technology",
-     "sectionZh": "科技",
-     "title": "Elon Musk will face scrutiny from Democrats after midterms",
-     "dek": "Elon Musk wasn't on Tuesday's ballot, but he stands to lose a lot from Democrats' sweeping midterm victories in the House and Senate. In no state was this more acutely felt than in Texas, home to…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/04/nx-s1-6029650/elon-musk-midterms-democrats-texas-congress",
-     "byline": "Katie McQue",
-     "dateLabel": "2026-11-05",
-     "words": 440,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "Elon Musk wasn't on Tuesday's ballot, but he stands to lose a lot from Democrats' sweeping midterm victories in the House and Senate. In no state was this more acutely felt than in Texas, home to the headquarters of Musk's companies and where he spent more than $200 million, according to federal filings, in a mission to sway the Senate race in the Republican candidate's favor.",
-       "zh": "埃隆·马斯克没有出现在周二的选票上，但他可能会因民主党在国会众议院和参议院中横扫中期选举而损失巨大。在没有哪个州比得上德克萨斯州更为明显，这里是马斯克公司总部的所在地，据联邦申报，他在推动共和党候选人赢得参议院选举的过程中花费了超过2亿美元。"
-      },
-      {
-       "en": "With a Democratic majority in Congress, the billionaire, who controls Tesla and SpaceX, will likely face investigations into the billions of dollars of government contracts his companies have been awarded since President Trump returned to office and his role leading the Department of Government Efficiency at the beginning of Trump's second term.",
-       "zh": "在国会由民主党占多数的情况下，这位掌控特斯拉和SpaceX的亿万富翁，很可能会面临对其公司自特朗普总统回任以来所获得的数十亿美元政府合同的调查，以及对他在特朗普第二任期初期领导政府效率部的角色的审查。"
-      },
-      {
-       "en": "Musk gave more than $445 million to Republican candidates, political action committees and outside groups, according to federal election filings analyzed by OpenSecrets, a nonprofit that tracks campaign spending. That makes him the top donor in the midterms and among the very largest political donors in American history.",
-       "zh": "根据非营利组织OpenSecrets分析的联邦选举文件，马斯克向共和党候选人、政治行动委员会和外部团体捐赠了超过4.45亿美元。OpenSecrets追踪竞选支出。这使他成为中期选举中最大的捐助者，也是美国历史上最大的政治捐助者之一。"
-      },
-      {
-       "en": "The central question Democratic lawmakers say they want answered is whether Musk used his influence inside the Trump administration to benefit his own businesses, and whether taxpayer money, government data and public institutions were put at risk in the process.",
-       "zh": "民主党立法者表示，他们希望回答的核心问题是，马斯克是否利用自己在特朗普政府内部的影响力来为自己的企业谋利，以及在这一过程中纳税人的钱、政府数据和公共机构是否被置于风险之中。"
-      },
-      {
-       "en": "During the four months Musk led DOGE, he received at least $6.3 billion in government contracts. Since then, he has gained at least another $10 billion in government contracts, according to the Democracy Defenders Fund, a legal advocacy nonprofit.",
-       "zh": "在马斯克领导 DOGE 的四个月期间，他至少获得了 63 亿美元的政府合同。根据法律倡导非营利组织“民主捍卫者基金”的说法，从那以后，他又至少获得了另外 100 亿美元的政府合同。"
-      },
-      {
-       "en": "\"The DOGE chickens are coming home to roost. Elon Musk waved a chainsaw on stage and laughed while firing public servants and gutting the services Americans rely on. Then he lied to the American people about the savings. He must answer for it under oath,\" Rep. James Walkinshaw (D-Va.) wrote on X.",
-       "zh": "“DOGE 鸡正在回巢。埃隆·马斯克在舞台上挥舞电锯，大笑着解雇公务员并削减美国人依赖的服务。然后他向美国人民撒谎关于节省的情况。他必须在宣誓下为此作出解释，”弗吉尼亚州民主党众议员詹姆斯·沃金肖在 X 上写道。"
-      },
-      {
-       "en": "Musk's foreign dealings are also under scrutiny. Democratic Sen. Chris Coons of Delaware posted on X that Musk's links to Russia's President Vladimir Putin are \"One more thing to add to the list of questions for Musk when I subpoena him.\"",
-       "zh": "马斯克的海外交易也在接受审查。特拉华州民主党参议员克里斯·库恩斯在X（原Twitter）上发帖称，马斯克与俄罗斯总统弗拉基米尔·普京的联系是“在我传唤马斯克时要问他问题清单上再加的一件事。”"
-      },
-      {
-       "en": "U.S. Rep. Mike Levin of California highlighted that Musk restricted Ukraine's use of his Starlink satellite internet service days after Trump eased sanctions on Russia and began buying Russian diesel in October. Starlink and its military-grade counterpart, Starshield, are vital for Ukraine's civilian infrastructure, frontline communications and drone operations in its war against Russia.",
-       "zh": "加利福尼亚州众议员迈克·莱文强调，特朗普在十月放宽对俄罗斯的制裁并开始购买俄罗斯柴油几天后，马斯克限制了乌克兰使用他的星链卫星互联网服务。星链及其军用级别的对应服务Starshield，对乌克兰的民用基础设施、一线通讯和对抗俄罗斯战争的无人机行动至关重要。"
-      },
-      {
-       "en": "\"How on earth did we get to this point? How is it possible that Musk can disrupt an American ally's military operations whenever he chooses, maintain a clear line to the Kremlin, and face zero accountability to the American people or the U.S. government?\" Levin wrote on X.",
-       "zh": "莱文在 X 上写道：“我们究竟是怎么走到这一步的？马斯克怎么可能随时干扰美国盟友的军事行动，与克里姆林宫保持直接联系，而且对美国人民或美国政府完全不承担任何责任？”"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "ballot",
-       "pos": "n.",
-       "zh": "选票；投票",
-       "ex": "Elon Musk wasn't on Tuesday's ballot, but he stands to lose a lot from Democrats' sweeping midterm victories in the House and Senate.",
-       "forms": []
-      },
-      {
-       "w": "senate",
-       "pos": "n.",
-       "zh": "参议院",
-       "ex": "Elon Musk wasn't on Tuesday's ballot, but he stands to lose a lot from Democrats' sweeping midterm victories in the House and Senate.",
-       "forms": []
-      },
-      {
-       "w": "million",
-       "pos": "n.",
-       "zh": "百万",
-       "ex": "In no state was this more acutely felt than in Texas, home to the headquarters of Musk's companies and where he spent more than $200 million, according to federal filings, in a mission to sway the Senate race in the Republican candidate's favor.",
-       "forms": []
-      },
-      {
-       "w": "federal",
-       "pos": "adj.",
-       "zh": "联邦的",
-       "ex": "In no state was this more acutely felt than in Texas, home to the headquarters of Musk's companies and where he spent more than $200 million, according to federal filings, in a mission to sway the Senate race in the Republican candidate's favor.",
-       "forms": []
-      },
-      {
-       "w": "majority",
-       "pos": "n.",
-       "zh": "多数；大多数",
-       "ex": "With a Democratic majority in Congress, the billionaire, who controls Tesla and SpaceX, will likely face investigations into the billions of dollars of government contracts his companies have been awarded since President Trump returned to office and his role leading the Department of Government Efficiency at the beginning of Trump's second term.",
-       "forms": []
-      },
-      {
-       "w": "congress",
-       "pos": "n.",
-       "zh": "国会",
-       "ex": "With a Democratic majority in Congress, the billionaire, who controls Tesla and SpaceX, will likely face investigations into the billions of dollars of government contracts his companies have been awarded since President Trump returned to office and his role leading the Department of Government Efficiency at the beginning of Trump's second term.",
-       "forms": []
-      },
-      {
-       "w": "investigation",
-       "pos": "n.",
-       "zh": "调查",
-       "ex": "With a Democratic majority in Congress, the billionaire, who controls Tesla and SpaceX, will likely face investigations into the billions of dollars of government contracts his companies have been awarded since President Trump returned to office and his role leading the Department of Government Efficiency at the beginning of Trump's second term.",
-       "forms": [
-        "investigations"
-       ]
-      },
-      {
-       "w": "billion",
-       "pos": "n.",
-       "zh": "十亿",
-       "ex": "With a Democratic majority in Congress, the billionaire, who controls Tesla and SpaceX, will likely face investigations into the billions of dollars of government contracts his companies have been awarded since President Trump returned to office and his role leading the Department of Government Efficiency at the beginning of Trump's second term.",
-       "forms": [
-        "billions"
-       ]
-      },
-      {
-       "w": "president",
-       "pos": "n.",
-       "zh": "总统；总裁",
-       "ex": "With a Democratic majority in Congress, the billionaire, who controls Tesla and SpaceX, will likely face investigations into the billions of dollars of government contracts his companies have been awarded since President Trump returned to office and his role leading the Department of Government Efficiency at the beginning of Trump's second term.",
-       "forms": []
-      },
-      {
-       "w": "candidate",
-       "pos": "n.",
-       "zh": "候选人",
-       "ex": "Musk gave more than $445 million to Republican candidates, political action committees and outside groups, according to federal election filings analyzed by OpenSecrets, a nonprofit that tracks campaign spending.",
-       "forms": [
-        "candidates"
-       ]
-      },
-      {
-       "w": "election",
-       "pos": "n.",
-       "zh": "选举",
-       "ex": "Musk gave more than $445 million to Republican candidates, political action committees and outside groups, according to federal election filings analyzed by OpenSecrets, a nonprofit that tracks campaign spending.",
-       "forms": []
-      },
-      {
-       "w": "campaign",
-       "pos": "n.",
-       "zh": "竞选；运动",
-       "ex": "Musk gave more than $445 million to Republican candidates, political action committees and outside groups, according to federal election filings analyzed by OpenSecrets, a nonprofit that tracks campaign spending.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "ballot",
-      "senate",
-      "million",
-      "federal",
-      "majority"
-     ],
-     "keyVocab": [
-      "ballot",
-      "senate",
-      "million",
-      "federal",
-      "majority",
-      "congress",
-      "investigation",
-      "billion"
-     ]
-    },
-    {
-     "id": "2026-11-05-science",
-     "section": "Science",
-     "sectionZh": "科学",
-     "title": "When an invasive fish is also tasty, Maryland schoolkids can help 'eat the problem'",
-     "dek": "PRESTON, Md. — It's lunchtime at Preston Elementary School, on Maryland's Eastern Shore. Kids file in, get dollops of food on their segmented trays, and maybe grab a chocolate milk. But one option…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/26/nx-s1-5954211/invasive-blue-catfish-solution-schools-chesapeake-bay",
-     "byline": "Bill Chappell",
-     "dateLabel": "2026-11-05",
-     "words": 256,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "PRESTON, Md. — It's lunchtime at Preston Elementary School, on Maryland's Eastern Shore. Kids file in, get dollops of food on their segmented trays, and maybe grab a chocolate milk. But one option on today's menu is special, served alongside grapes and broccoli.",
-       "zh": "马里兰州普雷斯顿——现在是普雷斯顿小学的午餐时间，位于马里兰州东海岸。孩子们排队进入，餐盘上分好区块地盛上食物，也许还会拿一杯巧克力牛奶。但今天菜单上的一个选项很特别，与葡萄和西兰花一起提供。"
-      },
-      {
-       "en": "\"I got a catfish sandwich!\" announces Ben Rochon, a second-grader. Between mouthfuls, he tells me how it is: \"It's yummy.\"",
-       "zh": "“我得到了一个鲶鱼三明治！”二年级生本·罗肖宣布道。在一口口咀嚼之间，他告诉我味道如何：“很好吃。”"
-      },
-      {
-       "en": "He's eating a catfish cake, also known by its nickname, the \"catty patty.\" Some kids like it with ketchup or mayo. Fifth-grader Teagan Donovan goes minimal.",
-       "zh": "他正在吃一种鲶鱼饼，也被昵称为“猫咪饼”。有些孩子喜欢加番茄酱或蛋黄酱。五年级学生蒂根·多诺万选择简单吃。"
-      },
-      {
-       "en": "\"I like it by itself with no toppings, because it's pretty good by itself,\" she says. In Teagan's case, \"by itself\" is literal: \"I ignore the bun.\"",
-       "zh": "“我喜欢单独吃，不加任何配料，因为它本身就很好吃，”她说。对提根来说，“单独吃”是字面意思：“我不吃面包。”"
-      },
-      {
-       "en": "Not everyone's into the fish cake — after all, this sunny Friday is also pizza day at Preston, and cheese slices are tough competition. But more kids have been trying catfish when it's served a couple of times a month. That's good news to Beth Brewster, who oversees food services for Caroline County Public Schools.",
-       "zh": "并不是每个人都喜欢鱼饼——毕竟，这个阳光明媚的星期五在普雷斯顿也是比萨日，而奶酪片可是强劲的竞争对手。但当每月供应几次时，越来越多的孩子尝试鲶鱼。对于负责卡罗莱纳县公立学校餐饮服务的贝丝·布鲁斯特来说，这是一个好消息。"
-      },
-      {
-       "en": "\"It tastes great. It's great for you,\" she says of the fish cake.",
-       "zh": "“它的味道很好。对你也很好，”她说着指着鱼饼。"
-      },
-      {
-       "en": "It has another benefit: It's made with blue catfish. Since spreading to the Chesapeake Bay in recent decades, the fish has become an apex predator. It can grow to more than 100 pounds; its voracious appetite is fueling worries that it's eating too many native species.",
-       "zh": "它还有另一个好处：它是用蓝鲶鱼制成的。近年来，随着在切萨皮克湾的扩散，这种鱼已成为顶级捕食者。它可以长到超过100磅；它贪婪的食欲引发了人们对它吃掉过多本地物种的担忧。"
-      },
-      {
-       "en": "\"It tastes so good because it eats everything we love — crabs and rockfish, and all kinds of things that we love to eat,\" Brewster says.",
-       "zh": "布鲁斯特说：“它尝起来这么好，是因为它吃掉了我们喜欢的一切——螃蟹、磷虾，还有各种我们喜欢吃的东西。”"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "school",
-       "pos": "n.",
-       "zh": "学校",
-       "ex": "— It's lunchtime at Preston Elementary School, on Maryland's Eastern Shore.",
-       "forms": [
-        "schools"
-       ]
-      },
-      {
-       "w": "food",
-       "pos": "n.",
-       "zh": "食物",
-       "ex": "Kids file in, get dollops of food on their segmented trays, and maybe grab a chocolate milk.",
-       "forms": []
-      },
-      {
-       "w": "announce",
-       "pos": "v.",
-       "zh": "宣布；公布",
-       "ex": "\"I got a catfish sandwich!\" announces Ben Rochon, a second-grader.",
-       "forms": [
-        "announces"
-       ]
-      },
-      {
-       "w": "news",
-       "pos": "n.",
-       "zh": "新闻",
-       "ex": "That's good news to Beth Brewster, who oversees food services for Caroline County Public Schools.",
-       "forms": []
-      },
-      {
-       "w": "service",
-       "pos": "n.",
-       "zh": "服务",
-       "ex": "That's good news to Beth Brewster, who oversees food services for Caroline County Public Schools.",
-       "forms": [
-        "services"
-       ]
-      },
-      {
-       "w": "public",
-       "pos": "adj.",
-       "zh": "公共的；公众的",
-       "ex": "That's good news to Beth Brewster, who oversees food services for Caroline County Public Schools.",
-       "forms": []
-      },
-      {
-       "w": "species",
-       "pos": "n.",
-       "zh": "物种",
-       "ex": "It can grow to more than 100 pounds; its voracious appetite is fueling worries that it's eating too many native species.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "school",
-      "food",
-      "announce",
-      "news",
-      "service"
-     ],
-     "keyVocab": [
-      "school",
-      "food",
-      "announce",
-      "news",
-      "service",
-      "public",
-      "species"
-     ]
-    },
-    {
-     "id": "2026-11-05-culture",
-     "section": "Culture",
-     "sectionZh": "文化",
-     "title": "'I was partying too much': Jordan Firstman knows firsthand about being a 'Club Kid'",
-     "dek": "Filmmaker and actor Jordan Firstman spent years heavily involved in the Berlin club scene, an experience he describes as dark and disorienting.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/04/nx-s1-6027773/club-kid-jordan-firstman",
-     "byline": "Ann Marie Baldonado",
-     "dateLabel": "2026-11-05",
-     "words": 440,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "Filmmaker and actor Jordan Firstman spent years heavily involved in the Berlin club scene, an experience he describes as dark and disorienting.",
-       "zh": "电影制作人兼演员乔丹·费尔斯特曼多年来深度参与柏林的俱乐部场景，他形容这段经历既黑暗又令人迷惑。"
-      },
-      {
-       "en": "\"I was doing drugs from Thursday to Monday when I was in Berlin,\" he says. \"Then it becomes Monday morning somehow. Monday and Tuesday, you spend in bed wanting to kill yourself.\"",
-       "zh": "“我在柏林的时候从星期四到星期一都在吸毒，”他说。“然后不知道怎么的就到了星期一早上。星期一和星期二，你躺在床上想着要自杀。”"
-      },
-      {
-       "en": "Firstman wrote, directed and stars in Club Kid, about Peter, a 30-something gay club promoter who discovers he has a son, Arlo, from a drug-fueled night a decade before. Arlo's mother has died and Peter, the boy's biological father, is the only family that he has. Peter is faced with a choice: continue his destructive and lonely lifestyle, or make a change and try to care for the boy.",
-       "zh": "Firstman 编写、执导并主演了《Club Kid》，讲述的是彼得的故事——一位三十多岁的同性恋夜店推广人，他发现自己有一个儿子 Arlo，这是十年前一个药物驱动的夜晚的产物。Arlo 的母亲已经去世，而彼得，这个男孩的生物学父亲，是他唯一的家人。彼得面临一个选择：继续他那自毁而孤独的生活方式，还是做出改变，尝试照顾这个男孩。"
-      },
-      {
-       "en": "\"I was around 32-ish at the time. ... I was partying too much. I was having these come-downs,\" Firstman says of writing the film. \"And I wanted to make a delayed coming-of-age film about a gay guy in his 30s. And so that's kinda how it started.\"",
-       "zh": "“那时候我大约32岁左右……我玩得太多了。我经历这些消沉期，”Firstman说起写这部电影时说道。“我想拍一部关于三十多岁同志的迟来的成长故事片。于是事情就是这样开始的。”"
-      },
-      {
-       "en": "As it happens, Firstman became a biological father — or, as he describes it an \"Uncle-Daddy\" — last year, after donating sperm to his sister's wife. The baby was born the same week that he wrapped on Club Kid and his HBO comedy series I Love LA premiered.",
-       "zh": "碰巧的是，Firstman在去年成为了一名生物学上的父亲——或者用他的话来说，是一名“叔叔爸爸”——这是在他向他妹妹的妻子捐精之后。婴儿出生的那一周，他刚刚结束了《Club Kid》的拍摄，他的HBO喜剧系列《I Love LA》也首播了。"
-      },
-      {
-       "en": "In May, Club Kid was awarded Un Certain Regard at the Cannes Film Festival. It's a surreal moment for Firstman, who put so much of himself into the movie. \"What a blessing that we have art and we get to make things. We get to make things that change us.\"",
-       "zh": "五月，电影《Club Kid》在戛纳电影节获得了“一种关注”奖。对于将自己大量投入到电影中的Firstman来说，这是一个超现实的时刻。“我们有艺术并且能够创作，这是多么大的福气啊。我们可以创作能够改变我们的东西。”"
-      },
-      {
-       "en": "I wanted to show the highs and the lows because you do have both. … We as gay men specifically, we put ourselves in high-risk behavior, high risk and high reward. I mean, we really live. And I think because we, for so long, were not able to live. I think we choose to live very hard and love very hard and that comes at a cost sometimes. So I wanted to show the beauty and the joy and the community and the connection and the way we show up for each other.",
-       "zh": "我想展示高潮和低谷，因为你确实都有。……作为同性恋男性，我们特别会让自己处于高风险行为中，高风险也意味着高回报。我的意思是，我们真的在努力生活。我认为因为我们很长一段时间里无法真正生活，所以我们选择非常努力地生活，非常深情地去爱，而这有时是有代价的。所以我想展示美丽、喜悦、社区感、连接感以及我们彼此支持的方式。"
-      },
-      {
-       "en": "I just love the texture of '70s New York. We shot only in places that felt like old New York. That's why we shot in Chinatown and [the] Lower East Side, because it feels kind of unchanged, and some streets in SoHo. And we tried shooting streets with no cars, so it kind of had that older feel to it. But it was very important for us to capture a nostalgic New York that might not really exist anymore.",
-       "zh": "我就是喜欢70年代纽约的质感。我们只在那些有老纽约感觉的地方拍摄。这就是为什么我们在唐人街和下东区拍摄，因为那里感觉几乎没有改变，还有在苏荷区的一些街道。我们也尽量拍摄没有汽车的街道，所以它有点那种旧时的感觉。但对我们来说，捕捉一个怀旧的纽约非常重要，哪怕那个纽约可能已经不再存在。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "actor",
-       "pos": "n.",
-       "zh": "演员",
-       "ex": "Filmmaker and actor Jordan Firstman spent years heavily involved in the Berlin club scene, an experience he describes as dark and disorienting.",
-       "forms": []
-      },
-      {
-       "w": "describe",
-       "pos": "v.",
-       "zh": "描述",
-       "ex": "Filmmaker and actor Jordan Firstman spent years heavily involved in the Berlin club scene, an experience he describes as dark and disorienting.",
-       "forms": [
-        "describes"
-       ]
-      },
-      {
-       "w": "drug",
-       "pos": "n.",
-       "zh": "药物；毒品",
-       "ex": "\"I was doing drugs from Thursday to Monday when I was in Berlin,\" he says.",
-       "forms": [
-        "drugs"
-       ]
-      },
-      {
-       "w": "family",
-       "pos": "n.",
-       "zh": "家庭",
-       "ex": "Arlo's mother has died and Peter, the boy's biological father, is the only family that he has.",
-       "forms": []
-      },
-      {
-       "w": "change",
-       "pos": "n.",
-       "zh": "变化；改变",
-       "ex": "Peter is faced with a choice: continue his destructive and lonely lifestyle, or make a change and try to care for the boy.",
-       "forms": []
-      },
-      {
-       "w": "party",
-       "pos": "n.",
-       "zh": "政党；一方",
-       "ex": "I was partying too much.",
-       "forms": [
-        "partying"
-       ]
-      },
-      {
-       "w": "film",
-       "pos": "n.",
-       "zh": "电影；影片",
-       "ex": "I was having these come-downs,\" Firstman says of writing the film.",
-       "forms": []
-      },
-      {
-       "w": "festival",
-       "pos": "n.",
-       "zh": "节日；艺术节",
-       "ex": "In May, Club Kid was awarded Un Certain Regard at the Cannes Film Festival.",
-       "forms": []
-      },
-      {
-       "w": "behavior",
-       "pos": "n.",
-       "zh": "行为",
-       "ex": "… We as gay men specifically, we put ourselves in high-risk behavior, high risk and high reward.",
-       "forms": []
-      },
-      {
-       "w": "risk",
-       "pos": "n.",
-       "zh": "风险",
-       "ex": "… We as gay men specifically, we put ourselves in high-risk behavior, high risk and high reward.",
-       "forms": []
-      },
-      {
-       "w": "cost",
-       "pos": "n.",
-       "zh": "成本；代价",
-       "ex": "I think we choose to live very hard and love very hard and that comes at a cost sometimes.",
-       "forms": []
-      },
-      {
-       "w": "community",
-       "pos": "n.",
-       "zh": "社区；群体",
-       "ex": "So I wanted to show the beauty and the joy and the community and the connection and the way we show up for each other.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "actor",
-      "describe",
-      "drug",
-      "family",
-      "change"
-     ],
-     "keyVocab": [
-      "actor",
-      "describe",
-      "drug",
-      "family",
-      "change",
-      "party",
-      "film",
-      "festival"
      ]
     }
    ]
