@@ -1,6 +1,736 @@
 window.__MERIDIAN_DATA__ = {
- "updated": "2026-11-12T07:29:59.865100+00:00",
+ "updated": "2026-11-13T07:00:51.966438+00:00",
  "days": [
+  {
+   "date": "2026-11-13",
+   "articles": [
+    {
+     "id": "2026-11-13-world",
+     "section": "World",
+     "sectionZh": "国际",
+     "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
+     "dek": "MOSCOW — U.S. President Donald Trump's envoys met Thursday with President Vladimir Putin as Washington sought new momentum in peace efforts after two days of U.S.-mediated negotiations between…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
+     "byline": "The Associated Press",
+     "dateLabel": "2026-11-13",
+     "words": 280,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "MOSCOW — U.S. President Donald Trump's envoys met Thursday with President Vladimir Putin as Washington sought new momentum in peace efforts after two days of U.S.-mediated negotiations between Russian and Ukrainian delegations.",
+       "zh": "莫斯科——在经过两天由美国调解的俄乌代表团谈判后，美国寻求在和平努力中获得新动力，美国总统唐纳德·特朗普的特使周四会见了总统弗拉基米尔·普京。"
+      },
+      {
+       "en": "Steve Witkoff and Jared Kushner, who is also Trump's son-in-law, brokered the talks in Abu Dhabi, the capital of the United Arab Emirates. Those were the first direct discussions between representatives of Moscow and Kyiv in nine months as the push for peace stalled.",
+       "zh": "史蒂夫·维特科夫和贾里德·库什纳（也是特朗普的女婿）在阿联酋首都阿布扎比分别促成了会谈。这是九个月来莫斯科和基辅代表之间的首次直接讨论，因为和平推动陷入停滞。"
+      },
+      {
+       "en": "The two days of talks that ended Wednesday produced no major breakthrough, aside from an agreement to swap a large number of prisoners, with the exact figure still to be announced.",
+       "zh": "周三结束的为期两天的会谈没有取得重大突破，除了就交换大量囚犯达成协议外，具体数字尚待公布。"
+      },
+      {
+       "en": "Kushner and Witkoff went straight to the Kremlin to brief Putin in a meeting that lasted about two hours and are scheduled to fly to Dublin, Ireland, for talks with Ukrainian President Volodymyr Zelenskyy as the conflict stretches toward the five-year mark.",
+       "zh": "库什纳和维特科夫直接前往克里姆林宫，在一次持续约两小时的会议中向普京汇报，并计划飞往爱尔兰都柏林，与乌克兰总统弗拉基米尔·泽连斯基进行会谈，因为冲突已接近五周年。"
+      },
+      {
+       "en": "Kushner said that one of the goals of the meeting with Putin was to get the Russian leader's blessing for European representatives to be part of the talks, which are looking at the continent's broader security arrangements.",
+       "zh": "库什纳表示，此次与普京会晤的目标之一是获得俄罗斯领导人对欧洲代表参与谈判的认可，这些谈判正在审视欧洲大陆更广泛的安全安排。"
+      },
+      {
+       "en": "The U.S. and Zelenskyy want Europe to appoint a single person to negotiate with Moscow.",
+       "zh": "美国和泽连斯基希望欧洲任命一位代表与莫斯科进行谈判。"
+      },
+      {
+       "en": "But Moscow doesn't want European countries involved in the direct negotiations, complaining they are financing and supplying Ukraine's military effort. The Europeans are concerned about Russia's conduct and broader intentions on the continent.",
+       "zh": "但莫斯科不希望欧洲国家参与直接谈判，抱怨它们在资助和供应乌克兰的军事行动。欧洲人则关心俄罗斯的行为和对大陆的更广泛意图。"
+      },
+      {
+       "en": "Many in Europe see the inclusion of Moscow in discussions about postwar European security as an unwelcome concession to Putin, who has described NATO's eastward expansion as a main security threat to Russia. Putin has demanded the trans-Atlantic alliance's troops be pulled back from Russia's borders.",
+       "zh": "许多欧洲人认为，将莫斯科纳入关于战后欧洲安全的讨论中，是对普京的不受欢迎的让步。普京曾将北约东扩描述为对俄罗斯的主要安全威胁。普京要求北约联盟的部队撤离俄罗斯边境。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "President Donald Trump's envoys met Thursday with President Vladimir Putin as Washington sought new momentum in peace efforts after two days of U.S.-mediated negotiations between Russian and Ukrainian delegations.",
+       "forms": []
+      },
+      {
+       "w": "negotiation",
+       "pos": "n.",
+       "zh": "谈判；协商",
+       "ex": "President Donald Trump's envoys met Thursday with President Vladimir Putin as Washington sought new momentum in peace efforts after two days of U.S.-mediated negotiations between Russian and Ukrainian delegations.",
+       "forms": [
+        "negotiations"
+       ]
+      },
+      {
+       "w": "number",
+       "pos": "n.",
+       "zh": "数量；数字",
+       "ex": "The two days of talks that ended Wednesday produced no major breakthrough, aside from an agreement to swap a large number of prisoners, with the exact figure still to be announced.",
+       "forms": []
+      },
+      {
+       "w": "announce",
+       "pos": "v.",
+       "zh": "宣布；公布",
+       "ex": "The two days of talks that ended Wednesday produced no major breakthrough, aside from an agreement to swap a large number of prisoners, with the exact figure still to be announced.",
+       "forms": [
+        "announced"
+       ]
+      },
+      {
+       "w": "conflict",
+       "pos": "n.",
+       "zh": "冲突",
+       "ex": "Kushner and Witkoff went straight to the Kremlin to brief Putin in a meeting that lasted about two hours and are scheduled to fly to Dublin, Ireland, for talks with Ukrainian President Volodymyr Zelenskyy as the conflict stretches toward the five-year mark.",
+       "forms": []
+      },
+      {
+       "w": "supply",
+       "pos": "n.",
+       "zh": "供应；供给",
+       "ex": "But Moscow doesn't want European countries involved in the direct negotiations, complaining they are financing and supplying Ukraine's military effort.",
+       "forms": [
+        "supplying"
+       ]
+      },
+      {
+       "w": "military",
+       "pos": "n.",
+       "zh": "军队；军方",
+       "ex": "But Moscow doesn't want European countries involved in the direct negotiations, complaining they are financing and supplying Ukraine's military effort.",
+       "forms": []
+      },
+      {
+       "w": "describe",
+       "pos": "v.",
+       "zh": "描述",
+       "ex": "Many in Europe see the inclusion of Moscow in discussions about postwar European security as an unwelcome concession to Putin, who has described NATO's eastward expansion as a main security threat to Russia.",
+       "forms": [
+        "described"
+       ]
+      },
+      {
+       "w": "threat",
+       "pos": "n.",
+       "zh": "威胁",
+       "ex": "Many in Europe see the inclusion of Moscow in discussions about postwar European security as an unwelcome concession to Putin, who has described NATO's eastward expansion as a main security threat to Russia.",
+       "forms": []
+      },
+      {
+       "w": "demand",
+       "pos": "n.",
+       "zh": "需求",
+       "ex": "Putin has demanded the trans-Atlantic alliance's troops be pulled back from Russia's borders.",
+       "forms": [
+        "demanded"
+       ]
+      },
+      {
+       "w": "troops",
+       "pos": "n.",
+       "zh": "部队；军队",
+       "ex": "Putin has demanded the trans-Atlantic alliance's troops be pulled back from Russia's borders.",
+       "forms": []
+      },
+      {
+       "w": "border",
+       "pos": "n.",
+       "zh": "边境；边界",
+       "ex": "Putin has demanded the trans-Atlantic alliance's troops be pulled back from Russia's borders.",
+       "forms": [
+        "borders"
+       ]
+      }
+     ],
+     "homeWords": [
+      "president",
+      "negotiation",
+      "number",
+      "announce",
+      "conflict"
+     ],
+     "keyVocab": [
+      "president",
+      "negotiation",
+      "number",
+      "announce",
+      "conflict",
+      "supply",
+      "military",
+      "describe"
+     ]
+    },
+    {
+     "id": "2026-11-13-business",
+     "section": "Business",
+     "sectionZh": "商业 · 财经",
+     "title": "CEO Jensen Huang resigns from chip giant Nvidia",
+     "dek": "The chip giant Nvidia announced that CEO Jensen Huang was stepping down following allegations that he'd had extramarital affairs, including one with a woman suspected of being a Chinese spy.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/12/nx-s1-6038865/ceo-jensen-huang-resigns-from-chip-giant-nvidia",
+     "byline": "John Ruwitch",
+     "dateLabel": "2026-11-13",
+     "words": 545,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "The chip giant Nvidia announced that CEO Jensen Huang was stepping down following allegations that he'd had extramarital affairs, including one with a woman suspected of being a Chinese spy.",
+       "zh": "芯片巨头英伟达宣布，首席执行官黄仁勋将在被指控有婚外情后辞职，其中包括与一名被怀疑是中国间谍的女性的关系。"
+      },
+      {
+       "en": "The CEO of NVIDIA, Jensen Huang, has resigned. That comes after reports that Huang had extramarital affairs, including one with a suspected Chinese spy. NPR tech correspondent John Ruwitch has been following this all week, and he's on the line now. Hi, John.",
+       "zh": "英伟达的首席执行官黄仁勋已经辞职。这是在有报道称黄仁勋有婚外情，包括一段与疑似中国间谍的关系之后发生的。NPR科技记者约翰·鲁维奇整周一直在跟进此事，现在他在线上。你好，约翰。"
+      },
+      {
+       "en": "PFEIFFER: John, when the company announced Huang's resignation today, what else did it say?",
+       "zh": "PFEIFFER：约翰，当公司今天宣布黄的辞职时，还说了什么？"
+      },
+      {
+       "en": "RUWITCH: Look, they didn't say a whole lot about Huang himself, actually. In a brief online statement, the company said Huang had resigned not only as CEO but as president and as a board member, and it said his contributions to NVIDIA were, quote, \"profound\" and \"immeasurable.\" The announcement also said that Colette Kress has agreed to be the interim CEO. She's an executive vice president and chief financial officer of the company.",
+       "zh": "RUWITCH：你看，他们实际上并没有谈及太多关于黄本人。在一份简短的网络声明中，该公司表示，黄不仅辞去了首席执行官职务，还辞去了总裁和董事会成员的职务，并表示他对英伟达的贡献是，“深远的”和“无法估量的”。声明还表示，科莱特·克雷斯已同意担任临时首席执行官。她是公司的执行副总裁兼首席财务官。"
+      },
+      {
+       "en": "NVIDIA did not state a reason for Huang's resignation, but this all comes after reporting from The New York Times and others that Huang had a relationship with a Chinese woman who U.S. intelligence agencies think was recruited by Beijing as a spy. And then yesterday, the Times had another huge scoop, reporting that Huang had a second affair, this time with a senior NVIDIA executive, and that seems to have been the last straw.",
+       "zh": "英伟达没有说明黄的辞职原因，但这一切都发生在《纽约时报》和其他媒体报道黄与一名中国女子有关系之后，美国情报机构认为该女子可能被北京招募为间谍。然后就在昨天，《纽约时报》又有了一条重大新闻，报道黄有第二段婚外情，这次是与英伟达的一名高级管理人员，而这似乎是最后一根稻草。"
+      },
+      {
+       "en": "PFEIFFER: We've been hearing all week that Huang is basically synonymous with the company and so key to it that the board didn't really want to let him go. So what does it mean that he's now out?",
+       "zh": "PFEIFFER：我们整个星期都在听说黄基本上就是公司本身的代名词，对公司至关重要，以至于董事会实际上不愿意让他离开。那么，他现在离职意味着什么呢？"
+      },
+      {
+       "en": "RUWITCH: Yeah, it's a big deal. NVIDIA is one of the biggest companies on Earth. It's one of the most important companies because it makes the most widely used chips that power AI. Jensen Huang was there from its founding 33 years ago, and he shepherded it from being a maker of niche video game graphics cards for computers to a company that has enabled the AI boom, really. NVIDIA makes really powerful chips that are the gold standard for AI. They're in data centers everywhere. I'm willing to bet, Sacha, that you've used an AI chatbot, and I think it's fair to say that NVIDIA chips probably played a part in training it and running it. So this resignation is significant, and it raises a lot of questions.",
+       "zh": "RUWITCH：是的，这是件大事。英伟达是地球上最大的公司之一。它是最重要的公司之一，因为它制造了用于人工智能的最广泛使用的芯片。黄仁勋从公司成立的33年前就参与其中，他将公司从一个为电脑制造小众游戏显卡的企业，带领成了真正推动人工智能热潮的公司。英伟达制造的芯片非常强大，是人工智能的黄金标准。它们遍布各个数据中心。我敢打赌，Sacha，你一定使用过人工智能聊天机器人，我认为可以公平地说，英伟达的芯片很可能参与了它的训练和运行。所以，这次辞职具有重大意义，也引发了很多问题。"
+      },
+      {
+       "en": "RUWITCH: Like - well, OK. First, there's a lot we don't know about the spy allegations, which NPR has not independently confirmed and which China denies. We don't know if any NVIDIA information might have been compromised or national security for that matter. The U.S. bans the export of NVIDIA's best chips to China, so that's why allegations that Huang was involved with someone who might have been a spy for China are so alarming.",
+       "zh": "RUWITCH：嗯——好吧。首先，有很多关于间谍指控的事情我们并不了解，这些指控还没有得到NPR的独立证实，而且中国否认这些指控。我们不知道任何NVIDIA的信息是否可能已经泄露，或者国家安全是否因此受到威胁。美国禁止向中国出口NVIDIA最好的芯片，所以这也是为什么有关黄可能与某个可能是中国间谍的人有联系的指控让人如此震惊的原因。"
+      },
+      {
+       "en": "Second, the company faces uncertainty. You know, Jensen Huang was, by all accounts, a micromanager. He had his hand in loads of decisions at the company, big and small. Dozens of senior employees looked to him for direct guidance. And Jensen Huang had no apparent succession plan. Stephen Witt, author of a book about NVIDIA called \"The Thinking Machine,\" says this creates a huge hole in the company.",
+       "zh": "其次，公司面临不确定性。你知道，黄仁勋据说是个微观管理者。他参与了公司中许多大小决策。数十名高级员工直接向他寻求指导。而黄仁勋显然没有继任计划。关于NVIDIA的书《思维机器》的作者斯蒂芬·威特表示，这在公司中造成了一个巨大的空缺。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "chip",
+       "pos": "n.",
+       "zh": "芯片",
+       "ex": "The chip giant Nvidia announced that CEO Jensen Huang was stepping down following allegations that he'd had extramarital affairs, including one with a woman suspected of being a Chinese spy.",
+       "forms": [
+        "chips"
+       ]
+      },
+      {
+       "w": "announce",
+       "pos": "v.",
+       "zh": "宣布；公布",
+       "ex": "The chip giant Nvidia announced that CEO Jensen Huang was stepping down following allegations that he'd had extramarital affairs, including one with a woman suspected of being a Chinese spy.",
+       "forms": [
+        "announced"
+       ]
+      },
+      {
+       "w": "report",
+       "pos": "n.",
+       "zh": "报告；报道",
+       "ex": "That comes after reports that Huang had extramarital affairs, including one with a suspected Chinese spy.",
+       "forms": [
+        "reporting",
+        "reports"
+       ]
+      },
+      {
+       "w": "resignation",
+       "pos": "n.",
+       "zh": "辞职",
+       "ex": "PFEIFFER: John, when the company announced Huang's resignation today, what else did it say?",
+       "forms": []
+      },
+      {
+       "w": "online",
+       "pos": "adj.",
+       "zh": "在线的",
+       "ex": "In a brief online statement, the company said Huang had resigned not only as CEO but as president and as a board member, and it said his contributions to NVIDIA were, quote, \"profound\" and \"immeasurable.\" The announcement also said that Colette Kress has agreed to be the interim CEO.",
+       "forms": []
+      },
+      {
+       "w": "statement",
+       "pos": "n.",
+       "zh": "声明；陈述",
+       "ex": "In a brief online statement, the company said Huang had resigned not only as CEO but as president and as a board member, and it said his contributions to NVIDIA were, quote, \"profound\" and \"immeasurable.\" The announcement also said that Colette Kress has agreed to be the interim CEO.",
+       "forms": []
+      },
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "In a brief online statement, the company said Huang had resigned not only as CEO but as president and as a board member, and it said his contributions to NVIDIA were, quote, \"profound\" and \"immeasurable.\" The announcement also said that Colette Kress has agreed to be the interim CEO.",
+       "forms": []
+      },
+      {
+       "w": "profound",
+       "pos": "adj.",
+       "zh": "深刻的；深远的",
+       "ex": "In a brief online statement, the company said Huang had resigned not only as CEO but as president and as a board member, and it said his contributions to NVIDIA were, quote, \"profound\" and \"immeasurable.\" The announcement also said that Colette Kress has agreed to be the interim CEO.",
+       "forms": []
+      },
+      {
+       "w": "announcement",
+       "pos": "n.",
+       "zh": "公告；声明",
+       "ex": "In a brief online statement, the company said Huang had resigned not only as CEO but as president and as a board member, and it said his contributions to NVIDIA were, quote, \"profound\" and \"immeasurable.\" The announcement also said that Colette Kress has agreed to be the interim CEO.",
+       "forms": []
+      },
+      {
+       "w": "financial",
+       "pos": "adj.",
+       "zh": "金融的；财务的",
+       "ex": "She's an executive vice president and chief financial officer of the company.",
+       "forms": []
+      },
+      {
+       "w": "reason",
+       "pos": "n.",
+       "zh": "原因；理由",
+       "ex": "NVIDIA did not state a reason for Huang's resignation, but this all comes after reporting from The New York Times and others that Huang had a relationship with a Chinese woman who U.S.",
+       "forms": []
+      },
+      {
+       "w": "intelligence",
+       "pos": "n.",
+       "zh": "情报；智能",
+       "ex": "intelligence agencies think was recruited by Beijing as a spy.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "chip",
+      "announce",
+      "report",
+      "resignation",
+      "online"
+     ],
+     "keyVocab": [
+      "chip",
+      "announce",
+      "report",
+      "resignation",
+      "online",
+      "statement",
+      "president",
+      "profound"
+     ]
+    },
+    {
+     "id": "2026-11-13-technology",
+     "section": "Technology",
+     "sectionZh": "科技",
+     "title": "What we know so far about Nvidia interim CEO Colette Kress",
+     "dek": "Nvidia interim CEO Colette Kress has served as the company's chief financial officers. Kevin Roose, host of NPR's Machine Gods podcast, talks with Scott Detrow about what to expect from her.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/12/nx-s1-6038896/what-we-know-so-far-about-nvidia-interim-ceo-colette-kress",
+     "byline": "Scott Detrow",
+     "dateLabel": "2026-11-13",
+     "words": 646,
+     "readTime": 3,
+     "level": "B2",
+     "levelEn": "Upper-intermediate",
+     "paragraphs": [
+      {
+       "en": "Nvidia interim CEO Colette Kress has served as the company's chief financial officers. Kevin Roose, host of NPR's Machine Gods podcast, talks with Scott Detrow about what to expect from her.",
+       "zh": "英伟达临时首席执行官科莱特·克雷斯曾担任公司的首席财务官。NPR的《机器之神》播客主持人凯文·鲁斯与斯科特·德特罗谈论了人们对她的期望。"
+      },
+      {
+       "en": "With Huang out as CEO and his chief financial officer, Colette Kress, stepping in, people have a lot of questions. Kress is relatively unknown to the public. So for some insight, we turn now to Kevin Roose, co-host of NPR's Machine Gods podcast. Hey, Kevin.",
+       "zh": "随着黄某不再担任首席执行官，他的首席财务官科莱特·克雷斯接任，人们有很多疑问。克雷斯对公众来说相对陌生。为了一些见解，我们现在请教NPR《机器之神》播客的联合主持人凯文·鲁斯。嘿，凯文。"
+      },
+      {
+       "en": "DETROW: Before we get to Kress, I just want to start with kind of that big unanswered question that John was talking about there. Some companies that everyone sees as a one-person company - I'm thinking about Apple and Steve Jobs - are quite fine when that CEO leaves or is off the scene, and they keep growing. Others really do fall apart. What are you thinking with NVIDIA? Like, how much was Huang really part of this in terms of what comes next?",
+       "zh": "DETROW：在我们谈克雷斯之前，我想先从约翰提到的那个大家都未解的大问题开始。有些公司，大家都认为是一个人的公司——我想到的是苹果和史蒂夫·乔布斯——当那位CEO离开或消失时，公司依然运转良好，并继续增长。其他公司则真的会分崩离析。你对英伟达怎么想？黄仁勋在接下来公司的发展中到底起了多大作用？"
+      },
+      {
+       "en": "ROOSE: Well, he was essential to the company's success, and he took the company from being sort of a niche hardware manufacturer, making chips for video gamers, into one of the largest companies in the world. And he largely did that by betting on AI and other areas of computationally intensive work. These chips that NVIDIA makes, these GPUs, turned out to be the essential ingredient in modern AI, and Jensen Huang was really there at every step of the way. Now, could he be replaced? Could the company, you know, do fine without him? We'll see. But I think a lot of people are nervous that it wasn't just his acumen and his scientific expertise that made the company work, but it was his relationships. He really had deep yearslong relationships with people like Elon Musk and Sam Altman...",
+       "zh": "ROOSE：嗯，他对公司的成功至关重要，他把公司从一个面向电子游戏玩家制造芯片的利基硬件制造商，发展成为世界上最大的公司之一。他主要是通过押注人工智能和其他计算密集型领域实现这一点。英伟达制造的这些芯片，这些 GPU，最终成为现代人工智能的关键组成部分，而黄仁勋几乎在每一步都参与其中。那么，他能被取代吗？公司在没有他的情况下能否顺利运作？我们拭目以待。但我认为很多人感到紧张，不仅仅是因为他的才智和科学专业知识让公司运转起来，更因为他的人脉关系。他与像埃隆·马斯克和山姆·奥特曼这样的人有着长期深入的关系……"
+      },
+      {
+       "en": "ROOSE: ...The people who are driving the AI boom. And so people are kind of worried about what happens when him and his Rolodex disappear.",
+       "zh": "ROOSE：……那些推动人工智能热潮的人。所以人们有点担心，当他和他的人脉名单消失时会发生什么。"
+      },
+      {
+       "en": "DETROW: So Kress steps in. What should we know about her background?",
+       "zh": "DETROW：所以 Kress 出面了。我们应该了解她的背景吗？"
+      },
+      {
+       "en": "ROOSE: Well, she's a lifer. She joined NVIDIA in September 2013. She's been the chief financial officer, and she was there through this whole transition from a video game graphics company to an AI kingmaker. She's been on NVIDIA calls. Investors are familiar with her, but she's more of a mystery to the rest of the AI ecosystem. She's not a household name or a product visionary. And that was sort of Jensen's role. He was not just the CEO, but he was really the cheerleader for this entire industry.",
+       "zh": "ROOSE：嗯，她是个终身员工。她在2013年9月加入NVIDIA。她一直担任首席财务官，并且经历了从一家视频游戏图形公司向AI王者转型的整个过程。她参加过NVIDIA的电话会议，投资者对她很熟悉，但在整个AI生态系统中，她还是比较神秘的。她不是家喻户晓的人物，也不是产品方面的先锋。而这正是Jensen的角色。他不仅是CEO，实际上还是整个行业的拉拉队长。"
+      },
+      {
+       "en": "DETROW: Yeah. There are big financial stakes here in terms of the overall stock market. There are geopolitical stakes in terms of how much national defense is built in. Like, NVIDIA chips are powering wars right now, literally. I mean, what do you think her top priorities should be in this crisis moment?",
+       "zh": "DETROW：是的。在整体股市方面，这里有巨大的财务利益。在地缘政治方面，也关系到国家防御投入了多少。例如，NVIDIA 的芯片现在实际上正在驱动战争。我的意思是，你认为在这个危机时刻，她的首要任务应该是什么？"
+      },
+      {
+       "en": "ROOSE: Well, I think the first thing that she has to do is just to keep people calm, right? Customers, employees, investors. People are already worried about, you know, momentum shifting to AMD or another rival. The second would be the money. I mean, NVIDIA has been acting as a kind of bank for the entire AI industry. It has deals with all of the biggest AI labs, including hundreds of billions of dollars of commitments and circular financing deals. And Colette Kress signed off on many of those deals, but she has to now decide whether to keep writing the checks. And then I just think she's going to have a lot of investigations to deal with. There's going to be this board investigation, an FBI inquiry. I imagine a bunch of congressional subcommittees and committees are going to be looking into what was going on with NVIDIA's chip sales in China. So I think she can look forward to a lot of new scrutiny.",
+       "zh": "ROOSE：嗯，我认为她首先需要做的事情就是保持人们的冷静，对吧？客户、员工、投资者。大家已经开始担心，比如说市场势头会转向 AMD 或其他竞争对手。其次是资金。我是说，NVIDIA 一直在充当整个 AI 行业的某种银行。它与所有最大的 AI 实验室都有合作，包括数千亿美元的承诺和循环融资协议。Colette Kress 签署了许多这样的交易，但她现在必须决定是否继续开支票。然后我觉得她将会有很多调查要应对。会有董事会的调查、联邦调查局的调查。我猜想会有很多国会的分委员会和委员会会调查 NVIDIA 在中国的芯片销售情况。所以我认为她可以期待很多新的审查。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "financial",
+       "pos": "adj.",
+       "zh": "金融的；财务的",
+       "ex": "Nvidia interim CEO Colette Kress has served as the company's chief financial officers.",
+       "forms": []
+      },
+      {
+       "w": "expect",
+       "pos": "v.",
+       "zh": "预期；期待",
+       "ex": "Kevin Roose, host of NPR's Machine Gods podcast, talks with Scott Detrow about what to expect from her.",
+       "forms": []
+      },
+      {
+       "w": "public",
+       "pos": "adj.",
+       "zh": "公共的；公众的",
+       "ex": "Kress is relatively unknown to the public.",
+       "forms": []
+      },
+      {
+       "w": "fall",
+       "pos": "n.",
+       "zh": "下降；下跌",
+       "ex": "Others really do fall apart.",
+       "forms": []
+      },
+      {
+       "w": "essential",
+       "pos": "adj.",
+       "zh": "必不可少的",
+       "ex": "ROOSE: Well, he was essential to the company's success, and he took the company from being sort of a niche hardware manufacturer, making chips for video gamers, into one of the largest companies in the world.",
+       "forms": []
+      },
+      {
+       "w": "chip",
+       "pos": "n.",
+       "zh": "芯片",
+       "ex": "ROOSE: Well, he was essential to the company's success, and he took the company from being sort of a niche hardware manufacturer, making chips for video gamers, into one of the largest companies in the world.",
+       "forms": [
+        "chips"
+       ]
+      },
+      {
+       "w": "boom",
+       "pos": "n.",
+       "zh": "繁荣；激增",
+       "ex": "ROOSE: ...The people who are driving the AI boom.",
+       "forms": []
+      },
+      {
+       "w": "investor",
+       "pos": "n.",
+       "zh": "投资者",
+       "ex": "Investors are familiar with her, but she's more of a mystery to the rest of the AI ecosystem.",
+       "forms": [
+        "investors"
+       ]
+      },
+      {
+       "w": "ecosystem",
+       "pos": "n.",
+       "zh": "生态系统",
+       "ex": "Investors are familiar with her, but she's more of a mystery to the rest of the AI ecosystem.",
+       "forms": []
+      },
+      {
+       "w": "product",
+       "pos": "n.",
+       "zh": "产品",
+       "ex": "She's not a household name or a product visionary.",
+       "forms": []
+      },
+      {
+       "w": "industry",
+       "pos": "n.",
+       "zh": "行业；工业",
+       "ex": "He was not just the CEO, but he was really the cheerleader for this entire industry.",
+       "forms": []
+      },
+      {
+       "w": "market",
+       "pos": "n.",
+       "zh": "市场",
+       "ex": "There are big financial stakes here in terms of the overall stock market.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "financial",
+      "expect",
+      "public",
+      "fall",
+      "essential"
+     ],
+     "keyVocab": [
+      "financial",
+      "expect",
+      "public",
+      "fall",
+      "essential",
+      "chip",
+      "boom",
+      "investor"
+     ]
+    },
+    {
+     "id": "2026-11-13-science",
+     "section": "Science",
+     "sectionZh": "科学",
+     "title": "Colorado flood victims hope for speedier federal help",
+     "dek": "Local and state officials in Colorado say recent floods have outstripped their ability to respond. They're worried about federal response after Trump delayed flood aid for political reasons in 2025.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/12/nx-s1-6036811/colorado-flood-victims-hope-for-speedier-federal-help",
+     "byline": "Havalin Haskell",
+     "dateLabel": "2026-11-13",
+     "words": 272,
+     "readTime": 3,
+     "level": "B2",
+     "levelEn": "Upper-intermediate",
+     "paragraphs": [
+      {
+       "en": "Local and state officials in Colorado say recent floods have outstripped their ability to respond. They're worried about federal response after Trump delayed flood aid for political reasons in 2025.",
+       "zh": "科罗拉多州的地方和州官员表示，最近的洪水已经超出了他们的应对能力。他们担心在特朗普因政治原因推迟2025年的洪水援助后，联邦的响应情况。"
+      },
+      {
+       "en": "A week after devastating floods in the Southwest, officials in four states are still tallying up the damage, and it's already clear they'll be requesting federal disaster assistance. In Colorado, residents are wondering if they'll get it. After big floods last year, the aid didn't come immediately. At the time, President Trump was in a political spat with Colorado's governor. Colorado Public Radio's Havalin Haskell reports that people hope things are different this time.",
+       "zh": "在西南部发生毁灭性洪灾后一周，四个州的官员仍在统计损失，且已经很明显他们将申请联邦灾害援助。在科罗拉多州，居民们正在想他们是否会获得援助。去年发生大洪水后，援助并没有立即到来。当时，特朗普总统正与科罗拉多州州长陷入政治争执。科罗拉多公共广播电台的哈瓦林·哈斯克尔报道说，人们希望这次情况会有所不同。"
+      },
+      {
+       "en": "HAVALIN HASKELL, BYLINE: Donald Kubelka's single-story two-bedroom house is just steps away from the San Juan River in Pagosa Springs, Colorado.",
+       "zh": "哈瓦林·哈斯克尔，署名：唐纳德·库贝尔卡的单层两居室房屋距离科罗拉多州帕戈萨温泉的圣胡安河仅几步之遥。"
+      },
+      {
+       "en": "DONALD KUBELKA: Sorry, I'm at a bit of a loss for words. It's a bit overwhelming.",
+       "zh": "唐纳德·库贝尔卡：抱歉，我有点说不出话来。这有点让人不知所措。"
+      },
+      {
+       "en": "HASKELL: A red line tracing around the yellow exterior walls shows where the river wrapped around his house up to the windows. His two kids' toys are strewn around the yard.",
+       "zh": "哈斯克尔：一条红线沿着黄色外墙勾勒出河流绕过他房子直到窗户的位置。他的两个孩子的玩具散落在院子里。"
+      },
+      {
+       "en": "So do you think you're gonna have to take down the entire house?",
+       "zh": "所以你认为你得拆掉整栋房子吗？"
+      },
+      {
+       "en": "Inside, red mud coats the floors and the walls. Waterlogged wallpaper is peeling away in sheets. There's a strong, musty smell in the air.",
+       "zh": "里面，红色的泥土覆盖了地板和墙壁。浸水的墙纸成片脱落。空气中弥漫着浓烈的霉味。"
+      },
+      {
+       "en": "KUBELKA: We had a inch of mud come through on the first flood that got up to about a foot and a half.",
+       "zh": "库贝尔卡：第一次洪水时，我们这里来了大约一英寸的泥水，涨到大约一米多一点。"
+      },
+      {
+       "en": "The first flood was three weeks ago. The second was bigger, and both hit exactly a year after floods big enough that Colorado asked for federal disaster assistance. Kubelka would welcome some help, but he doesn't know where to begin.",
+       "zh": "第一次洪水发生在三周前。第二次洪水更大，而且两次洪水都正好是在一年前的洪水之后，那次洪水足够大，科罗拉多州请求了联邦灾害援助。库贝尔卡欢迎一些帮助，但他不知道从哪里开始。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "local",
+       "pos": "adj.",
+       "zh": "当地的",
+       "ex": "Local and state officials in Colorado say recent floods have outstripped their ability to respond.",
+       "forms": []
+      },
+      {
+       "w": "official",
+       "pos": "n.",
+       "zh": "官员；adj. 官方的",
+       "ex": "Local and state officials in Colorado say recent floods have outstripped their ability to respond.",
+       "forms": [
+        "officials"
+       ]
+      },
+      {
+       "w": "flood",
+       "pos": "n.",
+       "zh": "洪水",
+       "ex": "Local and state officials in Colorado say recent floods have outstripped their ability to respond.",
+       "forms": [
+        "floods"
+       ]
+      },
+      {
+       "w": "federal",
+       "pos": "adj.",
+       "zh": "联邦的",
+       "ex": "They're worried about federal response after Trump delayed flood aid for political reasons in 2025.",
+       "forms": []
+      },
+      {
+       "w": "reason",
+       "pos": "n.",
+       "zh": "原因；理由",
+       "ex": "They're worried about federal response after Trump delayed flood aid for political reasons in 2025.",
+       "forms": [
+        "reasons"
+       ]
+      },
+      {
+       "w": "resident",
+       "pos": "n.",
+       "zh": "居民",
+       "ex": "In Colorado, residents are wondering if they'll get it.",
+       "forms": [
+        "residents"
+       ]
+      },
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "At the time, President Trump was in a political spat with Colorado's governor.",
+       "forms": []
+      },
+      {
+       "w": "public",
+       "pos": "adj.",
+       "zh": "公共的；公众的",
+       "ex": "Colorado Public Radio's Havalin Haskell reports that people hope things are different this time.",
+       "forms": []
+      },
+      {
+       "w": "report",
+       "pos": "n.",
+       "zh": "报告；报道",
+       "ex": "Colorado Public Radio's Havalin Haskell reports that people hope things are different this time.",
+       "forms": [
+        "reports"
+       ]
+      }
+     ],
+     "homeWords": [
+      "local",
+      "official",
+      "flood",
+      "federal",
+      "reason"
+     ],
+     "keyVocab": [
+      "local",
+      "official",
+      "flood",
+      "federal",
+      "reason",
+      "resident",
+      "president",
+      "public"
+     ]
+    },
+    {
+     "id": "2026-11-13-culture",
+     "section": "Culture",
+     "sectionZh": "文化",
+     "title": "People getting hot and bothered over newly-elected Democratic men",
+     "dek": "You may have noticed that a lot of people on social media are getting really hot and bothered over the newly-elected Democratic men. It says a lot about how Democrats have responded to the Trump era.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/12/nx-s1-6034589/people-getting-hot-and-bothered-over-newly-elected-democratic-men",
+     "byline": "Danielle Kurtzleben",
+     "dateLabel": "2026-11-13",
+     "words": 240,
+     "readTime": 3,
+     "level": "B2",
+     "levelEn": "Upper-intermediate",
+     "paragraphs": [
+      {
+       "en": "You may have noticed that a lot of people on social media are getting really hot and bothered over the newly-elected Democratic men. It says a lot about how Democrats have responded to the Trump era.",
+       "zh": "你可能已经注意到，社交媒体上很多人对新当选的民主党男性感到非常兴奋和烦躁。这充分说明了民主党是如何应对特朗普时代的。"
+      },
+      {
+       "en": "Here is a social media trend you might not be able to escape - people getting really, really hot and bothered, dare I say thirsty, over newly elected Democratic men. As NPR's Danielle Kurtzleben reports, it is not just a cheeky trend, though. It also says a lot about how Democrats have responded to the Trump era.",
+       "zh": "这里有一个你可能无法逃避的社交媒体趋势——人们对新当选的民主党男性变得非常、非常兴奋，敢说是渴望。如NPR的丹妮尔·库尔茨列本报道，这不仅仅是一个调皮的趋势。它还表明了民主党人如何应对特朗普时代的很多情况。"
+      },
+      {
+       "en": "DANIELLE KURTZLEBEN, BYLINE: There's a good chance you've seen the videos.",
+       "zh": "丹妮尔·库尔茨列本，署名：你很可能已经看过这些视频。"
+      },
+      {
+       "en": "JESSE BARTON: And I'm looking at you, Rob Sand. I'm looking at you, Jon Ossoff. I'm looking at you, El-Sayed, OK? I am looking. I'm not the only one, and I am very happy about what I see.",
+       "zh": "杰西·巴顿：我在看着你，罗布·桑德。我在看着你，乔恩·奥索夫。我在看着你，埃尔-萨耶德，好吗？我在看。我不是唯一一个看的人，我对自己看到的感到非常高兴。"
+      },
+      {
+       "en": "KURTZLEBEN: All sorts of people, like fitness coach Jesse Barton, are gushing over the young men Democrats just elected. A lot of the posts are just montages of people like Georgia Senator Jon Ossoff set to sexy pop songs.",
+       "zh": "KURTZLEBEN：各种各样的人，比如健身教练杰西·巴顿，都在对民主党刚刚选出的年轻男子赞不绝口。许多帖子只是一些像佐治亚州参议员乔恩·奥索夫这样的人物剪辑，配上性感的流行歌曲。"
+      },
+      {
+       "en": "KURTZLEBEN: A parody Tiger Beat magazine cover featuring Democratic men went viral. And then Manouschka Guerrier took it one step further.",
+       "zh": "KURTZLEBEN：一张模仿《Tiger Beat》杂志封面的民主党男性讽刺图片走红网络。然后，Manouschka Guerrier 更进一步。"
+      },
+      {
+       "en": "MANOUSCHKA GUERRIER: I created the entire Tiger Beat-style personality quiz, complete with a different boy band personas.",
+       "zh": "MANOUSCHKA GUERRIER：我创建了整个《Tiger Beat》风格的性格测验，还配有不同的男孩乐队人物设定。"
+      },
+      {
+       "en": "KURTZLEBEN: Guerrier is a chef and content creator in Los Angeles, and she says these guys looks are just a bonus.",
+       "zh": "KURTZLEBEN：Guerrier是洛杉矶的一名厨师和内容创作者，她说这些人的外表只是额外的加分。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "social",
+       "pos": "adj.",
+       "zh": "社会的；社交的",
+       "ex": "You may have noticed that a lot of people on social media are getting really hot and bothered over the newly-elected Democratic men.",
+       "forms": []
+      },
+      {
+       "w": "media",
+       "pos": "n.",
+       "zh": "媒体",
+       "ex": "You may have noticed that a lot of people on social media are getting really hot and bothered over the newly-elected Democratic men.",
+       "forms": []
+      },
+      {
+       "w": "report",
+       "pos": "n.",
+       "zh": "报告；报道",
+       "ex": "As NPR's Danielle Kurtzleben reports, it is not just a cheeky trend, though.",
+       "forms": [
+        "reports"
+       ]
+      },
+      {
+       "w": "young",
+       "pos": "adj.",
+       "zh": "年轻的",
+       "ex": "KURTZLEBEN: All sorts of people, like fitness coach Jesse Barton, are gushing over the young men Democrats just elected.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "social",
+      "media",
+      "report",
+      "young"
+     ],
+     "keyVocab": [
+      "social",
+      "media",
+      "report",
+      "young"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-12",
    "articles": [
@@ -4638,807 +5368,6 @@ window.__MERIDIAN_DATA__ = {
       "tumor",
       "film",
       "child"
-     ]
-    }
-   ]
-  },
-  {
-   "date": "2026-11-06",
-   "articles": [
-    {
-     "id": "2026-11-06-world",
-     "section": "World",
-     "sectionZh": "国际",
-     "title": "Paraguay's president is impeached minutes after resigning following a bank collapse",
-     "dek": "ASUNCIÓN, Paraguay — Paraguayan President Santiago Peña announced his resignation Thursday after the collapse of a major digital bank tied to his government triggered widespread protests, froze…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse",
-     "byline": "The Associated Press",
-     "dateLabel": "2026-11-06",
-     "words": 325,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "ASUNCIÓN, Paraguay — Paraguayan President Santiago Peña announced his resignation Thursday after the collapse of a major digital bank tied to his government triggered widespread protests, froze millions of people's savings and cost him the support of his own party.",
-       "zh": "巴拉圭亚松森——巴拉圭总统圣地亚哥·佩尼亚在周四宣布辞职，此前与他政府有关的一家大型数字银行倒闭，引发了大规模抗议，冻结了数百万人的储蓄，并使他失去了自己党派的支持。"
-      },
-      {
-       "en": "The crisis at Ueno Bank turned Peña's long-ruling Colorado Party against him, a stunning reversal for the former International Monetary Fund economist who had enjoyed the backing of the country's most powerful politicians and was welcomed in Washington just weeks ago as a key ally of the Trump administration.",
-       "zh": "上野银行的危机使佩尼亚长期执政的科罗拉多党转而反对他，这对这位曾享有国内最有权势政治家支持，并在几周前被华盛顿欢迎为特朗普政府关键盟友的前国际货币基金组织经济学家来说，是一次令人震惊的逆转。"
-      },
-      {
-       "en": "Minutes after Peña's announcement, the lower house voted 78-0 to impeach him, sending the charges to the Senate. Congressional leaders were expected to accept his resignation later Thursday, clearing the way for Vice President Pedro Alliana to be sworn in without waiting for a Senate trial.",
-       "zh": "在佩尼亚宣布后几分钟，下议院以78票对0票投票弹劾他，并将指控送交参议院。预计国会领导人将在周四晚些时候接受他的辞职，为副总统佩德罗·阿利亚纳在无需等待参议院审判的情况下宣誓就职铺平道路。"
-      },
-      {
-       "en": "Opposition senators were still demanding a trial, arguing that allowing Peña to resign would preserve his eligibility to become a senator for life, with legal protections that could prevent his prosecution.",
-       "zh": "反对派参议员仍然要求审判，他们认为允许佩尼亚辞职将保留他成为终身参议员的资格，并享有可能阻止他被起诉的法律保护。"
-      },
-      {
-       "en": "As lawmakers debated his impeachment, Peña said in a video posted to X that he was stepping down in the interest of \"the stability of our country, social peace and the need to preserve our democratic institutions.\"",
-       "zh": "当立法者讨论对他进行弹劾时，佩尼亚在发布到 X 的视频中表示，他是为了“国家的稳定、社会和平以及维护我们民主制度的需要”而辞职。"
-      },
-      {
-       "en": "Even Peña's mentor, Colorado Party leader and former President Horacio Cartes, backed impeachment, saying the party would not side with \"the plundering of public and private funds and pensioners' money.\" The United States Treasury sanctioned Cartes in 2023 over bribery allegations that the Trump administration lifted last year.",
-       "zh": "甚至佩尼亚的导师、科罗拉多党领导人及前总统霍拉西奥·卡尔特斯也支持弹劾，他表示该党不会支持“对公共和私人资金以及养老金资金的掠夺”。由于贿赂指控，美国财政部在2023年对卡尔特斯实施了制裁，而特朗普政府去年取消了这些制裁。"
-      },
-      {
-       "en": "Peña, who until last year held a stake in a company linked to Ueno, expressed contrition. But he stopped short of accepting responsibility for the turmoil, which has left millions of depositors, retirees and workers scrambling to recoup their frozen savings and unpaid wages.",
-       "zh": "佩尼亚直到去年还持有与上野有关的公司股份，他表示了悔意。但他没有完全承担造成混乱的责任，这场混乱让数百万储户、退休人员和工人争相追回被冻结的储蓄和未支付的工资。"
-      },
-      {
-       "en": "\"I want to apologize to the people if I have failed them at any point,\" he said. \"It was never my intention to betray the trust they placed in me.\"",
-       "zh": "“如果我在任何时候辜负了人民，我想向他们道歉，”他说。“我从未打算背叛他们对我的信任。”"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "president",
-       "pos": "n.",
-       "zh": "总统；总裁",
-       "ex": "ASUNCIÓN, Paraguay — Paraguayan President Santiago Peña announced his resignation Thursday after the collapse of a major digital bank tied to his government triggered widespread protests, froze millions of people's savings and cost him the support of his own party.",
-       "forms": []
-      },
-      {
-       "w": "announce",
-       "pos": "v.",
-       "zh": "宣布；公布",
-       "ex": "ASUNCIÓN, Paraguay — Paraguayan President Santiago Peña announced his resignation Thursday after the collapse of a major digital bank tied to his government triggered widespread protests, froze millions of people's savings and cost him the support of his own party.",
-       "forms": [
-        "announced"
-       ]
-      },
-      {
-       "w": "resignation",
-       "pos": "n.",
-       "zh": "辞职",
-       "ex": "ASUNCIÓN, Paraguay — Paraguayan President Santiago Peña announced his resignation Thursday after the collapse of a major digital bank tied to his government triggered widespread protests, froze millions of people's savings and cost him the support of his own party.",
-       "forms": []
-      },
-      {
-       "w": "collapse",
-       "pos": "v.",
-       "zh": "崩溃；倒塌",
-       "ex": "ASUNCIÓN, Paraguay — Paraguayan President Santiago Peña announced his resignation Thursday after the collapse of a major digital bank tied to his government triggered widespread protests, froze millions of people's savings and cost him the support of his own party.",
-       "forms": []
-      },
-      {
-       "w": "digital",
-       "pos": "adj.",
-       "zh": "数字的",
-       "ex": "ASUNCIÓN, Paraguay — Paraguayan President Santiago Peña announced his resignation Thursday after the collapse of a major digital bank tied to his government triggered widespread protests, froze millions of people's savings and cost him the support of his own party.",
-       "forms": []
-      },
-      {
-       "w": "trigger",
-       "pos": "v.",
-       "zh": "引发；触发",
-       "ex": "ASUNCIÓN, Paraguay — Paraguayan President Santiago Peña announced his resignation Thursday after the collapse of a major digital bank tied to his government triggered widespread protests, froze millions of people's savings and cost him the support of his own party.",
-       "forms": [
-        "triggered"
-       ]
-      },
-      {
-       "w": "widespread",
-       "pos": "adj.",
-       "zh": "广泛的；普遍的",
-       "ex": "ASUNCIÓN, Paraguay — Paraguayan President Santiago Peña announced his resignation Thursday after the collapse of a major digital bank tied to his government triggered widespread protests, froze millions of people's savings and cost him the support of his own party.",
-       "forms": []
-      },
-      {
-       "w": "protest",
-       "pos": "n.",
-       "zh": "抗议",
-       "ex": "ASUNCIÓN, Paraguay — Paraguayan President Santiago Peña announced his resignation Thursday after the collapse of a major digital bank tied to his government triggered widespread protests, froze millions of people's savings and cost him the support of his own party.",
-       "forms": [
-        "protests"
-       ]
-      },
-      {
-       "w": "million",
-       "pos": "n.",
-       "zh": "百万",
-       "ex": "ASUNCIÓN, Paraguay — Paraguayan President Santiago Peña announced his resignation Thursday after the collapse of a major digital bank tied to his government triggered widespread protests, froze millions of people's savings and cost him the support of his own party.",
-       "forms": [
-        "millions"
-       ]
-      },
-      {
-       "w": "cost",
-       "pos": "n.",
-       "zh": "成本；代价",
-       "ex": "ASUNCIÓN, Paraguay — Paraguayan President Santiago Peña announced his resignation Thursday after the collapse of a major digital bank tied to his government triggered widespread protests, froze millions of people's savings and cost him the support of his own party.",
-       "forms": []
-      },
-      {
-       "w": "support",
-       "pos": "v.",
-       "zh": "支持",
-       "ex": "ASUNCIÓN, Paraguay — Paraguayan President Santiago Peña announced his resignation Thursday after the collapse of a major digital bank tied to his government triggered widespread protests, froze millions of people's savings and cost him the support of his own party.",
-       "forms": []
-      },
-      {
-       "w": "party",
-       "pos": "n.",
-       "zh": "政党；一方",
-       "ex": "ASUNCIÓN, Paraguay — Paraguayan President Santiago Peña announced his resignation Thursday after the collapse of a major digital bank tied to his government triggered widespread protests, froze millions of people's savings and cost him the support of his own party.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "president",
-      "announce",
-      "resignation",
-      "collapse",
-      "digital"
-     ],
-     "keyVocab": [
-      "president",
-      "announce",
-      "resignation",
-      "collapse",
-      "digital",
-      "trigger",
-      "widespread",
-      "protest"
-     ]
-    },
-    {
-     "id": "2026-11-06-business",
-     "section": "Business",
-     "sectionZh": "商业 · 财经",
-     "title": "Fears of an AI crackdown after midterms spark $2 trillion rout in tech stocks",
-     "dek": "Two days after Democrats won overwhelmingly in the national midterm elections — and in state races across the country — investors started to come to terms with the potential consequences.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections",
-     "byline": "Rafael Nam",
-     "dateLabel": "2026-11-06",
-     "words": 320,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "Two days after Democrats won overwhelmingly in the national midterm elections — and in state races across the country — investors started to come to terms with the potential consequences.",
-       "zh": "在全国中期选举以及全国各州的选举中，民主党大获全胜两天后，投资者开始意识到潜在的后果。"
-      },
-      {
-       "en": "Fears that an incoming Democratic Congress would crack down on AI sent the tech-heavy Nasdaq down more than 5% and wiped out more than $2 trillion in market value. The Dow Jones and S&P also sank.",
-       "zh": "对即将到来的民主党主导的国会将打压人工智能的担忧，使以科技股为主的纳斯达克下跌超过5%，市值蒸发超过2万亿美元。道琼斯和标准普尔指数也下跌了。"
-      },
-      {
-       "en": "The losses were a stark reversal from Wednesday, when investors had initially sent shares higher across the board, relieved that the midterms did not end with the fate of Congress undecided.",
-       "zh": "这些损失与周三形成了鲜明对比，当时投资者最初将股票普遍推高，因为他们松了一口气，认为中期选举没有以国会命运未定而结束。"
-      },
-      {
-       "en": "The sobering-up seen across markets on Thursday reflected investors' concern about a big signal sent by voters: They revolted against AI data centers, which many people worry will gobble up water and energy resources. Those voters supported Democrats who have vowed to push back against the proliferation of these projects.",
-       "zh": "周四市场的冷静反应反映了投资者对选民发出的重大信号的担忧：选民反对人工智能数据中心，许多人担心这些数据中心会消耗大量水和能源资源。这些选民支持那些承诺抵制这些项目扩张的民主党人。"
-      },
-      {
-       "en": "But many AI companies — including Meta and Alphabet, the parent company of Google — need to keep building out these data centers to continue developing the technology.",
-       "zh": "但是许多人工智能公司——包括Meta和谷歌的母公司Alphabet——需要继续建设这些数据中心，以继续开发这项技术。"
-      },
-      {
-       "en": "The Nasdaq's decline comes after what has already been a rough year of technology shares on Wall Street, with investors starting to question whether the massive investments companies have plowed into AI will pay off anytime soon.",
-       "zh": "纳斯达克的下跌是在科技股已经经历了艰难的一年的背景下发生的，投资者开始质疑公司投向人工智能的大量投资是否会在短期内带来回报。"
-      },
-      {
-       "en": "\"There is some concern regarding AI regulation, and fears that there could be far more regulations coming to AI technology, as well as a pushback on the buildout of data centers across the country,\" says David Busch, chief investment officer of Trajan Wealth.",
-       "zh": "Trajan Wealth 的首席投资官 David Busch 表示：“人们对人工智能的监管存在一些担忧，并且担心可能会出台更多针对人工智能技术的监管，同时全国范围内数据中心的建设也可能受到阻力。”"
-      },
-      {
-       "en": "AI-related or AI-dependent stocks of all kinds were among the biggest decliners on Thursday, with Tesla and SpaceX — both controlled by billionaire Elon Musk — falling particularly sharply. Musk spent hundreds of millions of dollars in an unsuccessful attempt to elect more Republicans, and investors fear he and his companies could also come under Democratic scrutiny when the new Congress is seated in January.",
-       "zh": "各种与人工智能相关或依赖人工智能的股票在周四是跌幅最大的，其中特斯拉和太空探索公司——两者都由亿万富翁埃隆·马斯克控制——跌幅尤为明显。马斯克花费了数亿美元试图让更多共和党人当选，但未能成功，投资者担心他和他的公司在新一届国会于一月就职后，也可能受到民主党的审查。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "national",
-       "pos": "adj.",
-       "zh": "国家的；全国的",
-       "ex": "Two days after Democrats won overwhelmingly in the national midterm elections — and in state races across the country — investors started to come to terms with the potential consequences.",
-       "forms": []
-      },
-      {
-       "w": "election",
-       "pos": "n.",
-       "zh": "选举",
-       "ex": "Two days after Democrats won overwhelmingly in the national midterm elections — and in state races across the country — investors started to come to terms with the potential consequences.",
-       "forms": [
-        "elections"
-       ]
-      },
-      {
-       "w": "investor",
-       "pos": "n.",
-       "zh": "投资者",
-       "ex": "Two days after Democrats won overwhelmingly in the national midterm elections — and in state races across the country — investors started to come to terms with the potential consequences.",
-       "forms": [
-        "investors"
-       ]
-      },
-      {
-       "w": "income",
-       "pos": "n.",
-       "zh": "收入",
-       "ex": "Fears that an incoming Democratic Congress would crack down on AI sent the tech-heavy Nasdaq down more than 5% and wiped out more than $2 trillion in market value.",
-       "forms": [
-        "incoming"
-       ]
-      },
-      {
-       "w": "congress",
-       "pos": "n.",
-       "zh": "国会",
-       "ex": "Fears that an incoming Democratic Congress would crack down on AI sent the tech-heavy Nasdaq down more than 5% and wiped out more than $2 trillion in market value.",
-       "forms": []
-      },
-      {
-       "w": "market",
-       "pos": "n.",
-       "zh": "市场",
-       "ex": "Fears that an incoming Democratic Congress would crack down on AI sent the tech-heavy Nasdaq down more than 5% and wiped out more than $2 trillion in market value.",
-       "forms": [
-        "markets"
-       ]
-      },
-      {
-       "w": "data",
-       "pos": "n.",
-       "zh": "数据",
-       "ex": "The sobering-up seen across markets on Thursday reflected investors' concern about a big signal sent by voters: They revolted against AI data centers, which many people worry will gobble up water and energy resources.",
-       "forms": []
-      },
-      {
-       "w": "water",
-       "pos": "n.",
-       "zh": "水",
-       "ex": "The sobering-up seen across markets on Thursday reflected investors' concern about a big signal sent by voters: They revolted against AI data centers, which many people worry will gobble up water and energy resources.",
-       "forms": []
-      },
-      {
-       "w": "energy",
-       "pos": "n.",
-       "zh": "能源；精力",
-       "ex": "The sobering-up seen across markets on Thursday reflected investors' concern about a big signal sent by voters: They revolted against AI data centers, which many people worry will gobble up water and energy resources.",
-       "forms": []
-      },
-      {
-       "w": "support",
-       "pos": "v.",
-       "zh": "支持",
-       "ex": "Those voters supported Democrats who have vowed to push back against the proliferation of these projects.",
-       "forms": [
-        "supported"
-       ]
-      },
-      {
-       "w": "vow",
-       "pos": "v.",
-       "zh": "发誓；郑重承诺",
-       "ex": "Those voters supported Democrats who have vowed to push back against the proliferation of these projects.",
-       "forms": [
-        "vowed"
-       ]
-      },
-      {
-       "w": "technology",
-       "pos": "n.",
-       "zh": "技术；科技",
-       "ex": "But many AI companies — including Meta and Alphabet, the parent company of Google — need to keep building out these data centers to continue developing the technology.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "national",
-      "election",
-      "investor",
-      "income",
-      "congress"
-     ],
-     "keyVocab": [
-      "national",
-      "election",
-      "investor",
-      "income",
-      "congress",
-      "market",
-      "data",
-      "water"
-     ]
-    },
-    {
-     "id": "2026-11-06-technology",
-     "section": "Technology",
-     "sectionZh": "科技",
-     "title": "Review: The Legend of Zelda: Ocarina of Time remake is superb, streamlined and safe",
-     "dek": "With its tale of an idyllic world despoiled by the lust for power, The Legend of Zelda: Ocarina of Time feels as relevant today as it did in 1998. Nintendo's new remake, out Thursday on the Switch…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/04/nx-s1-6026597/review-legend-of-zelda-ocarina-of-time-remake-switch-2",
-     "byline": "James Perkins Mastromarino",
-     "dateLabel": "2026-11-06",
-     "words": 509,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "With its tale of an idyllic world despoiled by the lust for power, The Legend of Zelda: Ocarina of Time feels as relevant today as it did in 1998. Nintendo's new remake, out Thursday on the Switch 2, enshrines its place in the gaming canon for generations to come. But despite its stupendous production values and painstaking details, the game left me feeling oddly bereft.",
-       "zh": "凭借关于一个因权力欲望而被破坏的田园世界的故事，《塞尔达传说：时之笛》在今天仍然和1998年一样具有现实意义。任天堂的新重制版将于周四在Switch 2上发布，确保其在游戏经典中的地位能够传承几代人。但尽管其制作价值惊人，细节精雕细琢，这款游戏仍让我感到莫名的空虚。"
-      },
-      {
-       "en": "Perhaps I should have expected as much. Ocarina of Time weaponizes nostalgia even within its narrative, as the protagonist Link ventures to save his post-apocalyptic world as an adult after first working through it as a kid. You'll uncover old characters enduring new catastrophes. You'll try to rescue everyone you meet. You'll strive to bring things back to how they were before — no, better than they were before.",
-       "zh": "也许我早该料到如此。《时之笛》即使在其叙事中也利用了怀旧感，当主角林克在孩童时期经历过这个世界后，再作为成年人去拯救他那后末日的世界。你会遇到老角色经历新的灾难。你会尝试拯救你遇到的每一个人。你会努力让一切恢复到以前的样子——不，恢复得比以前更好。"
-      },
-      {
-       "en": "Seven years stretch between Link's childhood and adult adventures. 28 years yawn between the remake and the original's release. Both in and out of the game, Ocarina of Time makes us yearn for an idealized past.",
-       "zh": "林克的童年与成年冒险之间相隔七年。《时之笛》重制版与原版发布之间相隔二十八年。无论在游戏内外，《时之笛》都让我们渴望一个理想化的过去。"
-      },
-      {
-       "en": "Decent remakes evoke how you remember a game rather than re-create dated controls and chunky graphics. In myriad small ways, Nintendo has brought Ocarina of Time up to contemporary standards while (mostly) preserving its soul.",
-       "zh": "体面的重制版唤起你对游戏的记忆，而不是重新创建过时的操作和粗糙的画面。在无数细微之处，任天堂已经将《时之笛》提升到现代标准，同时（大部分）保留了其灵魂。"
-      },
-      {
-       "en": "I miss the thoughtfully-composed camera angles from the original, but quickly got used to the over-the-shoulder camera the remake employs (though I was irked that it abandoned the top-down view when you sneak into Hyrule Castle). The new jump and sprint buttons made navigating the world feel more natural. Combat's smoother too, though it's still not easy to switch between targeted enemies (unlike modern third-person games like Elden Ring, where you can toggle between foes by simply flicking the right stick).",
-       "zh": "我怀念原作中精心设计的摄像机角度，但很快就习惯了重制版使用的肩膀视角摄像机（尽管当我潜入海利亚城时，它放弃了俯视视角让我感到恼火）。新的跳跃和冲刺按钮让探索世界的感觉更自然。战斗也更流畅了，尽管在切换目标敌人时仍然不容易（不像现代第三人称游戏《艾尔登法环》，你只需轻弹右摇杆就能在敌人之间切换）。"
-      },
-      {
-       "en": "You can, thankfully, swap between items in a quick menu — the same system introduced to the series in 2023's Tears of the Kingdom and continued in 2024's Echoes of Wisdom. It's still not as fast as I'd wish (I'd have preferred a customizable wheel), but I vastly prefer it to constantly pausing to access my equipment. It made it easy to change my strategy on the fly. I'd often cast Naryu's Love and deploy Bombchus, for example, where before I'd mostly stick to the Longshot and Bow.",
-       "zh": "值得庆幸的是，你可以在快速菜单中切换物品——这是在2023年的《王国之泪》中首次引入该系列的系统，并在2024年的《智慧回声》中继续使用。它仍然没有我期望的那么快（我更希望有一个可自定义的轮盘），但我仍远远更喜欢它，而不是不断暂停来访问我的装备。这让即时改变策略变得很容易。例如，我经常会施放纳吕之爱并布置炸弹鼠，而以前我大多只使用长钩和弓。"
-      },
-      {
-       "en": "If you get stuck, a new \"Threads of Time\" quest log can point you in the right direction (though you'll likely still need to look up a guide for the convoluted Biggoron Sword quest!). And yes, the notoriously frustrating Water Temple is much more tolerable this time around. But mind your rupees! Inflation's hit Hyrule. While wallets can now carry double the cash that they used to, Great Fairy upgrades are no longer free. They can cost up to 500 rupees!",
-       "zh": "如果你卡住了，全新的“时间之线”任务日志可以为你指明正确的方向（尽管你可能仍然需要查阅指南来完成复杂的比格隆之剑任务！）。是的，臭名昭著的令人沮丧的水之神庙这次要容易得多。但注意你的卢比！通货膨胀已经影响了海利亚。虽然钱包现在可以携带双倍的现金，但大精灵升级不再免费，可能需要高达500卢比！"
-      },
-      {
-       "en": "It's the remake's aesthetic changes that stand out most. The game's astonishingly ornate textures can jar with its cartoony proportions. Ninety-eight percent of the time the translation is a clear upgrade, but other times it leads straight into the uncanny valley (Nabooru looks bizarrely yassified with huge red lips and golden eye-shadow, for example).",
-       "zh": "最引人注目的是重制版的美学变化。游戏异常华丽的纹理可能会与其卡通化的比例产生冲突。百分之九十八的情况下，这次翻译明显是一次提升，但有时却直接进入了恐怖谷（例如，纳布鲁看起来奇怪地被美化了，有着巨大的红唇和金色眼影）。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "power",
-       "pos": "n.",
-       "zh": "权力；电力",
-       "ex": "With its tale of an idyllic world despoiled by the lust for power, The Legend of Zelda: Ocarina of Time feels as relevant today as it did in 1998.",
-       "forms": []
-      },
-      {
-       "w": "generation",
-       "pos": "n.",
-       "zh": "一代人；世代",
-       "ex": "Nintendo's new remake, out Thursday on the Switch 2, enshrines its place in the gaming canon for generations to come.",
-       "forms": [
-        "generations"
-       ]
-      },
-      {
-       "w": "expect",
-       "pos": "v.",
-       "zh": "预期；期待",
-       "ex": "Perhaps I should have expected as much.",
-       "forms": [
-        "expected"
-       ]
-      },
-      {
-       "w": "narrative",
-       "pos": "n.",
-       "zh": "叙事；叙述",
-       "ex": "Ocarina of Time weaponizes nostalgia even within its narrative, as the protagonist Link ventures to save his post-apocalyptic world as an adult after first working through it as a kid.",
-       "forms": []
-      },
-      {
-       "w": "venture",
-       "pos": "n.",
-       "zh": "风险投资；冒险",
-       "ex": "Ocarina of Time weaponizes nostalgia even within its narrative, as the protagonist Link ventures to save his post-apocalyptic world as an adult after first working through it as a kid.",
-       "forms": [
-        "ventures"
-       ]
-      },
-      {
-       "w": "change",
-       "pos": "n.",
-       "zh": "变化；改变",
-       "ex": "It made it easy to change my strategy on the fly.",
-       "forms": [
-        "changes"
-       ]
-      },
-      {
-       "w": "water",
-       "pos": "n.",
-       "zh": "水",
-       "ex": "And yes, the notoriously frustrating Water Temple is much more tolerable this time around.",
-       "forms": []
-      },
-      {
-       "w": "double",
-       "pos": "v.",
-       "zh": "翻倍",
-       "ex": "While wallets can now carry double the cash that they used to, Great Fairy upgrades are no longer free.",
-       "forms": []
-      },
-      {
-       "w": "cost",
-       "pos": "n.",
-       "zh": "成本；代价",
-       "ex": "They can cost up to 500 rupees!",
-       "forms": []
-      },
-      {
-       "w": "aesthetic",
-       "pos": "n.",
-       "zh": "美学；审美",
-       "ex": "It's the remake's aesthetic changes that stand out most.",
-       "forms": []
-      },
-      {
-       "w": "percent",
-       "pos": "n.",
-       "zh": "百分比",
-       "ex": "Ninety-eight percent of the time the translation is a clear upgrade, but other times it leads straight into the uncanny valley (Nabooru looks bizarrely yassified with huge red lips and golden eye-shadow, for example).",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "power",
-      "generation",
-      "expect",
-      "narrative",
-      "venture"
-     ],
-     "keyVocab": [
-      "power",
-      "generation",
-      "expect",
-      "narrative",
-      "venture",
-      "change",
-      "water",
-      "double"
-     ]
-    },
-    {
-     "id": "2026-11-06-science",
-     "section": "Science",
-     "sectionZh": "科学",
-     "title": "Trump administration wants to remove regulations on a super planet-heating gas",
-     "dek": "The Trump administration is proposing to dramatically scale back a Biden-era rule that aimed to cut methane emissions from the oil and gas industry at drilling sites nationwide.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/28/nx-s1-5995910/trump-wants-remove-regulations-planet-heating-methane",
-     "byline": "Julia Simon",
-     "dateLabel": "2026-11-06",
-     "words": 322,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "The Trump administration is proposing to dramatically scale back a Biden-era rule that aimed to cut methane emissions from the oil and gas industry at drilling sites nationwide.",
-       "zh": "特朗普政府正在提议大幅缩减拜登时代的一项规则，该规则旨在减少全国范围内钻探现场石油和天然气行业的甲烷排放。"
-      },
-      {
-       "en": "Methane is a major contributor to climate change and is estimated to be 80 times more planet-warming than carbon dioxide in a twenty-year time frame. In 2023, the Biden administration finalized rules that were meant to rein in methane emissions from the oil and gas sector.",
-       "zh": "甲烷是导致气候变化的主要因素，据估计，在二十年的时间范围内，其对地球变暖的影响是二氧化碳的80倍。2023年，拜登政府最终制定了旨在限制石油和天然气行业甲烷排放的规则。"
-      },
-      {
-       "en": "President Trump made the announcement while campaigning in Lubbock, Texas, Tuesday, saying his administration's revision, under the Clean Air Act, would save the industry billions in production costs and spur more domestic drilling. The proposal comes as Republicans face a backlash from voters over high gas prices heading into the midterms.",
-       "zh": "特朗普总统周二在德克萨斯州拉伯克竞选时宣布此事，称其政府根据《清洁空气法》修订将为行业节省数十亿美元的生产成本，并促进更多国内钻探。该提案出台之际，共和党面临选民对高昂天然气价格的强烈反弹，临近中期选举。"
-      },
-      {
-       "en": "\"Behind every barrel of oil and every cubic foot of natural gas produced in the U.S. are millions of workers, businesses, and the heartbeat of this nation's economy. The Biden EPA destructively targeted all this,\" EPA Administrator Lee Zeldin said in a press release.",
-       "zh": "美国环保局局长李·泽尔丁在一份新闻稿中表示：“在美国生产的每一桶石油和每一立方英尺的天然气背后，都有数百万工人、企业以及这个国家经济的脉搏。拜登政府的环保局以破坏性的方式针对了这一切。”"
-      },
-      {
-       "en": "The oil and gas industry, which vigorously opposed the 2023 rules, said EPA's proposed rollback will address some of the challenges companies have faced in trying to comply with the regulations.",
-       "zh": "积极反对2023年规则的石油和天然气行业表示，环保局提议的撤销将解决公司在尝试遵守这些法规时面临的部分挑战。"
-      },
-      {
-       "en": "\"We look forward to working with the Trump administration on a more workable approach that supports American energy production, provides greater regulatory certainty and advances continued emissions reductions,\" Dustin Meyer, vice president at the American Petroleum Institute, a trade organization for the U.S. oil and gas industry, said in a statement.",
-       "zh": "美国石油协会（一家美国石油和天然气行业的贸易组织）副总裁达斯汀·迈耶在一份声明中表示：“我们期待与特朗普政府合作，采取一种更可行的方法，支持美国能源生产，提供更大的监管确定性，并推进持续的减排。”"
-      },
-      {
-       "en": "But environmentalists say this may end up actually costing the industry more.",
-       "zh": "但环保人士表示，这实际上可能会让行业花费更多。"
-      },
-      {
-       "en": "\"Methane is natural gas, or natural gas is methane,\" says Jon Goldstein, associate vice president at the Environmental Defense Fund. \"And so if you're capturing more natural gas, you're not allowing it to leak out, you're not allowing it to be flared, you have more product that you can sell. And so that offsets a lot of the costs.\"",
-       "zh": "环境保护基金副总裁乔恩·戈德斯坦说：“甲烷就是天然气，或者说天然气就是甲烷。如果你捕获了更多的天然气，就不会让它泄漏，也不会让它被燃烧掉，你就有更多的产品可以出售。这就抵消了很多成本。”"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "administration",
-       "pos": "n.",
-       "zh": "政府；行政",
-       "ex": "The Trump administration is proposing to dramatically scale back a Biden-era rule that aimed to cut methane emissions from the oil and gas industry at drilling sites nationwide.",
-       "forms": []
-      },
-      {
-       "w": "propose",
-       "pos": "v.",
-       "zh": "提议；提出",
-       "ex": "The Trump administration is proposing to dramatically scale back a Biden-era rule that aimed to cut methane emissions from the oil and gas industry at drilling sites nationwide.",
-       "forms": [
-        "proposed",
-        "proposing"
-       ]
-      },
-      {
-       "w": "methane",
-       "pos": "n.",
-       "zh": "甲烷",
-       "ex": "The Trump administration is proposing to dramatically scale back a Biden-era rule that aimed to cut methane emissions from the oil and gas industry at drilling sites nationwide.",
-       "forms": []
-      },
-      {
-       "w": "emission",
-       "pos": "n.",
-       "zh": "排放；排放物",
-       "ex": "The Trump administration is proposing to dramatically scale back a Biden-era rule that aimed to cut methane emissions from the oil and gas industry at drilling sites nationwide.",
-       "forms": [
-        "emissions"
-       ]
-      },
-      {
-       "w": "oil",
-       "pos": "n.",
-       "zh": "石油",
-       "ex": "The Trump administration is proposing to dramatically scale back a Biden-era rule that aimed to cut methane emissions from the oil and gas industry at drilling sites nationwide.",
-       "forms": []
-      },
-      {
-       "w": "gas",
-       "pos": "n.",
-       "zh": "天然气；气体",
-       "ex": "The Trump administration is proposing to dramatically scale back a Biden-era rule that aimed to cut methane emissions from the oil and gas industry at drilling sites nationwide.",
-       "forms": []
-      },
-      {
-       "w": "industry",
-       "pos": "n.",
-       "zh": "行业；工业",
-       "ex": "The Trump administration is proposing to dramatically scale back a Biden-era rule that aimed to cut methane emissions from the oil and gas industry at drilling sites nationwide.",
-       "forms": []
-      },
-      {
-       "w": "climate",
-       "pos": "n.",
-       "zh": "气候",
-       "ex": "Methane is a major contributor to climate change and is estimated to be 80 times more planet-warming than carbon dioxide in a twenty-year time frame.",
-       "forms": []
-      },
-      {
-       "w": "change",
-       "pos": "n.",
-       "zh": "变化；改变",
-       "ex": "Methane is a major contributor to climate change and is estimated to be 80 times more planet-warming than carbon dioxide in a twenty-year time frame.",
-       "forms": []
-      },
-      {
-       "w": "estimate",
-       "pos": "n.",
-       "zh": "估计；估算",
-       "ex": "Methane is a major contributor to climate change and is estimated to be 80 times more planet-warming than carbon dioxide in a twenty-year time frame.",
-       "forms": [
-        "estimated"
-       ]
-      },
-      {
-       "w": "carbon",
-       "pos": "n.",
-       "zh": "碳",
-       "ex": "Methane is a major contributor to climate change and is estimated to be 80 times more planet-warming than carbon dioxide in a twenty-year time frame.",
-       "forms": []
-      },
-      {
-       "w": "president",
-       "pos": "n.",
-       "zh": "总统；总裁",
-       "ex": "President Trump made the announcement while campaigning in Lubbock, Texas, Tuesday, saying his administration's revision, under the Clean Air Act, would save the industry billions in production costs and spur more domestic drilling.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "administration",
-      "propose",
-      "methane",
-      "emission",
-      "oil"
-     ],
-     "keyVocab": [
-      "administration",
-      "propose",
-      "methane",
-      "emission",
-      "oil",
-      "gas",
-      "industry",
-      "climate"
-     ]
-    },
-    {
-     "id": "2026-11-06-culture",
-     "section": "Culture",
-     "sectionZh": "文化",
-     "title": "A judge blocks construction of Trump's arch moments after it won federal approval",
-     "dek": "A federal judge blocked construction of President Trump's arch early Friday morning, stopping work the administration had hoped to begin immediately.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/06/nx-s1-6031990/trump-arch-planning-commission-injunction",
-     "byline": "Rachel Treisman",
-     "dateLabel": "2026-11-06",
-     "words": 302,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "A federal judge blocked construction of President Trump's arch early Friday morning, stopping work the administration had hoped to begin immediately.",
-       "zh": "周五清晨，一名联邦法官阻止了特朗普总统拱门的建设，停止了政府原本希望立即开始的工作。"
-      },
-      {
-       "en": "Just before midnight, District Court Judge Tanya Chutkan issued an order barring the government from any construction work for 14 days, granting a request filed days earlier by the governments of D.C. and Virginia.",
-       "zh": "就在午夜前，地区法院法官Tanya Chutkan发布了一项命令，禁止政府进行任何建设工作，为期14天，这项命令是应华盛顿特区和弗吉尼亚州政府几天前提出的请求而批准的。"
-      },
-      {
-       "en": "She laid out her reasoning in a 33-page opinion, in which she scrutinized the administration's competing justifications for the arch — particularly its sudden emphasis on national security — and agreed that the local governments are likely to be harmed by its construction. The 250-foot arch would stand in Memorial Circle, a traffic island on the bridge linking the Lincoln Memorial to Arlington National Cemetery.",
-       "zh": "她在一份33页的意见书中阐述了她的推理，其中她仔细审查了政府对拱门提出的相互矛盾的理由——特别是其对国家安全突如其来的强调——并同意地方政府可能会因其建设而受到损害。这个250英尺高的拱门将矗立在纪念圆环上，该圆环是连接林肯纪念堂和阿灵顿国家公墓的大桥上的一个交通岛。"
-      },
-      {
-       "en": "Trump administration officials have said work would take place 20 hours a day, year-round, for two to three years. In addition to questioning the arch's legality, D.C. and Virginia argue the construction would cause all sorts of financial and logistical disruptions.",
-       "zh": "特朗普政府官员表示，这项工作将全年每天进行 20 小时，持续两到三年。除了质疑拱门的合法性，华盛顿特区和弗吉尼亚州还认为建设将引起各种财务和后勤方面的干扰。"
-      },
-      {
-       "en": "\"The threatened harms will materialize as soon as construction begins, in part because the traffic disruptions will occur immediately,\" Chutkan agreed.",
-       "zh": "Chutkan同意，“一旦施工开始，威胁的损害将立即显现，部分原因是交通中断将立即发生。”"
-      },
-      {
-       "en": "Chutkan's ruling came less than two hours after a federal planning commission packed with presidential allies granted final approval to the arch in an 8-4 vote. The National Capital Planning Commission heard nearly eight hours of impassioned pleas from veterans, lawmakers, residents and concerned citizens opposed to the structure.",
-       "zh": "Chutkan的裁决是在一个由总统盟友组成的联邦规划委员会以8比4投票最终批准拱门不到两小时后做出的。国家首都规划委员会听取了退伍军人、立法者、居民和反对该建筑的关切公民近八小时充满激情的呼吁。"
-      },
-      {
-       "en": "The Trump administration had previously told the court it could begin excavation work that same day, despite lacking authorization from Congress and an expanding legal challenge.",
-       "zh": "特朗普政府此前曾告诉法庭，尽管缺乏国会授权并面临日益扩大的法律挑战，但它可以在同一天开始挖掘工作。"
-      },
-      {
-       "en": "A group of Vietnam War veterans and an architectural historian sued the government earlier this year, arguing that an arch is unlawful without Congressional approval, which the administration has not sought. The Democratic governments of D.C. and Virginia jointly filed a similar lawsuit last weekend.",
-       "zh": "今年早些时候，一群越战老兵和一位建筑历史学家起诉了政府，认为拱门如果没有国会批准是违法的，而政府并未寻求该批准。上周末，华盛顿特区和弗吉尼亚州的民主党政府联合提起了类似的诉讼。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "federal",
-       "pos": "adj.",
-       "zh": "联邦的",
-       "ex": "A federal judge blocked construction of President Trump's arch early Friday morning, stopping work the administration had hoped to begin immediately.",
-       "forms": []
-      },
-      {
-       "w": "judge",
-       "pos": "n.",
-       "zh": "法官",
-       "ex": "A federal judge blocked construction of President Trump's arch early Friday morning, stopping work the administration had hoped to begin immediately.",
-       "forms": []
-      },
-      {
-       "w": "president",
-       "pos": "n.",
-       "zh": "总统；总裁",
-       "ex": "A federal judge blocked construction of President Trump's arch early Friday morning, stopping work the administration had hoped to begin immediately.",
-       "forms": []
-      },
-      {
-       "w": "administration",
-       "pos": "n.",
-       "zh": "政府；行政",
-       "ex": "A federal judge blocked construction of President Trump's arch early Friday morning, stopping work the administration had hoped to begin immediately.",
-       "forms": []
-      },
-      {
-       "w": "court",
-       "pos": "n.",
-       "zh": "法院；法庭",
-       "ex": "Just before midnight, District Court Judge Tanya Chutkan issued an order barring the government from any construction work for 14 days, granting a request filed days earlier by the governments of D.C.",
-       "forms": []
-      },
-      {
-       "w": "issue",
-       "pos": "n.",
-       "zh": "议题；问题",
-       "ex": "Just before midnight, District Court Judge Tanya Chutkan issued an order barring the government from any construction work for 14 days, granting a request filed days earlier by the governments of D.C.",
-       "forms": [
-        "issued"
-       ]
-      },
-      {
-       "w": "reason",
-       "pos": "n.",
-       "zh": "原因；理由",
-       "ex": "She laid out her reasoning in a 33-page opinion, in which she scrutinized the administration's competing justifications for the arch — particularly its sudden emphasis on national security — and agreed that the local governments are likely to be harmed by its construction.",
-       "forms": [
-        "reasoning"
-       ]
-      },
-      {
-       "w": "national",
-       "pos": "adj.",
-       "zh": "国家的；全国的",
-       "ex": "She laid out her reasoning in a 33-page opinion, in which she scrutinized the administration's competing justifications for the arch — particularly its sudden emphasis on national security — and agreed that the local governments are likely to be harmed by its construction.",
-       "forms": []
-      },
-      {
-       "w": "local",
-       "pos": "adj.",
-       "zh": "当地的",
-       "ex": "She laid out her reasoning in a 33-page opinion, in which she scrutinized the administration's competing justifications for the arch — particularly its sudden emphasis on national security — and agreed that the local governments are likely to be harmed by its construction.",
-       "forms": []
-      },
-      {
-       "w": "official",
-       "pos": "n.",
-       "zh": "官员；adj. 官方的",
-       "ex": "Trump administration officials have said work would take place 20 hours a day, year-round, for two to three years.",
-       "forms": [
-        "officials"
-       ]
-      },
-      {
-       "w": "argue",
-       "pos": "v.",
-       "zh": "主张；争论",
-       "ex": "and Virginia argue the construction would cause all sorts of financial and logistical disruptions.",
-       "forms": [
-        "arguing"
-       ]
-      },
-      {
-       "w": "financial",
-       "pos": "adj.",
-       "zh": "金融的；财务的",
-       "ex": "and Virginia argue the construction would cause all sorts of financial and logistical disruptions.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "federal",
-      "judge",
-      "president",
-      "administration",
-      "court"
-     ],
-     "keyVocab": [
-      "federal",
-      "judge",
-      "president",
-      "administration",
-      "court",
-      "issue",
-      "reason",
-      "national"
      ]
     }
    ]
