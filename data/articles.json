@@ -1,6 +1,763 @@
 {
- "updated": "2026-11-13T07:00:51.966438+00:00",
+ "updated": "2026-11-14T06:53:32.814339+00:00",
  "days": [
+  {
+   "date": "2026-11-14",
+   "articles": [
+    {
+     "id": "2026-11-14-world",
+     "section": "World",
+     "sectionZh": "国际",
+     "title": "What's Trump's strategy now with Iran? To keep things as they are",
+     "dek": "DUBAI, United Arab Emirates — President Trump is confronting new realities nine months into the war with Iran that leave him with dwindling options to ending the conflict.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
+     "byline": "Aya Batrawy",
+     "dateLabel": "2026-11-14",
+     "words": 253,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "DUBAI, United Arab Emirates — President Trump is confronting new realities nine months into the war with Iran that leave him with dwindling options to ending the conflict.",
+       "zh": "阿拉伯联合酋长国迪拜——与伊朗的战争已持续九个月，特朗普总统正面临新的现实，他结束这场冲突的选项越来越少。"
+      },
+      {
+       "en": "On Thursday, he waved away the need for a deal with Iran, saying the U.S. has billions of Iran's dollars frozen in overseas accounts.",
+       "zh": "周四，他否认了与伊朗达成协议的必要性，并表示美国在海外账户中冻结了伊朗数十亿美元的资金。"
+      },
+      {
+       "en": "\"We don't need a deal with Iran. Those days have long since passed. We've got their money,\" he wrote in a Truth Social post.",
+       "zh": "“我们不需要与伊朗达成协议。那些日子早已一去不复返了。我们拿到了他们的钱。”他在Truth Social上发帖写道。"
+      },
+      {
+       "en": "Negotiations with Iran are stuck with mediator Qatar working to bridge the divide. Trump met Qatar's prime minister at the White House this week, and said afterward that Gulf Arab allies prefer \"the status quo\" of continued economic pressure on Iran. He wrote that while the U.S. remains \"locked and loaded,\" an attack at this point \"seems to be quite unlikely.\"",
+       "zh": "与伊朗的谈判陷入僵局，调解国卡塔尔正努力弥合分歧。本周，特朗普在白宫会见了卡塔尔首相，会后表示，海湾阿拉伯盟友更倾向于继续对伊朗施加经济压力的“现状”。他写道，虽然美国仍然“严阵以待”，但目前看来“发动袭击的可能性相当小”。"
+      },
+      {
+       "en": "That's a pivot from his threats to carry out quick, intense strikes on Iran in the days before he had to contend with two election setbacks.",
+       "zh": "这是他从威胁要在其不得不应对两次选举挫折的前几天对伊朗发动快速、猛烈打击的立场上发生的转变。"
+      },
+      {
+       "en": "Trump's wartime ally, Israeli Prime Minister Benjamin Netanyahu, whom he'd thrown his support behind, is on the cusp of being ousted from power after elections there.",
+       "zh": "特朗普在战争时期的盟友、以色列总理本雅明·内塔尼亚胡（Benjamin Netanyahu）得到了他的支持，但在以色列大选后即将被赶下台。"
+      },
+      {
+       "en": "Meanwhile, at home, Trump's party lost its majority in Congress in midterm elections. Vice President Vance blamed Republican losses on the unpopular war with Iran and the nature of U.S. relations with Israel.",
+       "zh": "与此同时，在国内，特朗普的政党在中期选举中失去了国会多数席位。万斯副总统将共和党的失利归咎于不受欢迎的对伊战争以及美国与以色列关系的性质。"
+      },
+      {
+       "en": "With less room to room maneuver and Iran still defiant, Trump's strategy appears to be to keep things as they are, for now. That means the possibility of escalation still looms.",
+       "zh": "由于回旋余地较小，且伊朗仍态度强硬，特朗普的策略似乎是暂时维持现状。这意味着局势升级的可能性仍然存在。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "DUBAI, United Arab Emirates — President Trump is confronting new realities nine months into the war with Iran that leave him with dwindling options to ending the conflict.",
+       "forms": []
+      },
+      {
+       "w": "conflict",
+       "pos": "n.",
+       "zh": "冲突",
+       "ex": "DUBAI, United Arab Emirates — President Trump is confronting new realities nine months into the war with Iran that leave him with dwindling options to ending the conflict.",
+       "forms": []
+      },
+      {
+       "w": "billion",
+       "pos": "n.",
+       "zh": "十亿",
+       "ex": "has billions of Iran's dollars frozen in overseas accounts.",
+       "forms": [
+        "billions"
+       ]
+      },
+      {
+       "w": "social",
+       "pos": "adj.",
+       "zh": "社会的；社交的",
+       "ex": "We've got their money,\" he wrote in a Truth Social post.",
+       "forms": []
+      },
+      {
+       "w": "negotiation",
+       "pos": "n.",
+       "zh": "谈判；协商",
+       "ex": "Negotiations with Iran are stuck with mediator Qatar working to bridge the divide.",
+       "forms": [
+        "negotiations"
+       ]
+      },
+      {
+       "w": "minister",
+       "pos": "n.",
+       "zh": "部长；大臣",
+       "ex": "Trump met Qatar's prime minister at the White House this week, and said afterward that Gulf Arab allies prefer \"the status quo\" of continued economic pressure on Iran.",
+       "forms": []
+      },
+      {
+       "w": "economic",
+       "pos": "adj.",
+       "zh": "经济的",
+       "ex": "Trump met Qatar's prime minister at the White House this week, and said afterward that Gulf Arab allies prefer \"the status quo\" of continued economic pressure on Iran.",
+       "forms": []
+      },
+      {
+       "w": "threat",
+       "pos": "n.",
+       "zh": "威胁",
+       "ex": "remains \"locked and loaded,\" an attack at this point \"seems to be quite unlikely.\" That's a pivot from his threats to carry out quick, intense strikes on Iran in the days before he had to contend with two election setbacks.",
+       "forms": [
+        "threats"
+       ]
+      },
+      {
+       "w": "strike",
+       "pos": "n.",
+       "zh": "罢工；打击",
+       "ex": "remains \"locked and loaded,\" an attack at this point \"seems to be quite unlikely.\" That's a pivot from his threats to carry out quick, intense strikes on Iran in the days before he had to contend with two election setbacks.",
+       "forms": [
+        "strikes"
+       ]
+      },
+      {
+       "w": "election",
+       "pos": "n.",
+       "zh": "选举",
+       "ex": "remains \"locked and loaded,\" an attack at this point \"seems to be quite unlikely.\" That's a pivot from his threats to carry out quick, intense strikes on Iran in the days before he had to contend with two election setbacks.",
+       "forms": [
+        "elections"
+       ]
+      },
+      {
+       "w": "support",
+       "pos": "v.",
+       "zh": "支持",
+       "ex": "Trump's wartime ally, Israeli Prime Minister Benjamin Netanyahu, whom he'd thrown his support behind, is on the cusp of being ousted from power after elections there.",
+       "forms": []
+      },
+      {
+       "w": "power",
+       "pos": "n.",
+       "zh": "权力；电力",
+       "ex": "Trump's wartime ally, Israeli Prime Minister Benjamin Netanyahu, whom he'd thrown his support behind, is on the cusp of being ousted from power after elections there.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "president",
+      "conflict",
+      "billion",
+      "social",
+      "negotiation"
+     ],
+     "keyVocab": [
+      "president",
+      "conflict",
+      "billion",
+      "social",
+      "negotiation",
+      "minister",
+      "economic",
+      "threat"
+     ]
+    },
+    {
+     "id": "2026-11-14-business",
+     "section": "Business",
+     "sectionZh": "商业 · 财经",
+     "title": "Is there an opening for Nvidia's competitors, now that Jensen Huang is out?",
+     "dek": "NPR's Scott Detrow talks with Dylan Patel of the AI and semiconductor research firm SemiAnalysis about Jensen Huang's departure from Nvidia, and whether it opens up the field for Nvidia's competitors.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/13/nx-s1-6040264/is-there-an-opening-for-nvidias-competitors-now-that-jensen-huang-is-out",
+     "byline": "Kai McNamee",
+     "dateLabel": "2026-11-14",
+     "words": 562,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "NPR's Scott Detrow talks with Dylan Patel of the AI and semiconductor research firm SemiAnalysis about Jensen Huang's departure from Nvidia, and whether it opens up the field for Nvidia's competitors.",
+       "zh": "NPR的Scott Detrow与人工智能和半导体研究公司SemiAnalysis的Dylan Patel讨论了Jensen Huang离开英伟达一事，以及这是否为英伟达的竞争对手打开了局面。"
+      },
+      {
+       "en": "Nvidia has long been the kingpin of the semiconductor industry, a company whose huge technological bets paid off, making its chips the most in-demand chips in the world and crowning the company, for a time, the most valuable in the world. But with Nvidia's leader, Jensen Huang, out, does that leave an opening for Nvidia's competitors to catch up? We're going to put that question to Dylan Patel. He is founder and CEO of SemiAnalysis, an AI and semiconductor research firm. Welcome to ALL THINGS CONSIDERED.",
+       "zh": "英伟达长期以来一直是半导体行业的龙头老大，该公司的大胆技术押注获得了回报，使其芯片成为全球最受欢迎的芯片，并一度使该公司成为全球市值最高的公司。但是，随着英伟达的掌门人黄仁勋的离场，这是否为英伟达的竞争对手提供了赶超的机会？我们将向Dylan Patel提出这个问题。他是人工智能和半导体研究公司SemiAnalysis的创始人兼首席执行官。欢迎收听《ALL THINGS CONSIDERED》。"
+      },
+      {
+       "en": "DETROW: So you and others have estimated Nvidia is probably a year, two years ahead of its competitors. With Huang out, can other companies catch up?",
+       "zh": "DETROW：所以，您和其他人估计，英伟达可能比竞争对手领先一两年。黄仁勋离任后，其他公司能赶上吗？"
+      },
+      {
+       "en": "PATEL: I think that's the biggest risk at least. Over the last, you know, handful of years, Nvidia's lead has actually lessened, and so therefore, they've lost market share, albeit, the market has grown so fast, Nvidia's revenue and profits have skyrocketed so fast. But now, with, you know, many barbarians at the gate, when sort of Jensen is needed most, he sort of is disappearing or (inaudible) the game.",
+       "zh": "PATEL：我认为这至少是最大的风险。在过去的几年里，Nvidia的领先优势实际上有所缩小，因此，他们失去了市场份额，尽管市场增长非常快，Nvidia的收入和利润也飙升得非常快。但现在，你知道的，门外有许多野蛮人，在最需要Jensen的时候，他似乎在消失或（听不清）这场游戏。"
+      },
+      {
+       "en": "PATEL: I think most - the most to the company. The industry has for a long time tried to roll their own solution, you know, at least as far as the biggest customers. Google, Microsoft, Meta, Amazon all have been working on their own AI chips for, you know, a number of years. And yet, they all still relied on Nvidia. But their reliance is reducing to some extent, and that's their goal and has been their goal. And now, you know, the only way Nvidia can keep their market share and stay on top of the world is if they out execute everyone - right? - they keep innovating and bringing new technology to the market. But without Jensen, you know, the founder and the visionary of the company, it's going to be a lot harder for them to keep on top.",
+       "zh": "PATEL：我认为对公司来说影响最大。长期以来，业界一直在尝试推出自己的解决方案，至少就最大的客户而言是这样。谷歌、微软、Meta、亚马逊都在开发自己的AI芯片，已经有好几年了。然而，他们仍然都依赖英伟达。但他们的依赖程度正在一定程度上降低，这就是他们的目标，也一直是他们的目标。现在，你知道，Nvidia能够保持其市场份额并稳居世界巅峰的唯一途径就是超越所有竞争对手——对吧？他们不断创新，并将新技术推向市场。但如果没有Jensen——公司的创始人兼有远见的领导者——他们将很难继续保持领先地位。"
+      },
+      {
+       "en": "DETROW: One of the things you've written about that I think is really important to understand is the way that - like, sometimes I feel like a CEO's role in a company is overblown. But how much came to (ph) his personal decisions, his personal decision-making? Let's talk about this first on the supply side. How was his personal relationships with supply chain managers in Korea and Taiwan so key to Nvidia getting what it needed?",
+       "zh": "DETROW：您写过的一些内容中，我认为非常需要理解的一点是——比如，有时我觉得CEO在公司中的作用被夸大了。但是，他的个人决定、他的个人决策起到了多大作用？我们先从供应端谈起。他与韩国和台湾供应链经理的个人关系为何对英伟达获得所需资源如此关键？"
+      },
+      {
+       "en": "PATEL: There's no other company in the supply chain, including in the semiconductor supply chain, where the CEO is, every quarter, meeting with all his suppliers. And, you know, chips are such a complex supply chain. He has hundreds of suppliers. He's talking to every single one of them, going to Korea, going to Taiwan, going to China, meeting, having drinks with them, going to local fried chicken spots, or, you know, night food markets, everything to woo them. And given this is such a complex industry where, you know, products are improving by 2x a year - right? - it's at an incredible pace - you need your suppliers to have full focus and put their best engineers on your product. And this just keeps Nvidia ahead of everyone.",
+       "zh": "PATEL：在供应链中，包括半导体供应链中，没有哪家公司的首席执行官会每个季度都与所有供应商会面。你知道的，芯片的供应链非常复杂。他有数百家供应商。他与他们中的每一个人都进行了交谈，去了韩国、台湾、中国，与他们见面、一起喝酒，去当地的炸鸡店，或者，你知道的，去夜市，总之就是想尽一切办法来吸引他们。而且，考虑到这是一个非常复杂的行业，产品每年都在以两倍的速度改进——对吧？——速度快得令人难以置信——你需要供应商全力以赴，派出他们最优秀的工程师来负责你的产品。这让英伟达一直遥遥领先。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "semiconductor",
+       "pos": "n.",
+       "zh": "半导体",
+       "ex": "NPR's Scott Detrow talks with Dylan Patel of the AI and semiconductor research firm SemiAnalysis about Jensen Huang's departure from Nvidia, and whether it opens up the field for Nvidia's competitors.",
+       "forms": []
+      },
+      {
+       "w": "research",
+       "pos": "n.",
+       "zh": "研究",
+       "ex": "NPR's Scott Detrow talks with Dylan Patel of the AI and semiconductor research firm SemiAnalysis about Jensen Huang's departure from Nvidia, and whether it opens up the field for Nvidia's competitors.",
+       "forms": []
+      },
+      {
+       "w": "industry",
+       "pos": "n.",
+       "zh": "行业；工业",
+       "ex": "Nvidia has long been the kingpin of the semiconductor industry, a company whose huge technological bets paid off, making its chips the most in-demand chips in the world and crowning the company, for a time, the most valuable in the world.",
+       "forms": []
+      },
+      {
+       "w": "chip",
+       "pos": "n.",
+       "zh": "芯片",
+       "ex": "Nvidia has long been the kingpin of the semiconductor industry, a company whose huge technological bets paid off, making its chips the most in-demand chips in the world and crowning the company, for a time, the most valuable in the world.",
+       "forms": [
+        "chips"
+       ]
+      },
+      {
+       "w": "leader",
+       "pos": "n.",
+       "zh": "领导人",
+       "ex": "But with Nvidia's leader, Jensen Huang, out, does that leave an opening for Nvidia's competitors to catch up?",
+       "forms": []
+      },
+      {
+       "w": "estimate",
+       "pos": "n.",
+       "zh": "估计；估算",
+       "ex": "DETROW: So you and others have estimated Nvidia is probably a year, two years ahead of its competitors.",
+       "forms": [
+        "estimated"
+       ]
+      },
+      {
+       "w": "risk",
+       "pos": "n.",
+       "zh": "风险",
+       "ex": "PATEL: I think that's the biggest risk at least.",
+       "forms": []
+      },
+      {
+       "w": "market",
+       "pos": "n.",
+       "zh": "市场",
+       "ex": "Over the last, you know, handful of years, Nvidia's lead has actually lessened, and so therefore, they've lost market share, albeit, the market has grown so fast, Nvidia's revenue and profits have skyrocketed so fast.",
+       "forms": [
+        "markets"
+       ]
+      },
+      {
+       "w": "revenue",
+       "pos": "n.",
+       "zh": "收入；营收",
+       "ex": "Over the last, you know, handful of years, Nvidia's lead has actually lessened, and so therefore, they've lost market share, albeit, the market has grown so fast, Nvidia's revenue and profits have skyrocketed so fast.",
+       "forms": []
+      },
+      {
+       "w": "profit",
+       "pos": "n.",
+       "zh": "利润",
+       "ex": "Over the last, you know, handful of years, Nvidia's lead has actually lessened, and so therefore, they've lost market share, albeit, the market has grown so fast, Nvidia's revenue and profits have skyrocketed so fast.",
+       "forms": [
+        "profits"
+       ]
+      },
+      {
+       "w": "skyrocket",
+       "pos": "v.",
+       "zh": "飞涨；猛升",
+       "ex": "Over the last, you know, handful of years, Nvidia's lead has actually lessened, and so therefore, they've lost market share, albeit, the market has grown so fast, Nvidia's revenue and profits have skyrocketed so fast.",
+       "forms": [
+        "skyrocketed"
+       ]
+      },
+      {
+       "w": "solution",
+       "pos": "n.",
+       "zh": "解决方案",
+       "ex": "The industry has for a long time tried to roll their own solution, you know, at least as far as the biggest customers.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "semiconductor",
+      "research",
+      "industry",
+      "chip",
+      "leader"
+     ],
+     "keyVocab": [
+      "semiconductor",
+      "research",
+      "industry",
+      "chip",
+      "leader",
+      "estimate",
+      "risk",
+      "market"
+     ]
+    },
+    {
+     "id": "2026-11-14-technology",
+     "section": "Technology",
+     "sectionZh": "科技",
+     "title": "Microsoft outage disrupts work and gives some a chance to unplug",
+     "dek": "Millions of individuals, organizations and businesses were left without access to Microsoft's Outlook email on Thursday. Some people celebrated a day without email, while others work around obstacles.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/13/nx-s1-6040004/microsoft-outage-disrupts-work-and-gives-some-a-chance-to-unplug",
+     "byline": "Andrea Hsu",
+     "dateLabel": "2026-11-14",
+     "words": 282,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "Millions of individuals, organizations and businesses were left without access to Microsoft's Outlook email on Thursday. Some people celebrated a day without email, while others work around obstacles.",
+       "zh": "周四，数百万个人、组织和企业无法访问微软的Outlook电子邮件。有些人欢庆没有电子邮件的一天，而其他人则想方设法克服障碍。"
+      },
+      {
+       "en": "Microsoft says it is seeing broad recovery and stability following a massive outage of its Outlook email system and other applications yesterday. The company says it was a technical issue not related to AI agents. The outage hit millions of Microsoft users in more than 70 countries. NPR workplace correspondent Andrea Hsu hit the phones to find out how people weathered the disruption.",
+       "zh": "微软表示，在昨天其Outlook电子邮件系统和其他应用程序发生大规模宕机之后，目前正在全面恢复并趋于稳定。该公司表示，这是一个与AI代理无关的技术问题。这次服务中断影响了70多个国家/地区的数百万微软用户。NPR工作场所记者Andrea Hsu拨打电话，了解人们是如何应对这次服务中断的。"
+      },
+      {
+       "en": "ANDREA HSU, BYLINE: As president of the Global Healthy Living Foundation, Seth Ginsberg spends long days communicating with patients, doctors and government officials in the U.S., as well as Canada, Australia and Japan.",
+       "zh": "ANDREA HSU，署名：作为全球健康生活基金会（Global Healthy Living Foundation）的总裁，Seth Ginsberg每天花很长时间与美国、加拿大、澳大利亚和日本的患者、医生和政府官员沟通。"
+      },
+      {
+       "en": "HSU: Some 200 emails a day. But starting midday yesterday, for 20 hours, he heard nothing. For someone who's dedicated his career to improving the quality of life for people with chronic illnesses, it was jarring.",
+       "zh": "HSU：每天大约200封电子邮件。但从昨天中午开始，整整20个小时，他都没有收到任何消息。对于一个毕生致力于改善慢性病患者生活质量的人来说，这令人不安。"
+      },
+      {
+       "en": "GINSBERG: It was almost like an existential crisis because I went from feeling incredibly productive to wondering whether anyone needed me anymore.",
+       "zh": "GINSBERG：这几乎像是一场存在主义危机，因为我从感觉自己富有创造力，变成了怀疑是否还有人需要我。"
+      },
+      {
+       "en": "HSU: Once his tech team assured him that his emails would come through eventually, he settled in with pad and paper, worked on some follow-up notes from a rheumatology conference last week.",
+       "zh": "HSU：在技术团队向他保证电子邮件最终会送达后，他坐下来，拿起记事本和纸笔，开始整理上周风湿病学会议的一些后续笔记。"
+      },
+      {
+       "en": "GINSBERG: The funny part is how we're all so conditioned to respond to email that when it stops, we assume something terrible has happened. And apparently now, like, peace and quiet is a technical malfunction.",
+       "zh": "GINSBERG：有趣的是，我们都习惯于回复电子邮件，以至于当电子邮件停止时，我们会以为发生了什么可怕的事情。现在看来，宁静祥和似乎是一种技术故障。"
+      },
+      {
+       "en": "HSU: Now, even without email, people couldn't stay away from their devices. Social media was flooded with posts. On TikTok, Reba McEntire shared a song as she wondered why her inbox was quiet.",
+       "zh": "HSU：现在，即使没有电子邮件，人们也离不开自己的设备。社交媒体上充斥着各种帖子。在TikTok上，Reba McEntire分享了一首歌，同时她也想知道为什么她的收件箱里没有新邮件。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "million",
+       "pos": "n.",
+       "zh": "百万",
+       "ex": "Millions of individuals, organizations and businesses were left without access to Microsoft's Outlook email on Thursday.",
+       "forms": [
+        "millions"
+       ]
+      },
+      {
+       "w": "outlook",
+       "pos": "n.",
+       "zh": "前景；展望",
+       "ex": "Millions of individuals, organizations and businesses were left without access to Microsoft's Outlook email on Thursday.",
+       "forms": []
+      },
+      {
+       "w": "recovery",
+       "pos": "n.",
+       "zh": "复苏；恢复",
+       "ex": "Microsoft says it is seeing broad recovery and stability following a massive outage of its Outlook email system and other applications yesterday.",
+       "forms": []
+      },
+      {
+       "w": "issue",
+       "pos": "n.",
+       "zh": "议题；问题",
+       "ex": "The company says it was a technical issue not related to AI agents.",
+       "forms": []
+      },
+      {
+       "w": "disruption",
+       "pos": "n.",
+       "zh": "颠覆；中断；扰乱",
+       "ex": "NPR workplace correspondent Andrea Hsu hit the phones to find out how people weathered the disruption.",
+       "forms": []
+      },
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "ANDREA HSU, BYLINE: As president of the Global Healthy Living Foundation, Seth Ginsberg spends long days communicating with patients, doctors and government officials in the U.S., as well as Canada, Australia and Japan.",
+       "forms": []
+      },
+      {
+       "w": "global",
+       "pos": "adj.",
+       "zh": "全球的",
+       "ex": "ANDREA HSU, BYLINE: As president of the Global Healthy Living Foundation, Seth Ginsberg spends long days communicating with patients, doctors and government officials in the U.S., as well as Canada, Australia and Japan.",
+       "forms": []
+      },
+      {
+       "w": "patient",
+       "pos": "n.",
+       "zh": "病人；患者",
+       "ex": "ANDREA HSU, BYLINE: As president of the Global Healthy Living Foundation, Seth Ginsberg spends long days communicating with patients, doctors and government officials in the U.S., as well as Canada, Australia and Japan.",
+       "forms": [
+        "patients"
+       ]
+      },
+      {
+       "w": "doctor",
+       "pos": "n.",
+       "zh": "医生",
+       "ex": "ANDREA HSU, BYLINE: As president of the Global Healthy Living Foundation, Seth Ginsberg spends long days communicating with patients, doctors and government officials in the U.S., as well as Canada, Australia and Japan.",
+       "forms": [
+        "doctors"
+       ]
+      },
+      {
+       "w": "official",
+       "pos": "n.",
+       "zh": "官员；adj. 官方的",
+       "ex": "ANDREA HSU, BYLINE: As president of the Global Healthy Living Foundation, Seth Ginsberg spends long days communicating with patients, doctors and government officials in the U.S., as well as Canada, Australia and Japan.",
+       "forms": [
+        "officials"
+       ]
+      },
+      {
+       "w": "career",
+       "pos": "n.",
+       "zh": "职业；生涯",
+       "ex": "For someone who's dedicated his career to improving the quality of life for people with chronic illnesses, it was jarring.",
+       "forms": []
+      },
+      {
+       "w": "device",
+       "pos": "n.",
+       "zh": "设备；装置",
+       "ex": "HSU: Now, even without email, people couldn't stay away from their devices.",
+       "forms": [
+        "devices"
+       ]
+      }
+     ],
+     "homeWords": [
+      "million",
+      "outlook",
+      "recovery",
+      "issue",
+      "disruption"
+     ],
+     "keyVocab": [
+      "million",
+      "outlook",
+      "recovery",
+      "issue",
+      "disruption",
+      "president",
+      "global",
+      "patient"
+     ]
+    },
+    {
+     "id": "2026-11-14-science",
+     "section": "Science",
+     "sectionZh": "科学",
+     "title": "Plans for a data center threaten scenic wilderness and dark skies in West Virginia",
+     "dek": "DAVIS, W.Va. — Stretching nearly a million acres through the rugged mountains of eastern West Virginia, the Monongahela National Forest links some of the state's best known natural attractions.…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/10/31/nx-s1-5992790/data-centers-west-virginia-skiing-dark-skies",
+     "byline": "Scott Neuman",
+     "dateLabel": "2026-11-14",
+     "words": 356,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "DAVIS, W.Va. — Stretching nearly a million acres through the rugged mountains of eastern West Virginia, the Monongahela National Forest links some of the state's best known natural attractions. The vast area ranges from the ski slopes of Canaan Valley to the dark skies of Blackwater Falls and Spruce Knob and includes the small towns of Davis and Thomas that serve as gateways for visitors to the region.",
+       "zh": "西弗吉尼亚州戴维斯——莫农加希拉国家森林绵延近100万英亩，横亘于西弗吉尼亚州东部的崎岖山脉之间，将该州一些最著名的自然景点串联起来。这片广阔的区域从迦南谷的滑雪坡道一直延伸到黑水瀑布和云杉秃顶的黑暗天空，并包括戴维斯和托马斯这两个小镇，它们是游客进入该地区的门户。"
+      },
+      {
+       "en": "For the past seven months, Kaleb Skelton, his wife, Ella, their 2-year-old son, Ryder, and dog Mabel have lived in a camper in this corner of West Virginia's \"almost heaven.\" Kaleb is finishing a seasonal stint as a campground manager on a lake near Spruce Knob, the state's highest point.",
+       "zh": "在过去的七个月里，Kaleb Skelton、他的妻子Ella、他们2岁的儿子Ryder以及狗狗Mabel一直住在西弗吉尼亚州“近乎天堂”一隅的一辆露营车里。Kaleb即将结束在斯普鲁斯诺布（该州最高点）附近一个湖畔露营地担任季节性经理的工作。"
+      },
+      {
+       "en": "On clear nights atop the isolated peak, they get to experience a river of stars in one of the very few pockets of darkness remaining in the Eastern United States. The area has become a draw for amateur astronomers.",
+       "zh": "在晴朗的夜晚，他们站在这座与世隔绝的山巅上，可以欣赏到星河灿烂，这里是美国东部为数不多的几处黑暗之地之一。该地区已成为吸引业余天文学家的胜地。"
+      },
+      {
+       "en": "During summer's new moons, Kaleb says, one in four campsites he oversees is occupied by someone with a telescope. He thought his family's cabin in eastern Texas offered \"the craziest\" dark skies he'd ever seen, \"but coming out here definitely rivals it.\"",
+       "zh": "Kaleb说，在夏季的新月期间，他负责的营地中每四处就有一处被带着望远镜的人占据。他认为，他家位于德克萨斯州东部的小木屋能看到他有生以来「最令人惊叹」的夜空，「但来到这里，这里的夜空绝对不遑多让。」"
+      },
+      {
+       "en": "Those inky-black nights — and the natural beauty they shelter — are now under threat from what many residents see as a modern-day version of extractive industries like logging and mining that once defined the region. In a place where tourism, outdoor recreation and community are deeply intertwined, a gigantic power plant and data center campus in nearby Tucker County would bring large-scale development into the heart of it all.",
+       "zh": "那些漆黑的夜晚，以及它们所庇护的自然美景，如今正受到许多居民眼中现代版采掘业的威胁，这些采掘业包括伐木和采矿，它们曾是该地区的标志性产业。在一个旅游业、户外休闲和社区紧密交织的地方，位于附近塔克县的一座庞大的发电厂和数据中心园区将把大规模开发带入这一切的核心。"
+      },
+      {
+       "en": "A stark image of the town of Davis from 1885, during the heyday of logging, is a reminder of that transformation. The photo shows a handful of squat buildings amid a broad clearing littered with forest remains.",
+       "zh": "一张摄于 1885 年（伐木业鼎盛时期）的戴维斯镇照片生动地再现了那段变革历史。照片中，几栋矮矮的建筑坐落在宽阔的空地上，四周散落着森林的残骸。"
+      },
+      {
+       "en": "They used to call it \"Stump Town,\" says Kim Williams, president of the Snow Sports Museum of West Virginia in Canaan Valley. At the turn of the century, massive first-growth trees dominated the landscape.",
+       "zh": "西弗吉尼亚州卡南谷雪上运动博物馆馆长金·威廉斯（Kim Williams）说：“他们以前管这里叫‘树桩镇’。” 在世纪之交，高大的原生林树木主宰着这片景观。"
+      },
+      {
+       "en": "Then, logging companies \"came in and clear-cut the whole valley and everything around it,\" he says.",
+       "zh": "然后，伐木公司“进驻并砍伐了整个山谷及其周围的一切”，他说。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "million",
+       "pos": "n.",
+       "zh": "百万",
+       "ex": "— Stretching nearly a million acres through the rugged mountains of eastern West Virginia, the Monongahela National Forest links some of the state's best known natural attractions.",
+       "forms": []
+      },
+      {
+       "w": "national",
+       "pos": "adj.",
+       "zh": "国家的；全国的",
+       "ex": "— Stretching nearly a million acres through the rugged mountains of eastern West Virginia, the Monongahela National Forest links some of the state's best known natural attractions.",
+       "forms": []
+      },
+      {
+       "w": "forest",
+       "pos": "n.",
+       "zh": "森林",
+       "ex": "— Stretching nearly a million acres through the rugged mountains of eastern West Virginia, the Monongahela National Forest links some of the state's best known natural attractions.",
+       "forms": []
+      },
+      {
+       "w": "vast",
+       "pos": "adj.",
+       "zh": "巨大的；广阔的",
+       "ex": "The vast area ranges from the ski slopes of Canaan Valley to the dark skies of Blackwater Falls and Spruce Knob and includes the small towns of Davis and Thomas that serve as gateways for visitors to the region.",
+       "forms": []
+      },
+      {
+       "w": "fall",
+       "pos": "n.",
+       "zh": "下降；下跌",
+       "ex": "The vast area ranges from the ski slopes of Canaan Valley to the dark skies of Blackwater Falls and Spruce Knob and includes the small towns of Davis and Thomas that serve as gateways for visitors to the region.",
+       "forms": [
+        "falls"
+       ]
+      },
+      {
+       "w": "region",
+       "pos": "n.",
+       "zh": "地区；区域",
+       "ex": "The vast area ranges from the ski slopes of Canaan Valley to the dark skies of Blackwater Falls and Spruce Knob and includes the small towns of Davis and Thomas that serve as gateways for visitors to the region.",
+       "forms": []
+      },
+      {
+       "w": "rival",
+       "pos": "v.",
+       "zh": "与……竞争；媲美",
+       "ex": "He thought his family's cabin in eastern Texas offered \"the craziest\" dark skies he'd ever seen, \"but coming out here definitely rivals it.\" Those inky-black nights — and the natural beauty they shelter — are now under threat from what many residents see as a modern-day version of extractive industries like logging and mining that once defined the region.",
+       "forms": [
+        "rivals"
+       ]
+      },
+      {
+       "w": "threat",
+       "pos": "n.",
+       "zh": "威胁",
+       "ex": "He thought his family's cabin in eastern Texas offered \"the craziest\" dark skies he'd ever seen, \"but coming out here definitely rivals it.\" Those inky-black nights — and the natural beauty they shelter — are now under threat from what many residents see as a modern-day version of extractive industries like logging and mining that once defined the region.",
+       "forms": []
+      },
+      {
+       "w": "resident",
+       "pos": "n.",
+       "zh": "居民",
+       "ex": "He thought his family's cabin in eastern Texas offered \"the craziest\" dark skies he'd ever seen, \"but coming out here definitely rivals it.\" Those inky-black nights — and the natural beauty they shelter — are now under threat from what many residents see as a modern-day version of extractive industries like logging and mining that once defined the region.",
+       "forms": [
+        "residents"
+       ]
+      },
+      {
+       "w": "industry",
+       "pos": "n.",
+       "zh": "行业；工业",
+       "ex": "He thought his family's cabin in eastern Texas offered \"the craziest\" dark skies he'd ever seen, \"but coming out here definitely rivals it.\" Those inky-black nights — and the natural beauty they shelter — are now under threat from what many residents see as a modern-day version of extractive industries like logging and mining that once defined the region.",
+       "forms": [
+        "industries"
+       ]
+      },
+      {
+       "w": "community",
+       "pos": "n.",
+       "zh": "社区；群体",
+       "ex": "In a place where tourism, outdoor recreation and community are deeply intertwined, a gigantic power plant and data center campus in nearby Tucker County would bring large-scale development into the heart of it all.",
+       "forms": []
+      },
+      {
+       "w": "power",
+       "pos": "n.",
+       "zh": "权力；电力",
+       "ex": "In a place where tourism, outdoor recreation and community are deeply intertwined, a gigantic power plant and data center campus in nearby Tucker County would bring large-scale development into the heart of it all.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "million",
+      "national",
+      "forest",
+      "vast",
+      "fall"
+     ],
+     "keyVocab": [
+      "million",
+      "national",
+      "forest",
+      "vast",
+      "fall",
+      "region",
+      "rival",
+      "threat"
+     ]
+    },
+    {
+     "id": "2026-11-14-culture",
+     "section": "Culture",
+     "sectionZh": "文化",
+     "title": "In different ways, these 2 new films take on the craft and the business of filmmaking",
+     "dek": "Pedro Almodovar's Bitter Christmas and Peter Farrelly's I Play Rocky are dramas that depict filmmakers creating films. Though different in style, they have much in common.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/13/nx-s1-6034398/in-different-ways-these-2-new-films-take-on-the-craft-and-the-business-of-filmmaking",
+     "byline": "Bob Mondello",
+     "dateLabel": "2026-11-14",
+     "words": 322,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "Pedro Almodovar's Bitter Christmas and Peter Farrelly's I Play Rocky are dramas that depict filmmakers creating films. Though different in style, they have much in common.",
+       "zh": "佩德罗·阿莫多瓦的《苦涩的圣诞节》和彼得·法拉利的《我扮演洛奇》都是描写电影人创作电影的剧情片。虽然风格不同，但它们有很多共同之处。"
+      },
+      {
+       "en": "Write what you know is probably the most time-honored advice you can give a storyteller. Maybe these days, it should be film what you know.",
+       "zh": "“写你所知道的”可能是你能给一个讲故事的人最经久不衰的建议。也许在如今这个时代，它应该变成“拍摄你所知道的”。"
+      },
+      {
+       "en": "UNIDENTIFIED ACTOR: (As character) Cut. All right, we're moving in.",
+       "zh": "身份不明的演员：（扮演角色）停。好了，我们要进去了。"
+      },
+      {
+       "en": "PFEIFFER: Critic Bob Mondello says that's what moviemakers are doing in two new films about filmmaking, \"Bitter Christmas\" and \"I Play Rocky.\"",
+       "zh": "PFEIFFER：影评人鲍勃·蒙德洛（Bob Mondello）说，这就是电影制片人在两部关于电影制作的新片《苦涩的圣诞节》（Bitter Christmas）和《我演洛奇》（I Play Rocky）中所做的事情。"
+      },
+      {
+       "en": "BOB MONDELLO, BYLINE: At the beginning of \"Bitter Christmas,\" we hear the sound of typing on a keyboard as the words - a film by Almodóvar - appear on the screen, and that clickety-click keeps returning because the folks we're watching, a filmmaker named Elsa and her firefighter boyfriend Bo, are fictional characters in a movie that's being written by Raúl, a real filmmaker. Well, real being relative, of course, since Raúl is himself a fictional character created by Almodóvar. The plot turns on how moviemakers inevitably use what they see around them and maybe shouldn't. The fictional Elsa, for instance, models her new script on the failing marriage of a friend, which of course, infuriates the friend.",
+       "zh": "BOB MONDELLO，署名：在《苦涩的圣诞节》开头，我们听到键盘打字的声音，同时屏幕上出现“阿莫多瓦执导的电影”的字样。这种哒哒哒的声音不断响起，因为我们正在观看的人物——名叫埃尔莎的电影人和她的消防员男友博——是虚构角色，出现在一部由真正的电影人劳尔正在撰写的电影中。当然，真实性是相对的，因为劳尔本身就是阿尔莫多瓦虚构的人物。剧情围绕着电影人不可避免地使用他们周围所见的事物，而这些事物也许不应该被使用。例如，虚构的艾尔莎以朋友失败的婚姻为蓝本创作她的新剧本，这当然激怒了这位朋友。"
+      },
+      {
+       "en": "MONDELLO: And since Elsa is herself modeled on Raúl's assistant, Mónica, Mónica's just as ticked off at Raúl.",
+       "zh": "MONDELLO：既然Elsa本身是以Raúl的助理Mónica为原型，那么Mónica对Raúl的怨气也同样大。"
+      },
+      {
+       "en": "MONDELLO: Happily, all this introspection is augmented by campy melodrama. Elsa's fictional boyfriend isn't just a firefighter. He moonlights as a stripper. And Raúl's assistant Mónica gets to critique not just the film within a film that's ticked her off, but all of Raúl's career and, by extension, Almodóvar's. Though, of course, since he's calling the shots, that means Almodóvar is doing the critiquing. The effect would be dizzying even without the black sand beaches and blazing scarlet and gold wardrobe, visual notes that keep \"Bitter Christmas\" firmly in the Almodóvar canon.",
+       "zh": "MONDELLO：幸运的是，所有这些自我反思都因夸张的戏剧性情节而得到增强。埃尔莎的虚构男友不仅仅是一名消防员。他还兼职当脱衣舞男。而劳尔的助理莫妮卡不仅要批评让她恼火的片中片，还要批评劳尔的整个职业生涯，进而批评阿尔莫多瓦。当然，既然他是说了算的，那就意味着是阿尔莫多瓦在进行批评。即使没有黑沙滩和鲜艳的红色与金色服装——这些视觉元素让《苦涩的圣诞节》牢牢地归入阿尔莫多瓦的经典之作——这部电影的效果也会令人目眩。"
+      },
+      {
+       "en": "(SOUNDBITE OF BILL CONTI SONG, \"GONNA FLY NOW (THEME FROM ROCKY)\")",
+       "zh": "（比尔·康蒂歌曲《Gonna Fly Now（洛奇主题曲）》的录音片段）"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "film",
+       "pos": "n.",
+       "zh": "电影；影片",
+       "ex": "Pedro Almodovar's Bitter Christmas and Peter Farrelly's I Play Rocky are dramas that depict filmmakers creating films.",
+       "forms": [
+        "films"
+       ]
+      },
+      {
+       "w": "actor",
+       "pos": "n.",
+       "zh": "演员",
+       "ex": "UNIDENTIFIED ACTOR: (As character) Cut.",
+       "forms": []
+      },
+      {
+       "w": "critic",
+       "pos": "n.",
+       "zh": "评论家；批评家",
+       "ex": "PFEIFFER: Critic Bob Mondello says that's what moviemakers are doing in two new films about filmmaking, \"Bitter Christmas\" and \"I Play Rocky.\" BOB MONDELLO, BYLINE: At the beginning of \"Bitter Christmas,\" we hear the sound of typing on a keyboard as the words - a film by Almodóvar - appear on the screen, and that clickety-click keeps returning because the folks we're watching, a filmmaker named Elsa and her firefighter boyfriend Bo, are fictional characters in a movie that's being written by Raúl, a real filmmaker.",
+       "forms": []
+      },
+      {
+       "w": "augmented",
+       "pos": "adj.",
+       "zh": "增强的（AR）",
+       "ex": "MONDELLO: Happily, all this introspection is augmented by campy melodrama.",
+       "forms": []
+      },
+      {
+       "w": "career",
+       "pos": "n.",
+       "zh": "职业；生涯",
+       "ex": "And Raúl's assistant Mónica gets to critique not just the film within a film that's ticked her off, but all of Raúl's career and, by extension, Almodóvar's.",
+       "forms": []
+      },
+      {
+       "w": "effect",
+       "pos": "n.",
+       "zh": "影响；效果",
+       "ex": "The effect would be dizzying even without the black sand beaches and blazing scarlet and gold wardrobe, visual notes that keep \"Bitter Christmas\" firmly in the Almodóvar canon.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "film",
+      "actor",
+      "critic",
+      "augmented",
+      "career"
+     ],
+     "keyVocab": [
+      "film",
+      "actor",
+      "critic",
+      "augmented",
+      "career",
+      "effect"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-13",
    "articles": [
@@ -4650,724 +5407,6 @@
       "doctor",
       "propose",
       "parliament"
-     ]
-    }
-   ]
-  },
-  {
-   "date": "2026-11-07",
-   "articles": [
-    {
-     "id": "2026-11-07-world",
-     "section": "World",
-     "sectionZh": "国际",
-     "title": "Israel's Arab-led parties in spotlight after inconclusive election",
-     "dek": "Arab parties hold the key to power in deadlocked Israel election",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
-     "byline": "Ruth Sherlock",
-     "dateLabel": "2026-11-07",
-     "words": 306,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "Arab parties hold the key to power in deadlocked Israel election",
-       "zh": "阿拉伯政党掌握以色列僵局选举中的权力关键"
-      },
-      {
-       "en": "KUFR QASI, Israel — In recent years many Palestinian citizens of Israel shunned elections, believing there was little to gain from participating in the politics of a state which, they say, regularly marginalizes their communities and oppresses their fellow Palestinians in the West Bank and Gaza.",
-       "zh": "库夫尔卡西，以色列——近年来，许多以色列的巴勒斯坦公民回避选举，认为参与一个他们说经常边缘化自己的社区并压迫约旦河西岸和加沙地区同行巴勒斯坦人的国家的政治，没有什么可获得的。"
-      },
-      {
-       "en": "But last month, Palestinian Arabs in Israel came to the ballot boxes in record numbers, helping strip Prime Minister Benjamin Netanyahu's most far-right government in Israel's history of its majority, and giving Arab-led parties the votes they needed to become a powerful force in Israeli politics.",
-       "zh": "但在上个月，居住在以色列的巴勒斯坦阿拉伯人大规模前往投票站，以创纪录的方式投票，这帮助剥夺了本杰明·内塔尼亚胡担任的以色列历史上最极右政府的多数席位，并为阿拉伯主导的政党提供了他们在以色列政治中成为一个强大力量所需的选票。"
-      },
-      {
-       "en": "\"We blocked the government of Netanyahu from continuing,\" said Jamal Zahalka, chairman of the High Follow-Up Committee, the main umbrella body representing Palestinian citizens of Israel. \"It's a historical achievement. I think our community found its strength.\"",
-       "zh": "“我们阻止了内塔尼亚胡政府的继续执政，”高级跟进委员会主席贾迈勒·扎哈尔卡说，该委员会是代表以色列巴勒斯坦公民的主要伞形机构。“这是一个历史性的成就。我认为我们的社区找到了自己的力量。”"
-      },
-      {
-       "en": "Neither Netanyahu's coalition, nor his main challenger Gadi Eisenkot's center-right opposition, reached the threshold of 61 seats needed to form a government. Arab-led parties won 19 out of 120 seats — enough to give them a critical role in the negotiations that will now determine who governs Israel at this turbulent moment in the country's history.",
-       "zh": "无论是内塔尼亚胡的联盟，还是他主要的对手加迪·艾森科特领导的中右翼反对派，都未能达到组建政府所需的61个席位门槛。由阿拉伯人领导的政党赢得了120个席位中的19个——足以使他们在谈判中发挥关键作用，而这些谈判将决定在以色列历史这个动荡时刻谁来执政。"
-      },
-      {
-       "en": "The election results strike at the heart of the decades-long questions about how Israel defines itself and the role of Palestinian Arabs in its society.",
-       "zh": "选举结果触及了关于以色列如何定义自身以及巴勒斯坦阿拉伯人在其社会中角色的长期问题的核心。"
-      },
-      {
-       "en": "At a park in the Palestinian-majority town of Kufr Qasim two days after the election, hundreds of people gathered for the annual commemoration of residents gunned down in 1956 by Israeli border police on the opening day of the Suez Crisis in the violent early years of the state, when Israel, Britain and France attacked Egypt after it nationalized the Suez Canal.",
-       "zh": "在选举两天后的巴勒斯坦人占多数的库夫尔卡西姆镇的一座公园里，数百人聚集在一起，参加年度纪念活动，以缅怀1956年以色列边境警察在苏伊士运河危机开端当天枪杀的居民。那是以色列建国初期的动荡岁月，当时以色列、英国和法国在埃及将苏伊士运河国有化后对埃及发起了攻击。"
-      },
-      {
-       "en": "\"And today we stand here, 70 years later,\" the speaker told the large crowd from a podium: \"And the story still isn't over.\"",
-       "zh": "演讲者站在讲台上对聚集的大群人说：“而今天，70年过去了，我们依然站在这里，故事还没有结束。”"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "party",
-       "pos": "n.",
-       "zh": "政党；一方",
-       "ex": "Arab parties hold the key to power in deadlocked Israel election KUFR QASI, Israel — In recent years many Palestinian citizens of Israel shunned elections, believing there was little to gain from participating in the politics of a state which, they say, regularly marginalizes their communities and oppresses their fellow Palestinians in the West Bank and Gaza.",
-       "forms": [
-        "parties"
-       ]
-      },
-      {
-       "w": "power",
-       "pos": "n.",
-       "zh": "权力；电力",
-       "ex": "Arab parties hold the key to power in deadlocked Israel election KUFR QASI, Israel — In recent years many Palestinian citizens of Israel shunned elections, believing there was little to gain from participating in the politics of a state which, they say, regularly marginalizes their communities and oppresses their fellow Palestinians in the West Bank and Gaza.",
-       "forms": []
-      },
-      {
-       "w": "election",
-       "pos": "n.",
-       "zh": "选举",
-       "ex": "Arab parties hold the key to power in deadlocked Israel election KUFR QASI, Israel — In recent years many Palestinian citizens of Israel shunned elections, believing there was little to gain from participating in the politics of a state which, they say, regularly marginalizes their communities and oppresses their fellow Palestinians in the West Bank and Gaza.",
-       "forms": [
-        "elections"
-       ]
-      },
-      {
-       "w": "community",
-       "pos": "n.",
-       "zh": "社区；群体",
-       "ex": "Arab parties hold the key to power in deadlocked Israel election KUFR QASI, Israel — In recent years many Palestinian citizens of Israel shunned elections, believing there was little to gain from participating in the politics of a state which, they say, regularly marginalizes their communities and oppresses their fellow Palestinians in the West Bank and Gaza.",
-       "forms": [
-        "communities"
-       ]
-      },
-      {
-       "w": "ballot",
-       "pos": "n.",
-       "zh": "选票；投票",
-       "ex": "But last month, Palestinian Arabs in Israel came to the ballot boxes in record numbers, helping strip Prime Minister Benjamin Netanyahu's most far-right government in Israel's history of its majority, and giving Arab-led parties the votes they needed to become a powerful force in Israeli politics.",
-       "forms": []
-      },
-      {
-       "w": "number",
-       "pos": "n.",
-       "zh": "数量；数字",
-       "ex": "But last month, Palestinian Arabs in Israel came to the ballot boxes in record numbers, helping strip Prime Minister Benjamin Netanyahu's most far-right government in Israel's history of its majority, and giving Arab-led parties the votes they needed to become a powerful force in Israeli politics.",
-       "forms": [
-        "numbers"
-       ]
-      },
-      {
-       "w": "minister",
-       "pos": "n.",
-       "zh": "部长；大臣",
-       "ex": "But last month, Palestinian Arabs in Israel came to the ballot boxes in record numbers, helping strip Prime Minister Benjamin Netanyahu's most far-right government in Israel's history of its majority, and giving Arab-led parties the votes they needed to become a powerful force in Israeli politics.",
-       "forms": []
-      },
-      {
-       "w": "history",
-       "pos": "n.",
-       "zh": "历史",
-       "ex": "But last month, Palestinian Arabs in Israel came to the ballot boxes in record numbers, helping strip Prime Minister Benjamin Netanyahu's most far-right government in Israel's history of its majority, and giving Arab-led parties the votes they needed to become a powerful force in Israeli politics.",
-       "forms": []
-      },
-      {
-       "w": "majority",
-       "pos": "n.",
-       "zh": "多数；大多数",
-       "ex": "But last month, Palestinian Arabs in Israel came to the ballot boxes in record numbers, helping strip Prime Minister Benjamin Netanyahu's most far-right government in Israel's history of its majority, and giving Arab-led parties the votes they needed to become a powerful force in Israeli politics.",
-       "forms": []
-      },
-      {
-       "w": "vote",
-       "pos": "n.",
-       "zh": "投票；表决",
-       "ex": "But last month, Palestinian Arabs in Israel came to the ballot boxes in record numbers, helping strip Prime Minister Benjamin Netanyahu's most far-right government in Israel's history of its majority, and giving Arab-led parties the votes they needed to become a powerful force in Israeli politics.",
-       "forms": [
-        "votes"
-       ]
-      },
-      {
-       "w": "coalition",
-       "pos": "n.",
-       "zh": "联合政府；联盟",
-       "ex": "I think our community found its strength.\" Neither Netanyahu's coalition, nor his main challenger Gadi Eisenkot's center-right opposition, reached the threshold of 61 seats needed to form a government.",
-       "forms": []
-      },
-      {
-       "w": "opposition",
-       "pos": "n.",
-       "zh": "反对派；反对",
-       "ex": "I think our community found its strength.\" Neither Netanyahu's coalition, nor his main challenger Gadi Eisenkot's center-right opposition, reached the threshold of 61 seats needed to form a government.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "party",
-      "power",
-      "election",
-      "community",
-      "ballot"
-     ],
-     "keyVocab": [
-      "party",
-      "power",
-      "election",
-      "community",
-      "ballot",
-      "number",
-      "minister",
-      "history"
-     ]
-    },
-    {
-     "id": "2026-11-07-business",
-     "section": "Business",
-     "sectionZh": "商业 · 财经",
-     "title": "This was the week the AI trade cracked. So what's next?",
-     "dek": "Big losses by AI shares in stock markets after Democrats won the midterm elections have left investors shaken and wondering comes next.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/06/nx-s1-6032695/this-was-the-week-the-ai-trade-cracked-so-whats-next",
-     "byline": "Rafael Nam",
-     "dateLabel": "2026-11-07",
-     "words": 402,
-     "readTime": 3,
-     "level": "B2",
-     "levelEn": "Upper-intermediate",
-     "paragraphs": [
-      {
-       "en": "Big losses by AI shares in stock markets after Democrats won the midterm elections have left investors shaken and wondering comes next.",
-       "zh": "在中期选举中民主党获胜后，人工智能股票在股市中遭遇重大损失，这让投资者感到震惊并在思考接下来会发生什么。"
-      },
-      {
-       "en": "It has been a bumpy ride for AI and tech stocks this week. AI shares bounced back today. That was after suffering a huge loss yesterday that wiped out more than $2 trillion in value. Big Democratic victories have raised big fears about the outlook for AI, which, of course, is a game-changing technology, and tech companies are pouring a ton of money into developing it. It's not clear, though, if we are in the middle of a tech bubble that is about to burst.",
-       "zh": "本周人工智能和科技股经历了颠簸的一周。今天，人工智能股票反弹了。在昨天遭受了巨大损失之后，这些损失抹去了超过2万亿美元的市值。民主党取得重大胜利，引发了人们对人工智能前景的巨大担忧。当然，人工智能是一项改变游戏规则的技术，而科技公司正在投入大量资金进行开发。不过，目前尚不清楚我们是否正处在即将破裂的科技泡沫之中。"
-      },
-      {
-       "en": "Let's bring in NPR senior economics and finance editor Rafael Nam and NPR tech correspondent John Ruwitch. Hey to the both of you.",
-       "zh": "让我们请来NPR高级经济与金融编辑拉斐尔·纳姆以及NPR科技记者约翰·鲁维奇。向你们两位打个招呼。"
-      },
-      {
-       "en": "KELLY: Hey. Rafael, you start. AI shares did recover today. Let's underscore that. But investors are still feeling queasy.",
-       "zh": "凯利：嘿，拉斐尔，你先说。人工智能股票今天确实回升了。我们要强调这一点。但是投资者仍然感到不安。"
-      },
-      {
-       "en": "NAM: Yeah, I think the scale of the losses yesterday was pretty staggering. And another kind you see - the kind you only see every once in a while, to be honest. And investors are still a little shaken. I mean, traders had already been feeling very uneasy all year long about the AI trade, and there's a lot of money riding on AI.",
-       "zh": "NAM：是的，我认为昨天的损失规模相当惊人。你还看到另一种情况——说实话，这种情况很少见。投资者们仍然有些震惊。我的意思是，交易员们整整一年对人工智能交易一直感到非常不安，而在人工智能上押注的资金很大。"
-      },
-      {
-       "en": "NAM: Yeah, and a lot of concerns about whether all of this is going to pay off. And data centers are critical to AI companies, so when you have a wave of Democrats being elected talking about things like creating moratoriums or slowing down the development of data centers, investors can freak out.",
-       "zh": "NAM: 是的，很多人都担心这一切是否能够带来回报。数据中心对人工智能公司至关重要，所以当一波民主党人当选并讨论诸如制定暂停令或减缓数据中心发展之类的事情时，投资者可能会感到恐慌。"
-      },
-      {
-       "en": "KELLY: John, dig into that, if you would. Explain the freakout.",
-       "zh": "凯利：约翰，如果你愿意的话，深入研究一下。解释一下这种惊慌情绪。"
-      },
-      {
-       "en": "RUWITCH: Yeah. So there has been this boom in construction in AI data centers. There's trillions of dollars committed to more of them, but people are nervous about them - about the water and electricity costs, about what it means for jobs. I mean, just last night, I was at a town hall in San Jose, California. This is the heart of Silicon Valley, like, home turf for AI. And there are plans for as many as 13 new data centers there. Residents like Justin Brown say things are just moving way too fast.",
-       "zh": "RUWITCH：是的。所以在人工智能数据中心的建设方面出现了繁荣现象。已经有数万亿美元投入到更多的数据中心，但人们对它们感到紧张——担心水电成本，以及它对就业意味着什么。我的意思是，就在昨晚，我在加利福尼亚州圣何塞参加了一次市政厅会议。这里是硅谷的核心，算是人工智能的主阵地。而且计划在那里建多达13个新的数据中心。像贾斯廷·布朗这样的居民说，一切进展得太快了。"
-      },
-      {
-       "en": "JUSTIN BROWN: Like, let's actually have a debate, and let's talk about this and see if there's some sort of common ground so the residents can get something out of this.",
-       "zh": "贾斯廷·布朗：比如，我们实际上来进行一场辩论，讨论一下这个问题，看看是否有某种共同点，这样居民们就能从中受益。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "market",
-       "pos": "n.",
-       "zh": "市场",
-       "ex": "Big losses by AI shares in stock markets after Democrats won the midterm elections have left investors shaken and wondering comes next.",
-       "forms": [
-        "markets"
-       ]
-      },
-      {
-       "w": "election",
-       "pos": "n.",
-       "zh": "选举",
-       "ex": "Big losses by AI shares in stock markets after Democrats won the midterm elections have left investors shaken and wondering comes next.",
-       "forms": [
-        "elections"
-       ]
-      },
-      {
-       "w": "investor",
-       "pos": "n.",
-       "zh": "投资者",
-       "ex": "Big losses by AI shares in stock markets after Democrats won the midterm elections have left investors shaken and wondering comes next.",
-       "forms": [
-        "investors"
-       ]
-      },
-      {
-       "w": "outlook",
-       "pos": "n.",
-       "zh": "前景；展望",
-       "ex": "Big Democratic victories have raised big fears about the outlook for AI, which, of course, is a game-changing technology, and tech companies are pouring a ton of money into developing it.",
-       "forms": []
-      },
-      {
-       "w": "technology",
-       "pos": "n.",
-       "zh": "技术；科技",
-       "ex": "Big Democratic victories have raised big fears about the outlook for AI, which, of course, is a game-changing technology, and tech companies are pouring a ton of money into developing it.",
-       "forms": []
-      },
-      {
-       "w": "bubble",
-       "pos": "n.",
-       "zh": "泡沫",
-       "ex": "It's not clear, though, if we are in the middle of a tech bubble that is about to burst.",
-       "forms": []
-      },
-      {
-       "w": "economic",
-       "pos": "adj.",
-       "zh": "经济的",
-       "ex": "Let's bring in NPR senior economics and finance editor Rafael Nam and NPR tech correspondent John Ruwitch.",
-       "forms": [
-        "economics"
-       ]
-      },
-      {
-       "w": "data",
-       "pos": "n.",
-       "zh": "数据",
-       "ex": "And data centers are critical to AI companies, so when you have a wave of Democrats being elected talking about things like creating moratoriums or slowing down the development of data centers, investors can freak out.",
-       "forms": []
-      },
-      {
-       "w": "critical",
-       "pos": "adj.",
-       "zh": "关键的；批评的",
-       "ex": "And data centers are critical to AI companies, so when you have a wave of Democrats being elected talking about things like creating moratoriums or slowing down the development of data centers, investors can freak out.",
-       "forms": []
-      },
-      {
-       "w": "explain",
-       "pos": "v.",
-       "zh": "解释",
-       "ex": "Explain the freakout.",
-       "forms": []
-      },
-      {
-       "w": "boom",
-       "pos": "n.",
-       "zh": "繁荣；激增",
-       "ex": "So there has been this boom in construction in AI data centers.",
-       "forms": []
-      },
-      {
-       "w": "water",
-       "pos": "n.",
-       "zh": "水",
-       "ex": "There's trillions of dollars committed to more of them, but people are nervous about them - about the water and electricity costs, about what it means for jobs.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "market",
-      "election",
-      "investor",
-      "outlook",
-      "technology"
-     ],
-     "keyVocab": [
-      "market",
-      "election",
-      "investor",
-      "outlook",
-      "technology",
-      "bubble",
-      "economic",
-      "data"
-     ]
-    },
-    {
-     "id": "2026-11-07-technology",
-     "section": "Technology",
-     "sectionZh": "科技",
-     "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
-     "dek": "In a new security bulletin, the information sharing and analysis center devoted to the healthcare industry, Health ISAC, alerted members to a recent wave of cyberattacks targeting refrigeration…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/06/nx-s1-6032602/cyberattack-blood-bank-healthcare",
-     "byline": "Jenna McLaughlin",
-     "dateLabel": "2026-11-07",
-     "words": 378,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "In a new security bulletin, the information sharing and analysis center devoted to the healthcare industry, Health ISAC, alerted members to a recent wave of cyberattacks targeting refrigeration controllers — including one incident that affected a major French blood bank.",
-       "zh": "在一份新的安全公告中，专注于医疗行业的信息共享与分析中心 Health ISAC 提醒其成员注意近期针对制冷控制器的一波网络攻击——其中一起事件影响了法国一家主要的血液银行。"
-      },
-      {
-       "en": "\"This alert is issued for situational awareness, highlighting how recent operational technology (OT) attacks against specific refrigeration brands directly intersect with emerging threats to the health sector,\" reads the bulletin seen by NPR. Operational technology refers to the machines that control physical processes in the real world, from cooling systems to water pumps.",
-       "zh": "NPR看到的公告上写道：“此警报的发布是为了增强情境意识，强调近期针对特定制冷品牌的操作技术（OT）攻击如何与新兴的卫生部门威胁直接交叉。”操作技术是指控制现实世界物理过程的机器，从冷却系统到水泵。"
-      },
-      {
-       "en": "Cyberattacks on grocery stores and food processing plants everywhere from Europe and Israel to U.S. military bases have drawn headlines in recent months, particularly as attacks have resulted in spoiled food, fires, broken machinery, and major business disruptions. Attackers are clearly aware of the vulnerability of these systems and are taking advantage.",
-       "zh": "针对从欧洲和以色列到美国军事基地的杂货店和食品加工厂的网络攻击在最近几个月引起了头条关注，特别是因为这些攻击导致了食物变质、火灾、设备损坏以及重大业务中断。攻击者显然意识到这些系统的脆弱性，并正在加以利用。"
-      },
-      {
-       "en": "However, until news broke that the French blood bank, known as the French Blood Establishment, had also been targeted, there was less public attention focused on the potential consequences of refrigeration controllers failing in other industries, particularly healthcare, where lifesaving implements like blood and vaccines often require finely tuned temperature-controlled environments to remain viable.",
-       "zh": "然而，直到有消息传出法国血液银行，即法国血液机构，也成为目标之前，公众对制冷控制器在其他行业中失效可能带来的后果关注较少，尤其是在医疗行业，因为像血液和疫苗这样的救命工具通常需要精确调控的温控环境才能保持有效。"
-      },
-      {
-       "en": "\"This incident underscores a stark operational reality: cybersecurity in healthcare is fundamentally about patient safety,\" wrote Errol Weiss, the chief security officer at Health ISAC in an email to NPR. \"When threat actors manipulate operational technology like cold-chain storage and refrigeration units holding donor blood, plasma, or critical therapies, they aren't merely stealing data or locking down administrative files, they are directly endangering the physical resources required to sustain human life.\"",
-       "zh": "Health ISAC 的首席安全官 Errol Weiss 在给 NPR 的一封电子邮件中写道：“这一事件凸显了一个严峻的运营现实：医疗保健中的网络安全本质上关乎患者安全。当威胁行为者操纵如冷链储存和存放捐赠血液、血浆或关键治疗药物的制冷设备等运营技术时，他们不仅仅是在窃取数据或锁定管理文件，而是直接危及维持人类生命所需的物理资源。”"
-      },
-      {
-       "en": "On Thursday, the Cybersecurity and Infrastructure Security Agency, the FBI, the Department of Health and Human Services, and the U.S. Department of Agriculture published their own fact sheet about threats to industrial refrigeration and cold chain monitoring systems, tools they identify as critical to multiple industries from healthcare to chemical production, food and agriculture, and transportation.",
-       "zh": "星期四，网络安全和基础设施安全局、联邦调查局、卫生与公共服务部以及美国农业部发布了关于工业制冷和冷链监控系统威胁的各自事实说明，这些工具被认为对从医疗保健到化学生产、食品与农业以及运输等多个行业至关重要。"
-      },
-      {
-       "en": "The FBI Cyber Branch Operations director, Brett Leatherman, said the bureau is tracking bad actors targeting these systems \"across critical infrastructure sectors globally, putting inventory and equipment at risk.\"",
-       "zh": "联邦调查局网络分支机构运营主管布雷特·莱瑟曼表示，该局正在追踪针对这些系统的恶意行为者，“这些行为者遍及全球关键基础设施部门，使库存和设备面临风险。”"
-      },
-      {
-       "en": "\"Industrial refrigeration and cold-chain monitoring systems protect food, medicine, and other temperature-sensitive products, making them attractive targets for malicious cyber actors,\" Leatherman said.",
-       "zh": "Leatherman 说：“工业制冷和冷链监控系统保护食品、药品及其他对温度敏感的产品，使它们成为恶意网络行为者的有吸引力的目标。”"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "analysis",
-       "pos": "n.",
-       "zh": "分析",
-       "ex": "In a new security bulletin, the information sharing and analysis center devoted to the healthcare industry, Health ISAC, alerted members to a recent wave of cyberattacks targeting refrigeration controllers — including one incident that affected a major French blood bank.",
-       "forms": []
-      },
-      {
-       "w": "industry",
-       "pos": "n.",
-       "zh": "行业；工业",
-       "ex": "In a new security bulletin, the information sharing and analysis center devoted to the healthcare industry, Health ISAC, alerted members to a recent wave of cyberattacks targeting refrigeration controllers — including one incident that affected a major French blood bank.",
-       "forms": [
-        "industries"
-       ]
-      },
-      {
-       "w": "health",
-       "pos": "n.",
-       "zh": "健康；卫生",
-       "ex": "In a new security bulletin, the information sharing and analysis center devoted to the healthcare industry, Health ISAC, alerted members to a recent wave of cyberattacks targeting refrigeration controllers — including one incident that affected a major French blood bank.",
-       "forms": []
-      },
-      {
-       "w": "issue",
-       "pos": "n.",
-       "zh": "议题；问题",
-       "ex": "\"This alert is issued for situational awareness, highlighting how recent operational technology (OT) attacks against specific refrigeration brands directly intersect with emerging threats to the health sector,\" reads the bulletin seen by NPR.",
-       "forms": [
-        "issued"
-       ]
-      },
-      {
-       "w": "technology",
-       "pos": "n.",
-       "zh": "技术；科技",
-       "ex": "\"This alert is issued for situational awareness, highlighting how recent operational technology (OT) attacks against specific refrigeration brands directly intersect with emerging threats to the health sector,\" reads the bulletin seen by NPR.",
-       "forms": []
-      },
-      {
-       "w": "emerge",
-       "pos": "v.",
-       "zh": "出现；浮现",
-       "ex": "\"This alert is issued for situational awareness, highlighting how recent operational technology (OT) attacks against specific refrigeration brands directly intersect with emerging threats to the health sector,\" reads the bulletin seen by NPR.",
-       "forms": [
-        "emerging"
-       ]
-      },
-      {
-       "w": "threat",
-       "pos": "n.",
-       "zh": "威胁",
-       "ex": "\"This alert is issued for situational awareness, highlighting how recent operational technology (OT) attacks against specific refrigeration brands directly intersect with emerging threats to the health sector,\" reads the bulletin seen by NPR.",
-       "forms": [
-        "threats"
-       ]
-      },
-      {
-       "w": "water",
-       "pos": "n.",
-       "zh": "水",
-       "ex": "Operational technology refers to the machines that control physical processes in the real world, from cooling systems to water pumps.",
-       "forms": []
-      },
-      {
-       "w": "food",
-       "pos": "n.",
-       "zh": "食物",
-       "ex": "Cyberattacks on grocery stores and food processing plants everywhere from Europe and Israel to U.S.",
-       "forms": []
-      },
-      {
-       "w": "plant",
-       "pos": "n.",
-       "zh": "工厂；植物",
-       "ex": "Cyberattacks on grocery stores and food processing plants everywhere from Europe and Israel to U.S.",
-       "forms": [
-        "plants"
-       ]
-      },
-      {
-       "w": "military",
-       "pos": "n.",
-       "zh": "军队；军方",
-       "ex": "military bases have drawn headlines in recent months, particularly as attacks have resulted in spoiled food, fires, broken machinery, and major business disruptions.",
-       "forms": []
-      },
-      {
-       "w": "result",
-       "pos": "n.",
-       "zh": "结果",
-       "ex": "military bases have drawn headlines in recent months, particularly as attacks have resulted in spoiled food, fires, broken machinery, and major business disruptions.",
-       "forms": [
-        "resulted"
-       ]
-      }
-     ],
-     "homeWords": [
-      "analysis",
-      "industry",
-      "health",
-      "issue",
-      "technology"
-     ],
-     "keyVocab": [
-      "analysis",
-      "industry",
-      "health",
-      "issue",
-      "technology",
-      "emerge",
-      "threat",
-      "water"
-     ]
-    },
-    {
-     "id": "2026-11-07-science",
-     "section": "Science",
-     "sectionZh": "科学",
-     "title": "Even birds get jet lagged, study shows",
-     "dek": "New research shows that humans are not the only species to get jet lag: Some birds appear to experience it too.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/29/nx-s1-6019228/manx-shearwater-jet-lag-birds",
-     "byline": "Geoff Brumfiel",
-     "dateLabel": "2026-11-07",
-     "words": 267,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "New research shows that humans are not the only species to get jet lag: Some birds appear to experience it too.",
-       "zh": "新的研究表明，人类并不是唯一会经历时差反应的物种：一些鸟类似乎也会经历时差反应。"
-      },
-      {
-       "en": "A study published in the journal Science found that a type of seabird known as the Manx shearwater appears to become slightly disoriented during long flights across the Atlantic Ocean. That disorientation, the authors say, is due to the bird's internal clock falling out of sync with the sun's position in the sky.",
-       "zh": "发表在《科学》杂志上的一项研究发现，一种被称为曼克斯剪尾海燕的海鸟在横穿大西洋的长途飞行中似乎会出现轻微的迷失方向。作者表示，这种迷失方向是由于鸟类的内部时钟与太阳在天空中的位置不同步所导致的。"
-      },
-      {
-       "en": "Manx shearwaters are a common bird in the British Isles. They look a little like seagulls, but \"they're actually very closely related to an albatross,\" said Patrick Lewin, a behavioral ecologist at the University of Oxford.",
-       "zh": "曼岛海燕是英伦群岛常见的鸟类。它们看起来有点像海鸥，但“它们实际上与信天翁关系非常密切，”牛津大学行为生态学家帕特里克·卢因说。"
-      },
-      {
-       "en": "Shearwaters mate for life, and when they breed, a couple lays just one egg.",
-       "zh": "海燕终生配偶，当它们繁殖时，一对只会产一枚蛋。"
-      },
-      {
-       "en": "Then they take turns incubating it: \"One partner will sit on the egg nonstop while the other one goes out to sea,\" Lewin said.",
-       "zh": "然后它们轮流孵蛋：“一只伴侣会一直坐在蛋上，而另一只则出海，”卢因说道。"
-      },
-      {
-       "en": "For up to two weeks the hunting partners scour the North Atlantic for fish and squid, often travelling hundreds of miles from their nests.",
-       "zh": "在长达两周的时间里，捕猎伙伴在北大西洋寻找鱼类和鱿鱼，常常从它们的巢穴出发，行程达数百英里。"
-      },
-      {
-       "en": "Once these birds' bellies are full \"they absolutely bomb it back to their colony,\" Lewin said. Often they make the long journey home in just a day or so.",
-       "zh": "Lewin 说，一旦这些鸟的肚子吃饱了，“它们就会立即飞回自己的巢穴。” 它们通常只需一天左右的时间就能完成漫长的回家旅程。"
-      },
-      {
-       "en": "Which raised an interesting question: Do Manx shearwaters feel jet lag (or perhaps more aptly, flap lag)?",
-       "zh": "这就引出了一个有趣的问题：马恩岛剪尾海燕会感到时差（或者更恰当地说，是拍翅时差）吗？"
-      },
-      {
-       "en": "To see if these little birds really did feel the effects of flying through time zones like humans do, Lewin used a remarkable tool – for 20 years, his colleagues had been tagging birds with GPS trackers and collecting data on their flights out to the Atlantic and back.",
-       "zh": "为了看看这些小鸟是否真的像人类一样感受到穿越时区飞行的影响，卢因使用了一个非凡的工具——20年来，他的同事们一直在用GPS追踪器标记鸟类，并收集它们飞往大西洋及返回的飞行数据。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "research",
-       "pos": "n.",
-       "zh": "研究",
-       "ex": "New research shows that humans are not the only species to get jet lag: Some birds appear to experience it too.",
-       "forms": []
-      },
-      {
-       "w": "species",
-       "pos": "n.",
-       "zh": "物种",
-       "ex": "New research shows that humans are not the only species to get jet lag: Some birds appear to experience it too.",
-       "forms": []
-      },
-      {
-       "w": "lag",
-       "pos": "v.",
-       "zh": "落后",
-       "ex": "New research shows that humans are not the only species to get jet lag: Some birds appear to experience it too.",
-       "forms": []
-      },
-      {
-       "w": "study",
-       "pos": "n.",
-       "zh": "研究；学习",
-       "ex": "A study published in the journal Science found that a type of seabird known as the Manx shearwater appears to become slightly disoriented during long flights across the Atlantic Ocean.",
-       "forms": []
-      },
-      {
-       "w": "fall",
-       "pos": "n.",
-       "zh": "下降；下跌",
-       "ex": "That disorientation, the authors say, is due to the bird's internal clock falling out of sync with the sun's position in the sky.",
-       "forms": [
-        "falling"
-       ]
-      },
-      {
-       "w": "university",
-       "pos": "n.",
-       "zh": "大学",
-       "ex": "They look a little like seagulls, but \"they're actually very closely related to an albatross,\" said Patrick Lewin, a behavioral ecologist at the University of Oxford.",
-       "forms": []
-      },
-      {
-       "w": "effect",
-       "pos": "n.",
-       "zh": "影响；效果",
-       "ex": "To see if these little birds really did feel the effects of flying through time zones like humans do, Lewin used a remarkable tool – for 20 years, his colleagues had been tagging birds with GPS trackers and collecting data on their flights out to the Atlantic and back.",
-       "forms": [
-        "effects"
-       ]
-      },
-      {
-       "w": "remarkable",
-       "pos": "adj.",
-       "zh": "非凡的；引人注目的",
-       "ex": "To see if these little birds really did feel the effects of flying through time zones like humans do, Lewin used a remarkable tool – for 20 years, his colleagues had been tagging birds with GPS trackers and collecting data on their flights out to the Atlantic and back.",
-       "forms": []
-      },
-      {
-       "w": "data",
-       "pos": "n.",
-       "zh": "数据",
-       "ex": "To see if these little birds really did feel the effects of flying through time zones like humans do, Lewin used a remarkable tool – for 20 years, his colleagues had been tagging birds with GPS trackers and collecting data on their flights out to the Atlantic and back.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "research",
-      "species",
-      "lag",
-      "study",
-      "fall"
-     ],
-     "keyVocab": [
-      "research",
-      "species",
-      "lag",
-      "study",
-      "fall",
-      "university",
-      "effect",
-      "remarkable"
-     ]
-    },
-    {
-     "id": "2026-11-07-culture",
-     "section": "Culture",
-     "sectionZh": "文化",
-     "title": "Busy Philipps talks about treating her brain tumor and filming a new show",
-     "dek": "On Wild Card, Philipps unpacks the experience of treating her brain tumor and filming her new show, the CBS drama Cupertino. But she also opened up about another aspect of her life.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/06/nx-s1-6027839/busy-philipps-talks-about-treating-her-brain-tumor-and-filming-a-new-show",
-     "byline": "Rachel Martin",
-     "dateLabel": "2026-11-07",
-     "words": 296,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "On Wild Card, Philipps unpacks the experience of treating her brain tumor and filming her new show, the CBS drama Cupertino. But she also opened up about another aspect of her life.",
-       "zh": "在《Wild Card》中，Philipps 讲述了她治疗脑瘤和拍摄新剧集 CBS 剧集《Cupertino》的经历。但她也谈到了自己生活中的另一个方面。"
-      },
-      {
-       "en": "Each week, a guest draws a card from NPR's Wild Card deck and answers a big question about their life. Earlier this year, Busy Philipps had a morning that can give you whiplash. She had recently auditioned for the new CBS drama \"Cupertino.\" And then she got two calls.",
-       "zh": "每周，一位嘉宾会从NPR的《Wild Card》牌堆中抽一张牌，并回答关于他们生活中的一个重大问题。今年早些时候，Busy Philipps经历了一个可能让你目不暇接的早晨。她最近为CBS的新剧《Cupertino》参加了试镜。然后她收到了两个电话。"
-      },
-      {
-       "en": "BUSY PHILIPPS: I found out in the morning that \"Cupertino\" was happening. They were all so excited about me joining the cast. And a few hours later, Dr. Davinski called me from NYU and was like, you have a real brain tumor, and it's got to come out of your head. And I was like, OK, but I'm starting a new TV show (laughter), so I don't know if this is going to work for me.",
-       "zh": "比茜·菲利普斯：我早上才知道《库比蒂诺》要开拍。他们都对我加入剧组感到非常兴奋。几小时后，达文斯基医生从纽约大学给我打电话，说，你真的有一个脑瘤，必须从你脑子里取出来。我当时的反应是，好吧，但我正准备开一档新的电视剧（笑声），所以我不知道这是否适合我。"
-      },
-      {
-       "en": "KELLY: On Wild Card, Philipps unpacks the experience of treating her brain tumor and filming that new show. She also opened up about another aspect of her life with host Rachel Martin, and we will note, this conversation does touch on sex and child sexual assault.",
-       "zh": "凯利：在《Wild Card》中，菲利普斯讲述了她治疗脑瘤和拍摄新节目的经历。她还向主持人瑞秋·马丁敞开心扉，谈到了她生活的另一个方面，我们需要说明的是，这段对话确实涉及性和儿童性侵话题。"
-      },
-      {
-       "en": "RACHEL MARTIN: What's something you love that you discovered later in life?",
-       "zh": "瑞秋·马丁：你晚年才发现但却很喜欢的东西是什么？"
-      },
-      {
-       "en": "PHILIPPS: No, I mean, I had sex very early, but I think I was, like, not - I think I had been raped, and I was a woman of a - and I'm a woman of a certain age.",
-       "zh": "菲利普斯：不，我是说，我很早就发生了性关系，但我想，我不是——我想我曾经被强奸过，而且我是一个——我是一个有一定年纪的女性。"
-      },
-      {
-       "en": "PHILIPPS: ...Just was brought up in an era where, like, our pleasure was not a thing that we were sort of encouraged to even explore.",
-       "zh": "PHILIPPS: ……只是生长在那个时代，我们的快乐几乎不是一种我们被鼓励去探索的东西。"
-      },
-      {
-       "en": "PHILIPPS: And I didn't really - I, like, didn't get it kind of in a weird way.",
-       "zh": "PHILIPPS：其实我也没有完全明白——有点奇怪，我就是没弄懂。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "tumor",
-       "pos": "n.",
-       "zh": "肿瘤",
-       "ex": "On Wild Card, Philipps unpacks the experience of treating her brain tumor and filming her new show, the CBS drama Cupertino.",
-       "forms": []
-      },
-      {
-       "w": "film",
-       "pos": "n.",
-       "zh": "电影；影片",
-       "ex": "On Wild Card, Philipps unpacks the experience of treating her brain tumor and filming her new show, the CBS drama Cupertino.",
-       "forms": [
-        "filming"
-       ]
-      },
-      {
-       "w": "child",
-       "pos": "n.",
-       "zh": "儿童；孩子",
-       "ex": "She also opened up about another aspect of her life with host Rachel Martin, and we will note, this conversation does touch on sex and child sexual assault.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "tumor",
-      "film",
-      "child"
-     ],
-     "keyVocab": [
-      "tumor",
-      "film",
-      "child"
      ]
     }
    ]
