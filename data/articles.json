@@ -1,6 +1,728 @@
 {
- "updated": "2026-11-14T06:53:32.814339+00:00",
+ "updated": "2026-11-15T06:54:05.040875+00:00",
  "days": [
+  {
+   "date": "2026-11-15",
+   "articles": [
+    {
+     "id": "2026-11-15-world",
+     "section": "World",
+     "sectionZh": "国际",
+     "title": "Fuel crisis and protests pressure Chile's far-right president",
+     "dek": "SANTIAGO, Chile — Chile's ultraconservative president finds himself on the back foot after just eight months in power.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
+     "byline": "John Bartlett",
+     "dateLabel": "2026-11-15",
+     "words": 256,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "SANTIAGO, Chile — Chile's ultraconservative president finds himself on the back foot after just eight months in power.",
+       "zh": "圣地亚哥，智利——智利的极度保守总统在执政仅八个月后就处于下风。"
+      },
+      {
+       "en": "José Antonio Kast, a politician who spent a career railing against progressive issues, reproductive rights and welfare policies from the extreme fringes of right-wing politics, now finds himself with just 24% approval in the polls.",
+       "zh": "何塞·安东尼奥·卡斯特，一位政客，他的职业生涯一直在极右翼政治的边缘猛烈抨击进步议题、生育权利和福利政策，如今在民调中只有24%的支持率。"
+      },
+      {
+       "en": "It is less than a year since Kast stormed to the presidency in December 2025 by avoiding all mention of his hardline stances on social matters, focusing instead on two hot-button issues whipped up in the national media: illegal immigration and public security.",
+       "zh": "自从卡斯特在2025年12月通过回避所有关于社会事务强硬立场的提及而迅速赢得总统职位，转而专注于全国媒体炒作的两个热点问题：非法移民和公共安全，已经不到一年了。"
+      },
+      {
+       "en": "But rather than pressing ahead with those at the top of his agenda, he has floundered. And as elsewhere around the Americas and worldwide, rising costs of living have come to hit him hard.",
+       "zh": "但他并没有推进议程上最重要的事项，而是陷入了困境。正如美洲及世界其他地区一样，生活成本的上升对他打击甚大。"
+      },
+      {
+       "en": "\"Our salaries are maybe 20% of a European income, but with a similar cost of living – it's terrible,\" said Simón Echavarría, a 30-year-old architect, at a march in Santiago on Friday evening.",
+       "zh": "30岁的建筑师西蒙·埃查瓦里亚在星期五晚上圣地亚哥的一次游行中说：“我们的工资也许只是欧洲收入的20%，但生活成本却相似——这太糟糕了。”"
+      },
+      {
+       "en": "\"We want to protest against the measures that have set us back on environmental issues, on human rights, even reducing the sentences of pedophiles – they are implementing things that nobody asked for,\" he said.",
+       "zh": "他说：“我们想抗议那些让我们在环境问题、人权问题上倒退，甚至减轻恋童癖者刑期的措施——他们在实施没人要求的事情。”"
+      },
+      {
+       "en": "Behind him, heavily armed police blocked the streets and fired water cannons at protesters chanting and waving flags in the square.",
+       "zh": "在他身后，装备精良的警察封锁了街道，并向在广场上呼喊口号、挥舞旗帜的抗议者发射了水炮。"
+      },
+      {
+       "en": "Much of the recent ire stems from the revelation last month that Kast's government had signed decrees to cut the sentences of 56 prisoners whose crimes range from the rape of children to dictatorship-era human rights violations.",
+       "zh": "最近的许多愤怒源于上个月的揭露，即卡斯特政府签署法令，减轻56名囚犯的刑期，这些囚犯的犯罪行为从强奸儿童到独裁时期的人权侵犯不等。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "SANTIAGO, Chile — Chile's ultraconservative president finds himself on the back foot after just eight months in power.",
+       "forms": []
+      },
+      {
+       "w": "power",
+       "pos": "n.",
+       "zh": "权力；电力",
+       "ex": "SANTIAGO, Chile — Chile's ultraconservative president finds himself on the back foot after just eight months in power.",
+       "forms": []
+      },
+      {
+       "w": "career",
+       "pos": "n.",
+       "zh": "职业；生涯",
+       "ex": "José Antonio Kast, a politician who spent a career railing against progressive issues, reproductive rights and welfare policies from the extreme fringes of right-wing politics, now finds himself with just 24% approval in the polls.",
+       "forms": []
+      },
+      {
+       "w": "issue",
+       "pos": "n.",
+       "zh": "议题；问题",
+       "ex": "José Antonio Kast, a politician who spent a career railing against progressive issues, reproductive rights and welfare policies from the extreme fringes of right-wing politics, now finds himself with just 24% approval in the polls.",
+       "forms": [
+        "issues"
+       ]
+      },
+      {
+       "w": "policy",
+       "pos": "n.",
+       "zh": "政策；方针",
+       "ex": "José Antonio Kast, a politician who spent a career railing against progressive issues, reproductive rights and welfare policies from the extreme fringes of right-wing politics, now finds himself with just 24% approval in the polls.",
+       "forms": [
+        "policies"
+       ]
+      },
+      {
+       "w": "poll",
+       "pos": "n.",
+       "zh": "民意调查",
+       "ex": "José Antonio Kast, a politician who spent a career railing against progressive issues, reproductive rights and welfare policies from the extreme fringes of right-wing politics, now finds himself with just 24% approval in the polls.",
+       "forms": [
+        "polls"
+       ]
+      },
+      {
+       "w": "social",
+       "pos": "adj.",
+       "zh": "社会的；社交的",
+       "ex": "It is less than a year since Kast stormed to the presidency in December 2025 by avoiding all mention of his hardline stances on social matters, focusing instead on two hot-button issues whipped up in the national media: illegal immigration and public security.",
+       "forms": []
+      },
+      {
+       "w": "national",
+       "pos": "adj.",
+       "zh": "国家的；全国的",
+       "ex": "It is less than a year since Kast stormed to the presidency in December 2025 by avoiding all mention of his hardline stances on social matters, focusing instead on two hot-button issues whipped up in the national media: illegal immigration and public security.",
+       "forms": []
+      },
+      {
+       "w": "media",
+       "pos": "n.",
+       "zh": "媒体",
+       "ex": "It is less than a year since Kast stormed to the presidency in December 2025 by avoiding all mention of his hardline stances on social matters, focusing instead on two hot-button issues whipped up in the national media: illegal immigration and public security.",
+       "forms": []
+      },
+      {
+       "w": "immigration",
+       "pos": "n.",
+       "zh": "移民（入境）",
+       "ex": "It is less than a year since Kast stormed to the presidency in December 2025 by avoiding all mention of his hardline stances on social matters, focusing instead on two hot-button issues whipped up in the national media: illegal immigration and public security.",
+       "forms": []
+      },
+      {
+       "w": "public",
+       "pos": "adj.",
+       "zh": "公共的；公众的",
+       "ex": "It is less than a year since Kast stormed to the presidency in December 2025 by avoiding all mention of his hardline stances on social matters, focusing instead on two hot-button issues whipped up in the national media: illegal immigration and public security.",
+       "forms": []
+      },
+      {
+       "w": "rise",
+       "pos": "n.",
+       "zh": "上升；上涨",
+       "ex": "And as elsewhere around the Americas and worldwide, rising costs of living have come to hit him hard.",
+       "forms": [
+        "rising"
+       ]
+      }
+     ],
+     "homeWords": [
+      "president",
+      "power",
+      "career",
+      "issue",
+      "policy"
+     ],
+     "keyVocab": [
+      "president",
+      "power",
+      "career",
+      "issue",
+      "policy",
+      "poll",
+      "social",
+      "national"
+     ]
+    },
+    {
+     "id": "2026-11-15-business",
+     "section": "Business",
+     "sectionZh": "商业 · 财经",
+     "title": "Commerce Department under pressure for delaying export controls on Nvidia chips",
+     "dek": "The U.S. Commerce Department is under scrutiny for clearing Chinese companies to handle Nvidia chips, despite national security concerns from cabinet officials and U.S. intelligence agencies.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/14/nx-s1-6040379/commerce-department-under-pressure-for-delaying-export-controls-on-nvidia-chips",
+     "byline": "Sarah Robbins",
+     "dateLabel": "2026-11-15",
+     "words": 343,
+     "readTime": 3,
+     "level": "B2",
+     "levelEn": "Upper-intermediate",
+     "paragraphs": [
+      {
+       "en": "The U.S. Commerce Department is under scrutiny for clearing Chinese companies to handle Nvidia chips, despite national security concerns from cabinet officials and U.S. intelligence agencies.",
+       "zh": "美国商务部因批准中国公司处理英伟达芯片而受到审查，尽管内阁官员和美国情报机构对国家安全表示担忧。"
+      },
+      {
+       "en": "Pressure is growing on the Commerce Department and its Secretary Howard Lutnick over why Nvidia's chips have been allowed to be exported to China, despite national security concerns from cabinet officials and intelligence agencies.",
+       "zh": "随着内阁官员和情报机构提出国家安全方面的担忧，商务部及其部长霍华德·卢特尼克为何允许英伟达的芯片出口到中国，压力正在增加。"
+      },
+      {
+       "en": "SCOTT BESSENT: They were in favor of putting Megaspeed on the entity list for months, but commerce has the pin. Commerce BIS has the pin, and you will have to ask them about their internal processes.",
+       "zh": "SCOTT BESSENT：他们几个月来一直支持将Megaspeed列入实体清单，但商务部掌握着关键权力。商务部BIS掌握着关键权力，你需要向他们询问其内部流程。"
+      },
+      {
+       "en": "SCHMITZ: That is Treasury Secretary Scott Bessent accusing Lutnick's department of not putting Megaspeed, a Singapore-based firm with suspected Chinese intelligence ties, on the federal trade restriction list. Liza Tobin is former China director for the National Security Council in the first Trump and Biden administrations. She's here with us now to discuss this. Welcome.",
+       "zh": "施密茨：这是财政部长斯科特·贝森特指责卢特尼克的部门没有将Megaspeed（一家总部位于新加坡、与中国情报有嫌疑联系的公司）列入联邦贸易限制名单。莉萨·托宾曾在特朗普和拜登的第一届政府中担任国家安全委员会的中国事务主任。她现在和我们在一起讨论此事。欢迎她。"
+      },
+      {
+       "en": "SCHMITZ: So you're watching this situation unfold very closely. Tell me your reaction to these accusations against Secretary Lutnick.",
+       "zh": "施密茨：所以你正在密切关注这一情况的发展。告诉我你对这些针对卢特尼克国务卿的指控有何反应。"
+      },
+      {
+       "en": "TOBIN: Commerce has the pen. Commerce is the agency that has been given the statutory authority by the Congress to regulate the export of these AI chips. They're the ones that write the rules. They also have a law enforcement role. Right now, the whole cover has been blown off this scandal, and Lutnick is there at the center, and it's clear that he just didn't do his job in enforcing those rules.",
+       "zh": "托宾：商务部掌握着笔杆子。商务部是国会赋予法定权力来监管这些人工智能芯片出口的机构。他们才是制定规则的人。他们也承担执法职责。现在，这场丑闻的整个内幕已经被揭露出来，而卢特尼克正处在风口浪尖，很明显他在执行这些规则时根本没有尽到自己的职责。"
+      },
+      {
+       "en": "TOBIN: So that is the trillion-dollar question. I think we're going to find out a lot more as Congress starts to dig into this. I think we're going to learn a lot more about, was Howard Lutnick benefiting from this regulatory capture? You know, he...",
+       "zh": "托宾：所以这就是那个万亿问题。我认为随着国会开始深入调查这一点，我们将会发现更多。我认为我们会更多地了解，霍华德·卢特尼克是否从这种监管俘获中受益？你知道，他……"
+      },
+      {
+       "en": "SCHMITZ: Well, I mean, we do know that Cantor Fitzgerald, a firm run by Lutnick's sons Brandon and Kyle, helps place companies that run data centers in Asia, and their firm has a financial interest in looser chip restrictions that Lutnick himself was in charge of implementing. That seems like a conflict of interest, no?",
+       "zh": "SCHMITZ：嗯，我是说，我们确实知道 Cantor Fitzgerald，这是一家由卢特尼克的儿子布兰登和凯尔经营的公司，帮助将经营数据中心的公司引入亚洲，而且他们的公司在卢特尼克自己负责实施的更宽松芯片限制中有经济利益。这看起来像是利益冲突，不是吗？"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "chip",
+       "pos": "n.",
+       "zh": "芯片",
+       "ex": "Commerce Department is under scrutiny for clearing Chinese companies to handle Nvidia chips, despite national security concerns from cabinet officials and U.S.",
+       "forms": [
+        "chips"
+       ]
+      },
+      {
+       "w": "national",
+       "pos": "adj.",
+       "zh": "国家的；全国的",
+       "ex": "Commerce Department is under scrutiny for clearing Chinese companies to handle Nvidia chips, despite national security concerns from cabinet officials and U.S.",
+       "forms": []
+      },
+      {
+       "w": "cabinet",
+       "pos": "n.",
+       "zh": "内阁",
+       "ex": "Commerce Department is under scrutiny for clearing Chinese companies to handle Nvidia chips, despite national security concerns from cabinet officials and U.S.",
+       "forms": []
+      },
+      {
+       "w": "official",
+       "pos": "n.",
+       "zh": "官员；adj. 官方的",
+       "ex": "Commerce Department is under scrutiny for clearing Chinese companies to handle Nvidia chips, despite national security concerns from cabinet officials and U.S.",
+       "forms": [
+        "officials"
+       ]
+      },
+      {
+       "w": "intelligence",
+       "pos": "n.",
+       "zh": "情报；智能",
+       "ex": "intelligence agencies.",
+       "forms": []
+      },
+      {
+       "w": "agency",
+       "pos": "n.",
+       "zh": "机构；代理",
+       "ex": "intelligence agencies.",
+       "forms": [
+        "agencies"
+       ]
+      },
+      {
+       "w": "export",
+       "pos": "n.",
+       "zh": "出口",
+       "ex": "Pressure is growing on the Commerce Department and its Secretary Howard Lutnick over why Nvidia's chips have been allowed to be exported to China, despite national security concerns from cabinet officials and intelligence agencies.",
+       "forms": [
+        "exported"
+       ]
+      },
+      {
+       "w": "federal",
+       "pos": "adj.",
+       "zh": "联邦的",
+       "ex": "SCHMITZ: That is Treasury Secretary Scott Bessent accusing Lutnick's department of not putting Megaspeed, a Singapore-based firm with suspected Chinese intelligence ties, on the federal trade restriction list.",
+       "forms": []
+      },
+      {
+       "w": "administration",
+       "pos": "n.",
+       "zh": "政府；行政",
+       "ex": "Liza Tobin is former China director for the National Security Council in the first Trump and Biden administrations.",
+       "forms": [
+        "administrations"
+       ]
+      },
+      {
+       "w": "discuss",
+       "pos": "v.",
+       "zh": "讨论",
+       "ex": "She's here with us now to discuss this.",
+       "forms": []
+      },
+      {
+       "w": "authority",
+       "pos": "n.",
+       "zh": "当局；权威机构",
+       "ex": "Commerce is the agency that has been given the statutory authority by the Congress to regulate the export of these AI chips.",
+       "forms": []
+      },
+      {
+       "w": "congress",
+       "pos": "n.",
+       "zh": "国会",
+       "ex": "Commerce is the agency that has been given the statutory authority by the Congress to regulate the export of these AI chips.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "chip",
+      "national",
+      "cabinet",
+      "official",
+      "intelligence"
+     ],
+     "keyVocab": [
+      "chip",
+      "national",
+      "cabinet",
+      "official",
+      "intelligence",
+      "agency",
+      "export",
+      "federal"
+     ]
+    },
+    {
+     "id": "2026-11-15-technology",
+     "section": "Technology",
+     "sectionZh": "科技",
+     "title": "Hello? James Gleick's new book compares the history of the telephone to the modern era",
+     "dek": "Have you ever wondered where phone etiquette or the idea for the first social network came from? Author James Gleick talks about his new book, The Telephone.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/14/nx-s1-6037416/hello-james-gleicks-new-book-compares-the-history-of-the-telephone-to-the-modern-era",
+     "byline": "Sarah Robbins",
+     "dateLabel": "2026-11-15",
+     "words": 244,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "Have you ever wondered where phone etiquette or the idea for the first social network came from? Author James Gleick talks about his new book, The Telephone.",
+       "zh": "你是否曾想过电话礼仪或第一个社交网络的概念是从哪里来的？作者詹姆斯·格雷克谈论了他的新书《电话》。"
+      },
+      {
+       "en": "You know, this is the first time I've noticed this, but here in the cafeteria, in the corner, there is a telephone booth, and I'm going to get into this booth right now, and I'm going to call our next guest.",
+       "zh": "你知道，这是我第一次注意到这个，但在这里的自助餐厅的角落里，有一个电话亭，我现在要进去这个电话亭，我要给我们的下一位嘉宾打电话。"
+      },
+      {
+       "en": "SCHMITZ: Hello, this is Rob Schmitz at NPR. We're talking to you about a book you wrote. It's called \"The Telephone: A New History.\" Welcome.",
+       "zh": "施密茨：你好，我是NPR的罗布·施密茨。我们正在和你谈论你写的一本书。它叫《电话：新历史》。欢迎。"
+      },
+      {
+       "en": "SCHMITZ: So, James, there's a good chunk of your book all about the development of the etiquette of answering the phone. So how did I do there?",
+       "zh": "施密茨：所以，詹姆斯，你的书里有相当一部分内容是关于接电话礼仪的发展。那么我那方面做得怎么样？"
+      },
+      {
+       "en": "GLEICK: I mean, the fact that we say hello - and it's not just English speakers. It's - people in many countries say hello or some version of allo (ph).",
+       "zh": "GLEICK：我的意思是，我们说‘你好’这一事实——而且不仅仅是讲英语的人。很多国家的人都会说‘你好’或某种形式的‘allo’。"
+      },
+      {
+       "en": "GLEICK: What's weird is that's a telephone word. That word was not in particularly common use before the telephone arrived. And when Alexander Graham Bell and his assistant Tom Watson started making their first phone calls along an open line, you know, they used to say, ahoy, ahoy.",
+       "zh": "GLEICK：奇怪的是，那是一个电话用语。在电话出现之前，这个词并不是特别常用。当亚历山大·格雷厄姆·贝尔和他的助手汤姆·沃森沿着一条开放线路开始拨打他们的第一个电话时，你知道，他们过去常说，‘喂，喂’。"
+      },
+      {
+       "en": "GLEICK: But within a couple of years, just as if God had sent a memo, everybody was using the word hello.",
+       "zh": "格雷克：但是仅仅几年之后，就好像上帝发了一份备忘录一样，每个人都在使用‘你好’这个词。"
+      },
+      {
+       "en": "SCHMITZ: When I grew up in the 1970s and '80s, I was sometimes told by my parents to answer the phone, Schmitz residence, Robert speaking.",
+       "zh": "施密茨：当我在1970年代和1980年代长大时，父母有时会告诉我接电话时说，施密茨家，罗伯特在说话。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "social",
+       "pos": "adj.",
+       "zh": "社会的；社交的",
+       "ex": "Have you ever wondered where phone etiquette or the idea for the first social network came from?",
+       "forms": []
+      },
+      {
+       "w": "network",
+       "pos": "n.",
+       "zh": "网络",
+       "ex": "Have you ever wondered where phone etiquette or the idea for the first social network came from?",
+       "forms": []
+      },
+      {
+       "w": "history",
+       "pos": "n.",
+       "zh": "历史",
+       "ex": "It's called \"The Telephone: A New History.\" Welcome.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "social",
+      "network",
+      "history"
+     ],
+     "keyVocab": [
+      "social",
+      "network",
+      "history"
+     ]
+    },
+    {
+     "id": "2026-11-15-science",
+     "section": "Science",
+     "sectionZh": "科学",
+     "title": "Oyster stocks have plunged in the Chesapeake. This resident wants to bring them back",
+     "dek": "John Consoli stands on the edge of his pier, which juts out from the southern tip of Maryland's Kent Island and into the Chesapeake Bay. He leans over and hoists a mesh the size and shape of a…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/10/31/nx-s1-6011228/oyster-farming-conservation-chesapeake-bay",
+     "byline": "Ari Daniel",
+     "dateLabel": "2026-11-15",
+     "words": 403,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "John Consoli stands on the edge of his pier, which juts out from the southern tip of Maryland's Kent Island and into the Chesapeake Bay. He leans over and hoists a mesh the size and shape of a pillowcase out of the water.",
+       "zh": "约翰·康索利站在他的码头边缘，码头从马里兰州肯特岛南端伸出，延伸到切萨皮克湾。他弯下腰，把一个大小和枕套一样的网从水中提了上来。"
+      },
+      {
+       "en": "It's packed with oysters. He manages to get it onto the pier. \"These are brand new oysters from this year,\" he says. \"When I got them, they weighed nothing. And this is just three months of growth. The net is chock full, I can hardly pull it up.\"",
+       "zh": "里面满是牡蛎。他设法把它弄到码头上。“这些是今年的新牡蛎，”他说。“当我拿到它们时，几乎没重量。这只是三个月的生长。网满得不得了，我几乎拉不上来。”"
+      },
+      {
+       "en": "Once he catches his breath, Consoli marvels at these molluscs. \"I think I'm more enthusiastic about something that's like a rock than anybody else could possibly be,\" he says with a big grin. \"I really can't think of many more creatures that do the good that oysters do.\"",
+       "zh": "一旦他喘过气来，康索利便惊叹于这些软体动物。“我想我对像岩石一样的东西可能比任何人都更热情，”他带着大大的笑容说。“我真的想不出还有多少生物能像牡蛎那样做好事。”"
+      },
+      {
+       "en": "Oysters underpin the Chesapeake's coastal and estuarine ecosystem. Each adult filters up to 50 gallons of water a day. Cleaner water leads to a healthier bay and more sea grass. \"That helps crabs and other organisms,\" says Consoli.",
+       "zh": "牡蛎支撑着切萨皮克湾的沿海和河口生态系统。每只成年牡蛎每天可以过滤多达50加仑的水。水质更清洁意味着海湾更健康，海草更多。“这对螃蟹和其他生物都有帮助，”康索利说。"
+      },
+      {
+       "en": "Plus, oyster shells are a habitat unto themselves. \"Because of all the nooks and crannies,\" he explains, \"a lot of small fish and crabs live and eat amongst them and hide, so it creates a biodiverse environment. I even found a seahorse, which was incredible. I've never seen a seahorse in my life!\"",
+       "zh": "此外，牡蛎壳本身就是一个栖息地。他解释说：“因为有这么多的角落和缝隙，许多小鱼和螃蟹在其中生活、觅食和藏身，因此它创造了一个生物多样化的环境。我甚至发现了一只海马，这太不可思议了。我这辈子从未见过海马！”"
+      },
+      {
+       "en": "Oyster reefs used to abound in the Chesapeake, but overharvesting decimated their ranks — by over 99% by 2011, according to one estimate. This monumental shift in the bay contributed to poorer water quality and less habitat for other species.",
+       "zh": "牡蛎礁曾经在切萨皮克湾大量存在，但过度捕捞摧毁了它们的数量——据一项估计，到2011年减少了超过99%。这一巨大变化导致海湾水质下降，并为其他物种留下的栖息地减少。"
+      },
+      {
+       "en": "Oyster farming in the Chesapeake has expanded in recent years, despite environmental and disease challenges, says Ryan Carnegie, a biologist at the Virginia Institute of Marine Science. He adds that wild oysters have also made a partial comeback, helped by better management and investments in restoration. But, says Elizabeth North, a fisheries oceanographer at the University of Maryland Center for Environmental Science, \"there is still a lot of room to grow.\"",
+       "zh": "弗吉尼亚海洋科学研究所的生物学家瑞安·卡内基表示，尽管面临环境和疾病的挑战，切萨皮克湾的牡蛎养殖近年来仍在扩大。他补充说，野生牡蛎也有所部分恢复，这得益于更好的管理和恢复投资。但马里兰大学环境科学中心的渔业海洋学家伊丽莎白·诺斯表示，“仍有很大的增长空间。”"
+      },
+      {
+       "en": "Consoli's goal, therefore, is to be a caretaker of sorts, stocking the bay with ever more oysters and looking after their wellbeing. He floats them just below the surface where he says the nutrients are concentrated to help them grow quickly. And although his oysters aren't intended for eating, a cleaner bay does mean better habitat for those that are harvested commercially.",
+       "zh": "因此，Consoli 的目标是成为某种照管者，为海湾储存越来越多的牡蛎并照顾它们的健康。他将牡蛎漂浮在水面下方，他说那里营养物质集中，有助于它们快速生长。尽管他的牡蛎并不用于食用，但清洁的海湾确实意味着为商业采收的牡蛎提供了更好的栖息环境。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "water",
+       "pos": "n.",
+       "zh": "水",
+       "ex": "He leans over and hoists a mesh the size and shape of a pillowcase out of the water.",
+       "forms": []
+      },
+      {
+       "w": "growth",
+       "pos": "n.",
+       "zh": "增长",
+       "ex": "And this is just three months of growth.",
+       "forms": []
+      },
+      {
+       "w": "ecosystem",
+       "pos": "n.",
+       "zh": "生态系统",
+       "ex": "\"I really can't think of many more creatures that do the good that oysters do.\" Oysters underpin the Chesapeake's coastal and estuarine ecosystem.",
+       "forms": []
+      },
+      {
+       "w": "habitat",
+       "pos": "n.",
+       "zh": "栖息地",
+       "ex": "Plus, oyster shells are a habitat unto themselves.",
+       "forms": []
+      },
+      {
+       "w": "explain",
+       "pos": "v.",
+       "zh": "解释",
+       "ex": "\"Because of all the nooks and crannies,\" he explains, \"a lot of small fish and crabs live and eat amongst them and hide, so it creates a biodiverse environment.",
+       "forms": [
+        "explains"
+       ]
+      },
+      {
+       "w": "estimate",
+       "pos": "n.",
+       "zh": "估计；估算",
+       "ex": "I've never seen a seahorse in my life!\" Oyster reefs used to abound in the Chesapeake, but overharvesting decimated their ranks — by over 99% by 2011, according to one estimate.",
+       "forms": []
+      },
+      {
+       "w": "shift",
+       "pos": "n.",
+       "zh": "转变；转移",
+       "ex": "This monumental shift in the bay contributed to poorer water quality and less habitat for other species.",
+       "forms": []
+      },
+      {
+       "w": "species",
+       "pos": "n.",
+       "zh": "物种",
+       "ex": "This monumental shift in the bay contributed to poorer water quality and less habitat for other species.",
+       "forms": []
+      },
+      {
+       "w": "expand",
+       "pos": "v.",
+       "zh": "扩大；扩张",
+       "ex": "Oyster farming in the Chesapeake has expanded in recent years, despite environmental and disease challenges, says Ryan Carnegie, a biologist at the Virginia Institute of Marine Science.",
+       "forms": [
+        "expanded"
+       ]
+      },
+      {
+       "w": "disease",
+       "pos": "n.",
+       "zh": "疾病",
+       "ex": "Oyster farming in the Chesapeake has expanded in recent years, despite environmental and disease challenges, says Ryan Carnegie, a biologist at the Virginia Institute of Marine Science.",
+       "forms": []
+      },
+      {
+       "w": "challenge",
+       "pos": "n.",
+       "zh": "挑战",
+       "ex": "Oyster farming in the Chesapeake has expanded in recent years, despite environmental and disease challenges, says Ryan Carnegie, a biologist at the Virginia Institute of Marine Science.",
+       "forms": [
+        "challenges"
+       ]
+      },
+      {
+       "w": "investment",
+       "pos": "n.",
+       "zh": "投资",
+       "ex": "He adds that wild oysters have also made a partial comeback, helped by better management and investments in restoration.",
+       "forms": [
+        "investments"
+       ]
+      }
+     ],
+     "homeWords": [
+      "water",
+      "growth",
+      "ecosystem",
+      "habitat",
+      "explain"
+     ],
+     "keyVocab": [
+      "water",
+      "growth",
+      "ecosystem",
+      "habitat",
+      "explain",
+      "estimate",
+      "shift",
+      "species"
+     ]
+    },
+    {
+     "id": "2026-11-15-culture",
+     "section": "Culture",
+     "sectionZh": "文化",
+     "title": "M. John Harrison makes history as first sci-fi author to win the Booker Prize",
+     "dek": "M. John Harrison has become the first science fiction author to win the prestigious Booker Prize, for \"The End of Everything,\" in a milestone for the genre.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/14/nx-s1-6037700/m-john-harrison-makes-history-as-first-sci-fi-author-to-win-the-booker-prize",
+     "byline": "Andrew Limbong",
+     "dateLabel": "2026-11-15",
+     "words": 442,
+     "readTime": 3,
+     "level": "B2",
+     "levelEn": "Upper-intermediate",
+     "paragraphs": [
+      {
+       "en": "M. John Harrison has become the first science fiction author to win the prestigious Booker Prize, for \"The End of Everything,\" in a milestone for the genre.",
+       "zh": "约翰·哈里森先生成为首位获得享有盛誉的布克奖的科幻小说作家，他凭借《万物终结》获得此奖，这对于该类型是一个里程碑。"
+      },
+      {
+       "en": "Every year, the Booker Prize honors the best fiction published in the U.K. and Ireland. It is one of the highest achievements in English-language literature. Past winners include Salman Rushdie for \"Midnight's Children,\" Hilary Mantel for \"Wolf Hall\" and Kazuo Ishiguro for \"The Remains Of The Day.\" This year, the prize went to M. John Harrison's \"The End Of Everything,\" and it is the first science fiction novel to win the Booker in the prize's nearly six-decade history. What took so long? What's it mean for the genre? NPR's Andrew Limbong is here. Andrew, thanks so much for being with us.",
+       "zh": "每年，布克奖都会表彰在英国和爱尔兰出版的最佳小说。它是英语文学中最高的成就之一。过去的获奖者包括萨尔曼·鲁西迪的《午夜之子》、希拉里·曼特尔的《狼厅》和石黑一雄的《剩物之日》。今年，该奖颁给了M. 约翰·哈里森的《万物终结》，这是该奖近六十年历史上首部获奖的科幻小说。为什么会花这么长时间？这对这个类型意味着什么？NPR的安德鲁·林邦在这里。安德鲁，非常感谢你加入我们。"
+      },
+      {
+       "en": "SIMON: I'm embarrassed to say I hadn't heard of the book. Tell us about it.",
+       "zh": "西蒙：我不好意思地说我没听说过这本书。给我们介绍一下吧。"
+      },
+      {
+       "en": "LIMBONG: So it's set in this dystopian near future, but it's not exactly clear at the start what's happened that's caused this dystopian future. And we begin by following this guy named Phillip, who's a beachcomber. So he spends his time along the southern coast of England looking for stuff to sell. And he comes across this blob. It's hard to explain, but it's this shape-shifting thing that grows and regenerates. It ends up talking, and Phillip takes it under his care. All the while in the background, we're being given this information about an alien invasion, the iGhetti. But again, it is not super-duper clear what kind of aliens these are or what, really, the invasion itself caused.",
+       "zh": "LIMBONG：所以故事设定在一个反乌托邦的近未来，但一开始并不完全清楚导致这个反乌托邦未来发生了什么。我们一开始跟随一个名叫菲利普的人，他是个拾荒者。他在英格兰南海岸沿岸寻找可以出售的东西。有一天，他遇到了一个无法轻易描述的东西，是一种会改变形状、不断生长和再生的生物。它最终会说话，菲利普开始照顾它。与此同时，背景中我们会被提供一些关于外星人入侵的消息，即iGhetti。但同样地，这些外星人到底是什么样的，入侵本身又真正造成了什么，并不是非常清楚。"
+      },
+      {
+       "en": "SIMON: And I gather M. John Harrison isn't one of those novelists who overexplain circumstances...",
+       "zh": "西蒙：我听说约翰·哈里森先生并不是那种会过度解释情节的小说家……"
+      },
+      {
+       "en": "LIMBONG: (Laughter) No. No, no, absolutely not. This is very much a vibes-based book. And it's a pretty slim one, too. This is, like, under 200 pages.",
+       "zh": "LIMBONG：（笑）不。不，不，绝对不。这本书非常依赖氛围。而且它相当薄，大约不到200页。"
+      },
+      {
+       "en": "LIMBONG: It's been bananas, Scott. It's been bonkers. This is a bit of a divisive book, and I think intentionally so. When M. John Harrison accepted the award, he started by saying he didn't think he'd end up winning. And I don't think that's false modesty. I'm inclined to believe him, judging by the reaction. The book has under three stars out of five on Goodreads, same on StoryGraph. He beat out authors sort of beloved by litfic (ph) fans and critics. You know, you got Marlon James, Elizabeth Strout, Douglas Stuart, which means, you know, there are a lot of people who are displeased by this win, to say the least.",
+       "zh": "LIMBONG：真是疯狂，Scott。真是狂热。这本书有点分裂人群，我觉得这是故意的。当M. John Harrison接受奖项时，他开始时说他没想到自己会获奖。我认为这并非是假谦虚。从反应来看，我倾向于相信他。这本书在Goodreads上评分不到五颗星中的三颗，StoryGraph上也是如此。他战胜了一些受文学小说粉丝和评论家喜爱的作者。你知道，有Marlon James、Elizabeth Strout、Douglas Stuart，这意味着，至少可以说，有很多人对这个获奖结果不满意。"
+      },
+      {
+       "en": "SIMON: There have been, over the past 50 years, a lot of great science fiction novels. What do you think put this one over the top?",
+       "zh": "西蒙：在过去的50年里，有许多伟大的科幻小说。你认为是什么让这本书脱颖而出？"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "fiction",
+       "pos": "n.",
+       "zh": "小说；虚构",
+       "ex": "John Harrison has become the first science fiction author to win the prestigious Booker Prize, for \"The End of Everything,\" in a milestone for the genre.",
+       "forms": []
+      },
+      {
+       "w": "genre",
+       "pos": "n.",
+       "zh": "类型；流派",
+       "ex": "John Harrison has become the first science fiction author to win the prestigious Booker Prize, for \"The End of Everything,\" in a milestone for the genre.",
+       "forms": []
+      },
+      {
+       "w": "literature",
+       "pos": "n.",
+       "zh": "文学",
+       "ex": "It is one of the highest achievements in English-language literature.",
+       "forms": []
+      },
+      {
+       "w": "history",
+       "pos": "n.",
+       "zh": "历史",
+       "ex": "John Harrison's \"The End Of Everything,\" and it is the first science fiction novel to win the Booker in the prize's nearly six-decade history.",
+       "forms": []
+      },
+      {
+       "w": "future",
+       "pos": "n.",
+       "zh": "未来",
+       "ex": "LIMBONG: So it's set in this dystopian near future, but it's not exactly clear at the start what's happened that's caused this dystopian future.",
+       "forms": []
+      },
+      {
+       "w": "explain",
+       "pos": "v.",
+       "zh": "解释",
+       "ex": "It's hard to explain, but it's this shape-shifting thing that grows and regenerates.",
+       "forms": []
+      },
+      {
+       "w": "invasion",
+       "pos": "n.",
+       "zh": "入侵；侵略",
+       "ex": "All the while in the background, we're being given this information about an alien invasion, the iGhetti.",
+       "forms": []
+      },
+      {
+       "w": "novelist",
+       "pos": "n.",
+       "zh": "小说家",
+       "ex": "John Harrison isn't one of those novelists who overexplain circumstances...",
+       "forms": [
+        "novelists"
+       ]
+      },
+      {
+       "w": "accept",
+       "pos": "v.",
+       "zh": "接受",
+       "ex": "John Harrison accepted the award, he started by saying he didn't think he'd end up winning.",
+       "forms": [
+        "accepted"
+       ]
+      },
+      {
+       "w": "judge",
+       "pos": "n.",
+       "zh": "法官",
+       "ex": "I'm inclined to believe him, judging by the reaction.",
+       "forms": [
+        "judging"
+       ]
+      },
+      {
+       "w": "critic",
+       "pos": "n.",
+       "zh": "评论家；批评家",
+       "ex": "He beat out authors sort of beloved by litfic (ph) fans and critics.",
+       "forms": [
+        "critics"
+       ]
+      }
+     ],
+     "homeWords": [
+      "fiction",
+      "genre",
+      "literature",
+      "history",
+      "future"
+     ],
+     "keyVocab": [
+      "fiction",
+      "genre",
+      "literature",
+      "history",
+      "future",
+      "explain",
+      "invasion",
+      "novelist"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-14",
    "articles": [
@@ -4604,809 +5326,6 @@
       "tradition",
       "acquire",
       "history"
-     ]
-    }
-   ]
-  },
-  {
-   "date": "2026-11-08",
-   "articles": [
-    {
-     "id": "2026-11-08-world",
-     "section": "World",
-     "sectionZh": "国际",
-     "title": "Israeli president invites Netanyahu's opposition leader to broker new government",
-     "dek": "Israel's political landscape shifts as President Herzog hands opposition leader Gadi Eisenkot the mandate to form a government, dealing a blow to Benjamin Netanyahu's grip on power.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government",
-     "byline": "Lauren Frayer",
-     "dateLabel": "2026-11-08",
-     "words": 490,
-     "readTime": 3,
-     "level": "B2",
-     "levelEn": "Upper-intermediate",
-     "paragraphs": [
-      {
-       "en": "Israel's political landscape shifts as President Herzog hands opposition leader Gadi Eisenkot the mandate to form a government, dealing a blow to Benjamin Netanyahu's grip on power.",
-       "zh": "随着总统赫尔佐格将组建政府的任务交给反对派领导人加迪·艾森科特，以色列的政治格局发生变化，这对本杰明·内塔尼亚胡的权力掌控造成打击。"
-      },
-      {
-       "en": "Israel's president says he's tapped Prime Minister Benjamin Netanyahu's political rival, Gadi Eisenkot, to form the next Israeli government. Neither Netanyahu nor Eisenkot won a clear majority in last month's election. But parties representing most of the members of Israel's parliament have recommended Eisenkot to try to form a governing coalition. For more on what that means, let's go to NPR's Lauren Frayer, who joins us live from Tel Aviv. Hey, Lauren.",
-       "zh": "以色列总统表示，他已任命总理本杰明·内塔尼亚胡的政治对手加迪·艾森科特组建下一届以色列政府。上个月的选举中，内塔尼亚胡和艾森科特都未获得明确多数。但代表以色列议会大多数成员的政党已推荐艾森科特尝试组建执政联盟。关于这意味着什么，让我们连线NPR的劳伦·弗雷耶，她正在特拉维夫为我们进行现场报道。嗨，劳伦。"
-      },
-      {
-       "en": "FRAYER: So he's a former military chief whose son was an Israeli soldier killed in combat in Gaza. He is a center-right politician, while Netanyahu is on the far right. Eisenkot briefly served in Netanyahu's cabinet after the October 7 Hamas attacks on Israel, but the two had a falling out. Eisenkot founded a new political party, ran against Netanyahu and now wants to replace him. Netanyahu's been Israel's longest serving prime minister, and he is still the caretaker prime minister for now.",
-       "zh": "FRAYER：所以他是一位前军事首长，他的儿子是以色列士兵，在加沙作战中阵亡。他是一位中右翼政治家，而内塔尼亚胡则属于极右翼。以色列的伊森科特在10月7日哈马斯袭击以色列后曾短暂担任内塔尼亚胡内阁成员，但两人后来关系破裂。伊森科特创立了一个新政党，竞选反对内塔尼亚胡，现在想取代他。内塔尼亚胡是以色列任职时间最长的总理，目前仍是看守总理。"
-      },
-      {
-       "en": "SCHMITZ: Got it. So what is the timeline for a possible change of power here?",
-       "zh": "施密茨：明白。那么这里可能更换权力的时间表是什么？"
-      },
-      {
-       "en": "FRAYER: Israel's president is holding a ceremony with Eisenkot Sunday evening local time, and that's when the clock starts. Eisenkot has about six weeks to form a coalition with other parties. If he fails, the president could ask someone else to try, perhaps Netanyahu. If that person fails, Israel could be looking at do-over elections in a few months. And the coalition building could be really tough.",
-       "zh": "FRAYER：以色列总统将于当地时间周日晚与艾森科特举行仪式，届时计时开始。艾森科特大约有六周时间与其他政党组建联盟。如果他失败，总统可能会请别人尝试组建，也许是内塔尼亚胡。如果那个人也失败，以色列可能在几个月内面临重新选举。而组建联盟可能会非常困难。"
-      },
-      {
-       "en": "FRAYER: So a coalition would include all these strange bedfellows, you know, from ultra-Orthodox Jewish parties to Arab-led parties representing Palestinian citizens of Israel. They make up about 20% of Israel and had a record turnout in these elections - could be the kingmakers. But both Eisenkot and Netanyahu ruled out working with them. And now there's some public pressure on Eisenkot to change his mind. Tonight, Netanyahu issued a video warning against that, against partnering what - with what he called Hamas supporters and, quote, \"those who oppose Judaism.\" You know, Netanyahu has used a lot of racist and Islamophobic language throughout this election towards the - Israel's minority-Arab population. Eisenkot tonight called Netanyahu's video hysterical. So things are very, very tense here.",
-       "zh": "FRAYER：所以一个联盟会包括所有这些奇怪的政治伙伴，你知道的，从极端正统犹太党派到代表以色列巴勒斯坦公民的阿拉伯领导党派。他们大约占以色列人口的20%，在这次选举中创下了投票记录——可能成为关键决策者。但艾森科特和内塔尼亚胡都排除了与他们合作的可能性。现在，对艾森科特有一些公众压力，要求他改变主意。今晚，内塔尼亚胡发布了一段视频，警告不要这样做，不要与——也就是他所谓的哈马斯支持者以及“那些反对犹太教的人”合作。你知道，内塔尼亚胡在这次选举中对以色列少数阿拉伯人口使用了很多种族主义和伊斯兰恐惧的言辞。艾森科特今晚称内塔尼亚胡的视频为歇斯底里。所以这里的局势非常，非常紧张。"
-      },
-      {
-       "en": "SCHMITZ: Yeah, it sounds like it. I mean, so the next Israeli prime minister will also have to contend with a more strained relationship with the United States. And I'm curious here, how did the U.S. midterm election results go over in Israel?",
-       "zh": "施密茨：是的，听起来是这样。我的意思是，下一任以色列总理也将不得不应对与美国关系更加紧张的问题。我很好奇，美国中期选举的结果在以色列反响如何？"
-      },
-      {
-       "en": "FRAYER: Pretty badly. I mean, many Israelis I've talked to are really dismayed that criticism of Israel was a talking point for some of the winning candidates in the U.S. You know, newspapers here are splashed with photos of the Democratic senator-elect from Michigan, Abdul El-Sayed. Meanwhile, President Trump on Election Day says he's cutting U.S. aid to Israel.",
-       "zh": "FRAYER：相当糟糕。我的意思是，我交谈过的许多以色列人真的很沮丧，因为对以色列的批评成为了一些美国当选候选人的讨论话题。你知道，这里的报纸上满是密歇根州当选民主党参议员阿卜杜勒·艾尔-赛义德的照片。与此同时，特朗普总统在选举日表示，他将削减对以色列的美国援助。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "shift",
-       "pos": "n.",
-       "zh": "转变；转移",
-       "ex": "Israel's political landscape shifts as President Herzog hands opposition leader Gadi Eisenkot the mandate to form a government, dealing a blow to Benjamin Netanyahu's grip on power.",
-       "forms": [
-        "shifts"
-       ]
-      },
-      {
-       "w": "president",
-       "pos": "n.",
-       "zh": "总统；总裁",
-       "ex": "Israel's political landscape shifts as President Herzog hands opposition leader Gadi Eisenkot the mandate to form a government, dealing a blow to Benjamin Netanyahu's grip on power.",
-       "forms": []
-      },
-      {
-       "w": "opposition",
-       "pos": "n.",
-       "zh": "反对派；反对",
-       "ex": "Israel's political landscape shifts as President Herzog hands opposition leader Gadi Eisenkot the mandate to form a government, dealing a blow to Benjamin Netanyahu's grip on power.",
-       "forms": []
-      },
-      {
-       "w": "leader",
-       "pos": "n.",
-       "zh": "领导人",
-       "ex": "Israel's political landscape shifts as President Herzog hands opposition leader Gadi Eisenkot the mandate to form a government, dealing a blow to Benjamin Netanyahu's grip on power.",
-       "forms": []
-      },
-      {
-       "w": "power",
-       "pos": "n.",
-       "zh": "权力；电力",
-       "ex": "Israel's political landscape shifts as President Herzog hands opposition leader Gadi Eisenkot the mandate to form a government, dealing a blow to Benjamin Netanyahu's grip on power.",
-       "forms": []
-      },
-      {
-       "w": "minister",
-       "pos": "n.",
-       "zh": "部长；大臣",
-       "ex": "Israel's president says he's tapped Prime Minister Benjamin Netanyahu's political rival, Gadi Eisenkot, to form the next Israeli government.",
-       "forms": []
-      },
-      {
-       "w": "rival",
-       "pos": "v.",
-       "zh": "与……竞争；媲美",
-       "ex": "Israel's president says he's tapped Prime Minister Benjamin Netanyahu's political rival, Gadi Eisenkot, to form the next Israeli government.",
-       "forms": []
-      },
-      {
-       "w": "majority",
-       "pos": "n.",
-       "zh": "多数；大多数",
-       "ex": "Neither Netanyahu nor Eisenkot won a clear majority in last month's election.",
-       "forms": []
-      },
-      {
-       "w": "election",
-       "pos": "n.",
-       "zh": "选举",
-       "ex": "Neither Netanyahu nor Eisenkot won a clear majority in last month's election.",
-       "forms": [
-        "elections"
-       ]
-      },
-      {
-       "w": "party",
-       "pos": "n.",
-       "zh": "政党；一方",
-       "ex": "But parties representing most of the members of Israel's parliament have recommended Eisenkot to try to form a governing coalition.",
-       "forms": [
-        "parties"
-       ]
-      },
-      {
-       "w": "parliament",
-       "pos": "n.",
-       "zh": "议会",
-       "ex": "But parties representing most of the members of Israel's parliament have recommended Eisenkot to try to form a governing coalition.",
-       "forms": []
-      },
-      {
-       "w": "coalition",
-       "pos": "n.",
-       "zh": "联合政府；联盟",
-       "ex": "But parties representing most of the members of Israel's parliament have recommended Eisenkot to try to form a governing coalition.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "shift",
-      "president",
-      "opposition",
-      "leader",
-      "power"
-     ],
-     "keyVocab": [
-      "shift",
-      "president",
-      "opposition",
-      "leader",
-      "power",
-      "minister",
-      "rival",
-      "majority"
-     ]
-    },
-    {
-     "id": "2026-11-08-business",
-     "section": "Business",
-     "sectionZh": "商业 · 财经",
-     "title": "Why gold prices are surprisingly low",
-     "dek": "Scammers can even make money off of people starved for FAN fiction. That's my takeaway from a fake website popping up that tried to sell computer-generated audiobooks of fan fiction, which is…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/sections/planet-money/2026/11/06/nx-s1-6030995/why-gold-prices-are-surprisingly-low",
-     "byline": "Cooper Katz McKim",
-     "dateLabel": "2026-11-08",
-     "words": 615,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "Scammers can even make money off of people starved for FAN fiction. That's my takeaway from a fake website popping up that tried to sell computer-generated audiobooks of fan fiction, which is content created by ANYONE based off of existing works. \"Fifty Shades of Grey\" started as a fanfic of Twilight, for example.",
-       "zh": "骗子甚至可以从渴望同人小说的人身上赚钱。这是我从一个出现的假网站中的体会，该网站试图出售由计算机生成的同人小说有声书。同人小说是任何人基于现有作品创作的内容。例如，《五十度灰》最初就是《暮光之城》的同人作品。"
-      },
-      {
-       "en": "This scam website popped up in the wake of the uber-popular fan fiction website AO3, Archive of our Own, going down for an estimated two to four weeks after a \"security incident.\" People are starved for their stories and apparently will click on anything. Lucky for the world, the scam website has been taken down.",
-       "zh": "在超受欢迎的同人小说网站AO3（Archive of Our Own）因一次“安全事件”预计停摆两到四周后，这个诈骗网站就出现了。人们对他们的故事渴望不已，显然会点击任何东西。幸运的是，这个诈骗网站已经被关闭。"
-      },
-      {
-       "en": "What to know: North Korea just loves stealing crypto. They love it! It's become a major part of their economy. Last week, a state-sponsored hacking group called \"TraderTraitor\" executed the largest crypto theft in history, stealing $6.43 billion from Binance, a massive cryptocurrency exchange. $2.85 billion has been frozen or seized, according to Elliptic, a crypto analytics & compliance firm. But $3.35 billion is still linked to the group. \"TraderTraitor\" is actively trying to launder this money (yes, crypto is surprisingly traceable). A huge part of the stolen funds are in stablecoin, which can be frozen. Whatever isn't already frozen, the hacking group is trying to launder it and FAST. So how are they doing it?",
-       "zh": "需要了解的是：朝鲜非常喜欢盗取加密货币。他们非常热衷！这已经成为他们经济的重要组成部分。上周，一个名为“TraderTraitor”的国家支持的黑客组织实施了史上最大规模的加密货币盗窃，从大型加密货币交易所币安窃取了64.3亿美元。据加密分析与合规公司Elliptic称，其中28.5亿美元已被冻结或被没收。但仍有33.5亿美元与该组织有关联。“TraderTraitor”正在积极尝试洗钱（是的，加密货币出乎意料地可追踪）。被盗资金中很大一部分是稳定币，可以被冻结。尚未被冻结的部分，该黑客组织正在尝试快速洗钱。那么，他们是如何做到的呢？"
-      },
-      {
-       "en": "How are the criminals laundering these assets?: Laundering this much crypto is NOT simple. The intelligence firm Elliptic broke down how \"TraderTraitor\" is trying to quickly protect its newfound loot. First of all, they want to turn any Stablecoin into assets that cannot be frozen, like Ether (ETH). From there, the group is using automation to create LOTS of new wallets to filter small amounts of crypto, so as not to trigger alarms for moving assets worth a bazillion dollars. From there, launderers want to move the money across networks like Ethereum to Bitcoin then pull it from a mixed pool with a bunch of other people's assets. The goal: make the crypto's origins hazy. \"TraderTraitor\" is moving fast. On Tuesday, Elliptic reported the group has made more than 40,000 transactions, creating a new wallet every 25 seconds.",
-       "zh": "罪犯是如何洗这些资产的？：洗这么多加密货币并不简单。情报公司 Elliptic 分析了“TraderTraitor”是如何试图快速保护其新获得的赃款的。首先，他们希望将任何稳定币转换为无法被冻结的资产，比如以太坊（ETH）。接下来，该组织使用自动化工具创建大量新钱包来过滤少量加密货币，以避免触发价值数万亿美元资产转移的警报。之后，洗钱者希望将资金从以太坊网络转移到比特币网络，然后从一个混合池中取出资金，该池还包含其他人的资产。目标：让加密货币的来源变得模糊。“TraderTraitor”动作很快。周二，Elliptic 报告称，该组织已经进行了超过 40,000 笔交易，每 25 秒创建一个新钱包。"
-      },
-      {
-       "en": "One interesting detail: Binance has promised to make customers whole, but investors have already pulled billions from the exchange.",
-       "zh": "一个有趣的细节：币安承诺会让客户得到赔偿，但投资者已经从该交易所撤出了数十亿美元。"
-      },
-      {
-       "en": "What to know: This week, gold fell below $4,000 per ounce after hitting nearly $5,600 per ounce in January. It's typically seen as a safe-haven asset, which is why investors were shoveling money into it earlier this year. As you know, things have been a bit volatile from the Iran War to the criminal probe into the Federal Reserve chair. But today, there's still economic uncertainty, no? The war with Iran rages on. So why are gold prices falling? I took my question to Planet Money co-host Jeff Guo to find out. I asked him: could gold be going down because Treasury bond yields are up? That could mean there are MORE reliable ways to make money.",
-       "zh": "需要了解的情况：本周，黄金价格跌破每盎司4,000美元，此前在1月份曾接近每盎司5,600美元。黄金通常被视为避险资产，这就是为什么投资者今年早些时候纷纷投入资金的原因。正如你所知，从伊朗战争到对美联储主席的刑事调查，情况一直有些波动。但今天，经济仍然存在不确定性，不是吗？与伊朗的战争仍在继续。那么，为什么黄金价格会下跌呢？我把这个问题带给了Planet Money的联合主持人郭杰夫（Jeff Guo）了解情况。我问他：黄金价格下跌是否可能是因为国债收益率上升？这可能意味着存在更可靠的赚钱方式。"
-      },
-      {
-       "en": "Jeff: I think you are right that rising Treasury yields are the story. As you know, gold tends to be seen as a \"safe\" asset and an inflation hedge; but the problem is that gold doesn't earn any income/interest on its own. Meanwhile, you could buy a 10 year TIPS (Treasury Inflation-Protected Securities) bond right now that does earn income, above and beyond inflation. Sure, the Iran war is a source of political instability that might drive investors toward gold. But the main effect of the war so far seems to be raising the price of oil. And higher oil prices are one of the factors pushing interest rates up, making bonds more attractive relative to gold.",
-       "zh": "杰夫：我认为你说得对，国债收益率上升才是关键因素。正如你所知道的，黄金通常被视为“安全”资产和通胀对冲工具；但问题是，黄金本身不会产生任何收益/利息。与此同时，你现在可以买一只10年期的TIPS（国债抗通胀证券）债券，它确实能产生收益，而且超过通胀。当然，伊朗战争带来的政治不稳定可能会促使投资者转向黄金。但到目前为止，这场战争的主要影响似乎是推高了油价。而油价上涨是推动利率上升的因素之一，这使得债券相对于黄金更具吸引力。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "fiction",
-       "pos": "n.",
-       "zh": "小说；虚构",
-       "ex": "Scammers can even make money off of people starved for FAN fiction.",
-       "forms": []
-      },
-      {
-       "w": "estimate",
-       "pos": "n.",
-       "zh": "估计；估算",
-       "ex": "This scam website popped up in the wake of the uber-popular fan fiction website AO3, Archive of our Own, going down for an estimated two to four weeks after a \"security incident.\" People are starved for their stories and apparently will click on anything.",
-       "forms": [
-        "estimated"
-       ]
-      },
-      {
-       "w": "economy",
-       "pos": "n.",
-       "zh": "经济",
-       "ex": "It's become a major part of their economy.",
-       "forms": []
-      },
-      {
-       "w": "hacking",
-       "pos": "n.",
-       "zh": "黑客攻击",
-       "ex": "Last week, a state-sponsored hacking group called \"TraderTraitor\" executed the largest crypto theft in history, stealing $6.43 billion from Binance, a massive cryptocurrency exchange.",
-       "forms": []
-      },
-      {
-       "w": "history",
-       "pos": "n.",
-       "zh": "历史",
-       "ex": "Last week, a state-sponsored hacking group called \"TraderTraitor\" executed the largest crypto theft in history, stealing $6.43 billion from Binance, a massive cryptocurrency exchange.",
-       "forms": []
-      },
-      {
-       "w": "billion",
-       "pos": "n.",
-       "zh": "十亿",
-       "ex": "Last week, a state-sponsored hacking group called \"TraderTraitor\" executed the largest crypto theft in history, stealing $6.43 billion from Binance, a massive cryptocurrency exchange.",
-       "forms": [
-        "billions"
-       ]
-      },
-      {
-       "w": "cryptocurrency",
-       "pos": "n.",
-       "zh": "加密货币",
-       "ex": "Last week, a state-sponsored hacking group called \"TraderTraitor\" executed the largest crypto theft in history, stealing $6.43 billion from Binance, a massive cryptocurrency exchange.",
-       "forms": []
-      },
-      {
-       "w": "compliance",
-       "pos": "n.",
-       "zh": "合规；遵从",
-       "ex": "$2.85 billion has been frozen or seized, according to Elliptic, a crypto analytics & compliance firm.",
-       "forms": []
-      },
-      {
-       "w": "fund",
-       "pos": "n.",
-       "zh": "基金；资金",
-       "ex": "A huge part of the stolen funds are in stablecoin, which can be frozen.",
-       "forms": [
-        "funds"
-       ]
-      },
-      {
-       "w": "asset",
-       "pos": "n.",
-       "zh": "资产",
-       "ex": "How are the criminals laundering these assets?: Laundering this much crypto is NOT simple.",
-       "forms": [
-        "assets"
-       ]
-      },
-      {
-       "w": "intelligence",
-       "pos": "n.",
-       "zh": "情报；智能",
-       "ex": "The intelligence firm Elliptic broke down how \"TraderTraitor\" is trying to quickly protect its newfound loot.",
-       "forms": []
-      },
-      {
-       "w": "automation",
-       "pos": "n.",
-       "zh": "自动化",
-       "ex": "From there, the group is using automation to create LOTS of new wallets to filter small amounts of crypto, so as not to trigger alarms for moving assets worth a bazillion dollars.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "fiction",
-      "estimate",
-      "economy",
-      "hacking",
-      "history"
-     ],
-     "keyVocab": [
-      "fiction",
-      "estimate",
-      "economy",
-      "hacking",
-      "history",
-      "billion",
-      "cryptocurrency",
-      "compliance"
-     ]
-    },
-    {
-     "id": "2026-11-08-technology",
-     "section": "Technology",
-     "sectionZh": "科技",
-     "title": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
-     "dek": "The overgrown grass and weeds seem to stretch into the horizon on nearly 90 acres of empty land in Landover, Md. It used to be Landover Mall, but that closed in 2002, and the site has been mostly…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
-     "byline": "Jenny Abamu",
-     "dateLabel": "2026-11-08",
-     "words": 333,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "The overgrown grass and weeds seem to stretch into the horizon on nearly 90 acres of empty land in Landover, Md. It used to be Landover Mall, but that closed in 2002, and the site has been mostly vacant since.",
-       "zh": "在马里兰州兰多弗，近90英亩的空地上，杂草丛生的草地似乎延伸到地平线。这里曾是兰多弗购物中心，但该购物中心在2002年关闭，此后这一地块大部分时间处于空置状态。"
-      },
-      {
-       "en": "In 2024, the developer that built the mall won approval from county planners for a $5 billion data center campus, and word began spreading through the largely Black community nearby.",
-       "zh": "在2024年，建造该商场的开发商获得县规划人员批准建设一个价值50亿美元的数据中心园区，并且消息开始在附近以黑人为主的社区中传播。"
-      },
-      {
-       "en": "\"I was like, 'Oh, hell no,'\" said Taylor Frazier McCollum, describing the moment she learned about the project. She lived less than a mile away from it. \"Why would you want to bring water-polluting, diesel-generating data centers right down the street from where people live, work, play? It just didn't make sense to me.\"",
-       "zh": "泰勒·弗雷泽·麦考勒姆（Taylor Frazier McCollum）描述她得知这个项目的那一刻时说：“我当时心想，‘哦，绝对不行。’”她住在离项目不到一英里的地方。“你为什么要在居民、工作和娱乐区的街道附近建造会污染水源、产生柴油的数据信息中心呢？我根本不理解。”"
-      },
-      {
-       "en": "Frazier McCollum is one of a number of Americans whose political awakening was triggered by data center development. Across the country, community members have taken to local council hearings to voice their opposition. They've prompted — though estimates vary — about 500 moratoriums on data centers nationwide.",
-       "zh": "弗雷泽·麦考勒姆是一些因数据中心开发而政治觉醒的美国人之一。在全国各地，社区成员纷纷出席地方议会听证会表达他们的反对意见。他们促使——尽管估算有所不同——全国大约有500个关于数据中心的暂停建设令。"
-      },
-      {
-       "en": "Unlike a lot of land-use activists trying to protect their homes from threats in their backyards, Frazier McCollum does not own a home. In 2024, she and her young daughter were evicted from their apartment. She was working at a waxing center that cut wages, and she could no longer cover her rent.",
-       "zh": "与许多试图保护自家后院免受威胁的土地使用活动家不同，弗雷泽·麦考勒姆没有房子。在2024年，她和她的小女儿被赶出了公寓。她当时在一家脱毛中心工作，但该公司降低了工资，她再也无法支付房租。"
-      },
-      {
-       "en": "\"It was difficult,\" Frazier McCollum recalled. \"Because I created the ideal life paying for us to live in this apartment and have our own space ... and then to have it taken away ... It felt like something that wasn't ever going to end.\"",
-       "zh": "“很困难，”弗雷泽·麦考勒姆回忆道。“因为我创造了理想的生活，支付我们住在这间公寓并拥有自己的空间……然后它被夺走了……感觉像是永远不会结束的事情。”"
-      },
-      {
-       "en": "They've moved around and were living in her grandfather's home when she learned about the proposed project less than a mile away.",
-       "zh": "他们搬来搬去，并住在她爷爷的家里，当她得知不到一英里外的拟建项目时。"
-      },
-      {
-       "en": "She created a petition that gathered over 25,000 signatures, leading to widely attended protests and culminating in multiple local moratoriums imposed on data centers throughout the county. It blocked the $5 billion project that was set to break ground between 2026 and 2027.",
-       "zh": "她发起了一份请愿书，收集了超过25,000个签名，导致大量人参与的抗议活动，并最终在全县对数据中心实施了多项地方性暂停令。它阻止了原定于2026年至2027年开工的50亿美元项目。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "land",
-       "pos": "n.",
-       "zh": "土地；陆地",
-       "ex": "The overgrown grass and weeds seem to stretch into the horizon on nearly 90 acres of empty land in Landover, Md.",
-       "forms": []
-      },
-      {
-       "w": "billion",
-       "pos": "n.",
-       "zh": "十亿",
-       "ex": "In 2024, the developer that built the mall won approval from county planners for a $5 billion data center campus, and word began spreading through the largely Black community nearby.",
-       "forms": []
-      },
-      {
-       "w": "data",
-       "pos": "n.",
-       "zh": "数据",
-       "ex": "In 2024, the developer that built the mall won approval from county planners for a $5 billion data center campus, and word began spreading through the largely Black community nearby.",
-       "forms": []
-      },
-      {
-       "w": "community",
-       "pos": "n.",
-       "zh": "社区；群体",
-       "ex": "In 2024, the developer that built the mall won approval from county planners for a $5 billion data center campus, and word began spreading through the largely Black community nearby.",
-       "forms": []
-      },
-      {
-       "w": "describe",
-       "pos": "v.",
-       "zh": "描述",
-       "ex": "\"I was like, 'Oh, hell no,'\" said Taylor Frazier McCollum, describing the moment she learned about the project.",
-       "forms": [
-        "describing"
-       ]
-      },
-      {
-       "w": "number",
-       "pos": "n.",
-       "zh": "数量；数字",
-       "ex": "It just didn't make sense to me.\" Frazier McCollum is one of a number of Americans whose political awakening was triggered by data center development.",
-       "forms": []
-      },
-      {
-       "w": "trigger",
-       "pos": "v.",
-       "zh": "引发；触发",
-       "ex": "It just didn't make sense to me.\" Frazier McCollum is one of a number of Americans whose political awakening was triggered by data center development.",
-       "forms": [
-        "triggered"
-       ]
-      },
-      {
-       "w": "local",
-       "pos": "adj.",
-       "zh": "当地的",
-       "ex": "Across the country, community members have taken to local council hearings to voice their opposition.",
-       "forms": []
-      },
-      {
-       "w": "opposition",
-       "pos": "n.",
-       "zh": "反对派；反对",
-       "ex": "Across the country, community members have taken to local council hearings to voice their opposition.",
-       "forms": []
-      },
-      {
-       "w": "estimate",
-       "pos": "n.",
-       "zh": "估计；估算",
-       "ex": "They've prompted — though estimates vary — about 500 moratoriums on data centers nationwide.",
-       "forms": [
-        "estimates"
-       ]
-      },
-      {
-       "w": "activist",
-       "pos": "n.",
-       "zh": "活动家；积极分子",
-       "ex": "Unlike a lot of land-use activists trying to protect their homes from threats in their backyards, Frazier McCollum does not own a home.",
-       "forms": [
-        "activists"
-       ]
-      },
-      {
-       "w": "threat",
-       "pos": "n.",
-       "zh": "威胁",
-       "ex": "Unlike a lot of land-use activists trying to protect their homes from threats in their backyards, Frazier McCollum does not own a home.",
-       "forms": [
-        "threats"
-       ]
-      }
-     ],
-     "homeWords": [
-      "land",
-      "billion",
-      "data",
-      "community",
-      "describe"
-     ],
-     "keyVocab": [
-      "land",
-      "billion",
-      "data",
-      "community",
-      "describe",
-      "number",
-      "trigger",
-      "local"
-     ]
-    },
-    {
-     "id": "2026-11-08-science",
-     "section": "Science",
-     "sectionZh": "科学",
-     "title": "Trump says he's ending restrictions on climate-warming methane from oil drilling",
-     "dek": "BILLINGS, Mont. — President Donald Trump said Tuesday that his administration is \"terminating\" a Biden-era rule that aimed to cut planet-warming emissions of methane from oil and gas drilling.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/28/g-s1-150299/trump-methane-restrictions",
-     "byline": "The Associated Press",
-     "dateLabel": "2026-11-08",
-     "words": 249,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "BILLINGS, Mont. — President Donald Trump said Tuesday that his administration is \"terminating\" a Biden-era rule that aimed to cut planet-warming emissions of methane from oil and gas drilling.",
-       "zh": "蒙大拿州比林斯——总统唐纳德·特朗普周二表示，他的政府正在“终止”拜登时期的一项规则，该规则旨在减少石油和天然气钻探产生的温室气体甲烷排放。"
-      },
-      {
-       "en": "Trump said during a campaign rally in Texas that the change would save companies and consumers billions of dollars and unlock 210 million barrels of oil. That's equivalent to about 10 days of U.S. petroleum consumption.",
-       "zh": "特朗普在德克萨斯州的一次竞选集会上表示，这一变化将为公司和消费者节省数十亿美元，并释放出2.1亿桶石油。这相当于美国约10天的石油消耗量。"
-      },
-      {
-       "en": "The move aims to encourage more domestic drilling as Trump faces criticism over high fuel prices amid the war in Iran.",
-       "zh": "此举旨在鼓励更多的国内钻探，因为特朗普在伊朗战争期间因高燃料价格而面临批评。"
-      },
-      {
-       "en": "Methane is responsible for about a third of planet-warming greenhouse gas emissions, scientists estimate.",
-       "zh": "科学家估计，甲烷约占导致地球变暖的温室气体排放的三分之一。"
-      },
-      {
-       "en": "Cuts in methane emissions have emerged in recent years as a global priority to slow the rate of climate change. Oil and gas operations are the largest industrial source of methane, which is the main component in natural gas and far more potent to the atmosphere than carbon dioxide in the short term.",
-       "zh": "近年来，减少甲烷排放已成为全球的优先事项，以减缓气候变化的速度。石油和天然气作业是最大的工业甲烷来源，甲烷是天然气的主要成分，在短期内对大气的影响远比二氧化碳更强。"
-      },
-      {
-       "en": "The invisible gas leaks from equipment and is released into the atmosphere or burned off as a waste product by oil drillers.",
-       "zh": "这种看不见的气体从设备中泄漏，并被释放到大气中，或被石油钻探工作为废弃物燃烧掉。"
-      },
-      {
-       "en": "Environmental Protection Agency Administrator Lee Zeldin previewed the changes last month, saying they would eliminate the agency's \"Super Emitter Program\" that requires companies to investigate and repair major methane releases from oil and natural gas facilities. The agency would also set less restrictive standards for small oil and gas wells.",
-       "zh": "环境保护局局长李·泽尔丁上个月预览了这些变化，他表示，这些变化将取消该机构的“超级排放者计划”，该计划要求公司调查并修复油气设施的大量甲烷泄漏。该机构还将为小型油气井设定较少限制的标准。"
-      },
-      {
-       "en": "Trump said during Tuesday's rally in Lubbock for Texas Republican Senate candidate Ken Paxton that Biden's plan \"crushed the small operators\" with crippling regulations.",
-       "zh": "特朗普在周二为德克萨斯州共和党参议员候选人肯·帕克斯顿在拉伯克举行的集会上表示，拜登的计划“用严苛的法规压垮了小型运营商”。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "president",
-       "pos": "n.",
-       "zh": "总统；总裁",
-       "ex": "— President Donald Trump said Tuesday that his administration is \"terminating\" a Biden-era rule that aimed to cut planet-warming emissions of methane from oil and gas drilling.",
-       "forms": []
-      },
-      {
-       "w": "administration",
-       "pos": "n.",
-       "zh": "政府；行政",
-       "ex": "— President Donald Trump said Tuesday that his administration is \"terminating\" a Biden-era rule that aimed to cut planet-warming emissions of methane from oil and gas drilling.",
-       "forms": []
-      },
-      {
-       "w": "emission",
-       "pos": "n.",
-       "zh": "排放；排放物",
-       "ex": "— President Donald Trump said Tuesday that his administration is \"terminating\" a Biden-era rule that aimed to cut planet-warming emissions of methane from oil and gas drilling.",
-       "forms": [
-        "emissions"
-       ]
-      },
-      {
-       "w": "methane",
-       "pos": "n.",
-       "zh": "甲烷",
-       "ex": "— President Donald Trump said Tuesday that his administration is \"terminating\" a Biden-era rule that aimed to cut planet-warming emissions of methane from oil and gas drilling.",
-       "forms": []
-      },
-      {
-       "w": "oil",
-       "pos": "n.",
-       "zh": "石油",
-       "ex": "— President Donald Trump said Tuesday that his administration is \"terminating\" a Biden-era rule that aimed to cut planet-warming emissions of methane from oil and gas drilling.",
-       "forms": []
-      },
-      {
-       "w": "gas",
-       "pos": "n.",
-       "zh": "天然气；气体",
-       "ex": "— President Donald Trump said Tuesday that his administration is \"terminating\" a Biden-era rule that aimed to cut planet-warming emissions of methane from oil and gas drilling.",
-       "forms": []
-      },
-      {
-       "w": "campaign",
-       "pos": "n.",
-       "zh": "竞选；运动",
-       "ex": "Trump said during a campaign rally in Texas that the change would save companies and consumers billions of dollars and unlock 210 million barrels of oil.",
-       "forms": []
-      },
-      {
-       "w": "rally",
-       "pos": "n.",
-       "zh": "反弹；集会",
-       "ex": "Trump said during a campaign rally in Texas that the change would save companies and consumers billions of dollars and unlock 210 million barrels of oil.",
-       "forms": []
-      },
-      {
-       "w": "change",
-       "pos": "n.",
-       "zh": "变化；改变",
-       "ex": "Trump said during a campaign rally in Texas that the change would save companies and consumers billions of dollars and unlock 210 million barrels of oil.",
-       "forms": [
-        "changes"
-       ]
-      },
-      {
-       "w": "consumer",
-       "pos": "n.",
-       "zh": "消费者",
-       "ex": "Trump said during a campaign rally in Texas that the change would save companies and consumers billions of dollars and unlock 210 million barrels of oil.",
-       "forms": [
-        "consumers"
-       ]
-      },
-      {
-       "w": "billion",
-       "pos": "n.",
-       "zh": "十亿",
-       "ex": "Trump said during a campaign rally in Texas that the change would save companies and consumers billions of dollars and unlock 210 million barrels of oil.",
-       "forms": [
-        "billions"
-       ]
-      },
-      {
-       "w": "million",
-       "pos": "n.",
-       "zh": "百万",
-       "ex": "Trump said during a campaign rally in Texas that the change would save companies and consumers billions of dollars and unlock 210 million barrels of oil.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "president",
-      "administration",
-      "emission",
-      "methane",
-      "oil"
-     ],
-     "keyVocab": [
-      "president",
-      "administration",
-      "emission",
-      "methane",
-      "oil",
-      "gas",
-      "campaign",
-      "rally"
-     ]
-    },
-    {
-     "id": "2026-11-08-culture",
-     "section": "Culture",
-     "sectionZh": "文化",
-     "title": "Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery",
-     "dek": "MONTEVIDEO, Uruguay — Pope Leo XIV has arrived in South America for a 12-day, three-country journey that will be his longest and most far-reaching trip yet, and his first major overseas visit…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/06/nx-s1-6026702/pope-leo-begins-12-day-3-country-tour-after-cancer-surgery",
-     "byline": "Carrie Kahn",
-     "dateLabel": "2026-11-08",
-     "words": 294,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "MONTEVIDEO, Uruguay — Pope Leo XIV has arrived in South America for a 12-day, three-country journey that will be his longest and most far-reaching trip yet, and his first major overseas visit since undergoing lung cancer surgery.",
-       "zh": "乌拉圭蒙得维的亚——教皇利奥十四世已抵达南美，开始为期12天、跨越三个国家的行程，这将是他迄今为止最长、范围最广的访问，也是他肺癌手术后的首次重大海外访问。"
-      },
-      {
-       "en": "Along the way Leo will take 12 flights, including two helicopter rides, give 36 speeches and visit 10 cities including Cusco, Peru, which sits more than 11,000 feet above sea level. Even the heartiest of travelers can experience altitude sickness there and may require supplemental oxygen.",
-       "zh": "沿途，Leo将乘坐12次航班，包括两次直升机飞行，发表36场演讲，并访问包括秘鲁库斯科在内的10个城市，库斯科的海拔超过11,000英尺。即使是最强健的旅行者在那里也可能出现高原反应，可能需要额外的氧气。"
-      },
-      {
-       "en": "Last month, Leo underwent surgery to remove the lower lobe of his right lung. Vatican officials say he has completed his two-week recovery period and requires no further treatment.",
-       "zh": "上个月，利奥接受了手术，切除了右肺的下叶。梵蒂冈官员表示，他已完成为期两周的康复期，不需要进一步治疗。"
-      },
-      {
-       "en": "The Vatican's new communications chief Maria Montserrat Alvarado said the pontiff was eager to begin his journey. \"His doctors are very confident and he'll have plenty of medical care on board should something happen,\" she said.",
-       "zh": "梵蒂冈新任通讯主管玛丽亚·蒙特塞拉特·阿尔瓦拉多表示，教皇迫切希望开始他的旅程。她说：“他的医生非常有信心，如果发生什么情况，他将在船上得到充足的医疗护理。”"
-      },
-      {
-       "en": "A proposed papal address to the parliament triggered a swift rebuke from the public and politicians alike and was quickly scrapped. Instead, Uruguay's left-wing President Yamandú Orsi presided over the welcome ceremony outside Montevideo's main cathedral.",
-       "zh": "一份拟议中的教皇致议会的演讲稿引发了公众和政界人士的迅速谴责，并很快被撤回。取而代之的是，乌拉圭的左翼总统亚曼杜·奥尔西在蒙得维的亚主教座堂外主持了欢迎仪式。"
-      },
-      {
-       "en": "Crowds of up to 30,000 people, according to the Vatican, had lined the streets to catch a glimpse of Pope Leo as he drove past in his Popemobile.",
-       "zh": "根据梵蒂冈的说法，多达三万人在街上排队，只为一睹教皇利奥乘坐教皇专车经过时的风采。"
-      },
-      {
-       "en": "But the crowd gathered to greet him at the central Plaza Independencia was much smaller, not even filling half the length of the vast square. Those who came were nonetheless delighted to see him and hear his message.",
-       "zh": "但在独立广场中央迎接他的群众要小得多，甚至连广场的一半长度都没有填满。不过，那些前来的人仍然很高兴看到他并听到他的讲话。"
-      },
-      {
-       "en": "The Pope wasted little time addressing Uruguay's secular traditions and its liberal laws on abortion and euthanasia. Uruguay was the first country in Latin America to legalize euthanasia through legislation, and, in 2012, became the second in the region to legalize abortion, after Cuba.",
-       "zh": "教皇几乎没有花时间就乌拉圭的世俗传统以及其关于堕胎和安乐死的自由法律发表看法。乌拉圭是拉丁美洲第一个通过立法使安乐死合法化的国家，并且在2012年成为该地区继古巴之后第二个使堕胎合法化的国家。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "speech",
-       "pos": "n.",
-       "zh": "演讲；言论",
-       "ex": "Along the way Leo will take 12 flights, including two helicopter rides, give 36 speeches and visit 10 cities including Cusco, Peru, which sits more than 11,000 feet above sea level.",
-       "forms": [
-        "speeches"
-       ]
-      },
-      {
-       "w": "level",
-       "pos": "n.",
-       "zh": "水平；层级",
-       "ex": "Along the way Leo will take 12 flights, including two helicopter rides, give 36 speeches and visit 10 cities including Cusco, Peru, which sits more than 11,000 feet above sea level.",
-       "forms": []
-      },
-      {
-       "w": "official",
-       "pos": "n.",
-       "zh": "官员；adj. 官方的",
-       "ex": "Vatican officials say he has completed his two-week recovery period and requires no further treatment.",
-       "forms": [
-        "officials"
-       ]
-      },
-      {
-       "w": "recovery",
-       "pos": "n.",
-       "zh": "复苏；恢复",
-       "ex": "Vatican officials say he has completed his two-week recovery period and requires no further treatment.",
-       "forms": []
-      },
-      {
-       "w": "treatment",
-       "pos": "n.",
-       "zh": "治疗",
-       "ex": "Vatican officials say he has completed his two-week recovery period and requires no further treatment.",
-       "forms": []
-      },
-      {
-       "w": "doctor",
-       "pos": "n.",
-       "zh": "医生",
-       "ex": "\"His doctors are very confident and he'll have plenty of medical care on board should something happen,\" she said.",
-       "forms": [
-        "doctors"
-       ]
-      },
-      {
-       "w": "propose",
-       "pos": "v.",
-       "zh": "提议；提出",
-       "ex": "A proposed papal address to the parliament triggered a swift rebuke from the public and politicians alike and was quickly scrapped.",
-       "forms": [
-        "proposed"
-       ]
-      },
-      {
-       "w": "parliament",
-       "pos": "n.",
-       "zh": "议会",
-       "ex": "A proposed papal address to the parliament triggered a swift rebuke from the public and politicians alike and was quickly scrapped.",
-       "forms": []
-      },
-      {
-       "w": "trigger",
-       "pos": "v.",
-       "zh": "引发；触发",
-       "ex": "A proposed papal address to the parliament triggered a swift rebuke from the public and politicians alike and was quickly scrapped.",
-       "forms": [
-        "triggered"
-       ]
-      },
-      {
-       "w": "public",
-       "pos": "adj.",
-       "zh": "公共的；公众的",
-       "ex": "A proposed papal address to the parliament triggered a swift rebuke from the public and politicians alike and was quickly scrapped.",
-       "forms": []
-      },
-      {
-       "w": "president",
-       "pos": "n.",
-       "zh": "总统；总裁",
-       "ex": "Instead, Uruguay's left-wing President Yamandú Orsi presided over the welcome ceremony outside Montevideo's main cathedral.",
-       "forms": []
-      },
-      {
-       "w": "vast",
-       "pos": "adj.",
-       "zh": "巨大的；广阔的",
-       "ex": "But the crowd gathered to greet him at the central Plaza Independencia was much smaller, not even filling half the length of the vast square.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "speech",
-      "level",
-      "official",
-      "recovery",
-      "treatment"
-     ],
-     "keyVocab": [
-      "speech",
-      "level",
-      "official",
-      "recovery",
-      "treatment",
-      "doctor",
-      "propose",
-      "parliament"
      ]
     }
    ]
