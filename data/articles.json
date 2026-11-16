@@ -1,6 +1,750 @@
 {
- "updated": "2026-11-15T06:54:05.040875+00:00",
+ "updated": "2026-11-16T07:00:49.143254+00:00",
  "days": [
+  {
+   "date": "2026-11-16",
+   "articles": [
+    {
+     "id": "2026-11-16-world",
+     "section": "World",
+     "sectionZh": "国际",
+     "title": "What to expect from Trump and Xi's upcoming meeting in China",
+     "dek": "Preview of what to expect as President Trump meets with Chinese leader Xi Jinping and Russian President Vladimir Putin at the Asia-Pacific Economic Cooperation summit in Shenzhen, China this week.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/15/nx-s1-6038814/what-to-expect-from-trump-and-xis-upcoming-meeting-in-china",
+     "byline": "Michael Levitt",
+     "dateLabel": "2026-11-16",
+     "words": 578,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "Preview of what to expect as President Trump meets with Chinese leader Xi Jinping and Russian President Vladimir Putin at the Asia-Pacific Economic Cooperation summit in Shenzhen, China this week.",
+       "zh": "本周，特朗普总统将在中国深圳举行的亚太经济合作组织峰会上与中国国家主席习近平和俄罗斯总统弗拉基米尔·普京会晤，以下是此次会晤的预期情况预览。"
+      },
+      {
+       "en": "President Trump will meet with some of the world's most powerful leaders this week. China's Xi Jinping, Russia's Vladimir Putin and President Trump will be among the attendees to the Asia-Pacific Economic Cooperation summit in Shenzhen China. But while the administration says nuclear proliferation is on the docket, all eyes will be on the U.S.-China relationship. That's now under serious strain after the scandalous departure of NVIDIA CEO Jensen Huang, following revelations regarding a romantic relationship with a woman suspected of ties to Chinese intelligence. Evan Osnos writes for The New Yorker. He has covered China for much of his career and is closely following the APEC summit. Welcome.",
+       "zh": "特朗普总统本周将与世界上一些最有权势的领导人会晤。中国国家主席习近平、俄罗斯总统弗拉基米尔·普京和美国总统特朗普将出席在中国深圳举行的亚太经济合作组织峰会。但是，尽管美国政府表示核扩散问题已列入议程，但所有人的目光都将聚焦于中美关系。在曝出与一名涉嫌与中国情报部门有联系的女性存在婚外情后，英伟达首席执行官黄仁勋丑闻缠身并离职，该公司的股价目前正承受着巨大压力。Evan Osnos是《纽约客》的撰稿人。他在职业生涯的大部分时间里都从事中国事务的报道，并密切关注亚太经合组织峰会。欢迎您。"
+      },
+      {
+       "en": "SCHMITZ: So let's start with what's been dominating headlines this week, NVIDIA. You know, this scandal is hanging over this upcoming meeting between Trump and Xi Jinping. How do you think this will set the tone?",
+       "zh": "SCHMITZ：那么，我们先从本周占据头条新闻的英伟达说起。你知道，这桩丑闻正笼罩在即将举行的特朗普与习近平会晤之上。您认为这会如何定调？"
+      },
+      {
+       "en": "OSNOS: Well, it is a huge development to happen right before a meeting at this altitude of two leaders. I mean, you have now a case that has brought the underlying issues right to the surface, and by that I mean the tension around technology and chips and more specifically, what the Trump administration has set out to do when it comes to allowing or restricting the export of American chips and who it's been listening to. So, you know, Jensen Huang has been one of the president's most trusted voices over the course of the last two years of this administration on technology issues. He is now gone, and so they go into this summit with a scrambled set of inputs. And it's not entirely clear how that's going to play out in the room.",
+       "zh": "奥斯诺斯：好吧，在两位领导人即将举行高规格会晤之际发生这样的重大事态发展。我的意思是，现在出现了一个将深层问题直接摆到台面的案例，我指的是围绕技术和芯片的紧张局势，更具体地说，就是特朗普政府在允许或限制美国芯片出口方面打算采取什么行动，以及它一直在听取谁的意见。大家都知道，在过去两年里，在本届政府处理技术问题时，Jensen Huang一直是总统最信任的声音之一。他现在已经离开了，所以他们带着一套杂乱无章的意见参加这次峰会。目前还不完全清楚这将在会场上如何展开。"
+      },
+      {
+       "en": "SCHMITZ: So I want to pivot to another trade issue here. This week, China extended its trade truce over rare earth exports by two more months to January 10, and for its part, the U.S. is extending tariff exclusions on 178 Chinese products until that date. What is at stake here if these two sides cannot come to an agreement?",
+       "zh": "SCHMITZ：接下来我想转到另一个贸易问题。本周，中国将稀土出口的贸易休战期再延长两个月，至1月10日。美国方面则将178种中国产品的关税豁免期延长至该日期。如果双方无法达成协议，将面临怎样的风险？"
+      },
+      {
+       "en": "OSNOS: Well, it's an explosive prospect. But they have managed to avoid having these full tariffs go into effect now for many months, and that's by mutual design. I mean, the - China's economy has weakness on the domestic side. They're still dealing with the outcome of a property collapse, which left 90 million houses unfilled - enough people, by the way, to house the entire population of Russia. They've had youth unemployment - at some points, up above 20%. So they were not eager to get into a trade war.",
+       "zh": "奥斯诺斯：嗯，这是一个爆炸性的前景。但他们设法避免了这些全额关税在过去几个月内生效，这是双方共同的意图。我的意思是，中国经济在国内方面存在弱点。他们仍在应对房地产泡沫破裂的后果，泡沫破裂导致9000万套房屋空置——顺便说一句，这些房屋足以容纳俄罗斯的全部人口。他们存在青年失业问题，在某些时候，失业率超过20%。因此，他们并不急于卷入贸易战。"
+      },
+      {
+       "en": "And of course, on the United States' side, Donald Trump's party was just battered in the midterms partly because of the effects of tariffs introduced into trade relationships around the world. So in some ways, he's had reasons to try to hold this off. If, in fact, the truce collapses and they're not able to figure out a way to push this off, this could trigger another round of retaliatory tariffs and a spiral of retaliation that could drive up prices for American consumers. And that comes, obviously, at a moment when voters have signaled pretty loudly that they don't want to see that happen. So the stakes are high for the administration on that score.",
+       "zh": "当然，在美国方面，唐纳德·特朗普所在的政党刚刚在中期选举中遭遇惨败，部分原因在于对全球贸易关系征收关税所产生的影响。因此，在某种程度上，他有理由试图阻止这一局面。事实上，如果停战协议破裂，他们又无法找到办法来避免这种情况，这可能会引发新一轮的报复性关税，并导致报复行为的恶性循环，从而推高美国消费者的物价。很明显，这发生在选民大声疾呼不希望看到这种情况发生的时候。因此，在这方面，政府面临的风险很高。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "expect",
+       "pos": "v.",
+       "zh": "预期；期待",
+       "ex": "Preview of what to expect as President Trump meets with Chinese leader Xi Jinping and Russian President Vladimir Putin at the Asia-Pacific Economic Cooperation summit in Shenzhen, China this week.",
+       "forms": []
+      },
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "Preview of what to expect as President Trump meets with Chinese leader Xi Jinping and Russian President Vladimir Putin at the Asia-Pacific Economic Cooperation summit in Shenzhen, China this week.",
+       "forms": []
+      },
+      {
+       "w": "leader",
+       "pos": "n.",
+       "zh": "领导人",
+       "ex": "Preview of what to expect as President Trump meets with Chinese leader Xi Jinping and Russian President Vladimir Putin at the Asia-Pacific Economic Cooperation summit in Shenzhen, China this week.",
+       "forms": [
+        "leaders"
+       ]
+      },
+      {
+       "w": "economic",
+       "pos": "adj.",
+       "zh": "经济的",
+       "ex": "Preview of what to expect as President Trump meets with Chinese leader Xi Jinping and Russian President Vladimir Putin at the Asia-Pacific Economic Cooperation summit in Shenzhen, China this week.",
+       "forms": []
+      },
+      {
+       "w": "summit",
+       "pos": "n.",
+       "zh": "峰会；顶峰",
+       "ex": "Preview of what to expect as President Trump meets with Chinese leader Xi Jinping and Russian President Vladimir Putin at the Asia-Pacific Economic Cooperation summit in Shenzhen, China this week.",
+       "forms": []
+      },
+      {
+       "w": "administration",
+       "pos": "n.",
+       "zh": "政府；行政",
+       "ex": "But while the administration says nuclear proliferation is on the docket, all eyes will be on the U.S.-China relationship.",
+       "forms": []
+      },
+      {
+       "w": "nuclear",
+       "pos": "adj.",
+       "zh": "核的；核能的",
+       "ex": "But while the administration says nuclear proliferation is on the docket, all eyes will be on the U.S.-China relationship.",
+       "forms": []
+      },
+      {
+       "w": "intelligence",
+       "pos": "n.",
+       "zh": "情报；智能",
+       "ex": "That's now under serious strain after the scandalous departure of NVIDIA CEO Jensen Huang, following revelations regarding a romantic relationship with a woman suspected of ties to Chinese intelligence.",
+       "forms": []
+      },
+      {
+       "w": "career",
+       "pos": "n.",
+       "zh": "职业；生涯",
+       "ex": "He has covered China for much of his career and is closely following the APEC summit.",
+       "forms": []
+      },
+      {
+       "w": "dominate",
+       "pos": "v.",
+       "zh": "主导；支配",
+       "ex": "SCHMITZ: So let's start with what's been dominating headlines this week, NVIDIA.",
+       "forms": [
+        "dominating"
+       ]
+      },
+      {
+       "w": "scandal",
+       "pos": "n.",
+       "zh": "丑闻",
+       "ex": "You know, this scandal is hanging over this upcoming meeting between Trump and Xi Jinping.",
+       "forms": []
+      },
+      {
+       "w": "issue",
+       "pos": "n.",
+       "zh": "议题；问题",
+       "ex": "I mean, you have now a case that has brought the underlying issues right to the surface, and by that I mean the tension around technology and chips and more specifically, what the Trump administration has set out to do when it comes to allowing or restricting the export of American chips and who it's been listening to.",
+       "forms": [
+        "issues"
+       ]
+      }
+     ],
+     "homeWords": [
+      "expect",
+      "president",
+      "leader",
+      "economic",
+      "summit"
+     ],
+     "keyVocab": [
+      "expect",
+      "president",
+      "leader",
+      "economic",
+      "summit",
+      "administration",
+      "nuclear",
+      "intelligence"
+     ]
+    },
+    {
+     "id": "2026-11-16-business",
+     "section": "Business",
+     "sectionZh": "商业 · 财经",
+     "title": "These economists say in-person work boosts creativity, but office mandates fall short",
+     "dek": "A pair economists argue in a new book that people are more creative and productive when they work together in person. But it's not enough for employers to simply order workers back to the office.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/14/nx-s1-6040158/these-economists-say-in-person-work-boosts-creativity-but-office-mandates-fall-short",
+     "byline": "Scott Horsley",
+     "dateLabel": "2026-11-16",
+     "words": 369,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "A pair economists argue in a new book that people are more creative and productive when they work together in person. But it's not enough for employers to simply order workers back to the office.",
+       "zh": "两位经济学家在新书里指出，当人们面对面一起工作时，他们的创造力和工作效率更高。但雇主仅仅要求员工返回办公室是不够的。"
+      },
+      {
+       "en": "Years ago, Natalia Emanuel was a graduate student at Harvard, sharing a small basement office with another budding economist, and the two wound up forming a lasting professional partnership.",
+       "zh": "多年前，Natalia Emanuel是哈佛大学的一名研究生，与另一位崭露头角的经济学家共用一间狭小的地下室办公室，两人最终结成了长久的专业合作伙伴关系。"
+      },
+      {
+       "en": "NATALIA EMANUEL: We had many, many years where we were only a few feet away from each other. You could say, oh, is this a brilliant idea? Or someone could very easily say, no, that's a waste of time. Please stop.",
+       "zh": "NATALIA EMANUEL：我们有许多许多年都只相隔几英尺。你可以说，哦，这是个好主意吗？或者有人很容易就会说，不，这纯属浪费时间。请别再说了。"
+      },
+      {
+       "en": "SIMON: Emanuel and her one-time office mate, Emma Harrington, have now written a book on the advantages of working side by side with colleagues. It is called \"In Person,\" and the book comes as many businesses now contend with just how in person they want their workers to be. NPR's Scott Horsley reports.",
+       "zh": "西蒙：埃马纽埃尔和她曾经的办公室同事艾玛·哈灵顿（Emma Harrington）现在撰写了一本书，阐述与同事并肩工作的益处。这本书名为《面对面》（In Person），正值许多企业正在权衡希望员工以何种方式面对面工作之际出版。NPR的斯科特·霍斯利（Scott Horsley）来报道。"
+      },
+      {
+       "en": "SCOTT HORSLEY, BYLINE: The book opens with a story about Steve Jobs, who insisted that Pixar's headquarters have a central atrium where animators and engineers would naturally bump into each other. Emanuel says the man who's responsible for putting screens in all of our pockets nevertheless understood the value of connecting coworkers face to face.",
+       "zh": "SCOTT HORSLEY，署名：这本书以一个关于史蒂夫·乔布斯的故事开篇，他坚持要求皮克斯总部设一个中央中庭，让动画师和工程师能够自然地碰面。埃马纽埃尔说，这位将屏幕装进我们所有口袋的人，却深知同事之间面对面交流的价值。"
+      },
+      {
+       "en": "EMANUEL: You do need to have some friction, the unexpected serendipitous encounter, and those things are much, much more likely to happen in person.",
+       "zh": "EMANUEL：你确实需要一些摩擦，一些意想不到的偶然相遇，而这些事情在面对面交流时发生的可能性要大得多。"
+      },
+      {
+       "en": "HORSLEY: But in-person contact on the job is less common since the pandemic. Emanuel says nearly 1 out of 4 employees still works remotely, almost seven years after the outbreak began. As economists, she and Harrington have documented some of the drawbacks of that - a 20% drop in on-the-job feedback, less mentoring, which makes it harder for young people to find jobs, and more isolation, which wears on mental health. Some companies have begun to backtrack on work-from-home policies they adopted during the pandemic. In leaked audio, published by Barron's last year, JP Morgan Chase CEO Jamie Dimon told employees remote work wasn't working.",
+       "zh": "HORSLEY：但是，自疫情爆发以来，工作中的面对面接触变得不那么常见了。Emanuel表示，在疫情爆发近七年后，仍有近四分之一的员工远程办公。作为经济学家，她和哈林顿记录了其中的一些弊端——工作中的反馈减少了20%，指导也减少了，这使得年轻人更难找到工作，而且孤立感加剧，对心理健康造成了影响。一些公司已开始收回疫情期间所采用的居家办公政策。在《巴伦周刊》去年发布的泄露音频中，摩根大通首席执行官杰米·戴蒙 (Jamie Dimon) 告诉员工，远程办公行不通。"
+      },
+      {
+       "en": "JAMIE DIMON: It slows down decision-making. The young generation is being damaged by this. They're being left behind socially, ideas, meeting people. I can't stand it anymore.",
+       "zh": "JAMIE DIMON：它会拖慢决策过程。年轻一代正因此受到损害。他们在社交、思想、结识他人方面都落后了。我实在受不了了。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "argue",
+       "pos": "v.",
+       "zh": "主张；争论",
+       "ex": "A pair economists argue in a new book that people are more creative and productive when they work together in person.",
+       "forms": []
+      },
+      {
+       "w": "worker",
+       "pos": "n.",
+       "zh": "工人；员工",
+       "ex": "But it's not enough for employers to simply order workers back to the office.",
+       "forms": [
+        "workers"
+       ]
+      },
+      {
+       "w": "student",
+       "pos": "n.",
+       "zh": "学生",
+       "ex": "Years ago, Natalia Emanuel was a graduate student at Harvard, sharing a small basement office with another budding economist, and the two wound up forming a lasting professional partnership.",
+       "forms": []
+      },
+      {
+       "w": "report",
+       "pos": "n.",
+       "zh": "报告；报道",
+       "ex": "NPR's Scott Horsley reports.",
+       "forms": [
+        "reports"
+       ]
+      },
+      {
+       "w": "pandemic",
+       "pos": "n.",
+       "zh": "大流行病",
+       "ex": "HORSLEY: But in-person contact on the job is less common since the pandemic.",
+       "forms": []
+      },
+      {
+       "w": "employee",
+       "pos": "n.",
+       "zh": "雇员",
+       "ex": "Emanuel says nearly 1 out of 4 employees still works remotely, almost seven years after the outbreak began.",
+       "forms": [
+        "employees"
+       ]
+      },
+      {
+       "w": "outbreak",
+       "pos": "n.",
+       "zh": "暴发；疫情暴发",
+       "ex": "Emanuel says nearly 1 out of 4 employees still works remotely, almost seven years after the outbreak began.",
+       "forms": []
+      },
+      {
+       "w": "young",
+       "pos": "adj.",
+       "zh": "年轻的",
+       "ex": "As economists, she and Harrington have documented some of the drawbacks of that - a 20% drop in on-the-job feedback, less mentoring, which makes it harder for young people to find jobs, and more isolation, which wears on mental health.",
+       "forms": []
+      },
+      {
+       "w": "health",
+       "pos": "n.",
+       "zh": "健康；卫生",
+       "ex": "As economists, she and Harrington have documented some of the drawbacks of that - a 20% drop in on-the-job feedback, less mentoring, which makes it harder for young people to find jobs, and more isolation, which wears on mental health.",
+       "forms": []
+      },
+      {
+       "w": "policy",
+       "pos": "n.",
+       "zh": "政策；方针",
+       "ex": "Some companies have begun to backtrack on work-from-home policies they adopted during the pandemic.",
+       "forms": [
+        "policies"
+       ]
+      },
+      {
+       "w": "generation",
+       "pos": "n.",
+       "zh": "一代人；世代",
+       "ex": "The young generation is being damaged by this.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "argue",
+      "worker",
+      "student",
+      "report",
+      "pandemic"
+     ],
+     "keyVocab": [
+      "argue",
+      "worker",
+      "student",
+      "report",
+      "pandemic",
+      "employee",
+      "outbreak",
+      "young"
+     ]
+    },
+    {
+     "id": "2026-11-16-technology",
+     "section": "Technology",
+     "sectionZh": "科技",
+     "title": "How the tech industry and markets have responded to Jensen Huang's resignation",
+     "dek": "We look at the industry and market response to news that NVIDIA founder and CEO Jensen Huang was forced to step down after reports of affairs with an alleged Chinese spy and two of his employees.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/15/nx-s1-6040394/how-the-tech-industry-and-markets-have-responded-to-jensen-huangs-resignation",
+     "byline": "Ayesha Rascoe",
+     "dateLabel": "2026-11-16",
+     "words": 372,
+     "readTime": 3,
+     "level": "B2",
+     "levelEn": "Upper-intermediate",
+     "paragraphs": [
+      {
+       "en": "We look at the industry and market response to news that NVIDIA founder and CEO Jensen Huang was forced to step down after reports of affairs with an alleged Chinese spy and two of his employees.",
+       "zh": "我们来关注一下行业和市场对以下消息的反应：有报道称，英伟达创始人兼首席执行官黄仁勋因涉嫌与一名中国间谍以及他的两名员工有染而被逼下台。"
+      },
+      {
+       "en": "You might have heard that Jensen Huang, founder of Nvidia and its now-former CEO, was found to have affairs with two employees as well as one with a Chinese businesswoman. The New York Times, citing U.S. intelligence, reported that the businesswoman, who was a client of Nvidia's, was recruited by China's top spy agency. China denies having anything to do with this. But the national security implications are huge, given that Nvidia designs advanced microchips and is involved in AI policy. So what now?",
+       "zh": "您可能听说过，英伟达的创始人兼现已卸任的首席执行官黄仁勋被曝与两名员工以及一名中国女商人有染。《纽约时报》援引美国情报部门的消息报道称，这位女商人是英伟达的客户，被中国顶级情报机构招募。中国否认与此事有任何关系。但鉴于英伟达设计先进的微芯片并参与人工智能政策的制定，其对国家安全的影响是巨大的。那么现在该怎么办呢？"
+      },
+      {
+       "en": "Ricky Mulvey is a reporter with NPR's daily economics show, The Indicator from Planet Money. Welcome to the program.",
+       "zh": "Ricky Mulvey是NPR每日经济节目《The Indicator from Planet Money》的记者。欢迎收听本节目。"
+      },
+      {
+       "en": "RASCOE: Ricky, The Indicator explains a slice of the economy in 10 minutes or less. Today, you definitely have less, OK?",
+       "zh": "RASCOE：Ricky，《经济指标》会在10分钟或更短的时间内解释经济的一个方面。今天，你绝对用不了10分钟，好吗？"
+      },
+      {
+       "en": "RASCOE: So let's start here. Was this a failure on Nvidia's part or U.S. intelligence?",
+       "zh": "RASCOE：那么，我们从这里开始。这是英伟达的失误还是美国情报部门的失误？"
+      },
+      {
+       "en": "MULVEY: Yeah. So let's take the personal indiscretions out of this for a moment. Jensen Huang has a personal security team, and hopefully they know who he is closely interacting with. Jensen Huang denied knowing that she was a spy. But Alice Huang, the alleged spy, was a television presenter for Chinese state television before pivoting to tech. And when she was with Jensen, she was an executive at a computing firm called Megaspeed. And Megaspeed was allegedly bypassing U.S. export restrictions to ship advanced chips to China.",
+       "zh": "MULVEY：是的。那么，我们暂时先不谈个人行为不检的问题。黄仁勋有一个个人安保团队，希望他们知道他与谁有密切的互动。黄仁勋否认知道她是间谍。但据称是间谍的黄静（Alice Huang）在转向科技领域之前，曾是中国中央电视台的电视节目主持人。当她与Jensen在一起时，她是名为Megaspeed的计算机公司的高管。据称，Megaspeed 绕过了美国的出口限制，向中国运送先进芯片。"
+      },
+      {
+       "en": "Investigators at the Commerce Department raised some flags about this company a couple of years ago. They thought it was unusual that Megaspeed had Nvidia chips just packed in boxes at its data center in Malaysia - sort of like leaving Amazon packages in your entranceway, except with highly coveted AI chips.",
+       "zh": "几年前，商务部的调查人员就对这家公司提出了一些警示。他们认为，Megaspeed在其马来西亚数据中心将Nvidia芯片直接装在箱子里，这很不寻常——有点像把亚马逊包裹放在自家门口，只不过这些包裹里装的是炙手可热的AI芯片。"
+      },
+      {
+       "en": "In a statement provided to NPR, Megaspeed says it conducts lawful and legitimate business and that Alice Huang left the company last year. Now, Culper Research - a short seller, or someone who bets against companies - noted their uncomfortably close relationship back in May. So in other words, there was some smoke long before this fire.",
+       "zh": "Megaspeed在向NPR提供的一份声明中表示，该公司从事合法合规的业务，而Alice Huang已于去年离职。现在，Culper Research（一家做空机构，即做空公司股票的机构）早在5月份就注意到了他们之间令人不安的密切关系。换句话说，早在这次火灾发生之前，就已经有迹象显示出问题。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "industry",
+       "pos": "n.",
+       "zh": "行业；工业",
+       "ex": "We look at the industry and market response to news that NVIDIA founder and CEO Jensen Huang was forced to step down after reports of affairs with an alleged Chinese spy and two of his employees.",
+       "forms": []
+      },
+      {
+       "w": "market",
+       "pos": "n.",
+       "zh": "市场",
+       "ex": "We look at the industry and market response to news that NVIDIA founder and CEO Jensen Huang was forced to step down after reports of affairs with an alleged Chinese spy and two of his employees.",
+       "forms": []
+      },
+      {
+       "w": "news",
+       "pos": "n.",
+       "zh": "新闻",
+       "ex": "We look at the industry and market response to news that NVIDIA founder and CEO Jensen Huang was forced to step down after reports of affairs with an alleged Chinese spy and two of his employees.",
+       "forms": []
+      },
+      {
+       "w": "report",
+       "pos": "n.",
+       "zh": "报告；报道",
+       "ex": "We look at the industry and market response to news that NVIDIA founder and CEO Jensen Huang was forced to step down after reports of affairs with an alleged Chinese spy and two of his employees.",
+       "forms": [
+        "reported",
+        "reports"
+       ]
+      },
+      {
+       "w": "employee",
+       "pos": "n.",
+       "zh": "雇员",
+       "ex": "We look at the industry and market response to news that NVIDIA founder and CEO Jensen Huang was forced to step down after reports of affairs with an alleged Chinese spy and two of his employees.",
+       "forms": [
+        "employees"
+       ]
+      },
+      {
+       "w": "cite",
+       "pos": "v.",
+       "zh": "引用；援引",
+       "ex": "The New York Times, citing U.S.",
+       "forms": [
+        "citing"
+       ]
+      },
+      {
+       "w": "intelligence",
+       "pos": "n.",
+       "zh": "情报；智能",
+       "ex": "intelligence, reported that the businesswoman, who was a client of Nvidia's, was recruited by China's top spy agency.",
+       "forms": []
+      },
+      {
+       "w": "agency",
+       "pos": "n.",
+       "zh": "机构；代理",
+       "ex": "intelligence, reported that the businesswoman, who was a client of Nvidia's, was recruited by China's top spy agency.",
+       "forms": []
+      },
+      {
+       "w": "deny",
+       "pos": "v.",
+       "zh": "否认",
+       "ex": "China denies having anything to do with this.",
+       "forms": [
+        "denied",
+        "denies"
+       ]
+      },
+      {
+       "w": "national",
+       "pos": "adj.",
+       "zh": "国家的；全国的",
+       "ex": "But the national security implications are huge, given that Nvidia designs advanced microchips and is involved in AI policy.",
+       "forms": []
+      },
+      {
+       "w": "policy",
+       "pos": "n.",
+       "zh": "政策；方针",
+       "ex": "But the national security implications are huge, given that Nvidia designs advanced microchips and is involved in AI policy.",
+       "forms": []
+      },
+      {
+       "w": "economic",
+       "pos": "adj.",
+       "zh": "经济的",
+       "ex": "Ricky Mulvey is a reporter with NPR's daily economics show, The Indicator from Planet Money.",
+       "forms": [
+        "economics"
+       ]
+      }
+     ],
+     "homeWords": [
+      "industry",
+      "market",
+      "news",
+      "report",
+      "employee"
+     ],
+     "keyVocab": [
+      "industry",
+      "market",
+      "news",
+      "report",
+      "employee",
+      "cite",
+      "intelligence",
+      "agency"
+     ]
+    },
+    {
+     "id": "2026-11-16-science",
+     "section": "Science",
+     "sectionZh": "科学",
+     "title": "After last year's storm, this remote Alaska town is still picking up the pieces",
+     "dek": "Last fall, the remnants of Typhoon Halong tore through numerous small Alaska Native villages off the road system in Western Alaska. The storm destroyed infrastructure, floated homes off their…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/10/31/nx-s1-6021471/ex-typhoon-halong-damages-western-alaska-native-villages-kipnuk",
+     "byline": "Samantha Watson",
+     "dateLabel": "2026-11-16",
+     "words": 290,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "Last fall, the remnants of Typhoon Halong tore through numerous small Alaska Native villages off the road system in Western Alaska. The storm destroyed infrastructure, floated homes off their foundations, and displaced over a thousand people. A year later, hundreds remain displaced as the slow work of repair in a remote part of the state continues. And in one of the hardest hit communities – the small town of Kipnuk – people still aren't sure when they'll be moving back.",
+       "zh": "去年秋天，台风“哈隆”的残余气流席卷了阿拉斯加西部公路系统之外的众多阿拉斯加原住民小村庄。这场风暴摧毁了基础设施，将房屋从地基上掀起，导致超过1000人流离失所。一年后，由于该州偏远地区的重建工作进展缓慢，仍有数百人流离失所。而在受灾最严重的社区之一——基普努克小镇——人们仍然不确定何时能够搬回去。"
+      },
+      {
+       "en": "The village of under 200 homes is situated on the wide open tundra and only consistently accessible by plane.",
+       "zh": "这个不到200户人家的村庄坐落在广阔的苔原上，只有乘坐飞机才能始终如一地抵达。"
+      },
+      {
+       "en": "A year ago, 90% of the residences here were damaged by the remnants of Typhoon Halong, according to the State of Alaska's Emergency Operations Center. Dozens were swept off their foundations, some with families still inside. The community is now largely scattered across Alaska – some outside the region their ancestors have lived in for thousands of years.",
+       "zh": "据阿拉斯加州应急行动中心的数据，一年前，这里的90%的房屋都因台风“哈隆”的余威而受损。数十栋房屋被从地基上掀起，其中一些房屋里还有家人。该社区的人们现在大多分散在阿拉斯加各地，有些人甚至离开了他们祖先生活了数千年的地区。"
+      },
+      {
+       "en": "Throughout the past year, crews have been working on repairs.",
+       "zh": "在过去的一年里，工作人员一直在进行维修工作。"
+      },
+      {
+       "en": "On a clear day in August, Eddie Chuckwuk's construction crew attempted what sounded like magic: raising a building back onto its foundations using air compressors.",
+       "zh": "八月的一个晴朗日子，Eddie Chuckwuk的施工队尝试了一项听起来像魔法的壮举：使用空气压缩机将一栋建筑重新抬回其地基上。"
+      },
+      {
+       "en": "Chuckwuk is one of several dozen people who have been working long days to rebuild the place where he grew up.",
+       "zh": "Chuckwuk是数十名长期辛勤工作以重建自己成长之地的人之一。"
+      },
+      {
+       "en": "\"We're working as fast as possible as we can to get the people back in town,\" Chuckwuk says. \"That's what I just want to see – for everybody to come back and enjoy where they grew up instead of being placed in a different place … where they're not used to. It's pretty hard.\"",
+       "zh": "“我们正在尽最大努力，让人们尽快回到镇上，”Chuckwuk说。“这就是我希望看到的——每个人都能回来，在自己长大的地方安居乐业，而不是被安置在……他们不习惯的陌生地方。这真的很艰难。”"
+      },
+      {
+       "en": "This work is critical to getting Kipnuk's homes in shape to live in again, but the town is far from being fully restored.",
+       "zh": "这项工作对于让基普努克的房屋恢复宜居状态至关重要，但该镇距离全面恢复还有很长的路要走。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "fall",
+       "pos": "n.",
+       "zh": "下降；下跌",
+       "ex": "Last fall, the remnants of Typhoon Halong tore through numerous small Alaska Native villages off the road system in Western Alaska.",
+       "forms": []
+      },
+      {
+       "w": "infrastructure",
+       "pos": "n.",
+       "zh": "基础设施",
+       "ex": "The storm destroyed infrastructure, floated homes off their foundations, and displaced over a thousand people.",
+       "forms": []
+      },
+      {
+       "w": "community",
+       "pos": "n.",
+       "zh": "社区；群体",
+       "ex": "And in one of the hardest hit communities – the small town of Kipnuk – people still aren't sure when they'll be moving back.",
+       "forms": [
+        "communities"
+       ]
+      },
+      {
+       "w": "family",
+       "pos": "n.",
+       "zh": "家庭",
+       "ex": "Dozens were swept off their foundations, some with families still inside.",
+       "forms": [
+        "families"
+       ]
+      },
+      {
+       "w": "region",
+       "pos": "n.",
+       "zh": "地区；区域",
+       "ex": "The community is now largely scattered across Alaska – some outside the region their ancestors have lived in for thousands of years.",
+       "forms": []
+      },
+      {
+       "w": "critical",
+       "pos": "adj.",
+       "zh": "关键的；批评的",
+       "ex": "It's pretty hard.\" This work is critical to getting Kipnuk's homes in shape to live in again, but the town is far from being fully restored.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "fall",
+      "infrastructure",
+      "community",
+      "family",
+      "region"
+     ],
+     "keyVocab": [
+      "fall",
+      "infrastructure",
+      "community",
+      "family",
+      "region",
+      "critical"
+     ]
+    },
+    {
+     "id": "2026-11-16-culture",
+     "section": "Culture",
+     "sectionZh": "文化",
+     "title": "A new generation of disability rights activists carry on Judy Heumann's legacy",
+     "dek": "A new generation of disability rights activists carry on Judy Heumann’s legacy",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
+     "byline": "Jonaki Mehta",
+     "dateLabel": "2026-11-16",
+     "words": 312,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "A new generation of disability rights activists carry on Judy Heumann’s legacy",
+       "zh": "新一代残疾人权利活动家传承朱迪·休曼的衣钵"
+      },
+      {
+       "en": "Judy Heumann is known as the mother of the disability rights movement — yet she is lesser known than many of the other civil rights activists of her time. Now, a new film seeks to change that.",
+       "zh": "朱迪·休曼被誉为残疾人权利运动之母，但与她那个时代的许多其他民权活动家相比，她并不那么知名。现在，一部新电影旨在改变这一现状。"
+      },
+      {
+       "en": "Being Heumann, the latest movie from Oscar-winning director Siân Heder, tells the story of the young woman from Brooklyn who led the movement to win the first civil rights protections in the country for people with disabilities.",
+       "zh": "《成为休曼》是奥斯卡获奖导演希安·海德（Siân Heder）的最新电影，讲述了一位来自布鲁克林的年轻女性的故事，她领导了一场运动，为该国残疾人争取到了首批民权保护。"
+      },
+      {
+       "en": "Before the Americans with Disabilities Act (ADA) was passed in 1990, there was Section 504 of the Rehabilitation Act of 1973. It was a single sentence, written into the law, promising people with disabilities the right to fair employment and access to public life without facing discrimination.",
+       "zh": "在1990年《美国残疾人法案》（ADA）通过之前，存在1973年《康复法案》第504条。这是一句写进法律的单句，承诺残疾人享有公平就业的权利，并有权在不受歧视的情况下参与公共生活。"
+      },
+      {
+       "en": "But for years, there were no rules or regulations making the federal government actually enforce those protections.",
+       "zh": "但多年来，一直没有制定任何规则或法规来让联邦政府切实执行这些保护措施。"
+      },
+      {
+       "en": "Until the spring of 1977, when a band of activists with disabilities decided to do something about it. Led by Heumann and Kitty Cone, activists took over the former Department of Health, Education and Welfare building in San Francisco for nearly a month — widely considered the longest sit-in of a federal building in U.S. history.",
+       "zh": "直到1977年春天，一群残疾人活动人士决定采取行动。在休曼和基蒂·科恩的带领下，活动人士占领了旧金山的前卫生、教育和福利部大楼近一个月，这被普遍认为是美国历史上在联邦政府大楼内举行的最长时间的静坐示威。"
+      },
+      {
+       "en": "People across disability groups — from wheelchair users to people with intellectual and health-related disabilities — camped out, demanding, and eventually winning the passage of rules that made Section 504 enforceable. The protests paved the way for federally funded institutions like schools, libraries, city buildings and other entities to be made accessible for disabled people.",
+       "zh": "从轮椅使用者到智力障碍和健康相关障碍人士，各残疾人群体露营抗议，提出要求，最终促成了使第504条具有可执行性的法规通过。这些抗议活动为学校、图书馆、市政建筑和其他由联邦政府资助的机构为残疾人提供无障碍环境铺平了道路。"
+      },
+      {
+       "en": "\"Judy always said, 'disability only becomes a tragedy for me when society fails to provide the things we need to lead our lives' — job opportunities or barrier-free buildings, for example,\" says former NPR correspondent Joe Shapiro, who covered disability and was a friend of Heumann's until she died in 2023.",
+       "zh": "“朱迪总是说：‘只有当社会未能提供我们过上正常生活所需的东西时，残疾才会对我来说成为一种悲剧’——例如工作机会或无障碍建筑。”前NPR记者乔·沙皮罗（Joe Shapiro）说道。他曾报道过残疾人相关新闻，并且是休曼的朋友，直到她于2023年去世。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "generation",
+       "pos": "n.",
+       "zh": "一代人；世代",
+       "ex": "A new generation of disability rights activists carry on Judy Heumann’s legacy Judy Heumann is known as the mother of the disability rights movement — yet she is lesser known than many of the other civil rights activists of her time.",
+       "forms": []
+      },
+      {
+       "w": "activist",
+       "pos": "n.",
+       "zh": "活动家；积极分子",
+       "ex": "A new generation of disability rights activists carry on Judy Heumann’s legacy Judy Heumann is known as the mother of the disability rights movement — yet she is lesser known than many of the other civil rights activists of her time.",
+       "forms": [
+        "activists"
+       ]
+      },
+      {
+       "w": "film",
+       "pos": "n.",
+       "zh": "电影；影片",
+       "ex": "Now, a new film seeks to change that.",
+       "forms": []
+      },
+      {
+       "w": "change",
+       "pos": "n.",
+       "zh": "变化；改变",
+       "ex": "Now, a new film seeks to change that.",
+       "forms": []
+      },
+      {
+       "w": "young",
+       "pos": "adj.",
+       "zh": "年轻的",
+       "ex": "Being Heumann, the latest movie from Oscar-winning director Siân Heder, tells the story of the young woman from Brooklyn who led the movement to win the first civil rights protections in the country for people with disabilities.",
+       "forms": []
+      },
+      {
+       "w": "public",
+       "pos": "adj.",
+       "zh": "公共的；公众的",
+       "ex": "It was a single sentence, written into the law, promising people with disabilities the right to fair employment and access to public life without facing discrimination.",
+       "forms": []
+      },
+      {
+       "w": "regulation",
+       "pos": "n.",
+       "zh": "监管；法规",
+       "ex": "But for years, there were no rules or regulations making the federal government actually enforce those protections.",
+       "forms": [
+        "regulations"
+       ]
+      },
+      {
+       "w": "federal",
+       "pos": "adj.",
+       "zh": "联邦的",
+       "ex": "But for years, there were no rules or regulations making the federal government actually enforce those protections.",
+       "forms": []
+      },
+      {
+       "w": "enforce",
+       "pos": "v.",
+       "zh": "执行；强制实施",
+       "ex": "But for years, there were no rules or regulations making the federal government actually enforce those protections.",
+       "forms": []
+      },
+      {
+       "w": "health",
+       "pos": "n.",
+       "zh": "健康；卫生",
+       "ex": "Led by Heumann and Kitty Cone, activists took over the former Department of Health, Education and Welfare building in San Francisco for nearly a month — widely considered the longest sit-in of a federal building in U.S.",
+       "forms": []
+      },
+      {
+       "w": "education",
+       "pos": "n.",
+       "zh": "教育",
+       "ex": "Led by Heumann and Kitty Cone, activists took over the former Department of Health, Education and Welfare building in San Francisco for nearly a month — widely considered the longest sit-in of a federal building in U.S.",
+       "forms": []
+      },
+      {
+       "w": "history",
+       "pos": "n.",
+       "zh": "历史",
+       "ex": "history.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "generation",
+      "activist",
+      "film",
+      "change",
+      "young"
+     ],
+     "keyVocab": [
+      "generation",
+      "activist",
+      "film",
+      "change",
+      "young",
+      "public",
+      "regulation",
+      "federal"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-15",
    "articles": [
@@ -4599,733 +5343,6 @@
       "history",
       "career",
       "fiction"
-     ]
-    }
-   ]
-  },
-  {
-   "date": "2026-11-09",
-   "articles": [
-    {
-     "id": "2026-11-09-world",
-     "section": "World",
-     "sectionZh": "国际",
-     "title": "The world's largest telecoms firm is on trial and the outcome has global implications",
-     "dek": "Huawei, the world's biggest telecommunications company, is on trial in New York, accused of stealing American technology and evading US sanctions.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/08/nx-s1-6030670/the-worlds-largest-telecoms-firm-is-on-trial-and-the-outcome-has-global-implications",
-     "byline": "Michael Levitt",
-     "dateLabel": "2026-11-09",
-     "words": 351,
-     "readTime": 3,
-     "level": "B2",
-     "levelEn": "Upper-intermediate",
-     "paragraphs": [
-      {
-       "en": "Huawei, the world's biggest telecommunications company, is on trial in New York, accused of stealing American technology and evading US sanctions.",
-       "zh": "华为，这家世界上最大的电信公司，正在纽约受审，被控窃取美国技术并规避美国制裁。"
-      },
-      {
-       "en": "In a federal courtroom in Brooklyn, the world's biggest telecommunications company is on trial. Huawei is a Chinese firm that makes smartphones, laptops, routers and all sorts of telecoms equipment that's available all over the world. The U.S. has long alleged that Huawei products pose a security risk and have banned them from being sold in the United States. And according to the U.S. government, Huawei is also a criminal enterprise. U.S. prosecutors allege that Huawei built its telecoms empire by stealing from American companies and violated U.S. sanctions by doing business in Iran and North Korea. In 2018, this all came to a head.",
-       "zh": "在布鲁克林的联邦法庭上，世界上最大的电信公司正在受审。华为是一家中国公司，生产智能手机、笔记本电脑、路由器以及各种在全球范围内可用的电信设备。美国长期以来一直声称华为产品存在安全风险，并禁止其在美国销售。根据美国政府的说法，华为也是一个犯罪企业。美国检察官指控华为通过从美国公司窃取技术建立其电信帝国，并在伊朗和朝鲜开展业务，违反了美国的制裁。2018年，这一切达到了高潮。"
-      },
-      {
-       "en": "UNIDENTIFIED REPORTER: Canadian authorities have arrested the chief financial officer of the Chinese telecommunications giant Huawei.",
-       "zh": "未具名记者：加拿大当局已逮捕中国电信巨头华为的首席财务官。"
-      },
-      {
-       "en": "SCHMITZ: In what is widely seen as an act of retaliation, China arrested two Canadians living in China, detaining them for nearly three years.",
-       "zh": "施密茨：在广泛被视为报复的行为中，中国逮捕了两名居住在中国的加拿大人，并将他们拘留了近三年。"
-      },
-      {
-       "en": "SCOTT SIMON, BYLINE: Late last night, China released two Canadian businessmen who had been imprisoned in China for more than a thousand days.",
-       "zh": "斯科特·西蒙, 报道：昨晚晚些时候，中国释放了两名在中国被监禁了超过一千天的加拿大商人。"
-      },
-      {
-       "en": "SCHMITZ: The U.S. agreed to a plea deal that freed Meng and released the two Canadians. One of them, Michael Kovrig, joins us now. Welcome.",
-       "zh": "施密茨：美国同意了一项认罪协议，释放了孟晚舟并释放了两名加拿大人。其中一位，迈克尔·科夫里格，现在加入我们。欢迎。"
-      },
-      {
-       "en": "SCHMITZ: So before we begin, I think it's worth doing a thorough introduction, so our audience understands exactly who you are and why we are talking to you. In 2018, you were living in China, working as an analyst for the nonprofit International Crisis Group. Then in December of that year, Chinese police arrested you on suspicion of espionage. You were held for nearly three years. It's been around five years since you were released. Why do you think the Chinese targeted you?",
-       "zh": "施密茨：所以在我们开始之前，我认为有必要做一个彻底的介绍，让我们的观众确切了解你是谁，以及我们为什么要跟你谈话。2018年，你居住在中国，作为非营利组织国际危机组织的分析师工作。然后在那年的12月，中国警方以间谍活动的嫌疑逮捕了你。你被关押了将近三年。自你获释以来已经大约五年了。你认为中国为什么会针对你？"
-      },
-      {
-       "en": "KOVRIG: It's a two-part question, Rob. The first is, why did they grab Canadians, and then why did they pick me specifically? So the Chinese Communist Party directed the Beijing State Security Bureau to abduct Canadians because they wanted to blackmail the Canadian government into releasing Meng Wanzhou. It was hostage diplomacy, that simple.",
-       "zh": "KOVRIG：这是个两部分的问题，Rob。第一个是，他们为什么抓加拿大人，第二个是，为什么特别选中我？所以，中国共产党指示北京国家安全局绑架加拿大人，因为他们想通过勒索加拿大政府来释放孟晚舟。这就是人质外交，就这么简单。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "trial",
-       "pos": "n.",
-       "zh": "审判；试验",
-       "ex": "Huawei, the world's biggest telecommunications company, is on trial in New York, accused of stealing American technology and evading US sanctions.",
-       "forms": []
-      },
-      {
-       "w": "technology",
-       "pos": "n.",
-       "zh": "技术；科技",
-       "ex": "Huawei, the world's biggest telecommunications company, is on trial in New York, accused of stealing American technology and evading US sanctions.",
-       "forms": []
-      },
-      {
-       "w": "sanction",
-       "pos": "n.",
-       "zh": "制裁",
-       "ex": "Huawei, the world's biggest telecommunications company, is on trial in New York, accused of stealing American technology and evading US sanctions.",
-       "forms": [
-        "sanctions"
-       ]
-      },
-      {
-       "w": "federal",
-       "pos": "adj.",
-       "zh": "联邦的",
-       "ex": "In a federal courtroom in Brooklyn, the world's biggest telecommunications company is on trial.",
-       "forms": []
-      },
-      {
-       "w": "product",
-       "pos": "n.",
-       "zh": "产品",
-       "ex": "has long alleged that Huawei products pose a security risk and have banned them from being sold in the United States.",
-       "forms": [
-        "products"
-       ]
-      },
-      {
-       "w": "risk",
-       "pos": "n.",
-       "zh": "风险",
-       "ex": "has long alleged that Huawei products pose a security risk and have banned them from being sold in the United States.",
-       "forms": []
-      },
-      {
-       "w": "violate",
-       "pos": "v.",
-       "zh": "违反；侵犯",
-       "ex": "prosecutors allege that Huawei built its telecoms empire by stealing from American companies and violated U.S.",
-       "forms": [
-        "violated"
-       ]
-      },
-      {
-       "w": "authority",
-       "pos": "n.",
-       "zh": "当局；权威机构",
-       "ex": "UNIDENTIFIED REPORTER: Canadian authorities have arrested the chief financial officer of the Chinese telecommunications giant Huawei.",
-       "forms": [
-        "authorities"
-       ]
-      },
-      {
-       "w": "arrest",
-       "pos": "v.",
-       "zh": "逮捕",
-       "ex": "UNIDENTIFIED REPORTER: Canadian authorities have arrested the chief financial officer of the Chinese telecommunications giant Huawei.",
-       "forms": [
-        "arrested"
-       ]
-      },
-      {
-       "w": "financial",
-       "pos": "adj.",
-       "zh": "金融的；财务的",
-       "ex": "UNIDENTIFIED REPORTER: Canadian authorities have arrested the chief financial officer of the Chinese telecommunications giant Huawei.",
-       "forms": []
-      },
-      {
-       "w": "audience",
-       "pos": "n.",
-       "zh": "观众；受众",
-       "ex": "SCHMITZ: So before we begin, I think it's worth doing a thorough introduction, so our audience understands exactly who you are and why we are talking to you.",
-       "forms": []
-      },
-      {
-       "w": "international",
-       "pos": "adj.",
-       "zh": "国际的",
-       "ex": "In 2018, you were living in China, working as an analyst for the nonprofit International Crisis Group.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "trial",
-      "technology",
-      "sanction",
-      "federal",
-      "product"
-     ],
-     "keyVocab": [
-      "trial",
-      "technology",
-      "sanction",
-      "federal",
-      "product",
-      "risk",
-      "violate",
-      "authority"
-     ]
-    },
-    {
-     "id": "2026-11-09-business",
-     "section": "Business",
-     "sectionZh": "商业 · 财经",
-     "title": "First-time homebuyers remain scarce, but a record share of them pay all cash",
-     "dek": "The share of first-time homebuyers remains at a near-record low of 22% as a housing shortage and high prices sideline many, according to a new report by the National Association of Realtors. But…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/05/nx-s1-6022491/real-estate-all-cash-offer",
-     "byline": "Jennifer Ludden",
-     "dateLabel": "2026-11-09",
-     "words": 346,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "The share of first-time homebuyers remains at a near-record low of 22% as a housing shortage and high prices sideline many, according to a new report by the National Association of Realtors. But those who are managing to buy are older and wealthier than in the past, and 1 in 10 paid all cash, a record high since such data was collected starting in 2003.",
-       "zh": "根据全国房地产经纪人协会的一份新报告，由于住房短缺和高房价让许多人无法参与，首次购房者的比例仍维持在接近历史低点的22%。但那些能够购房的人比过去更年长且更富有，且每10个人中就有1人全款支付，这是自2003年开始收集此类数据以来的最高纪录。"
-      },
-      {
-       "en": "\"Inheritances are really driving this,\" said Jessica Lautz, deputy chief economist at the NAR.",
-       "zh": "全国房地产经纪人协会副首席经济学家杰西卡·劳茨表示：“遗产转让确实在推动这一进程。”"
-      },
-      {
-       "en": "First-time buyers who paid all-cash were more likely than those who financed a house to use an inheritance (28%) or proceeds from the sale of an inherited property (21%). They were also older.",
-       "zh": "一次性付清现金的首次购房者，比那些贷款购房的人更可能使用遗产（28%）或出售继承财产的收益（21%）。他们的年龄也更大。"
-      },
-      {
-       "en": "NAR finds the median age of all first-time buyers remains at 40, a record high. For first-time buyers who financed a purchase it was 38, while for those who paid all-cash it was 54. \"They waited a significant period of time for that generational transfer of wealth to come through,\" Lautz said.",
-       "zh": "NAR发现，所有首次购房者的中位年龄仍为40岁，创历史新高。对于通过融资购买的首次购房者，中位年龄为38岁，而全款购买者的中位年龄为54岁。Lautz表示：“他们等待了很长一段时间，才迎来这次代际财富的转移。”"
-      },
-      {
-       "en": "For first-time buyers overall, personal savings was the biggest source of funding for a down payment. But in another shift, more people used assets – like a 401(k), stocks, or cryptocurrency – than financial help from family or friends. Older buyers have had more time to save up, Lautz said, but she thinks there's another factor: \"I think it's uncomfortable to ask mom and dad for a gift or loan when you're hitting 40 versus your young 30s.\"",
-       "zh": "对于首次购房者而言，总体上个人储蓄是首付的最大资金来源。但另一方面，更多人使用资产——如401(k)账户、股票或加密货币——而非来自家人或朋友的经济帮助。Lautz表示，年长的购房者有更多时间积蓄，但她认为还有另一个因素：“我觉得当你四十岁左右时，向父母请求赠与或贷款会让人感到不舒服，而在三十出头时则没有这种感觉。”"
-      },
-      {
-       "en": "The share of first time buyers using an inheritance is likely to grow in coming years as boomers reach their 80's and beyond. As the report noted, \"there is a growing divide among those who are saving independently and priced out of homeownership, versus those who are waiting on the sidelines but then given a generational transfer of wealth.\"",
-       "zh": "随着婴儿潮一代步入80岁及以上，首次购房者使用遗产的比例在未来几年可能会增加。正如报告所指出的，“在那些独立储蓄却被房价排除在外的人群，与那些一直在旁观但随后获得代际财富转移的人群之间，分化日益加剧。”"
-      },
-      {
-       "en": "Real estate agents around the country are seeing the change.",
-       "zh": "全国各地的房地产经纪人都在看到这个变化。"
-      },
-      {
-       "en": "\"I would say in the first 15 years of my career, I saw virtually zero first-time home buyers paying all cash,\" said Jason Miller, a broker with Trust Real Estate Company in St. Cloud, Minn.",
-       "zh": "明尼苏达州圣克劳德Trust房地产公司的经纪人杰森·米勒说：“我会说，在我职业生涯的前15年，我几乎没有看到第一次购房者全现金付款。”"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "shortage",
-       "pos": "n.",
-       "zh": "短缺；不足",
-       "ex": "The share of first-time homebuyers remains at a near-record low of 22% as a housing shortage and high prices sideline many, according to a new report by the National Association of Realtors.",
-       "forms": []
-      },
-      {
-       "w": "price",
-       "pos": "n.",
-       "zh": "价格",
-       "ex": "The share of first-time homebuyers remains at a near-record low of 22% as a housing shortage and high prices sideline many, according to a new report by the National Association of Realtors.",
-       "forms": [
-        "priced",
-        "prices"
-       ]
-      },
-      {
-       "w": "report",
-       "pos": "n.",
-       "zh": "报告；报道",
-       "ex": "The share of first-time homebuyers remains at a near-record low of 22% as a housing shortage and high prices sideline many, according to a new report by the National Association of Realtors.",
-       "forms": []
-      },
-      {
-       "w": "national",
-       "pos": "adj.",
-       "zh": "国家的；全国的",
-       "ex": "The share of first-time homebuyers remains at a near-record low of 22% as a housing shortage and high prices sideline many, according to a new report by the National Association of Realtors.",
-       "forms": []
-      },
-      {
-       "w": "data",
-       "pos": "n.",
-       "zh": "数据",
-       "ex": "But those who are managing to buy are older and wealthier than in the past, and 1 in 10 paid all cash, a record high since such data was collected starting in 2003.",
-       "forms": []
-      },
-      {
-       "w": "significant",
-       "pos": "adj.",
-       "zh": "显著的；重要的",
-       "ex": "\"They waited a significant period of time for that generational transfer of wealth to come through,\" Lautz said.",
-       "forms": []
-      },
-      {
-       "w": "wealth",
-       "pos": "n.",
-       "zh": "财富",
-       "ex": "\"They waited a significant period of time for that generational transfer of wealth to come through,\" Lautz said.",
-       "forms": []
-      },
-      {
-       "w": "fund",
-       "pos": "n.",
-       "zh": "基金；资金",
-       "ex": "For first-time buyers overall, personal savings was the biggest source of funding for a down payment.",
-       "forms": [
-        "funding"
-       ]
-      },
-      {
-       "w": "shift",
-       "pos": "n.",
-       "zh": "转变；转移",
-       "ex": "But in another shift, more people used assets – like a 401(k), stocks, or cryptocurrency – than financial help from family or friends.",
-       "forms": []
-      },
-      {
-       "w": "asset",
-       "pos": "n.",
-       "zh": "资产",
-       "ex": "But in another shift, more people used assets – like a 401(k), stocks, or cryptocurrency – than financial help from family or friends.",
-       "forms": [
-        "assets"
-       ]
-      },
-      {
-       "w": "cryptocurrency",
-       "pos": "n.",
-       "zh": "加密货币",
-       "ex": "But in another shift, more people used assets – like a 401(k), stocks, or cryptocurrency – than financial help from family or friends.",
-       "forms": []
-      },
-      {
-       "w": "financial",
-       "pos": "adj.",
-       "zh": "金融的；财务的",
-       "ex": "But in another shift, more people used assets – like a 401(k), stocks, or cryptocurrency – than financial help from family or friends.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "shortage",
-      "price",
-      "report",
-      "national",
-      "data"
-     ],
-     "keyVocab": [
-      "shortage",
-      "price",
-      "report",
-      "national",
-      "data",
-      "significant",
-      "wealth",
-      "fund"
-     ]
-    },
-    {
-     "id": "2026-11-09-technology",
-     "section": "Technology",
-     "sectionZh": "科技",
-     "title": "Google, Meta and TikTok sue to block California youth social media law",
-     "dek": "Google, Meta, and TikTok have sued California to block the enforcement of a state law meant to protect children from getting addicted to social media.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/07/nx-s1-6032764/google-meta-and-tiktok-sue-to-block-california-youth-social-media-law",
-     "byline": "Rachael Myrow",
-     "dateLabel": "2026-11-09",
-     "words": 426,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "Google, Meta, and TikTok have sued California to block the enforcement of a state law meant to protect children from getting addicted to social media.",
-       "zh": "谷歌、Meta 和抖音已起诉加利福尼亚州，以阻止执行一项旨在保护儿童免受社交媒体上瘾的州法律。"
-      },
-      {
-       "en": "Google, Meta and TikTok sued the state of California this week to block a new law aimed at shielding youngsters from features of addictive social media. KQED's Rachael Myrow joins us. She's senior editor of member station KQED's Silicon Valley News Desk. And before we begin, we should note that Google is among NPR's financial supporters. Rachael, thanks so much for being with us.",
-       "zh": "本周，谷歌、Meta 和 TikTok 起诉了加利福尼亚州，试图阻止一项旨在保护青少年免受社交媒体成瘾功能影响的新法律。KQED 的 Rachael Myrow 加入了我们的讨论。她是 KQED 会员电台硅谷新闻台的高级编辑。在我们开始之前，我们应该指出，谷歌是 NPR 的财务支持者之一。Rachael，非常感谢你与我们一同参与讨论。"
-      },
-      {
-       "en": "SIMON: First, please remind us about the law these companies are suing over. It was only signed in September - hasn't gone into effect yet. What's it supposed to do?",
-       "zh": "西蒙：首先，请提醒我们一下这些公司正在起诉的法律。它只是九月份签署的——还没有生效。它应该起什么作用？"
-      },
-      {
-       "en": "MYROW: The law goes into effect in January. It prohibits social media platforms from offering children under 16 things like personalized feeds and autoplay for videos. It also requires the deletion of children's accounts with those features. So in separate lawsuits filed in San Francisco, San Jose and Los Angeles, Meta, Google and TikTok respectively said the law wrongly compels them to honor California's preferred means of presenting content to children and substitutes the state's judgment for that of parents.",
-       "zh": "MYROW：这项法律将于一月生效。它禁止社交媒体平台向16岁以下的儿童提供个性化信息流和视频自动播放等功能。它还要求删除拥有这些功能的儿童账户。因此，在旧金山、圣何塞和洛杉矶分别提起的诉讼中，Meta、谷歌和TikTok分别表示，这项法律错误地强制他们遵守加利福尼亚州对向儿童展示内容的偏好方式，并将该州的判断替代了父母的判断。"
-      },
-      {
-       "en": "They also said the law violates First Amendment free-speech protections, as well as Section 230 of the federal Communications Decency Act. That broadly shields online platforms from liability over user content. The California attorney general's office wrote me that it is reviewing the lawsuits, adding, quote, \"our office is committed to defending California's commonsense laws to protect kids online.\"",
-       "zh": "他们还表示，该法律侵犯了第一修正案的言论自由保护，以及联邦《通信体面法案》第230条。该条款广泛地保护在线平台免于对用户内容承担责任。加利福尼亚州总检察长办公室写信给我说，他们正在审查这些诉讼，并补充说，引用，“我们的办公室致力于维护加利福尼亚州保护儿童在线的常识性法律。”"
-      },
-      {
-       "en": "SIMON: And, Rachael, I gather there are groups and individuals in the state who oppose this law when it's passed. What's been their reaction?",
-       "zh": "西蒙：瑞切尔，我了解到在州内有一些团体和个人在这项法律通过时会反对它。他们的反应是什么？"
-      },
-      {
-       "en": "MYROW: Well, one law professor here in Silicon Valley I talked to argued AB 1709 is filled with censorship problems. He's particularly worried about what I mentioned earlier - that the law requires these companies to delete children's accounts if the platforms refuse to withdraw the features that make them so addictive. From his perspective, that deprives those children of the ability to publish their own speech in really what has become the public square. Meta and TikTok echoed those arguments in email statements to KQED.",
-       "zh": "MYROW：嗯，我在硅谷采访的一位法律教授认为 AB 1709 存在很多审查问题。他尤其担心我之前提到的——该法律要求这些公司如果平台拒绝撤销那些让孩子上瘾的功能，就必须删除儿童账号。在他看来，这剥夺了那些孩子在实际上已经成为公共广场的地方发表自己言论的能力。Meta 和 TikTok 在给 KQED 的电子邮件声明中也表达了类似的观点。"
-      },
-      {
-       "en": "I also talked to the digital rights group the Electronic Frontier Foundation, which also lobbied in Sacramento against the bill. They want to see a comprehensive privacy law at the federal level that limits the data social media companies can collect, sell and use to hook consumers. The group isn't pro-Big Tech, but they don't like this law.",
-       "zh": "我还与数字权利组织电子前沿基金会（Electronic Frontier Foundation）进行了交谈，该组织也曾在萨克拉门托为反对该法案进行游说。他们希望在联邦层面看到一项全面的隐私法，限制社交媒体公司可以收集、出售和用于吸引消费者的数据。该组织并非支持大型科技公司，但他们不喜欢这项法律。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "social",
-       "pos": "adj.",
-       "zh": "社会的；社交的",
-       "ex": "Google, Meta, and TikTok have sued California to block the enforcement of a state law meant to protect children from getting addicted to social media.",
-       "forms": []
-      },
-      {
-       "w": "media",
-       "pos": "n.",
-       "zh": "媒体",
-       "ex": "Google, Meta, and TikTok have sued California to block the enforcement of a state law meant to protect children from getting addicted to social media.",
-       "forms": []
-      },
-      {
-       "w": "news",
-       "pos": "n.",
-       "zh": "新闻",
-       "ex": "She's senior editor of member station KQED's Silicon Valley News Desk.",
-       "forms": []
-      },
-      {
-       "w": "financial",
-       "pos": "adj.",
-       "zh": "金融的；财务的",
-       "ex": "And before we begin, we should note that Google is among NPR's financial supporters.",
-       "forms": []
-      },
-      {
-       "w": "effect",
-       "pos": "n.",
-       "zh": "影响；效果",
-       "ex": "It was only signed in September - hasn't gone into effect yet.",
-       "forms": []
-      },
-      {
-       "w": "prohibit",
-       "pos": "v.",
-       "zh": "禁止",
-       "ex": "It prohibits social media platforms from offering children under 16 things like personalized feeds and autoplay for videos.",
-       "forms": [
-        "prohibits"
-       ]
-      },
-      {
-       "w": "platform",
-       "pos": "n.",
-       "zh": "平台",
-       "ex": "It prohibits social media platforms from offering children under 16 things like personalized feeds and autoplay for videos.",
-       "forms": [
-        "platforms"
-       ]
-      },
-      {
-       "w": "lawsuit",
-       "pos": "n.",
-       "zh": "诉讼",
-       "ex": "So in separate lawsuits filed in San Francisco, San Jose and Los Angeles, Meta, Google and TikTok respectively said the law wrongly compels them to honor California's preferred means of presenting content to children and substitutes the state's judgment for that of parents.",
-       "forms": [
-        "lawsuits"
-       ]
-      },
-      {
-       "w": "substitute",
-       "pos": "v.",
-       "zh": "替代；用……代替",
-       "ex": "So in separate lawsuits filed in San Francisco, San Jose and Los Angeles, Meta, Google and TikTok respectively said the law wrongly compels them to honor California's preferred means of presenting content to children and substitutes the state's judgment for that of parents.",
-       "forms": [
-        "substitutes"
-       ]
-      },
-      {
-       "w": "violate",
-       "pos": "v.",
-       "zh": "违反；侵犯",
-       "ex": "They also said the law violates First Amendment free-speech protections, as well as Section 230 of the federal Communications Decency Act.",
-       "forms": [
-        "violates"
-       ]
-      },
-      {
-       "w": "amendment",
-       "pos": "n.",
-       "zh": "修正案",
-       "ex": "They also said the law violates First Amendment free-speech protections, as well as Section 230 of the federal Communications Decency Act.",
-       "forms": []
-      },
-      {
-       "w": "federal",
-       "pos": "adj.",
-       "zh": "联邦的",
-       "ex": "They also said the law violates First Amendment free-speech protections, as well as Section 230 of the federal Communications Decency Act.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "social",
-      "media",
-      "news",
-      "financial",
-      "effect"
-     ],
-     "keyVocab": [
-      "social",
-      "media",
-      "news",
-      "financial",
-      "effect",
-      "prohibit",
-      "platform",
-      "lawsuit"
-     ]
-    },
-    {
-     "id": "2026-11-09-science",
-     "section": "Science",
-     "sectionZh": "科学",
-     "title": "SS United States, a historic ship will be sunk to create an artificial reef",
-     "dek": "NPR's Ayesha Rascoe talks to Alex Fogg, Natural Resources Chief of Okaloosa County, Florida, about efforts to deliberately sink the SS United States and create an artificial reef in its wreckage.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/08/nx-s1-6030918/ss-united-states-a-historic-ship-will-be-sunk-to-create-an-artificial-reef",
-     "byline": "Ayesha Rascoe",
-     "dateLabel": "2026-11-09",
-     "words": 472,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "NPR's Ayesha Rascoe talks to Alex Fogg, Natural Resources Chief of Okaloosa County, Florida, about efforts to deliberately sink the SS United States and create an artificial reef in its wreckage.",
-       "zh": "NPR的艾莎·拉斯科（Ayesha Rascoe）与佛罗里达州奥卡卢萨县自然资源主管亚历克斯·福格（Alex Fogg）谈论了故意将美国号客轮沉入海中并在其残骸中创建人工珊瑚礁的努力。"
-      },
-      {
-       "en": "A historic ship docked on the Gulf Coast is getting a second life by being put down, down as in the ocean floor. This Thursday, the SS United States will be sunk on purpose to create the largest artificial reef in the world near Destin, Florida. Joining me now is Alex Fogg, the natural resources chief for Okaloosa County, Florida. Thank you so much for joining us.",
-       "zh": "一艘停靠在墨西哥湾沿岸的历史船正通过被下沉，也就是下沉到海底，获得第二次生命。本周四，SS美国号将被故意沉没，以在佛罗里达州德斯廷附近创造世界上最大的人工礁。现在加入我们的是佛罗里达州奥卡卢萨县的自然资源主管亚历克斯·福格。非常感谢您的加入。"
-      },
-      {
-       "en": "RASCOE: So first of all, tell us a little bit about the ship, its history and why it's so special.",
-       "zh": "RASCOE：首先，请告诉我们一些关于这艘船的信息，它的历史以及为什么它如此特别。"
-      },
-      {
-       "en": "FOGG: So the SS United States, it's huge. We've done a lot of artificial reef projects in the past, and this one really sticks out really 'cause of its size, but also its storied past. It's a vessel that was built back in the early 1950s, went back and forth to Europe. It was eventually retired in the late 1960s when air travel just became so much more efficient. But during that time, it carried all sorts of really famous people and was geared to be a troop carrier in the event of the United States getting involved in another world war.",
-       "zh": "FOGG：所以SS United States号，非常巨大。我们过去做过很多人工礁项目，而这个项目确实非常突出，不仅因为它的规模，还因为它丰富的历史。这是一艘建造于20世纪50年代初的船，往返欧洲。到了20世纪60年代末，由于航空旅行变得更加高效，它最终退役。但在那段时间，它运载过各种非常有名的人物，并且在美国卷入另一场世界大战的情况下，还被设计成可以运送军队的船只。"
-      },
-      {
-       "en": "RASCOE: My understanding is that it sat for decades in Philadelphia and made its way around the world, as you talked about. But then eventually down to Florida. How did it get down to Florida?",
-       "zh": "RASCOE：我理解的是，它在费城搁置了数十年，然后像你说的那样辗转世界各地。但最终到了佛罗里达州。它是怎么到佛罗里达的？"
-      },
-      {
-       "en": "FOGG: Yeah. It was a very long tow. So we had to do a lot of checks and balances with our contractor, naval architects, U.S. Coast Guard, all sorts of different entities, to make sure that it was seaworthy enough to be towed from Philadelphia all the way down to Mobile, Alabama, where the full remediation was going to occur.",
-       "zh": "FOGG：是的。这是一次非常长的拖航。因此我们不得不与我们的承包商、海军建筑师、美国海岸警卫队以及各种不同的机构进行大量的检查和平衡，以确保它足够适航，能够从费城拖到阿拉巴马州的莫比尔，在那里将进行全面的修复。"
-      },
-      {
-       "en": "RASCOE: Well, let's talk about the big plans for the ship's new life. Like, why would you sink a nearly 900-foot ship intentionally in the Gulf of Mexico?",
-       "zh": "RASCOE：好吧，让我们谈谈这艘船新生活的大计划。比如，为什么你要故意把一艘接近900英尺的船沉在墨西哥湾？"
-      },
-      {
-       "en": "FOGG: We tried to talk about or tried to figure out ways that we could increase our artificial reef construction to benefit tourism, to benefit the environment. Came up with a whole plan to acquire a bunch of vessels to sink as artificial reefs 'cause when people come diving in a destination, they don't want to dive, you know, sand, or maybe don't want to dive natural reefs all the time. They want to be a bona fide wreck diver. So by deploying these wrecks, it started to put us on the map as a dive destination, and there was a plan that if a vessel of very large size or a very cool story comes along, we would pursue it. And the SS United States was that ship.",
-       "zh": "FOGG：我们尝试讨论或尝试找出方法来增加人工礁的建设，以惠及旅游业和环境。我们制定了一个完整的计划，打算收购一批船只用于沉入海中作为人工礁，因为当人们去某个地方潜水时，他们不想潜入沙地，或者有时不总是想潜自然礁。他们想成为真正的沉船潜水者。所以通过部署这些沉船，我们开始在潜水目的地上打响了名声，而且有一个计划，如果出现一艘非常大或故事非常特别的船，我们会去争取。而“美利坚号”就是那艘船。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "artificial",
-       "pos": "adj.",
-       "zh": "人工的；人造的",
-       "ex": "NPR's Ayesha Rascoe talks to Alex Fogg, Natural Resources Chief of Okaloosa County, Florida, about efforts to deliberately sink the SS United States and create an artificial reef in its wreckage.",
-       "forms": []
-      },
-      {
-       "w": "history",
-       "pos": "n.",
-       "zh": "历史",
-       "ex": "RASCOE: So first of all, tell us a little bit about the ship, its history and why it's so special.",
-       "forms": []
-      },
-      {
-       "w": "increase",
-       "pos": "v.",
-       "zh": "增加",
-       "ex": "FOGG: We tried to talk about or tried to figure out ways that we could increase our artificial reef construction to benefit tourism, to benefit the environment.",
-       "forms": []
-      },
-      {
-       "w": "acquire",
-       "pos": "v.",
-       "zh": "收购；获得",
-       "ex": "Came up with a whole plan to acquire a bunch of vessels to sink as artificial reefs 'cause when people come diving in a destination, they don't want to dive, you know, sand, or maybe don't want to dive natural reefs all the time.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "artificial",
-      "history",
-      "increase",
-      "acquire"
-     ],
-     "keyVocab": [
-      "artificial",
-      "history",
-      "increase",
-      "acquire"
-     ]
-    },
-    {
-     "id": "2026-11-09-culture",
-     "section": "Culture",
-     "sectionZh": "文化",
-     "title": "After a successful trip to Uruguay, Pope Leo heads to Argentina",
-     "dek": "FLORIDA, Uruguay — Pope Leo XIV wrapped up his visit to Uruguay on Sunday by praising the women who have passed the Catholic faith onto younger generations, as he highlighted the role the church…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina",
-     "byline": "The Associated Press",
-     "dateLabel": "2026-11-09",
-     "words": 307,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "FLORIDA, Uruguay — Pope Leo XIV wrapped up his visit to Uruguay on Sunday by praising the women who have passed the Catholic faith onto younger generations, as he highlighted the role the church has played since the founding of Latin America's most secular country.",
-       "zh": "乌拉圭，佛罗里达——教皇利奥十四世在周日结束对乌拉圭的访问时，赞扬了那些将天主教信仰传给年轻一代的女性，并强调了教会自拉丁美洲最世俗国家建国以来所发挥的作用。"
-      },
-      {
-       "en": "Leo traveled to the city of Florida, north of Montevideo, to mark an important Catholic feast day before heading to Argentina for the second leg of his South American tour. It's expected to be the most politically delicate stop, given the Catholic Church's sharp criticisms of the austerity program of libertarian President Javier Milei.",
-       "zh": "Leo 前往位于蒙得维的北方的佛罗里达市，以纪念一个重要的天主教节日，然后前往阿根廷进行他南美之旅的第二站。考虑到天主教会对自由主义总统哈维尔·米莱的紧缩计划提出了尖锐批评，这一站预计将是政治上最为敏感的。"
-      },
-      {
-       "en": "For his final event in Uruguay, Leo celebrated the feast of the Virgin of the Thirty-three. According to tradition, 33 independence patriots acquired the Guaraní statue and had it with them when independence was declared from the Brazilian empire in Florida on Aug. 25, 1825.",
-       "zh": "在乌拉圭的最后一场活动中，莱奥庆祝了三十三圣母节。根据传统，33位独立爱国者获得了瓜拉尼圣像，并在1825年8月25日从巴西帝国在佛罗里达宣布独立时随身携带它。"
-      },
-      {
-       "en": "Leo became the first pope in nearly four decades to visit Uruguay, in hopes of reminding its people that the Catholic Church is part of their very identity as a nation — even if, in subsequent decades, the country went on a deeply secular, and at times anticlerical, route.",
-       "zh": "莱奥成为近四十年来首位访问乌拉圭的教皇，希望提醒乌拉圭人民，天主教会是他们作为一个国家身份的一部分——即使在随后的几十年里，该国走上了深度世俗化，有时甚至反教士的道路。"
-      },
-      {
-       "en": "In his homily, delivered in front of Florida's cathedral, Leo recalled the presence of the statue at the time of independence in reminding Uruguayans that \"the history of peoples, too, cannot be fully understood without reference to God,\" and especially a mother.",
-       "zh": "在他于佛罗里达大教堂前发表的讲道中，列奥回忆起独立时雕像的存在，提醒乌拉圭人，“没有提到上帝，民族的历史也无法被完全理解”，尤其是一位母亲。"
-      },
-      {
-       "en": "He thanked all the mothers and grandmothers who have passed the faith onto younger generations, and acknowledged their pain when their efforts didn't stick.",
-       "zh": "他感谢了所有将信仰传给下一代的母亲和祖母，并认可了当她们的努力未能成功时所经历的痛苦。"
-      },
-      {
-       "en": "\"You taught your children to pray, and today they no longer do so. You used to attend Mass together, and it has been years since they entered a church,\" he said. But he urged them to not despair.",
-       "zh": "“你教你的孩子们祈祷，但今天他们已经不再祈祷。你们曾经一起去做弥撒，但他们已经多年没有进入教堂了，”他说。但他鼓励他们不要绝望。"
-      },
-      {
-       "en": "\"Mothers and grandmothers: never tire of passing on the faith!\"",
-       "zh": "母亲和祖母：永远不要厌倦传递信仰！"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "generation",
-       "pos": "n.",
-       "zh": "一代人；世代",
-       "ex": "FLORIDA, Uruguay — Pope Leo XIV wrapped up his visit to Uruguay on Sunday by praising the women who have passed the Catholic faith onto younger generations, as he highlighted the role the church has played since the founding of Latin America's most secular country.",
-       "forms": [
-        "generations"
-       ]
-      },
-      {
-       "w": "expect",
-       "pos": "v.",
-       "zh": "预期；期待",
-       "ex": "It's expected to be the most politically delicate stop, given the Catholic Church's sharp criticisms of the austerity program of libertarian President Javier Milei.",
-       "forms": [
-        "expected"
-       ]
-      },
-      {
-       "w": "sharp",
-       "pos": "adj.",
-       "zh": "急剧的；锋利的",
-       "ex": "It's expected to be the most politically delicate stop, given the Catholic Church's sharp criticisms of the austerity program of libertarian President Javier Milei.",
-       "forms": []
-      },
-      {
-       "w": "austerity",
-       "pos": "n.",
-       "zh": "紧缩（政策）",
-       "ex": "It's expected to be the most politically delicate stop, given the Catholic Church's sharp criticisms of the austerity program of libertarian President Javier Milei.",
-       "forms": []
-      },
-      {
-       "w": "president",
-       "pos": "n.",
-       "zh": "总统；总裁",
-       "ex": "It's expected to be the most politically delicate stop, given the Catholic Church's sharp criticisms of the austerity program of libertarian President Javier Milei.",
-       "forms": []
-      },
-      {
-       "w": "tradition",
-       "pos": "n.",
-       "zh": "传统",
-       "ex": "According to tradition, 33 independence patriots acquired the Guaraní statue and had it with them when independence was declared from the Brazilian empire in Florida on Aug.",
-       "forms": []
-      },
-      {
-       "w": "acquire",
-       "pos": "v.",
-       "zh": "收购；获得",
-       "ex": "According to tradition, 33 independence patriots acquired the Guaraní statue and had it with them when independence was declared from the Brazilian empire in Florida on Aug.",
-       "forms": [
-        "acquired"
-       ]
-      },
-      {
-       "w": "history",
-       "pos": "n.",
-       "zh": "历史",
-       "ex": "In his homily, delivered in front of Florida's cathedral, Leo recalled the presence of the statue at the time of independence in reminding Uruguayans that \"the history of peoples, too, cannot be fully understood without reference to God,\" and especially a mother.",
-       "forms": []
-      },
-      {
-       "w": "acknowledge",
-       "pos": "v.",
-       "zh": "承认",
-       "ex": "He thanked all the mothers and grandmothers who have passed the faith onto younger generations, and acknowledged their pain when their efforts didn't stick.",
-       "forms": [
-        "acknowledged"
-       ]
-      },
-      {
-       "w": "urge",
-       "pos": "v.",
-       "zh": "敦促；力劝",
-       "ex": "But he urged them to not despair.",
-       "forms": [
-        "urged"
-       ]
-      }
-     ],
-     "homeWords": [
-      "generation",
-      "expect",
-      "sharp",
-      "austerity",
-      "president"
-     ],
-     "keyVocab": [
-      "generation",
-      "expect",
-      "sharp",
-      "austerity",
-      "president",
-      "tradition",
-      "acquire",
-      "history"
      ]
     }
    ]
