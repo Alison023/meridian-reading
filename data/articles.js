@@ -1,6 +1,702 @@
 window.__MERIDIAN_DATA__ = {
- "updated": "2026-11-16T07:00:49.143254+00:00",
+ "updated": "2026-11-17T08:13:48.529758+00:00",
  "days": [
+  {
+   "date": "2026-11-17",
+   "articles": [
+    {
+     "id": "2026-11-17-world",
+     "section": "World",
+     "sectionZh": "国际",
+     "title": "Africa: Trading in yuan",
+     "dek": "The dollar has long ruled Africa's financial landscape. But as more countries turn to China's yuan, the balance of economic power could be shifting.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/16/nx-s1-6035000/africa-trading-in-yuan",
+     "byline": "Kate Bartlett",
+     "dateLabel": "2026-11-17",
+     "words": 383,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "The dollar has long ruled Africa's financial landscape. But as more countries turn to China's yuan, the balance of economic power could be shifting.",
+       "zh": "长期以来，美元一直主导着非洲的金融格局。但随着越来越多的国家转向使用中国的人民币，经济力量的平衡可能正在发生变化。"
+      },
+      {
+       "en": "President Trump will meet Chinese President Xi Jinping in China next week on the sidelines of the Asia-Pacific Economic summit. The meeting is likely to be overshadowed by allegations that the head of U.S. chipmaker Nvidia, Jensen Huang, had an affair with a Chinese spy. The U.S. and China are in the midst of an AI race, and the two countries are also competing on many other fronts, including in mineral-rich Africa, as Kate Bartlett reports from Johannesburg.",
+       "zh": "特朗普总统将于下周在中国与中国国家主席习近平会面，地点是在亚太经济峰会的间隙。这次会晤很可能会被美国芯片制造商英伟达负责人黄仁勋与一名中国间谍有染的指控所掩盖。美中正处于人工智能竞赛中，两国在许多其他领域也在竞争，包括在矿产资源丰富的非洲，凯特·巴特勒从约翰内斯堡报道。"
+      },
+      {
+       "en": "KATE BARTLETT, BYLINE: In Africa, the greenback has long been king.",
+       "zh": "凯特·巴特利特，署名：在非洲，美元长期以来一直是王者。"
+      },
+      {
+       "en": "BARTLETT: Zimbabwe's Victoria Falls Stock Exchange trades exclusively in U.S. dollars, and most everyday transactions on the street are also in dollars, a legacy of the hyperinflation that devastated the country's own currency two decades ago.",
+       "zh": "巴特利特：津巴布韦的维多利亚瀑布证券交易所仅以美元进行交易，而街上的大多数日常交易也使用美元，这是二十多年前严重通货膨胀摧毁该国本国货币的遗留问题。"
+      },
+      {
+       "en": "BARTLETT: Directly across the border in Zambia, it's long been a similar situation, but this is changing, as this recent Zambian government advert points out.",
+       "zh": "巴特利特：就在赞比亚边境对面，情况长期以来也类似，但正如最近这则赞比亚政府的广告所指出的，这一情况正在改变。"
+      },
+      {
+       "en": "UNIDENTIFIED COMMENTATOR: Zambia has officially become the first African nation to accept China's yuans, also known as RMB, for the payment of mine taxes and royalties.",
+       "zh": "不明评论员：赞比亚已正式成为第一个接受中国人民币（也称为RMB）支付矿山税和特许权使用费的非洲国家。"
+      },
+      {
+       "en": "BARTLETT: And it's not only Zambia that's conducting business in RMB. China is, by far, Africa's biggest trading partner, and now more and more African countries are turning to the Chinese yuan for trade and to pay their debt. According to Cobus van Staden, a China expert at the South Africa (ph) Institute of International Affairs in Johannesburg, the trend reflects China's growing influence across the continent.",
+       "zh": "巴特利特：不仅是赞比亚在用人民币进行交易。中国是迄今为止非洲最大的贸易伙伴，现在越来越多的非洲国家正在转向使用人民币进行贸易和偿还债务。根据约翰内斯堡南非国际事务研究所的中国问题专家科布斯·范·斯塔登的说法，这一趋势反映了中国在整个非洲大陆日益增长的影响力。"
+      },
+      {
+       "en": "COBUS VAN STADEN: The interesting thing is going to be whether this starts to chip away at dollar dominance in certain specific commodity fields, whether increasingly, we're going to be looking at lithium or copper or cobalt and see those fields becoming more and more de-dollarized over time. We'll have to see.",
+       "zh": "科布斯·范·斯塔登：有趣的是，这是否会开始削弱美元在某些特定商品领域的支配地位，是否随着时间的推移，我们会越来越多地关注锂、铜或钴，并看到这些领域变得越来越非美元化。我们拭目以待。"
+      },
+      {
+       "en": "BARTLETT: These are some of the critical minerals the U.S. and China are competing for on the continent. Christian-Géraud Neema is an editor with the China-Global South Project, an Africa-based think tank which tracks Beijing's influence across the continent. He points out several African countries, like Kenya, have already restructured their debt to China and are now paying it in yuan rather than dollars.",
+       "zh": "BARTLETT：这些是美国和中国在非洲大陆上竞争的一些关键矿产。Christian-Géraud Neema 是中国-全球南方项目的编辑，该项目是一个总部位于非洲的智库，追踪北京在整个非洲大陆的影响。他指出，一些非洲国家，如肯尼亚，已经重组了对中国的债务，现在以人民币而非美元偿还。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "financial",
+       "pos": "adj.",
+       "zh": "金融的；财务的",
+       "ex": "The dollar has long ruled Africa's financial landscape.",
+       "forms": []
+      },
+      {
+       "w": "economic",
+       "pos": "adj.",
+       "zh": "经济的",
+       "ex": "But as more countries turn to China's yuan, the balance of economic power could be shifting.",
+       "forms": []
+      },
+      {
+       "w": "power",
+       "pos": "n.",
+       "zh": "权力；电力",
+       "ex": "But as more countries turn to China's yuan, the balance of economic power could be shifting.",
+       "forms": []
+      },
+      {
+       "w": "shift",
+       "pos": "n.",
+       "zh": "转变；转移",
+       "ex": "But as more countries turn to China's yuan, the balance of economic power could be shifting.",
+       "forms": [
+        "shifting"
+       ]
+      },
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "President Trump will meet Chinese President Xi Jinping in China next week on the sidelines of the Asia-Pacific Economic summit.",
+       "forms": []
+      },
+      {
+       "w": "summit",
+       "pos": "n.",
+       "zh": "峰会；顶峰",
+       "ex": "President Trump will meet Chinese President Xi Jinping in China next week on the sidelines of the Asia-Pacific Economic summit.",
+       "forms": []
+      },
+      {
+       "w": "report",
+       "pos": "n.",
+       "zh": "报告；报道",
+       "ex": "and China are in the midst of an AI race, and the two countries are also competing on many other fronts, including in mineral-rich Africa, as Kate Bartlett reports from Johannesburg.",
+       "forms": [
+        "reports"
+       ]
+      },
+      {
+       "w": "fall",
+       "pos": "n.",
+       "zh": "下降；下跌",
+       "ex": "BARTLETT: Zimbabwe's Victoria Falls Stock Exchange trades exclusively in U.S.",
+       "forms": [
+        "falls"
+       ]
+      },
+      {
+       "w": "currency",
+       "pos": "n.",
+       "zh": "货币",
+       "ex": "dollars, and most everyday transactions on the street are also in dollars, a legacy of the hyperinflation that devastated the country's own currency two decades ago.",
+       "forms": []
+      },
+      {
+       "w": "border",
+       "pos": "n.",
+       "zh": "边境；边界",
+       "ex": "BARTLETT: Directly across the border in Zambia, it's long been a similar situation, but this is changing, as this recent Zambian government advert points out.",
+       "forms": []
+      },
+      {
+       "w": "change",
+       "pos": "n.",
+       "zh": "变化；改变",
+       "ex": "BARTLETT: Directly across the border in Zambia, it's long been a similar situation, but this is changing, as this recent Zambian government advert points out.",
+       "forms": [
+        "changing"
+       ]
+      },
+      {
+       "w": "accept",
+       "pos": "v.",
+       "zh": "接受",
+       "ex": "UNIDENTIFIED COMMENTATOR: Zambia has officially become the first African nation to accept China's yuans, also known as RMB, for the payment of mine taxes and royalties.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "financial",
+      "economic",
+      "power",
+      "shift",
+      "president"
+     ],
+     "keyVocab": [
+      "financial",
+      "economic",
+      "power",
+      "shift",
+      "president",
+      "summit",
+      "report",
+      "fall"
+     ]
+    },
+    {
+     "id": "2026-11-17-business",
+     "section": "Business",
+     "sectionZh": "商业 · 财经",
+     "title": "New rule aims to close loophole on chip exports",
+     "dek": "The Commerce Department released a new rule designed to make it harder for China to gain access to America's most powerful computer chips using third-country data centers.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/16/nx-s1-6042918/new-rule-aims-to-close-loophole-on-chip-exports",
+     "byline": "Scott Horsley",
+     "dateLabel": "2026-11-17",
+     "words": 504,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "The Commerce Department released a new rule designed to make it harder for China to gain access to America's most powerful computer chips using third-country data centers.",
+       "zh": "商务部发布了一项新规定，旨在使中国更难通过第三国数据中心获取美国最强大的计算机芯片。"
+      },
+      {
+       "en": "The Trump administration is taking new steps to prevent China from gaining access to America's most powerful computer chips. The move comes after criticism that existing export controls are too lax. The rules have been under a microscope since the CEO of chipmaker Nvidia stepped down last week. Jensen Huang is accused of having an affair with a woman who is suspected of being a Chinese spy. NPR's Scott Horsley joins us now. Hi, Scott.",
+       "zh": "特朗普政府正在采取新措施，防止中国获得美国最强大的计算机芯片。这一举措是在现有出口管制被批评过于宽松之后提出的。自上周芯片制造商英伟达的首席执行官辞职以来，这些规定一直受到严格审查。黄仁勋被指控与一位涉嫌为中国间谍的女性发生婚外情。现在NPR的斯科特·霍斯利加入了我们的节目。你好，斯科特。"
+      },
+      {
+       "en": "DETROW: So the Commerce Department announced a new rule governing computer chip exports today. How exactly does it change the landscape?",
+       "zh": "DETROW：所以商务部今天宣布了一项关于电脑芯片出口的新规定。这到底会如何改变现状？"
+      },
+      {
+       "en": "HORSLEY: The federal government already prohibits the sale of the most advanced AI chips to China, a country it sees as both an economic and security rival. But critics say there's a loophole in that ban because those chips can be sold to data centers in places like Malaysia, and China can then get the benefit of that advanced computing power by tapping into those data centers remotely. It's a little like someone who lives where gambling is illegal going online to access a gambling website where it's legal.",
+       "zh": "霍斯利：联邦政府已经禁止向中国出售最先进的人工智能芯片，中国被视为经济和安全方面的竞争对手。但批评者称，这项禁令存在一个漏洞，因为这些芯片可以出售给马来西亚等地的数据中心，然后中国可以通过远程访问这些数据中心来获得先进计算能力的好处。这有点像一个生活在赌博非法的地方的人上网访问赌博合法的网站。"
+      },
+      {
+       "en": "This new rule is designed to close that loophole by requiring data centers in third countries to police the people they're working for, and if they're doing business with, say, China, for example, they would be subject to additional restrictions. The rule also limits chip sales to countries like Malaysia, Indonesia and Thailand, which are seen as at high risk of having those chips diverted to China.",
+       "zh": "这项新规定旨在通过要求位于第三国的数据中心监督他们所为之工作的对象来封堵这一漏洞，例如，如果他们与中国做生意，就会受到额外的限制。该规定还限制向马来西亚、印度尼西亚和泰国等国家销售芯片，这些国家被认为有高风险将这些芯片转售给中国。"
+      },
+      {
+       "en": "HORSLEY: Well, news reports have tied that company's former CEO to a woman suspected of spying for China. China has denied that, and NPR has not independently confirmed those reports. But what's clear is the woman used to work for a company called Megaspeed, which was a customer of Nvidia's and bought a lot of its advanced chips for its operating data centers in Malaysia. Now, Megaspeed says the woman left the company over a year ago, and the company insists it follows all existing regulations. But some administration officials worry those regulations are just not strong enough and allowed China this workaround. Treasury Secretary Scott Bessent said on CNBC last week he and others wanted to cut off Megaspeed's access to chips to prevent that computing power from being used remotely by China.",
+       "zh": "HORSLEY：新闻报道将那家公司的前首席执行官与一个被怀疑为中国进行间谍活动的女性联系在一起。中国否认了这一点，而NPR尚未独立证实这些报道。但可以明确的是，这名女性曾在一家名为Megaspeed的公司工作，该公司是英伟达的客户，并为其位于马来西亚的运营数据中心购买了大量先进芯片。现在，Megaspeed表示这名女性在一年前就离开了公司，而且公司坚称遵守所有现有的法规。但一些政府官员担心这些法规不够严格，让中国找到了规避方式。财政部长斯科特·贝森特上周在CNBC表示，他和其他人希望切断Megaspeed获取芯片的渠道，以防止这些计算能力被中国远程利用。"
+      },
+      {
+       "en": "SCOTT BESSENT: Any leakage is very frustrating because it hurts our great companies, and the AI race gives the Chinese an advantage.",
+       "zh": "SCOTT BESSENT：任何泄露都令人沮丧，因为它伤害了我们优秀的公司，而人工智能竞赛让中国占据优势。"
+      },
+      {
+       "en": "HORSLEY: So this new rule's designed to prevent that kind of leakage and stop China from gaining remote access to the most powerful chips. Interestingly, while the new rule was announced by the Commerce Department, it was actually written by and at the direction of the Treasury Department and the National Security Council.",
+       "zh": "HORSLEY：所以这项新规则的目的是防止那种泄漏，并阻止中国远程访问最强大的芯片。有趣的是，虽然这项新规则是由商务部宣布的，但它实际上是由财政部和国家安全委员会撰写并根据他们的指示制定的。"
+      },
+      {
+       "en": "DETROW: Interesting. What does this say about big picture - about what's happening behind the scenes?",
+       "zh": "DETROW：有趣。这说明了整体情况——幕后正在发生什么？"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "chip",
+       "pos": "n.",
+       "zh": "芯片",
+       "ex": "The Commerce Department released a new rule designed to make it harder for China to gain access to America's most powerful computer chips using third-country data centers.",
+       "forms": [
+        "chips"
+       ]
+      },
+      {
+       "w": "data",
+       "pos": "n.",
+       "zh": "数据",
+       "ex": "The Commerce Department released a new rule designed to make it harder for China to gain access to America's most powerful computer chips using third-country data centers.",
+       "forms": []
+      },
+      {
+       "w": "administration",
+       "pos": "n.",
+       "zh": "政府；行政",
+       "ex": "The Trump administration is taking new steps to prevent China from gaining access to America's most powerful computer chips.",
+       "forms": []
+      },
+      {
+       "w": "export",
+       "pos": "n.",
+       "zh": "出口",
+       "ex": "The move comes after criticism that existing export controls are too lax.",
+       "forms": [
+        "exports"
+       ]
+      },
+      {
+       "w": "announce",
+       "pos": "v.",
+       "zh": "宣布；公布",
+       "ex": "DETROW: So the Commerce Department announced a new rule governing computer chip exports today.",
+       "forms": [
+        "announced"
+       ]
+      },
+      {
+       "w": "change",
+       "pos": "n.",
+       "zh": "变化；改变",
+       "ex": "How exactly does it change the landscape?",
+       "forms": []
+      },
+      {
+       "w": "federal",
+       "pos": "adj.",
+       "zh": "联邦的",
+       "ex": "HORSLEY: The federal government already prohibits the sale of the most advanced AI chips to China, a country it sees as both an economic and security rival.",
+       "forms": []
+      },
+      {
+       "w": "prohibit",
+       "pos": "v.",
+       "zh": "禁止",
+       "ex": "HORSLEY: The federal government already prohibits the sale of the most advanced AI chips to China, a country it sees as both an economic and security rival.",
+       "forms": [
+        "prohibits"
+       ]
+      },
+      {
+       "w": "economic",
+       "pos": "adj.",
+       "zh": "经济的",
+       "ex": "HORSLEY: The federal government already prohibits the sale of the most advanced AI chips to China, a country it sees as both an economic and security rival.",
+       "forms": []
+      },
+      {
+       "w": "rival",
+       "pos": "v.",
+       "zh": "与……竞争；媲美",
+       "ex": "HORSLEY: The federal government already prohibits the sale of the most advanced AI chips to China, a country it sees as both an economic and security rival.",
+       "forms": []
+      },
+      {
+       "w": "critic",
+       "pos": "n.",
+       "zh": "评论家；批评家",
+       "ex": "But critics say there's a loophole in that ban because those chips can be sold to data centers in places like Malaysia, and China can then get the benefit of that advanced computing power by tapping into those data centers remotely.",
+       "forms": [
+        "critics"
+       ]
+      },
+      {
+       "w": "computing",
+       "pos": "n.",
+       "zh": "计算；计算技术",
+       "ex": "But critics say there's a loophole in that ban because those chips can be sold to data centers in places like Malaysia, and China can then get the benefit of that advanced computing power by tapping into those data centers remotely.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "chip",
+      "data",
+      "administration",
+      "export",
+      "announce"
+     ],
+     "keyVocab": [
+      "chip",
+      "data",
+      "administration",
+      "export",
+      "announce",
+      "change",
+      "federal",
+      "prohibit"
+     ]
+    },
+    {
+     "id": "2026-11-17-technology",
+     "section": "Technology",
+     "sectionZh": "科技",
+     "title": "California sues OpenAI over hacking risks",
+     "dek": "California sued OpenAI Monday, alleging that the frontier AI company failed to protect the public from its systems' advanced cyber capabilities. The lawsuit stems from OpenAI's agents' attack on…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
+     "byline": "Huo Jingnan",
+     "dateLabel": "2026-11-17",
+     "words": 472,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "California sued OpenAI Monday, alleging that the frontier AI company failed to protect the public from its systems' advanced cyber capabilities. The lawsuit stems from OpenAI's agents' attack on open-source software platform Hugging Face over the summer but also touches on a wide range of other related incidents tied to the company's agents acting without authorization.",
+       "zh": "加利福尼亚州周一起诉了OpenAI，指控这家前沿人工智能公司未能保护公众免受其系统高级网络能力的影响。这起诉讼源于OpenAI的代理人在夏季对开源软件平台Hugging Face的攻击，但也涉及与公司代理人未经授权行为相关的其他一系列相关事件。"
+      },
+      {
+       "en": "\"Just because the technology is new or rapidly evolving doesn't mean the people behind it are above the law,\" said California Attorney General Rob Bonta during a press conference. \"Whether it's a car or a toy, the law is simple: don't build or test things that can hurt people without proper safeguards.\" The lawsuit cited potential concerns about cyberattacks \"on power grids, emergency infrastructure, hospital systems, and financial institutions.\"",
+       "zh": "加利福尼亚州总检察长罗布·邦塔在新闻发布会上表示：“仅仅因为技术是新的或发展迅速，并不意味着背后的人可以凌驾于法律之上。无论是汽车还是玩具，法律都很简单：不要在没有适当安全措施的情况下制造或测试可能伤害人类的东西。” 诉讼中提到对网络攻击的潜在担忧，“涉及电网、应急基础设施、医院系统和金融机构。”"
+      },
+      {
+       "en": "In the complaint, California alleged that OpenAI misled the public about how unsafe its products are. The state said the company admitted to the attorney general's office that \"it lost control of its autonomous AI agents over 80 times during testing.\"",
+       "zh": "在投诉中，加利福尼亚州指控 OpenAI 对其产品有多不安全误导了公众。该州表示，公司向总检察长办公室承认，“在测试过程中，其自主 AI 代理失控超过 80 次。”"
+      },
+      {
+       "en": "That number is higher than what OpenAI has so far disclosed publicly and more than what outside researchers have independently discovered, but OpenAI has otherwise provided little information, California said. The state also accused OpenAI of poor security practices, stonewalling the state's investigation into the company and discouraging employees from speaking up about safety.",
+       "zh": "加利福尼亚州表示，这个数字高于OpenAI迄今公开披露的数字，也高于外部研究人员独立发现的数字，但OpenAI除此之外几乎没有提供任何信息。该州还指责OpenAI存在安全措施不当、阻挠该州对公司的调查，并阻止员工对安全问题发声。"
+      },
+      {
+       "en": "In a statement to NPR, OpenAI spokesperson Drew Pusateri said the lawsuit \"appears to single out OpenAI over a challenge that's been identified by every major AI lab\" and that the company has \"engaged—and will continue to engage—constructively with the Attorney General's office to share information and advance strong, practical safety standards for the entire industry.\"",
+       "zh": "在向 NPR 发布的一份声明中，OpenAI 发言人 Drew Pusateri 表示，这起诉讼“似乎在针对 OpenAI，而该问题已经被每一家主要的人工智能实验室发现”，并且公司“已经并将继续与总检察长办公室建设性地合作，分享信息，并推动整个行业强有力的、切实可行的安全标准。”"
+      },
+      {
+       "en": "After the most notorious of cyber incidents involving OpenAI's agents – the attack on Hugging Face over the summer – the company admitted that it did not monitor its agents in ways its own researchers deemed important. Since then, outside researchers as well as OpenAI itself have found more incidents in which AI agents have interacted with websites and communicated with each other on the internet in ways that OpenAI did not intend. The lawsuit mentions these events as well as other incidents that OpenAI started disclosing voluntarily to the public.",
+       "zh": "在涉及 OpenAI 代理的最臭名昭著的网络事件——今年夏天对 Hugging Face 的攻击——之后，该公司承认它并没有以其自身研究人员认为重要的方式监控其代理。从那时起，外部研究人员以及 OpenAI 自身发现了更多的事件，其中 AI 代理以 OpenAI 未打算的方式与网站互动并在互联网上相互通信。诉讼提到了这些事件以及 OpenAI 开始自愿向公众披露的其他事件。"
+      },
+      {
+       "en": "Other AI companies have also had to wrestle with their systems behaving in unexpected and undesirable ways. Anthropic and Meta have both said they found that their AI systems have hacked into places they shouldn't have. Major AI companies have since signed onto an agreement organized by the White House to develop AI responsibly, but the agreement is nonbinding.",
+       "zh": "其他人工智能公司也不得不应对其系统表现出意外和不良行为的问题。Anthropic 和 Meta 都表示，他们发现自己的人工智能系统入侵了本不该进入的地方。此后，主要人工智能公司已加入由白宫组织的一项旨在负责任地开发人工智能的协议，但该协议并不具约束力。"
+      },
+      {
+       "en": "Drawing from reports including from OpenAI's own disclosures, California alleges that the top AI company has engaged in unfair competition and created a public nuisance. It asked the court to stop the company from further engaging in such activities and order it to pay monetary damages.",
+       "zh": "根据包括OpenAI自身披露的报告，加利福尼亚州指控这家顶级人工智能公司从事不公平竞争并造成公共滋扰。它要求法院制止该公司继续从事此类活动，并命令其支付经济赔偿。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "public",
+       "pos": "adj.",
+       "zh": "公共的；公众的",
+       "ex": "California sued OpenAI Monday, alleging that the frontier AI company failed to protect the public from its systems' advanced cyber capabilities.",
+       "forms": []
+      },
+      {
+       "w": "lawsuit",
+       "pos": "n.",
+       "zh": "诉讼",
+       "ex": "The lawsuit stems from OpenAI's agents' attack on open-source software platform Hugging Face over the summer but also touches on a wide range of other related incidents tied to the company's agents acting without authorization.",
+       "forms": []
+      },
+      {
+       "w": "software",
+       "pos": "n.",
+       "zh": "软件",
+       "ex": "The lawsuit stems from OpenAI's agents' attack on open-source software platform Hugging Face over the summer but also touches on a wide range of other related incidents tied to the company's agents acting without authorization.",
+       "forms": []
+      },
+      {
+       "w": "platform",
+       "pos": "n.",
+       "zh": "平台",
+       "ex": "The lawsuit stems from OpenAI's agents' attack on open-source software platform Hugging Face over the summer but also touches on a wide range of other related incidents tied to the company's agents acting without authorization.",
+       "forms": []
+      },
+      {
+       "w": "technology",
+       "pos": "n.",
+       "zh": "技术；科技",
+       "ex": "\"Just because the technology is new or rapidly evolving doesn't mean the people behind it are above the law,\" said California Attorney General Rob Bonta during a press conference.",
+       "forms": []
+      },
+      {
+       "w": "cite",
+       "pos": "v.",
+       "zh": "引用；援引",
+       "ex": "\"Whether it's a car or a toy, the law is simple: don't build or test things that can hurt people without proper safeguards.\" The lawsuit cited potential concerns about cyberattacks \"on power grids, emergency infrastructure, hospital systems, and financial institutions.\" In the complaint, California alleged that OpenAI misled the public about how unsafe its products are.",
+       "forms": [
+        "cited"
+       ]
+      },
+      {
+       "w": "power",
+       "pos": "n.",
+       "zh": "权力；电力",
+       "ex": "\"Whether it's a car or a toy, the law is simple: don't build or test things that can hurt people without proper safeguards.\" The lawsuit cited potential concerns about cyberattacks \"on power grids, emergency infrastructure, hospital systems, and financial institutions.\" In the complaint, California alleged that OpenAI misled the public about how unsafe its products are.",
+       "forms": []
+      },
+      {
+       "w": "grid",
+       "pos": "n.",
+       "zh": "电网；网格",
+       "ex": "\"Whether it's a car or a toy, the law is simple: don't build or test things that can hurt people without proper safeguards.\" The lawsuit cited potential concerns about cyberattacks \"on power grids, emergency infrastructure, hospital systems, and financial institutions.\" In the complaint, California alleged that OpenAI misled the public about how unsafe its products are.",
+       "forms": [
+        "grids"
+       ]
+      },
+      {
+       "w": "infrastructure",
+       "pos": "n.",
+       "zh": "基础设施",
+       "ex": "\"Whether it's a car or a toy, the law is simple: don't build or test things that can hurt people without proper safeguards.\" The lawsuit cited potential concerns about cyberattacks \"on power grids, emergency infrastructure, hospital systems, and financial institutions.\" In the complaint, California alleged that OpenAI misled the public about how unsafe its products are.",
+       "forms": []
+      },
+      {
+       "w": "hospital",
+       "pos": "n.",
+       "zh": "医院",
+       "ex": "\"Whether it's a car or a toy, the law is simple: don't build or test things that can hurt people without proper safeguards.\" The lawsuit cited potential concerns about cyberattacks \"on power grids, emergency infrastructure, hospital systems, and financial institutions.\" In the complaint, California alleged that OpenAI misled the public about how unsafe its products are.",
+       "forms": []
+      },
+      {
+       "w": "financial",
+       "pos": "adj.",
+       "zh": "金融的；财务的",
+       "ex": "\"Whether it's a car or a toy, the law is simple: don't build or test things that can hurt people without proper safeguards.\" The lawsuit cited potential concerns about cyberattacks \"on power grids, emergency infrastructure, hospital systems, and financial institutions.\" In the complaint, California alleged that OpenAI misled the public about how unsafe its products are.",
+       "forms": []
+      },
+      {
+       "w": "product",
+       "pos": "n.",
+       "zh": "产品",
+       "ex": "\"Whether it's a car or a toy, the law is simple: don't build or test things that can hurt people without proper safeguards.\" The lawsuit cited potential concerns about cyberattacks \"on power grids, emergency infrastructure, hospital systems, and financial institutions.\" In the complaint, California alleged that OpenAI misled the public about how unsafe its products are.",
+       "forms": [
+        "products"
+       ]
+      }
+     ],
+     "homeWords": [
+      "public",
+      "lawsuit",
+      "software",
+      "platform",
+      "technology"
+     ],
+     "keyVocab": [
+      "public",
+      "lawsuit",
+      "software",
+      "platform",
+      "technology",
+      "cite",
+      "power",
+      "grid"
+     ]
+    },
+    {
+     "id": "2026-11-17-science",
+     "section": "Science",
+     "sectionZh": "科学",
+     "title": "SS United States, a historic ship will be sunk to create an artificial reef",
+     "dek": "NPR's Ayesha Rascoe talks to Alex Fogg, Natural Resources Chief of Okaloosa County, Florida, about efforts to deliberately sink the SS United States and create an artificial reef in its wreckage.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/08/nx-s1-6030918/ss-united-states-a-historic-ship-will-be-sunk-to-create-an-artificial-reef",
+     "byline": "Ayesha Rascoe",
+     "dateLabel": "2026-11-17",
+     "words": 472,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "NPR's Ayesha Rascoe talks to Alex Fogg, Natural Resources Chief of Okaloosa County, Florida, about efforts to deliberately sink the SS United States and create an artificial reef in its wreckage.",
+       "zh": "NPR的艾莎·拉斯科（Ayesha Rascoe）与佛罗里达州奥卡卢萨县自然资源主管亚历克斯·福格（Alex Fogg）谈论了故意将美国号客轮沉入海中并在其残骸中创建人工珊瑚礁的努力。"
+      },
+      {
+       "en": "A historic ship docked on the Gulf Coast is getting a second life by being put down, down as in the ocean floor. This Thursday, the SS United States will be sunk on purpose to create the largest artificial reef in the world near Destin, Florida. Joining me now is Alex Fogg, the natural resources chief for Okaloosa County, Florida. Thank you so much for joining us.",
+       "zh": "一艘停靠在墨西哥湾沿岸的历史船正通过被下沉，也就是下沉到海底，获得第二次生命。本周四，SS美国号将被故意沉没，在佛罗里达州德斯廷附近打造世界上最大的人工珊瑚礁。现在加入我们的是佛罗里达州奥卡卢萨县的自然资源主管亚历克斯·福格。非常感谢您加入我们。"
+      },
+      {
+       "en": "RASCOE: So first of all, tell us a little bit about the ship, its history and why it's so special.",
+       "zh": "RASCOE：首先，请告诉我们一些关于这艘船的信息，它的历史以及为什么它如此特别。"
+      },
+      {
+       "en": "FOGG: So the SS United States, it's huge. We've done a lot of artificial reef projects in the past, and this one really sticks out really 'cause of its size, but also its storied past. It's a vessel that was built back in the early 1950s, went back and forth to Europe. It was eventually retired in the late 1960s when air travel just became so much more efficient. But during that time, it carried all sorts of really famous people and was geared to be a troop carrier in the event of the United States getting involved in another world war.",
+       "zh": "FOGG：所以SS United States号，非常巨大。我们过去做过很多人工礁项目，而这个项目确实非常突出，不仅因为它的规模，还因为它丰富的历史。这是一艘建造于20世纪50年代初的船，往返欧洲。到了20世纪60年代末，由于航空旅行变得更加高效，它最终退役了。但在那段时间里，它承载了各种非常有名的人物，并且设计时也考虑到如果美国卷入另一场世界大战，它可以用作运送军队的船只。"
+      },
+      {
+       "en": "RASCOE: My understanding is that it sat for decades in Philadelphia and made its way around the world, as you talked about. But then eventually down to Florida. How did it get down to Florida?",
+       "zh": "RASCOE: 我的理解是，它在费城搁置了数十年，然后像你说的那样走向了世界各地。但最终却到了佛罗里达。它是怎么到佛罗里达的？"
+      },
+      {
+       "en": "FOGG: Yeah. It was a very long tow. So we had to do a lot of checks and balances with our contractor, naval architects, U.S. Coast Guard, all sorts of different entities, to make sure that it was seaworthy enough to be towed from Philadelphia all the way down to Mobile, Alabama, where the full remediation was going to occur.",
+       "zh": "FOGG：是的。这是一次非常长的拖航。因此我们不得不与我们的承包商、海军建筑师、美国海岸警卫队以及各种不同的机构进行大量的检查和平衡，以确保它足够适航，能够从费城拖到阿拉巴马州的莫比尔，在那里将进行全面的修复。"
+      },
+      {
+       "en": "RASCOE: Well, let's talk about the big plans for the ship's new life. Like, why would you sink a nearly 900-foot ship intentionally in the Gulf of Mexico?",
+       "zh": "RASCOE：好吧，让我们谈谈这艘船新生活的大计划。比如，为什么你要故意把一艘接近900英尺的船沉在墨西哥湾？"
+      },
+      {
+       "en": "FOGG: We tried to talk about or tried to figure out ways that we could increase our artificial reef construction to benefit tourism, to benefit the environment. Came up with a whole plan to acquire a bunch of vessels to sink as artificial reefs 'cause when people come diving in a destination, they don't want to dive, you know, sand, or maybe don't want to dive natural reefs all the time. They want to be a bona fide wreck diver. So by deploying these wrecks, it started to put us on the map as a dive destination, and there was a plan that if a vessel of very large size or a very cool story comes along, we would pursue it. And the SS United States was that ship.",
+       "zh": "FOGG：我们尝试讨论或尝试找出方法来增加人工礁的建设，以惠及旅游业和环境。我们制定了一个完整的计划，打算收购一大批船只，作为人工礁沉入海底，因为当人们去某个潜水目的地潜水时，他们不想只是潜入沙子里，或者可能并不总是想潜入天然礁。他们想成为真正的沉船潜水者。所以，通过部署这些沉船，我们开始在潜水目的地地图上占有一席之地。计划是如果有一艘非常大的船或者有非常酷的故事的船出现，我们会去追求它。而美国联合号（SS United States）就是那艘船。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "artificial",
+       "pos": "adj.",
+       "zh": "人工的；人造的",
+       "ex": "NPR's Ayesha Rascoe talks to Alex Fogg, Natural Resources Chief of Okaloosa County, Florida, about efforts to deliberately sink the SS United States and create an artificial reef in its wreckage.",
+       "forms": []
+      },
+      {
+       "w": "history",
+       "pos": "n.",
+       "zh": "历史",
+       "ex": "RASCOE: So first of all, tell us a little bit about the ship, its history and why it's so special.",
+       "forms": []
+      },
+      {
+       "w": "increase",
+       "pos": "v.",
+       "zh": "增加",
+       "ex": "FOGG: We tried to talk about or tried to figure out ways that we could increase our artificial reef construction to benefit tourism, to benefit the environment.",
+       "forms": []
+      },
+      {
+       "w": "acquire",
+       "pos": "v.",
+       "zh": "收购；获得",
+       "ex": "Came up with a whole plan to acquire a bunch of vessels to sink as artificial reefs 'cause when people come diving in a destination, they don't want to dive, you know, sand, or maybe don't want to dive natural reefs all the time.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "artificial",
+      "history",
+      "increase",
+      "acquire"
+     ],
+     "keyVocab": [
+      "artificial",
+      "history",
+      "increase",
+      "acquire"
+     ]
+    },
+    {
+     "id": "2026-11-17-culture",
+     "section": "Culture",
+     "sectionZh": "文化",
+     "title": "Bagel makers, lovers and critics converged in New York for best bagel contest",
+     "dek": "The best bagel contest in New York City last weekend drew competitors from around the world, and of course lots of hometown bagel makers and critics.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/16/nx-s1-5939444/bagel-makers-lovers-and-critics-converged-in-new-york-for-best-bagel-contest",
+     "byline": "Jeff Lunden",
+     "dateLabel": "2026-11-17",
+     "words": 269,
+     "readTime": 3,
+     "level": "B2",
+     "levelEn": "Upper-intermediate",
+     "paragraphs": [
+      {
+       "en": "The best bagel contest in New York City last weekend drew competitors from around the world, and of course lots of hometown bagel makers and critics.",
+       "zh": "上周末在纽约市举行的最佳贝果比赛吸引了来自世界各地的参赛者，当然还有许多本地的贝果制造者和评论家。"
+      },
+      {
+       "en": "A beloved weekend morning ritual for many people is the bagel. Sometimes just toasted with butter or cream cheese hits the spot. Sometimes you want a full-blown bacon, egg and cheese bagel sandwich. If you are a bagel lover, you might have wished you could have attended this weekend's seventh annual BagelFest in New York. Thousands of people were there, including reporter Jeff Lunden. Here's his story.",
+       "zh": "许多人喜爱的周末早晨习惯之一是贝果。有时仅仅烤一下涂上黄油或奶油奶酪就足够了。有时你可能想要一份完整的培根、鸡蛋和奶酪贝果三明治。如果你是贝果爱好者，你可能会希望自己能够参加本周末在纽约举办的第七届年度贝果节。成千上万的人参加了，包括记者杰夫·伦登。这是他的报道。"
+      },
+      {
+       "en": "JEFF LUNDEN: As a New Yorker, I appreciate a good doughy bagel. Sam Silverman, the founder of BagelFest, does too. He grew up in Massachusetts, eating bagels from Dunkin' Donuts, and loved them. But when he moved to New York...",
+       "zh": "JEFF LUNDEN：作为一名纽约人，我很喜欢吃松软的百吉饼。BagelFest的创始人Sam Silverman也一样。他在马萨诸塞州长大，经常吃Dunkin' Donuts的百吉饼，非常喜欢它们。但当他搬到纽约时……"
+      },
+      {
+       "en": "SAM SILVERMAN: And I had my very first bagel, real bagel from Ess-a-Bagel, it changed my life.",
+       "zh": "SAM SILVERMAN：我吃了我的第一个百吉饼，真正的百吉饼，来自 Ess-a-Bagel，这改变了我的生活。"
+      },
+      {
+       "en": "LUNDEN: So much so that seven years ago, he started BagelFest, and every year they crown the best in show. He says there are four criteria - flavor, texture, appearance and aroma.",
+       "zh": "伦登：以至于七年前，他创办了贝果节，每年他们都会评选出最佳作品。他说有四个标准——味道、质地、外观和香气。"
+      },
+      {
+       "en": "SILVERMAN: It needs to be crunchy on the outside, soft and chewy on the inside.",
+       "zh": "SILVERMAN：外面需要酥脆，里面要柔软有嚼劲。"
+      },
+      {
+       "en": "SILVERMAN: From the taste perspective, we want multi notes. We want a sufficient level of salt. And then it needs to look beautiful - golden crust, nice plump shape.",
+       "zh": "SILVERMAN：从口味的角度来看，我们希望有多层次的味道。我们希望有足够的盐分。然后它需要看起来漂亮——金色的外壳，饱满的形状。"
+      },
+      {
+       "en": "LUNDEN: This year, there were 52 vendors, and every one of the attendees got a booklet to make notes on all the bagels so they could vote for their favorites. And the first vendor I saw was Steven Orr from Belfast. Northern Ireland.",
+       "zh": "伦登：今年有52家供应商，每位参会者都获得了一本小册子，用来记录所有百吉饼的笔记，以便投票选出他们最喜欢的百吉饼。我看到的第一位供应商是来自北爱尔兰贝尔法斯特的史蒂文·奥尔。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "critic",
+       "pos": "n.",
+       "zh": "评论家；批评家",
+       "ex": "The best bagel contest in New York City last weekend drew competitors from around the world, and of course lots of hometown bagel makers and critics.",
+       "forms": [
+        "critics"
+       ]
+      },
+      {
+       "w": "ritual",
+       "pos": "n.",
+       "zh": "仪式；惯例",
+       "ex": "A beloved weekend morning ritual for many people is the bagel.",
+       "forms": []
+      },
+      {
+       "w": "change",
+       "pos": "n.",
+       "zh": "变化；改变",
+       "ex": "SAM SILVERMAN: And I had my very first bagel, real bagel from Ess-a-Bagel, it changed my life.",
+       "forms": [
+        "changed"
+       ]
+      },
+      {
+       "w": "sufficient",
+       "pos": "adj.",
+       "zh": "充足的",
+       "ex": "We want a sufficient level of salt.",
+       "forms": []
+      },
+      {
+       "w": "level",
+       "pos": "n.",
+       "zh": "水平；层级",
+       "ex": "We want a sufficient level of salt.",
+       "forms": []
+      },
+      {
+       "w": "vote",
+       "pos": "n.",
+       "zh": "投票；表决",
+       "ex": "LUNDEN: This year, there were 52 vendors, and every one of the attendees got a booklet to make notes on all the bagels so they could vote for their favorites.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "critic",
+      "ritual",
+      "change",
+      "sufficient",
+      "level"
+     ],
+     "keyVocab": [
+      "critic",
+      "ritual",
+      "change",
+      "sufficient",
+      "level",
+      "vote"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-16",
    "articles": [
@@ -4539,810 +5235,6 @@ window.__MERIDIAN_DATA__ = {
       "income",
       "wealth",
       "judge"
-     ]
-    }
-   ]
-  },
-  {
-   "date": "2026-11-10",
-   "articles": [
-    {
-     "id": "2026-11-10-world",
-     "section": "World",
-     "sectionZh": "国际",
-     "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
-     "dek": "France is accusing Iran of having launched a series of destructive cyberattacks against its critical infrastructure in October.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
-     "byline": "Jenna McLaughlin",
-     "dateLabel": "2026-11-10",
-     "words": 364,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "France is accusing Iran of having launched a series of destructive cyberattacks against its critical infrastructure in October.",
-       "zh": "法国指责伊朗在十月对其关键基础设施发动了一系列破坏性网络攻击。"
-      },
-      {
-       "en": "According to the French National Cybersecurity Agency, ANSSI, Iranian military hackers took over refrigeration controllers at around 700 different retail sites in France, from supermarkets to butcher shops, turning up the temperature in the middle of the night and spoiling millions of dollars' worth of food.",
-       "zh": "根据法国国家网络安全局（ANSSI）的说法，伊朗军事黑客接管了法国大约700个不同零售场所的制冷控制器，从超市到肉店，在深夜调高温度，导致价值数百万美元的食品被毁坏。"
-      },
-      {
-       "en": "They also targeted several small hydroelectric power plants, resulting in \"moderate effects,\" wrote ANSSI in its press release.",
-       "zh": "ANSSI在其新闻稿中写道，他们还针对了几座小型水电站，造成了“中等影响”。"
-      },
-      {
-       "en": "The hacking campaign was \"unprecedented in both its scale and its level of aggression,\" said French Foreign Minister Jean-Noël Barrot. He said it \"marks the first large-scale cyberattack aimed at sabotage on our national territory, and it constitutes a major attack on the nation's interests and the security of the French people.\"",
-       "zh": "法国外交部长让-诺埃尔·巴罗表示，这次黑客行动在规模和攻击性水平上都是“前所未有的”。他表示，这“标志着首次针对我国国土进行的大规模破坏性网络攻击，并构成了对国家利益和法国人民安全的重大攻击。”"
-      },
-      {
-       "en": "The Paris Prosecutor's Office has opened its own investigation into the Iranian cyber unit, Shahid Kaveh, which the French government is linking to Iran's Islamic Revolutionary Guard Corps. \"The Paris Public Prosecutor's Office is requesting the issuance of international arrest warrants,\" the office said in a statement.",
-       "zh": "巴黎检察官办公室已经对伊朗网络单位Shahid Kaveh展开了自己的调查，法国政府将其与伊朗伊斯兰革命卫队联系起来。检察官办公室在一份声明中表示：“巴黎公共检察官办公室正在请求发布国际逮捕令。”"
-      },
-      {
-       "en": "The attacks on French industrial controllers are part of a larger trend. In 2026 alone, hackers have targeted refrigeration controllers from Europe to Israel and the United States.",
-       "zh": "对法国工业控制器的攻击是更大趋势的一部分。仅在2026年，黑客就已经针对从欧洲到以色列和美国的制冷控制器进行了攻击。"
-      },
-      {
-       "en": "Grocery stores in European countries including Sweden and Ireland were hit in similar attacks last week.",
-       "zh": "包括瑞典和爱尔兰在内的欧洲国家的杂货店上周遭到了类似的袭击。"
-      },
-      {
-       "en": "In a separate incident in France, employees at a major French blood bank had to act fast to save blood samples from heating up when their refrigeration system was hit last week, prompting international calls for the health sector to protect its lifesaving products from spoiling.",
-       "zh": "在法国的另一事件中，上周一家主要法国血液银行的员工在其制冷系统受损时不得不迅速行动，以防血液样本升温，这引发了国际上呼吁卫生部门保护其救命产品不被损坏。"
-      },
-      {
-       "en": "In Israel in the spring, suspected Iranian hackers going by the name of \"Cyber Isnaad Front\" claimed responsibility for sabotaging an industrial food processing plant, including infecting its corporate computers with malware, taking over office printers to print out threatening messages and hacking office cameras for use in a propaganda video released in early October. That video included a taunt in French referencing ongoing education-related protests, and came just before the attacks on French supermarket fridges. Cyber incident response firm Profero attributed the Israel attack to a wing of Iran's Revolutionary Guard Corps.",
-       "zh": "在以色列的春季，自称为“网络援助前线”的疑似伊朗黑客声称负责破坏一家工业食品加工厂，包括用恶意软件感染其公司计算机、接管办公室打印机打印威胁信息以及入侵办公室摄像头，用于拍摄一则在十月初发布的宣传视频。该视频包含用法语的挑衅内容，提及正在进行的教育相关抗议活动，并且紧接在法国超市冰箱遭攻击之前。网络事件响应公司Profero将这次以色列的攻击归因于伊朗革命卫队的一个分支。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "critical",
-       "pos": "adj.",
-       "zh": "关键的；批评的",
-       "ex": "France is accusing Iran of having launched a series of destructive cyberattacks against its critical infrastructure in October.",
-       "forms": []
-      },
-      {
-       "w": "infrastructure",
-       "pos": "n.",
-       "zh": "基础设施",
-       "ex": "France is accusing Iran of having launched a series of destructive cyberattacks against its critical infrastructure in October.",
-       "forms": []
-      },
-      {
-       "w": "national",
-       "pos": "adj.",
-       "zh": "国家的；全国的",
-       "ex": "According to the French National Cybersecurity Agency, ANSSI, Iranian military hackers took over refrigeration controllers at around 700 different retail sites in France, from supermarkets to butcher shops, turning up the temperature in the middle of the night and spoiling millions of dollars' worth of food.",
-       "forms": []
-      },
-      {
-       "w": "cybersecurity",
-       "pos": "n.",
-       "zh": "网络安全",
-       "ex": "According to the French National Cybersecurity Agency, ANSSI, Iranian military hackers took over refrigeration controllers at around 700 different retail sites in France, from supermarkets to butcher shops, turning up the temperature in the middle of the night and spoiling millions of dollars' worth of food.",
-       "forms": []
-      },
-      {
-       "w": "agency",
-       "pos": "n.",
-       "zh": "机构；代理",
-       "ex": "According to the French National Cybersecurity Agency, ANSSI, Iranian military hackers took over refrigeration controllers at around 700 different retail sites in France, from supermarkets to butcher shops, turning up the temperature in the middle of the night and spoiling millions of dollars' worth of food.",
-       "forms": []
-      },
-      {
-       "w": "military",
-       "pos": "n.",
-       "zh": "军队；军方",
-       "ex": "According to the French National Cybersecurity Agency, ANSSI, Iranian military hackers took over refrigeration controllers at around 700 different retail sites in France, from supermarkets to butcher shops, turning up the temperature in the middle of the night and spoiling millions of dollars' worth of food.",
-       "forms": []
-      },
-      {
-       "w": "retail",
-       "pos": "n.",
-       "zh": "零售",
-       "ex": "According to the French National Cybersecurity Agency, ANSSI, Iranian military hackers took over refrigeration controllers at around 700 different retail sites in France, from supermarkets to butcher shops, turning up the temperature in the middle of the night and spoiling millions of dollars' worth of food.",
-       "forms": []
-      },
-      {
-       "w": "million",
-       "pos": "n.",
-       "zh": "百万",
-       "ex": "According to the French National Cybersecurity Agency, ANSSI, Iranian military hackers took over refrigeration controllers at around 700 different retail sites in France, from supermarkets to butcher shops, turning up the temperature in the middle of the night and spoiling millions of dollars' worth of food.",
-       "forms": [
-        "millions"
-       ]
-      },
-      {
-       "w": "food",
-       "pos": "n.",
-       "zh": "食物",
-       "ex": "According to the French National Cybersecurity Agency, ANSSI, Iranian military hackers took over refrigeration controllers at around 700 different retail sites in France, from supermarkets to butcher shops, turning up the temperature in the middle of the night and spoiling millions of dollars' worth of food.",
-       "forms": []
-      },
-      {
-       "w": "power",
-       "pos": "n.",
-       "zh": "权力；电力",
-       "ex": "They also targeted several small hydroelectric power plants, resulting in \"moderate effects,\" wrote ANSSI in its press release.",
-       "forms": []
-      },
-      {
-       "w": "plant",
-       "pos": "n.",
-       "zh": "工厂；植物",
-       "ex": "They also targeted several small hydroelectric power plants, resulting in \"moderate effects,\" wrote ANSSI in its press release.",
-       "forms": [
-        "plants"
-       ]
-      },
-      {
-       "w": "result",
-       "pos": "n.",
-       "zh": "结果",
-       "ex": "They also targeted several small hydroelectric power plants, resulting in \"moderate effects,\" wrote ANSSI in its press release.",
-       "forms": [
-        "resulting"
-       ]
-      }
-     ],
-     "homeWords": [
-      "critical",
-      "infrastructure",
-      "national",
-      "cybersecurity",
-      "agency"
-     ],
-     "keyVocab": [
-      "critical",
-      "infrastructure",
-      "national",
-      "cybersecurity",
-      "agency",
-      "military",
-      "retail",
-      "million"
-     ]
-    },
-    {
-     "id": "2026-11-10-business",
-     "section": "Business",
-     "sectionZh": "商业 · 财经",
-     "title": "Nvidia shares tumble as the company says it's investigating CEO Jensen Huang",
-     "dek": "Nvidia's share price falls after the company begins an investigation into CEO Jensen Huang's alleged relationship with a woman accused of being a Chinese spy.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/09/nx-s1-6034478/nvidia-shares-tumble-as-the-company-says-its-investigating-ceo-jensen-huang",
-     "byline": "John Ruwitch",
-     "dateLabel": "2026-11-10",
-     "words": 481,
-     "readTime": 3,
-     "level": "B2",
-     "levelEn": "Upper-intermediate",
-     "paragraphs": [
-      {
-       "en": "Nvidia's share price falls after the company begins an investigation into CEO Jensen Huang's alleged relationship with a woman accused of being a Chinese spy.",
-       "zh": "在公司开始调查首席执行官黄仁勋与一名被指控为中国间谍的女性的所谓关系后，英伟达的股价下跌。"
-      },
-      {
-       "en": "Shares in the chipmaker NVIDIA tumbled today. That's because the $4.3 trillion company said it is investigating its CEO, and that is due to allegations that he had a relationship with a woman suspected by U.S. intelligence of being a Chinese spy. NPR tech correspondent John Ruwitch is here to bring us up to speed. Hi, John.",
-       "zh": "芯片制造商英伟达的股票今天暴跌。原因是，这家市值4.3万亿美元的公司表示正在调查其首席执行官，这是因为有指控称他与一名被美国情报部门怀疑为中国间谍的女性有关系。NPR科技记者约翰·鲁维奇在这里为我们带来最新情况。你好，约翰。"
-      },
-      {
-       "en": "RUWITCH: Yeah. Yesterday, NVIDIA posted two announcements online. One said the board was investigating CEO Jensen Huang after reports that he was, quote, \"the target of a foreign intelligence effort.\" The other was a memo from Huang himself admitting to having an affair and saying that he'd cooperate with the investigation. Now, The New York Times and others have been reporting that U.S. intelligence agencies believe that Huang became involved with a Chinese woman at a Singapore-based company called Megaspeed. That company was a customer buying NVIDIA chips.",
-       "zh": "RUWITCH：是的。昨天，英伟达在网上发布了两个公告。一个说董事会正在调查首席执行官黄仁勋，此前有报道称他是“外国情报活动的目标”。另一个是黄本人发出的备忘录，承认有婚外情，并表示将配合调查。现在，《纽约时报》和其他媒体报道称，美国情报机构认为，黄参与了与一家总部位于新加坡的公司Megaspeed的中国女性的关系。这家公司是购买英伟达芯片的客户。"
-      },
-      {
-       "en": "Those reports, which NPR has not independently corroborated, said the woman was recruited by China's Ministry of State Security to spy on Huang or possibly try to influence U.S. policy. The New York Times has reported that Megaspeed was being investigated by the government for circumventing U.S. export controls and helping Chinese tech companies get access to restricted chips. I reached out to Megaspeed and haven't heard back, but the company has previously denied wrongdoing.",
-       "zh": "这些报道称，该女子被中国国家安全部招募，以监视黄某，或可能试图影响美国政策，NPR 尚未独立证实这些报道。《纽约时报》报道称，Megaspeed 正在接受政府调查，因为其规避美国出口管制并帮助中国科技公司获取受限制的芯片。我联系了 Megaspeed，但尚未收到回复，不过该公司此前否认有任何不当行为。"
-      },
-      {
-       "en": "PFEIFFER: John, as you know, China spying on foreign companies is not uncommon. So explain why this one is so headline-grabbing.",
-       "zh": "PFEIFFER：约翰，你也知道，中国对外国公司的间谍活动并不罕见。那么解释一下，为什么这次会如此引人注意。"
-      },
-      {
-       "en": "RUWITCH: Yeah. I covered China for a number of years, and foreign businesses in China were constantly complaining about the government trying to hack or spy on them to learn their corporate secrets. But NVIDIA is really in a league of its own in terms of its importance. You know, the chips that NVIDIA makes are crucial to the AI boom. The company's also entangled in a web of investments with other AI companies. So for example, NVIDIA has invested in OpenAI and Anthropic, and in turn, those companies are buying chips from NVIDIA.",
-       "zh": "RUWITCH：是的。我曾报道过中国好几年，外国企业在中国经常抱怨政府试图入侵或监视他们，以了解他们的企业机密。但在重要性方面，NVIDIA 确实是独一无二的。你知道，NVIDIA 生产的芯片对人工智能的快速发展至关重要。该公司还与其他人工智能公司有着复杂的投资关系。例如，NVIDIA 投资了 OpenAI 和 Anthropic，而这些公司反过来又从 NVIDIA 购买芯片。"
-      },
-      {
-       "en": "NVIDIA and its chips are also right at the center of the AI competition between the U.S. and China. The U.S. banned NVIDIA's best chips from being sold there out of a concern that they could be used to help China's AI industry catch up with the U.S. But Jensen Huang, the CEO, has been one of the most prominent voices arguing against that ban. He says it would be actually good for the U.S. if Chinese companies were hooked on American chips.",
-       "zh": "英伟达及其芯片也正处于美中人工智能竞争的中心。美国出于担心这些芯片可能被用来帮助中国的人工智能产业追赶美国，而禁止在美销售英伟达最好的芯片。但首席执行官黄仁勋一直是反对这一禁令的最突出声音之一。他表示，如果中国公司依赖美国芯片，实际上对美国是有好处的。"
-      },
-      {
-       "en": "PFEIFFER: And the company now has to decide what to do about this and what to do about him, whether maybe to dismiss him. I mean, give us a sense of how important he is to this company.",
-       "zh": "PFEIFFER：公司现在必须决定如何处理这件事以及如何处理他，是否可能解雇他。我的意思是，让我们了解一下他对这家公司有多重要。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "price",
-       "pos": "n.",
-       "zh": "价格",
-       "ex": "Nvidia's share price falls after the company begins an investigation into CEO Jensen Huang's alleged relationship with a woman accused of being a Chinese spy.",
-       "forms": []
-      },
-      {
-       "w": "fall",
-       "pos": "n.",
-       "zh": "下降；下跌",
-       "ex": "Nvidia's share price falls after the company begins an investigation into CEO Jensen Huang's alleged relationship with a woman accused of being a Chinese spy.",
-       "forms": [
-        "falls"
-       ]
-      },
-      {
-       "w": "investigation",
-       "pos": "n.",
-       "zh": "调查",
-       "ex": "Nvidia's share price falls after the company begins an investigation into CEO Jensen Huang's alleged relationship with a woman accused of being a Chinese spy.",
-       "forms": []
-      },
-      {
-       "w": "tumble",
-       "pos": "v.",
-       "zh": "暴跌；下跌",
-       "ex": "Shares in the chipmaker NVIDIA tumbled today.",
-       "forms": [
-        "tumbled"
-       ]
-      },
-      {
-       "w": "intelligence",
-       "pos": "n.",
-       "zh": "情报；智能",
-       "ex": "intelligence of being a Chinese spy.",
-       "forms": []
-      },
-      {
-       "w": "announcement",
-       "pos": "n.",
-       "zh": "公告；声明",
-       "ex": "Yesterday, NVIDIA posted two announcements online.",
-       "forms": [
-        "announcements"
-       ]
-      },
-      {
-       "w": "online",
-       "pos": "adj.",
-       "zh": "在线的",
-       "ex": "Yesterday, NVIDIA posted two announcements online.",
-       "forms": []
-      },
-      {
-       "w": "report",
-       "pos": "n.",
-       "zh": "报告；报道",
-       "ex": "One said the board was investigating CEO Jensen Huang after reports that he was, quote, \"the target of a foreign intelligence effort.\" The other was a memo from Huang himself admitting to having an affair and saying that he'd cooperate with the investigation.",
-       "forms": [
-        "reported",
-        "reporting",
-        "reports"
-       ]
-      },
-      {
-       "w": "foreign",
-       "pos": "adj.",
-       "zh": "外国的",
-       "ex": "One said the board was investigating CEO Jensen Huang after reports that he was, quote, \"the target of a foreign intelligence effort.\" The other was a memo from Huang himself admitting to having an affair and saying that he'd cooperate with the investigation.",
-       "forms": []
-      },
-      {
-       "w": "admit",
-       "pos": "v.",
-       "zh": "承认；准许进入",
-       "ex": "One said the board was investigating CEO Jensen Huang after reports that he was, quote, \"the target of a foreign intelligence effort.\" The other was a memo from Huang himself admitting to having an affair and saying that he'd cooperate with the investigation.",
-       "forms": [
-        "admitting"
-       ]
-      },
-      {
-       "w": "agency",
-       "pos": "n.",
-       "zh": "机构；代理",
-       "ex": "intelligence agencies believe that Huang became involved with a Chinese woman at a Singapore-based company called Megaspeed.",
-       "forms": [
-        "agencies"
-       ]
-      },
-      {
-       "w": "customer",
-       "pos": "n.",
-       "zh": "顾客；客户",
-       "ex": "That company was a customer buying NVIDIA chips.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "price",
-      "fall",
-      "investigation",
-      "tumble",
-      "intelligence"
-     ],
-     "keyVocab": [
-      "price",
-      "fall",
-      "investigation",
-      "tumble",
-      "intelligence",
-      "announcement",
-      "online",
-      "report"
-     ]
-    },
-    {
-     "id": "2026-11-10-technology",
-     "section": "Technology",
-     "sectionZh": "科技",
-     "title": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
-     "dek": "Tech companies are expecting a wave of scrutiny from Democrats for the industry's ties with the Trump administration when they take over Congress in January. In anticipation, many are hiring…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/09/nx-s1-6029641/palantir-congress-jon-tester-investigations",
-     "byline": "Luke Garrett",
-     "dateLabel": "2026-11-10",
-     "words": 372,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "Tech companies are expecting a wave of scrutiny from Democrats for the industry's ties with the Trump administration when they take over Congress in January. In anticipation, many are hiring former Democratic lawmakers and aides to make their case to the incoming House and Senate majorities.",
-       "zh": "科技公司预计，当民主党在一月接管国会时，由于该行业与特朗普政府的联系，将面临民主党的审查浪潮。为了应对，许多公司正在雇佣前民主党议员和助手，以向即将上任的众议院和参议院多数派阐述他们的立场。"
-      },
-      {
-       "en": "Among the latest to make that move is Palantir, which has hired former Sen. Jon Tester, a colorful Montana Democrat who's also an organic farmer.",
-       "zh": "最近采取这一举动的公司之一是Palantir，该公司聘请了前参议员乔恩·特斯特，他是蒙大拿州的一个多彩的民主党人，同时也是一名有机农民。"
-      },
-      {
-       "en": "\"My agreement with Palantir is advisory in nature, it is not lobbying,\" Tester, who lost reelection to the Senate in 2024, told NPR in an interview.",
-       "zh": "在接受NPR采访时，2024年失去参议院连任的特斯特表示：“我与Palantir的协议是咨询性质的，不是游说。”"
-      },
-      {
-       "en": "The secretive American software and artificial intelligence company has drawn the ire of Democrats in Congress during President Trump's second term. Palantir — named by billionaire founder Peter Theil after the mythical \"seeing stone\" from J.R.R. Tolkien's The Lord of the Rings — has been accused of abetting mass surveillance on Americans and immigrants.",
-       "zh": "这家神秘的美国软件和人工智能公司在特朗普总统任期的第二阶段引起了国会中民主党的愤怒。Palantir——由亿万富翁创始人彼得·蒂尔以J.R.R. 托尔金《指环王》中的神话“洞察石”命名——被指控助长对美国人和移民的全面监控。"
-      },
-      {
-       "en": "\"Perception is reality in Washington, D.C. and in politics in general,\" said Tester. \"But the fact is, I think Palantir has got a good story to tell, and they need to tell it. And hopefully folks will be receptive to it.\"",
-       "zh": "特斯特说：“在华盛顿特区以及整体政治中，感知就是现实。但事实上，我认为Palantir有一个很好的故事要讲，而且他们需要讲出来。希望人们能够接受。”"
-      },
-      {
-       "en": "Palantir has long denied claims it aids mass surveillance on the American public — saying it doesn't gather or manipulate data at all, but instead creates tools for government agencies and private companies to organize and optimize their own information. The company has said it is committed to \"protecting privacy and upholding liberal democratic values.\"",
-       "zh": "Palantir 长期以来一直否认其协助对美国公众进行大规模监控的说法——称其根本不收集或操纵数据，而是为政府机构和私人公司创建工具，以组织和优化它们自己的信息。该公司表示，它致力于“保护隐私并维护自由民主价值观。”"
-      },
-      {
-       "en": "Earlier this year, while in the minority, Sen. Ron Wyden, D-Ore., along with 30 other Democratic lawmakers demanded answers about Palantir's contracts with the Department of Homeland Security and whether its tools are part of efforts by the federal government to surveil Americans. Palantir denied the accusation and said it is \"neither conducting nor enabling mass surveillance of American citizens,\" but Wyden wasn't fully satisfied with its response, according to his Senate office.",
-       "zh": "今年早些时候，当时身处少数派的俄勒冈州民主党参议员罗恩·怀登（Sen. Ron Wyden）与其他30位民主党议员一起，要求就Palantir与国土安全部的合同提供答案，并询问其工具是否是联邦政府监视美国人的努力的一部分。Palantir否认了这一指控，并表示其“既不进行也不支持对美国公民的大规模监控”，但据怀登的参议院办公室称，他对其回应并不完全满意。"
-      },
-      {
-       "en": "\"Senator Wyden has a number of questions about Palantir's work to facilitate the Trump-Vance abuse of government data that he intends to ask again as chairman of the Finance Committee,\" Wyden's staff wrote in a statement to NPR. \"If Palantir is not responsive next year, compulsory processes will be on the table.\"",
-       "zh": "怀登参议员的工作人员在给NPR的一份声明中写道：“怀登参议员对Palantir帮助特朗普-万斯滥用政府数据的工作有很多问题，他打算在担任财政委员会主席时再次提出。如果明年Palantir不予回应，强制程序将会被考虑在内。”"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "expect",
-       "pos": "v.",
-       "zh": "预期；期待",
-       "ex": "Tech companies are expecting a wave of scrutiny from Democrats for the industry's ties with the Trump administration when they take over Congress in January.",
-       "forms": [
-        "expecting"
-       ]
-      },
-      {
-       "w": "administration",
-       "pos": "n.",
-       "zh": "政府；行政",
-       "ex": "Tech companies are expecting a wave of scrutiny from Democrats for the industry's ties with the Trump administration when they take over Congress in January.",
-       "forms": []
-      },
-      {
-       "w": "congress",
-       "pos": "n.",
-       "zh": "国会",
-       "ex": "Tech companies are expecting a wave of scrutiny from Democrats for the industry's ties with the Trump administration when they take over Congress in January.",
-       "forms": []
-      },
-      {
-       "w": "income",
-       "pos": "n.",
-       "zh": "收入",
-       "ex": "In anticipation, many are hiring former Democratic lawmakers and aides to make their case to the incoming House and Senate majorities.",
-       "forms": [
-        "incoming"
-       ]
-      },
-      {
-       "w": "senate",
-       "pos": "n.",
-       "zh": "参议院",
-       "ex": "In anticipation, many are hiring former Democratic lawmakers and aides to make their case to the incoming House and Senate majorities.",
-       "forms": []
-      },
-      {
-       "w": "majority",
-       "pos": "n.",
-       "zh": "多数；大多数",
-       "ex": "In anticipation, many are hiring former Democratic lawmakers and aides to make their case to the incoming House and Senate majorities.",
-       "forms": [
-        "majorities"
-       ]
-      },
-      {
-       "w": "lobby",
-       "pos": "v.",
-       "zh": "游说",
-       "ex": "\"My agreement with Palantir is advisory in nature, it is not lobbying,\" Tester, who lost reelection to the Senate in 2024, told NPR in an interview.",
-       "forms": [
-        "lobbying"
-       ]
-      },
-      {
-       "w": "interview",
-       "pos": "n.",
-       "zh": "采访；面试",
-       "ex": "\"My agreement with Palantir is advisory in nature, it is not lobbying,\" Tester, who lost reelection to the Senate in 2024, told NPR in an interview.",
-       "forms": []
-      },
-      {
-       "w": "software",
-       "pos": "n.",
-       "zh": "软件",
-       "ex": "The secretive American software and artificial intelligence company has drawn the ire of Democrats in Congress during President Trump's second term.",
-       "forms": []
-      },
-      {
-       "w": "artificial",
-       "pos": "adj.",
-       "zh": "人工的；人造的",
-       "ex": "The secretive American software and artificial intelligence company has drawn the ire of Democrats in Congress during President Trump's second term.",
-       "forms": []
-      },
-      {
-       "w": "intelligence",
-       "pos": "n.",
-       "zh": "情报；智能",
-       "ex": "The secretive American software and artificial intelligence company has drawn the ire of Democrats in Congress during President Trump's second term.",
-       "forms": []
-      },
-      {
-       "w": "president",
-       "pos": "n.",
-       "zh": "总统；总裁",
-       "ex": "The secretive American software and artificial intelligence company has drawn the ire of Democrats in Congress during President Trump's second term.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "expect",
-      "administration",
-      "congress",
-      "income",
-      "senate"
-     ],
-     "keyVocab": [
-      "expect",
-      "administration",
-      "congress",
-      "income",
-      "senate",
-      "majority",
-      "lobby",
-      "interview"
-     ]
-    },
-    {
-     "id": "2026-11-10-science",
-     "section": "Science",
-     "sectionZh": "科学",
-     "title": "Trump administration moves to lift ban on roadbuilding and logging in national forests",
-     "dek": "The Trump administration is working to rescind the \"Roadless Rule,\" which blocks road construction in some national forests. This could affect Alaska's Tongass National Forest.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/08/nx-s1-5981452/trump-administration-moves-to-lift-ban-on-roadbuilding-and-logging-in-national-forests",
-     "byline": "Alix Soliman",
-     "dateLabel": "2026-11-10",
-     "words": 363,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "The Trump administration is working to rescind the \"Roadless Rule,\" which blocks road construction in some national forests. This could affect Alaska's Tongass National Forest.",
-       "zh": "特朗普政府正在努力废除“无路规则”，该规则禁止在一些国家森林中修建道路。这可能会影响阿拉斯加的汤加斯国家森林。"
-      },
-      {
-       "en": "For decades, an administrative rule known as the Roadless Rule banned new road building and logging across millions of acres of national forest lands. Now the Trump administration has moved to lift the ban. That's controversial in places like Alaska's Tongass National Forest, the largest national forest in the U.S. Reporter Alix Soliman from member station KTOO has the story.",
-       "zh": "几十年来，一项被称为“无路规则”的行政规定禁止在数百万英亩的国家森林土地上新建道路和采伐木材。如今，特朗普政府已采取行动取消这一禁令。这在阿拉斯加的通加斯国家森林等地引发了争议，该森林是美国最大的国家森林。会员电台KTOO的记者Alix Soliman带来了报道。"
-      },
-      {
-       "en": "ALIX SOLIMAN, BYLINE: Around half of the Tongass National Forest in Southeast Alaska has no active roads. That's more than 9 million acres.",
-       "zh": "阿利克斯·索利曼，署名：阿拉斯加东南部的通加斯国家森林约有一半没有通行道路。这超过 900 万英亩。"
-      },
-      {
-       "en": "SOLIMAN: On a recent afternoon, Judith Daxootsu Ramos walked through a roadless area. She's a Tlingit anthropologist from Yakutat, a small Alaska Native village. And she says the forest supports a number of Tlingit traditions, like harvesting berries and hunting deer.",
-       "zh": "SOLIMAN：在一个最近的下午，朱迪斯·达克苏图·拉莫斯走过一片没有道路的地区。她是来自雅库塔特，一个阿拉斯加原住民小村庄的特林吉特人类学家。她说，这片森林支持许多特林吉特人的传统活动，比如采摘浆果和打猎鹿。"
-      },
-      {
-       "en": "JUDITH DAXOOTSU RAMOS: Without this, we're going to lose our traditional medicines, our traditional art styles, our traditional foods. And all of that is really connected to the forest.",
-       "zh": "朱迪思·达克舒特苏·拉莫斯：没有这些，我们将失去我们的传统药物、传统艺术风格、传统食物。而这一切都与森林密切相关。"
-      },
-      {
-       "en": "SOLIMAN: Ramos sits on the board of the Southeast Alaska Conservation Council, a local nonprofit advocating to keep the Roadless Rule in place. She visited Prince of Wales Island, a heavily logged part of the forest, and says the trees that grew back in old-growth clearcuts looked sterile.",
-       "zh": "SOLIMAN：拉莫斯是东南阿拉斯加保护委员会的董事会成员，该委员会是一个本地非营利组织，倡导维持无道路区规则。她访问了威尔士亲王岛，这是森林中被大量伐木的地区，她表示在老林区清伐后重新生长的树木看起来毫无生气。"
-      },
-      {
-       "en": "RAMOS: It's a very different forest. And there was no animals, no birds there, and it was kind of really quiet. And so it was kind of scary.",
-       "zh": "拉莫斯：这是一个完全不同的森林。那里没有动物，没有鸟，而且非常安静。所以有点可怕。"
-      },
-      {
-       "en": "SOLIMAN: Others in the region oppose lifting the Roadless Rule because they worry it will hurt ecotourism or undermine the climate benefits of the Tongass, which holds a third of all carbon stored in intact U.S. national forests. But the U.S. Department of Agriculture says that it wants to roll back the Roadless Rule to give firefighters access to fight wildfires and remove what they say are outdated regulatory barriers. But many in this part of Alaska think it's to increase logging. The Trump administration has tried to boost national timber production in the past, and the first Trump administration temporarily rolled back the rule in just the Tongass.",
-       "zh": "SOLIMAN：该地区的其他人反对取消无路区规则，因为他们担心这会损害生态旅游或削弱汤加斯国家森林的气候效益，而汤加斯拥有美国完整国家森林储存的三分之一碳。但美国农业部表示，他们希望取消无路区规则，以便让消防员进入扑灭野火，并移除他们所说的过时监管障碍。但阿拉斯加这一地区的许多人认为这是为了增加伐木。特朗普政府过去曾试图提高国家木材产量，特朗普政府的第一次任期仅在汤加斯暂时取消了该规则。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "administration",
-       "pos": "n.",
-       "zh": "政府；行政",
-       "ex": "The Trump administration is working to rescind the \"Roadless Rule,\" which blocks road construction in some national forests.",
-       "forms": []
-      },
-      {
-       "w": "national",
-       "pos": "adj.",
-       "zh": "国家的；全国的",
-       "ex": "The Trump administration is working to rescind the \"Roadless Rule,\" which blocks road construction in some national forests.",
-       "forms": []
-      },
-      {
-       "w": "forest",
-       "pos": "n.",
-       "zh": "森林",
-       "ex": "The Trump administration is working to rescind the \"Roadless Rule,\" which blocks road construction in some national forests.",
-       "forms": [
-        "forests"
-       ]
-      },
-      {
-       "w": "million",
-       "pos": "n.",
-       "zh": "百万",
-       "ex": "For decades, an administrative rule known as the Roadless Rule banned new road building and logging across millions of acres of national forest lands.",
-       "forms": [
-        "millions"
-       ]
-      },
-      {
-       "w": "land",
-       "pos": "n.",
-       "zh": "土地；陆地",
-       "ex": "For decades, an administrative rule known as the Roadless Rule banned new road building and logging across millions of acres of national forest lands.",
-       "forms": [
-        "lands"
-       ]
-      },
-      {
-       "w": "support",
-       "pos": "v.",
-       "zh": "支持",
-       "ex": "And she says the forest supports a number of Tlingit traditions, like harvesting berries and hunting deer.",
-       "forms": [
-        "supports"
-       ]
-      },
-      {
-       "w": "number",
-       "pos": "n.",
-       "zh": "数量；数字",
-       "ex": "And she says the forest supports a number of Tlingit traditions, like harvesting berries and hunting deer.",
-       "forms": []
-      },
-      {
-       "w": "tradition",
-       "pos": "n.",
-       "zh": "传统",
-       "ex": "And she says the forest supports a number of Tlingit traditions, like harvesting berries and hunting deer.",
-       "forms": [
-        "traditions"
-       ]
-      },
-      {
-       "w": "food",
-       "pos": "n.",
-       "zh": "食物",
-       "ex": "JUDITH DAXOOTSU RAMOS: Without this, we're going to lose our traditional medicines, our traditional art styles, our traditional foods.",
-       "forms": [
-        "foods"
-       ]
-      },
-      {
-       "w": "conservation",
-       "pos": "n.",
-       "zh": "保护；保育",
-       "ex": "SOLIMAN: Ramos sits on the board of the Southeast Alaska Conservation Council, a local nonprofit advocating to keep the Roadless Rule in place.",
-       "forms": []
-      },
-      {
-       "w": "local",
-       "pos": "adj.",
-       "zh": "当地的",
-       "ex": "SOLIMAN: Ramos sits on the board of the Southeast Alaska Conservation Council, a local nonprofit advocating to keep the Roadless Rule in place.",
-       "forms": []
-      },
-      {
-       "w": "advocate",
-       "pos": "v.",
-       "zh": "倡导；拥护",
-       "ex": "SOLIMAN: Ramos sits on the board of the Southeast Alaska Conservation Council, a local nonprofit advocating to keep the Roadless Rule in place.",
-       "forms": [
-        "advocating"
-       ]
-      }
-     ],
-     "homeWords": [
-      "administration",
-      "national",
-      "forest",
-      "million",
-      "land"
-     ],
-     "keyVocab": [
-      "administration",
-      "national",
-      "forest",
-      "million",
-      "land",
-      "support",
-      "number",
-      "tradition"
-     ]
-    },
-    {
-     "id": "2026-11-10-culture",
-     "section": "Culture",
-     "sectionZh": "文化",
-     "title": "Apocalyptic sci-fi novel 'The End of Everything' wins this year's Booker Prize",
-     "dek": "The End of Everything by British author M. John Harrison has won the 2026 Booker Prize. In a statement, Mary Beard, chair of this year's judges, called it a book that turns you upside down, raises…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/09/nx-s1-6028700/2026-booker-prize-winner-the-end-of-everything",
-     "byline": "Andrew Limbong",
-     "dateLabel": "2026-11-10",
-     "words": 345,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "The End of Everything by British author M. John Harrison has won the 2026 Booker Prize. In a statement, Mary Beard, chair of this year's judges, called it a book that turns you upside down, raises a wry smile – and surprisingly, given the subject matter, leaves you with a twinge of optimism.\"",
-       "zh": "英国作家M·约翰·哈里森的《万物的终结》获得了2026年布克奖。在一份声明中，今年评委会主席玛丽·比尔德称，这是一本会让你颠倒过来思考、露出苦笑——令人惊讶的是，考虑到主题，它还能让你感到一丝乐观的书。"
-      },
-      {
-       "en": "The satirical sci-fi novel follows Philip, a man who looks for \"artifacts\" along the coast in Kent, England, and his aunt Marnie. The book is set in a post-apocalyptic future, dealing with the slow-burning invasion of the shape-shifting iGhetti.",
-       "zh": "这部讽刺性的科幻小说讲述了菲利普的故事，他是一个在英国肯特海岸寻找“文物”的人，以及他的姑妈玛妮。小说设定在末日后的未来，讲述了变形的iGhetti缓慢入侵的故事。"
-      },
-      {
-       "en": "In an interview with the Booker Prize team, Harrison said he drew inspiration from current affairs: \"What happens when all of our expectations and explanations of the world become an ongoing disaster, but we still have to make a life?\"",
-       "zh": "在接受布克奖团队采访时，哈里森表示他从时事中获得灵感：“当我们对世界的所有期望和解释都变成持续的灾难时，我们仍然必须生活，这会发生什么？”"
-      },
-      {
-       "en": "At 81, Harrison is the oldest author to win in the history of the prize. He's had a decades-long writing career, with Everything being his 13th novel. Most of his career has been spent writing science fiction. His 2006 novel, Nova Swing, won both the Arthur C. Clarke and Philip K. Dick awards (which reward the best in science fiction in the U.K. and U.S., respectively).",
-       "zh": "哈里森在81岁时成为该奖历史上最年长的获奖作家。他拥有长达数十年的写作生涯，《万物》是他的第13部小说。他的大部分职业生涯都专注于科幻写作。他2006年的小说《新星摇摆》赢得了阿瑟·C·克拉克奖和菲利普·K·迪克奖（分别奖励英国和美国的最佳科幻作品）。"
-      },
-      {
-       "en": "\"Many past Booker Prize authors have borrowed facets of science fiction in their work,\" wrote Gaby Wood, chief executive of the Booker Prize Foundation, in a statement. \"But M. John Harrison is the first Booker winner to have emerged from the bona fide SF world. He is a genuinely original thinker, a genre-defying writer who takes ideas seriously.\"",
-       "zh": "布克奖基金会首席执行官加比·伍德在一份声明中写道：“许多过去的布克奖得主在他们的作品中借鉴了科幻小说的元素。但M. 约翰·哈里森是首位从真正的科幻世界中脱颖而出的布克奖得主。他是一个真正的原创思想者，一位超越类型的作家，认真对待思想。”"
-      },
-      {
-       "en": "The Booker Prize honors the best fiction published in the U.K. and Ireland. Besides Beard, this year's judges included the poet Raymond Antrobus, Pulp frontman Jarvis Cocker, editor and critic Rebecca Liu, and poet and novelist Patricia Lockwood. The other books shortlisted for the prize this year included Marlon James' The Disappearers and The Things We Never Say by Elizabeth Strout.",
-       "zh": "布克奖表彰在英国和爱尔兰出版的最佳小说。除了比尔德，今年的评委还包括诗人雷蒙德·安特鲁布斯（Raymond Antrobus）、Pulp乐队主唱贾维斯·考克（Jarvis Cocker）、编辑和评论家刘瑞贝卡（Rebecca Liu）、以及诗人兼小说家帕特里夏·洛克伍德（Patricia Lockwood）。今年入围该奖的其他书籍还包括马龙·詹姆斯（Marlon James）的《消失者》和伊丽莎白·斯特劳特（Elizabeth Strout）的《我们从未说过的事》。"
-      },
-      {
-       "en": "Winners of the prize receive £50,000 (about $67,000), and a trophy presented by the previous year's winner. Author David Szalay won the 2025 prize with his novel Flesh.",
-       "zh": "获奖者将获得50,000英镑（约67,000美元）的奖金，以及由上一年获奖者颁发的奖杯。作家大卫·萨莱凭借他的小说《血肉》赢得了2025年的奖项。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "statement",
-       "pos": "n.",
-       "zh": "声明；陈述",
-       "ex": "In a statement, Mary Beard, chair of this year's judges, called it a book that turns you upside down, raises a wry smile – and surprisingly, given the subject matter, leaves you with a twinge of optimism.\" The satirical sci-fi novel follows Philip, a man who looks for \"artifacts\" along the coast in Kent, England, and his aunt Marnie.",
-       "forms": []
-      },
-      {
-       "w": "judge",
-       "pos": "n.",
-       "zh": "法官",
-       "ex": "In a statement, Mary Beard, chair of this year's judges, called it a book that turns you upside down, raises a wry smile – and surprisingly, given the subject matter, leaves you with a twinge of optimism.\" The satirical sci-fi novel follows Philip, a man who looks for \"artifacts\" along the coast in Kent, England, and his aunt Marnie.",
-       "forms": [
-        "judges"
-       ]
-      },
-      {
-       "w": "future",
-       "pos": "n.",
-       "zh": "未来",
-       "ex": "The book is set in a post-apocalyptic future, dealing with the slow-burning invasion of the shape-shifting iGhetti.",
-       "forms": []
-      },
-      {
-       "w": "invasion",
-       "pos": "n.",
-       "zh": "入侵；侵略",
-       "ex": "The book is set in a post-apocalyptic future, dealing with the slow-burning invasion of the shape-shifting iGhetti.",
-       "forms": []
-      },
-      {
-       "w": "interview",
-       "pos": "n.",
-       "zh": "采访；面试",
-       "ex": "In an interview with the Booker Prize team, Harrison said he drew inspiration from current affairs: \"What happens when all of our expectations and explanations of the world become an ongoing disaster, but we still have to make a life?\" At 81, Harrison is the oldest author to win in the history of the prize.",
-       "forms": []
-      },
-      {
-       "w": "history",
-       "pos": "n.",
-       "zh": "历史",
-       "ex": "In an interview with the Booker Prize team, Harrison said he drew inspiration from current affairs: \"What happens when all of our expectations and explanations of the world become an ongoing disaster, but we still have to make a life?\" At 81, Harrison is the oldest author to win in the history of the prize.",
-       "forms": []
-      },
-      {
-       "w": "career",
-       "pos": "n.",
-       "zh": "职业；生涯",
-       "ex": "He's had a decades-long writing career, with Everything being his 13th novel.",
-       "forms": []
-      },
-      {
-       "w": "fiction",
-       "pos": "n.",
-       "zh": "小说；虚构",
-       "ex": "Most of his career has been spent writing science fiction.",
-       "forms": []
-      },
-      {
-       "w": "emerge",
-       "pos": "v.",
-       "zh": "出现；浮现",
-       "ex": "John Harrison is the first Booker winner to have emerged from the bona fide SF world.",
-       "forms": [
-        "emerged"
-       ]
-      },
-      {
-       "w": "critic",
-       "pos": "n.",
-       "zh": "评论家；批评家",
-       "ex": "Besides Beard, this year's judges included the poet Raymond Antrobus, Pulp frontman Jarvis Cocker, editor and critic Rebecca Liu, and poet and novelist Patricia Lockwood.",
-       "forms": []
-      },
-      {
-       "w": "novelist",
-       "pos": "n.",
-       "zh": "小说家",
-       "ex": "Besides Beard, this year's judges included the poet Raymond Antrobus, Pulp frontman Jarvis Cocker, editor and critic Rebecca Liu, and poet and novelist Patricia Lockwood.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "statement",
-      "judge",
-      "future",
-      "invasion",
-      "interview"
-     ],
-     "keyVocab": [
-      "statement",
-      "judge",
-      "future",
-      "invasion",
-      "interview",
-      "history",
-      "career",
-      "fiction"
      ]
     }
    ]
