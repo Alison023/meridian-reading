@@ -1,6 +1,779 @@
 {
- "updated": "2026-11-17T08:13:48.529758+00:00",
+ "updated": "2026-11-18T07:47:26.577137+00:00",
  "days": [
+  {
+   "date": "2026-11-18",
+   "articles": [
+    {
+     "id": "2026-11-18-world",
+     "section": "World",
+     "sectionZh": "国际",
+     "title": "Xi said China would welcome American students for exchanges. What's the reality?",
+     "dek": "President Trump and China's leader Xi Jinping are due to meet in the Chinese city of Shenzhen. At their last summit in September, Xi said he will welcome 100,000 American students for exchanges.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/17/nx-s1-6026589/xi-said-china-would-welcome-american-students-for-exchanges-whats-the-reality",
+     "byline": "Jennifer Pak",
+     "dateLabel": "2026-11-18",
+     "words": 255,
+     "readTime": 3,
+     "level": "B2",
+     "levelEn": "Upper-intermediate",
+     "paragraphs": [
+      {
+       "en": "President Trump and China's leader Xi Jinping are due to meet in the Chinese city of Shenzhen. At their last summit in September, Xi said he will welcome 100,000 American students for exchanges.",
+       "zh": "特朗普总统和中国领导人习近平预计将在中国深圳会面。在他们九月份的上一次峰会上，习近平表示他将欢迎10万名美国学生进行交流。"
+      },
+      {
+       "en": "President Trump and Chinese leader Xi Jinping are due to meet in the southern Chinese city of Shenzhen this week. At their last summit in September, Xi said he would welcome 100,000 American students for academic exchanges. It's a gesture meant to show that China is open, even as the two countries grow increasingly more closed off to each other. NPR's Jennifer Pak reports from Beijing.",
+       "zh": "特朗普总统和中国领导人习近平本周将在中国南方城市深圳会面。在他们去年九月的上一次峰会上，习近平表示他欢迎10万名美国学生进行学术交流。这一举动旨在展示中国的开放性，即使两国之间的交流越来越受限制。NPR的詹妮弗·帕克从北京报道。"
+      },
+      {
+       "en": "JENNIFER PAK, BYLINE: Ker Gibbs teaches business at the University of San Francisco. He first visited China in 1985 when there were few foreigners.",
+       "zh": "詹妮弗·帕克，记者署名：克尔·吉布斯在旧金山大学教授商业。他第一次访华是在1985年，当时外国人很少。"
+      },
+      {
+       "en": "PAK: And he couldn't use the local currency, the renminbi. Gibbs had to get foreign exchange certificates and spend them at certain state-owned shops.",
+       "zh": "PAK：而且他不能使用当地货币人民币。吉布斯不得不获得外汇兑换证，并在某些国有商店使用它们。"
+      },
+      {
+       "en": "PAK: That changed in the 1990s when China opened up. That's how Gibbs was sent by a U.S. consultancy to work in Shanghai. As a 20-something-year-old, he says he helped Chinese factories with things like management and inventory control.",
+       "zh": "PAK：这种情况在1990年代中国开放时发生了变化。吉布斯就是因此被一家美国咨询公司派往上海工作的。他说，作为一个二十多岁的人，他帮助中国工厂处理管理和库存控制等事务。"
+      },
+      {
+       "en": "GIBBS: And the vibe in businesses was really exciting because local management, they were curious about everything, and we were eager to teach.",
+       "zh": "吉布斯：而且企业中的氛围非常令人兴奋，因为当地管理层对一切都充满好奇，而我们也渴望去教他们。"
+      },
+      {
+       "en": "PAK: Gibbs went on to have a 30-year career in China and even raised a family in Shanghai. He wants the next generation of China watchers to have the same experience. But he says...",
+       "zh": "巴基斯坦：吉布斯在中国开展了为期30年的职业生涯，甚至在上海养家。他希望下一代中国观察者也能有同样的经历。但他说……"
+      },
+      {
+       "en": "GIBBS: I have fewer reasons to be optimistic, put it that way.",
+       "zh": "吉布斯：可以这么说，我乐观的理由更少。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "President Trump and China's leader Xi Jinping are due to meet in the Chinese city of Shenzhen.",
+       "forms": []
+      },
+      {
+       "w": "leader",
+       "pos": "n.",
+       "zh": "领导人",
+       "ex": "President Trump and China's leader Xi Jinping are due to meet in the Chinese city of Shenzhen.",
+       "forms": []
+      },
+      {
+       "w": "summit",
+       "pos": "n.",
+       "zh": "峰会；顶峰",
+       "ex": "At their last summit in September, Xi said he will welcome 100,000 American students for exchanges.",
+       "forms": []
+      },
+      {
+       "w": "student",
+       "pos": "n.",
+       "zh": "学生",
+       "ex": "At their last summit in September, Xi said he will welcome 100,000 American students for exchanges.",
+       "forms": [
+        "students"
+       ]
+      },
+      {
+       "w": "report",
+       "pos": "n.",
+       "zh": "报告；报道",
+       "ex": "NPR's Jennifer Pak reports from Beijing.",
+       "forms": [
+        "reports"
+       ]
+      },
+      {
+       "w": "university",
+       "pos": "n.",
+       "zh": "大学",
+       "ex": "JENNIFER PAK, BYLINE: Ker Gibbs teaches business at the University of San Francisco.",
+       "forms": []
+      },
+      {
+       "w": "local",
+       "pos": "adj.",
+       "zh": "当地的",
+       "ex": "PAK: And he couldn't use the local currency, the renminbi.",
+       "forms": []
+      },
+      {
+       "w": "currency",
+       "pos": "n.",
+       "zh": "货币",
+       "ex": "PAK: And he couldn't use the local currency, the renminbi.",
+       "forms": []
+      },
+      {
+       "w": "foreign",
+       "pos": "adj.",
+       "zh": "外国的",
+       "ex": "Gibbs had to get foreign exchange certificates and spend them at certain state-owned shops.",
+       "forms": []
+      },
+      {
+       "w": "change",
+       "pos": "n.",
+       "zh": "变化；改变",
+       "ex": "PAK: That changed in the 1990s when China opened up.",
+       "forms": [
+        "changed"
+       ]
+      },
+      {
+       "w": "factory",
+       "pos": "n.",
+       "zh": "工厂",
+       "ex": "As a 20-something-year-old, he says he helped Chinese factories with things like management and inventory control.",
+       "forms": [
+        "factories"
+       ]
+      },
+      {
+       "w": "inventory",
+       "pos": "n.",
+       "zh": "库存",
+       "ex": "As a 20-something-year-old, he says he helped Chinese factories with things like management and inventory control.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "president",
+      "leader",
+      "summit",
+      "student",
+      "report"
+     ],
+     "keyVocab": [
+      "president",
+      "leader",
+      "summit",
+      "student",
+      "report",
+      "university",
+      "local",
+      "currency"
+     ]
+    },
+    {
+     "id": "2026-11-18-business",
+     "section": "Business",
+     "sectionZh": "商业 · 财经",
+     "title": "Nvidia tries to get back to business",
+     "dek": "Nvidia quarterly earnings are in. But the biggest question isn't about past business performance it's about the company's future leadership.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/17/nx-s1-6044197/nvidia-tries-to-get-back-to-business",
+     "byline": "Ricky Mulvey",
+     "dateLabel": "2026-11-18",
+     "words": 538,
+     "readTime": 3,
+     "level": "B2",
+     "levelEn": "Upper-intermediate",
+     "paragraphs": [
+      {
+       "en": "Nvidia quarterly earnings are in. But the biggest question isn't about past business performance it's about the company's future leadership.",
+       "zh": "Nvidia季度财报已经发布。但最大的问题不在于过去的业务表现，而在于公司的未来领导力。"
+      },
+      {
+       "en": "It's been a big day for NVIDIA. The tech company seems to be moving past the scandal involving its now former CEO, Jensen Huang's, extramarital affairs, including one with an alleged spy. The company has confirmed it will not reinstate him. NVIDIA's business has been going gangbusters for a while now, and that remains true. Ricky Mulvey of NPR's The Indicator From Planet Money joins us now. Hi, Ricky.",
+       "zh": "对 NVIDIA 来说今天是重要的一天。这家科技公司似乎正在走出其前首席执行官黄仁勋婚外情丑闻的阴影，其中包括与一名被指控的间谍的关系。公司已确认不会恢复他的职务。NVIDIA 的业务已经持续火爆一段时间，这一点仍然成立。NPR《Planet Money》的《The Indicator》的瑞奇·穆尔维现在加入我们。你好，瑞奇。"
+      },
+      {
+       "en": "PFEIFFER: So today, NVIDIA announced its quarterly earnings. That's high stakes for a lot of investors. So what do we know about how this situation with the former CEO has affected the company's financial standing?",
+       "zh": "PFIEFFER：所以今天，英伟达公布了其季度财报。对于很多投资者来说，这是高风险的。那么我们对前任首席执行官的情况如何影响公司财务状况有什么了解吗？"
+      },
+      {
+       "en": "MULVEY: Yeah, just for a moment, take the scandals out of this. The business itself is firing on all cylinders. When NVIDIA makes a dollar, most of that becomes pure profit, and it's making a lot more dollars. Revenue for the quarter was about $116 billion, about double from a year ago, and that beat expectations. Part of that is tied to NVIDIA's new AI supercomputers. They started shipping this quarter, and it was the fastest product launch in history for the company, making them about $20 billion already. And these computers are high-powered stuff. They help scientists look into black holes, and big tech companies develop the latest and greatest large language models. Bottom line, NVIDIA is an extraordinarily profitable business on the bleeding edge of technology, and that did not fundamentally change this quarter or with the scandals.",
+       "zh": "MULVEY：是的，先暂且把丑闻放一边不谈。这个业务本身正全速运作。当 NVIDIA 赚一美元时，大部分都转化为纯利润，而且它赚的钱越来越多。本季度收入约为1160亿美元，比一年前大约翻了一倍，这也超出了预期。部分原因与 NVIDIA 的新型人工智能超级计算机有关。本季度开始发货，这是公司历史上最快的产品发布，已经为他们带来约200亿美元的收入。这些计算机性能非常强大。它们帮助科学家研究黑洞，也帮助大型科技公司开发最新最先进的大型语言模型。总的来说，NVIDIA 是一家技术前沿且极具盈利能力的公司，而这一点在本季度或面对丑闻时并没有根本改变。"
+      },
+      {
+       "en": "PFEIFFER: And what about the basic fundamentals of the company and what it produces? By losing its leader, has that affected any of the fundamentals?",
+       "zh": "PFEIFFER：那么公司的基本面以及它生产的产品呢？失去了领导者，这是否影响了公司的任何基本面？"
+      },
+      {
+       "en": "MULVEY: It does moving forward. Look, NVIDIA lost its chief storyteller and also one of AI's central bankers in the middle of many of those circular deals. Don't forget, Jensen Huang has made a lot of people a lot of money. That's why a lot of people are upset. If you invested a grand in NVIDIA 10 years ago, you've made well over $100,000 today. And since the scandal, since the stories broke, NVIDIA stock has lost about $573 billion. That was before earnings. And for context, that is all of Mastercard the company. Stock is up a bit after hours, but that's not enough to recover from all these scandals.",
+       "zh": "穆尔维：从前进的角度来看是这样的。你看，NVIDIA 在许多循环交易进行中间，失去了其首席讲故事者，同时也失去了 AI 的核心银行家之一。别忘了，黄仁勋让很多人赚了很多钱。这就是为什么很多人感到不满。如果你在 10 年前向 NVIDIA 投资了一千美元，今天你已经赚了超过 10 万美元。而自从丑闻爆发以来，自从这些消息曝光以来，NVIDIA 的股票已经损失了大约 5730 亿美元。这还是在收益发布之前。从背景上看，这相当于整个万事达卡公司。股价在盘后略有上涨，但这还不足以从所有这些丑闻中恢复过来。"
+      },
+      {
+       "en": "PFEIFFER: I understand that Jensen Huang said something today. He spoke out about his hopes. What did he say?",
+       "zh": "PFEIFFER：我了解Jensen Huang今天说了一些话。他谈到了他的希望。他说了什么？"
+      },
+      {
+       "en": "MULVEY: Yeah, he goes on X, and he posts this morning, saying that he is open to returning. And what's notable about that is doing it on the day of earnings. That's making it a part of the earnings conversation. He says that he made some serious mistakes in his personal life. He deeply regrets them, but he's just seen an outpouring of support to return. And he posted that if it's in the best interest of the shareholders and the company and America, you know, well, he has availability to step back into the CEO seat of NVIDIA.",
+       "zh": "MULVEY：是的，他在X上发布了消息，今天早上说他愿意回归。值得注意的是，他选择在财报发布当天发布这个消息，这使其成为财报讨论的一部分。他表示自己在个人生活中犯了一些严重错误，对此深感后悔，但他看到有大量支持让他回归的声音。他还发布说，如果这是股东、公司和美国的最佳利益，他有空可以重新回到NVIDIA的CEO职位上。"
+      },
+      {
+       "en": "PFEIFFER: But as we said, the company's saying it will not reinstate him. Any sense that there's wiggle room there?",
+       "zh": "PFEIFFER：但正如我们所说，公司表示不会恢复他的职位。有什么迹象表明还有回旋余地吗？"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "future",
+       "pos": "n.",
+       "zh": "未来",
+       "ex": "But the biggest question isn't about past business performance it's about the company's future leadership.",
+       "forms": []
+      },
+      {
+       "w": "scandal",
+       "pos": "n.",
+       "zh": "丑闻",
+       "ex": "The tech company seems to be moving past the scandal involving its now former CEO, Jensen Huang's, extramarital affairs, including one with an alleged spy.",
+       "forms": [
+        "scandals"
+       ]
+      },
+      {
+       "w": "confirm",
+       "pos": "v.",
+       "zh": "证实；确认",
+       "ex": "The company has confirmed it will not reinstate him.",
+       "forms": [
+        "confirmed"
+       ]
+      },
+      {
+       "w": "indicator",
+       "pos": "n.",
+       "zh": "指标；迹象",
+       "ex": "Ricky Mulvey of NPR's The Indicator From Planet Money joins us now.",
+       "forms": []
+      },
+      {
+       "w": "announce",
+       "pos": "v.",
+       "zh": "宣布；公布",
+       "ex": "PFEIFFER: So today, NVIDIA announced its quarterly earnings.",
+       "forms": [
+        "announced"
+       ]
+      },
+      {
+       "w": "investor",
+       "pos": "n.",
+       "zh": "投资者",
+       "ex": "That's high stakes for a lot of investors.",
+       "forms": [
+        "investors"
+       ]
+      },
+      {
+       "w": "financial",
+       "pos": "adj.",
+       "zh": "金融的；财务的",
+       "ex": "So what do we know about how this situation with the former CEO has affected the company's financial standing?",
+       "forms": []
+      },
+      {
+       "w": "profit",
+       "pos": "n.",
+       "zh": "利润",
+       "ex": "When NVIDIA makes a dollar, most of that becomes pure profit, and it's making a lot more dollars.",
+       "forms": []
+      },
+      {
+       "w": "revenue",
+       "pos": "n.",
+       "zh": "收入；营收",
+       "ex": "Revenue for the quarter was about $116 billion, about double from a year ago, and that beat expectations.",
+       "forms": []
+      },
+      {
+       "w": "billion",
+       "pos": "n.",
+       "zh": "十亿",
+       "ex": "Revenue for the quarter was about $116 billion, about double from a year ago, and that beat expectations.",
+       "forms": []
+      },
+      {
+       "w": "double",
+       "pos": "v.",
+       "zh": "翻倍",
+       "ex": "Revenue for the quarter was about $116 billion, about double from a year ago, and that beat expectations.",
+       "forms": []
+      },
+      {
+       "w": "product",
+       "pos": "n.",
+       "zh": "产品",
+       "ex": "They started shipping this quarter, and it was the fastest product launch in history for the company, making them about $20 billion already.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "future",
+      "scandal",
+      "confirm",
+      "indicator",
+      "announce"
+     ],
+     "keyVocab": [
+      "future",
+      "scandal",
+      "confirm",
+      "indicator",
+      "announce",
+      "investor",
+      "financial",
+      "profit"
+     ]
+    },
+    {
+     "id": "2026-11-18-technology",
+     "section": "Technology",
+     "sectionZh": "科技",
+     "title": "Air travel, Microsoft, banking: Why are our IT systems failing?",
+     "dek": "NPR's Sacha Pfeiffer speaks with cybersecurity expert Dmitri Alperovitch about the coincidence of several major technical failures in IT infrastructure — and how best to understand it.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/17/nx-s1-6043850/air-travel-microsoft-banking-why-are-our-it-systems-failing",
+     "byline": "Michelle Aslam",
+     "dateLabel": "2026-11-18",
+     "words": 457,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "NPR's Sacha Pfeiffer speaks with cybersecurity expert Dmitri Alperovitch about the coincidence of several major technical failures in IT infrastructure — and how best to understand it.",
+       "zh": "NPR 的 Sacha Pfeiffer 与网络安全专家 Dmitri Alperovitch 谈论 IT 基础设施中发生的几次重大技术故障的巧合——以及如何最好地理解它。"
+      },
+      {
+       "en": "Say that last Thursday, you were trying to email your boss about a business trip this week. But Microsoft Outlook was down, so you had to wait to send that email till Friday. But on Friday, a fiber-optic cable replacement crashed the routers that deal with air traffic, and that held up nearly all departing flights nationwide. When that finally sorted out, and you rebooked a flight on Monday, United Airlines had a brief system outage that further delayed your takeoff, at which point you went to your banking app to see how much all this was costing you, but that was briefly down yesterday too.",
+       "zh": "说上周四，你本来想给老板发邮件，关于这周的商务旅行。但微软Outlook宕机了，所以你不得不等到周五才发送那封邮件。但周五，一条光纤电缆的更换导致处理空中交通的路由器崩溃，几乎全国所有出发航班都因此延误。当情况最终解决后，你在周一重新预订了航班，但联合航空发生了短暂的系统故障，进一步延迟了你的起飞，这时你打开银行应用查看这一切花了你多少钱，但它昨天也短暂宕机了。"
+      },
+      {
+       "en": "PRESIDENT DONALD TRUMP: It's life. It's life. When you're big and powerful and you have all the money, things like that happen. It's fine.",
+       "zh": "唐纳德·特朗普总统：这是生活。这就是生活。当你很大很有权势，而且有所有的钱时，这样的事情就会发生。没关系。"
+      },
+      {
+       "en": "PFEIFFER: President Trump downplayed all the outages today. Although, speaking of being big and powerful, NPR has confirmed that the classified network that the National Security Agency uses for its own internal communications has been having issues today. We have so many questions about all of this, which is why we have called Dmitri Alperovitch. He's cofounder of the cybersecurity technology company CrowdStrike, and he's founder of the Alperovitch Institute for Cybersecurity Studies at Johns Hopkins University. Thank you for coming on the program.",
+       "zh": "PFEIFFER：特朗普总统今天淡化了所有的停电情况。不过，说到强大和有力，NPR 已经确认，美国国家安全局用于内部通信的机密网络今天出现了问题。我们对这一切有很多疑问，这就是为什么我们邀请了德米特里·阿尔佩罗维奇。他是网络安全技术公司 CrowdStrike 的联合创始人，同时也是约翰斯·霍普金斯大学阿尔佩罗维奇网络安全研究所的创始人。感谢您上我们的节目。"
+      },
+      {
+       "en": "PFEIFFER: At this point, is there any evidence that all these incidents are connected in any way or maybe are tied to cybercrime?",
+       "zh": "PFEIFFER：在这一点上，有没有任何证据表明所有这些事件在某种程度上是相互关联的，或者可能与网络犯罪有关？"
+      },
+      {
+       "en": "ALPEROVITCH: No. And I understand that people are very suspicious. Obviously, all of these events happening almost every day is very strange. But these things happen. And, you know, one of Murphy's laws, of course, is that never attribute anything to malice that which is adequately explained by incompetence. I think a lot of these things happening because people are actually in the midst of a lot of upgrading right now.",
+       "zh": "ALPEROVITCH：不。我理解人们非常怀疑。显然，这些事件几乎每天都在发生，非常奇怪。但这种事情确实会发生。你知道，墨菲定律之一当然是，不要把本可以用无能解释的事情归因于恶意。我认为这些事情很多是因为人们目前正处于大量升级的过程中。"
+      },
+      {
+       "en": "There is, of course, the AI threat. A lot of vulnerabilities are being found by these AI models. And as a result, a lot of companies, a lot of organizations across the world, are trying to patch these vulnerabilities as quickly as possible. So we're going through this patch apocalypse right now. And sometimes when you're updating systems, we all know things can go wrong, and I think that's partly what's happening here.",
+       "zh": "当然，存在人工智能的威胁。这些人工智能模型发现了很多漏洞。因此，世界上许多公司和组织都在尽可能快地修补这些漏洞。所以我们现在正经历这场补丁灾难。有时在更新系统时，我们都知道事情可能会出错，我认为这在某种程度上就是这里发生的情况。"
+      },
+      {
+       "en": "PFEIFFER: So are we having this collision of our extreme reliance on technology, overtaxed, often aging systems that, as you said, periodically need updating. We know that cyberattacks are common. We know that rogue AI is a fear. Are we seeing the fragility of the system all coming together?",
+       "zh": "PFEIFFER：那么，我们是否正在经历这样一种碰撞：我们极度依赖技术，而这些系统超负荷运转，且往往已经老化，正如你所说，时不时需要更新。我们知道网络攻击很常见。我们知道失控的人工智能令人担忧。我们是否在看到系统的脆弱性正在集中显现？"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "cybersecurity",
+       "pos": "n.",
+       "zh": "网络安全",
+       "ex": "NPR's Sacha Pfeiffer speaks with cybersecurity expert Dmitri Alperovitch about the coincidence of several major technical failures in IT infrastructure — and how best to understand it.",
+       "forms": []
+      },
+      {
+       "w": "infrastructure",
+       "pos": "n.",
+       "zh": "基础设施",
+       "ex": "NPR's Sacha Pfeiffer speaks with cybersecurity expert Dmitri Alperovitch about the coincidence of several major technical failures in IT infrastructure — and how best to understand it.",
+       "forms": []
+      },
+      {
+       "w": "outlook",
+       "pos": "n.",
+       "zh": "前景；展望",
+       "ex": "But Microsoft Outlook was down, so you had to wait to send that email till Friday.",
+       "forms": []
+      },
+      {
+       "w": "crash",
+       "pos": "n.",
+       "zh": "崩盘；暴跌",
+       "ex": "But on Friday, a fiber-optic cable replacement crashed the routers that deal with air traffic, and that held up nearly all departing flights nationwide.",
+       "forms": [
+        "crashed"
+       ]
+      },
+      {
+       "w": "cost",
+       "pos": "n.",
+       "zh": "成本；代价",
+       "ex": "When that finally sorted out, and you rebooked a flight on Monday, United Airlines had a brief system outage that further delayed your takeoff, at which point you went to your banking app to see how much all this was costing you, but that was briefly down yesterday too.",
+       "forms": [
+        "costing"
+       ]
+      },
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "PRESIDENT DONALD TRUMP: It's life.",
+       "forms": []
+      },
+      {
+       "w": "confirm",
+       "pos": "v.",
+       "zh": "证实；确认",
+       "ex": "Although, speaking of being big and powerful, NPR has confirmed that the classified network that the National Security Agency uses for its own internal communications has been having issues today.",
+       "forms": [
+        "confirmed"
+       ]
+      },
+      {
+       "w": "network",
+       "pos": "n.",
+       "zh": "网络",
+       "ex": "Although, speaking of being big and powerful, NPR has confirmed that the classified network that the National Security Agency uses for its own internal communications has been having issues today.",
+       "forms": []
+      },
+      {
+       "w": "national",
+       "pos": "adj.",
+       "zh": "国家的；全国的",
+       "ex": "Although, speaking of being big and powerful, NPR has confirmed that the classified network that the National Security Agency uses for its own internal communications has been having issues today.",
+       "forms": []
+      },
+      {
+       "w": "agency",
+       "pos": "n.",
+       "zh": "机构；代理",
+       "ex": "Although, speaking of being big and powerful, NPR has confirmed that the classified network that the National Security Agency uses for its own internal communications has been having issues today.",
+       "forms": []
+      },
+      {
+       "w": "issue",
+       "pos": "n.",
+       "zh": "议题；问题",
+       "ex": "Although, speaking of being big and powerful, NPR has confirmed that the classified network that the National Security Agency uses for its own internal communications has been having issues today.",
+       "forms": [
+        "issues"
+       ]
+      },
+      {
+       "w": "technology",
+       "pos": "n.",
+       "zh": "技术；科技",
+       "ex": "He's cofounder of the cybersecurity technology company CrowdStrike, and he's founder of the Alperovitch Institute for Cybersecurity Studies at Johns Hopkins University.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "cybersecurity",
+      "infrastructure",
+      "outlook",
+      "crash",
+      "cost"
+     ],
+     "keyVocab": [
+      "cybersecurity",
+      "infrastructure",
+      "outlook",
+      "crash",
+      "cost",
+      "president",
+      "confirm",
+      "network"
+     ]
+    },
+    {
+     "id": "2026-11-18-science",
+     "section": "Science",
+     "sectionZh": "科学",
+     "title": "Trump administration moves to lift ban on roadbuilding and logging in national forests",
+     "dek": "The Trump administration is working to rescind the \"Roadless Rule,\" which blocks road construction in some national forests. This could affect Alaska's Tongass National Forest.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/08/nx-s1-5981452/trump-administration-moves-to-lift-ban-on-roadbuilding-and-logging-in-national-forests",
+     "byline": "Alix Soliman",
+     "dateLabel": "2026-11-18",
+     "words": 363,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "The Trump administration is working to rescind the \"Roadless Rule,\" which blocks road construction in some national forests. This could affect Alaska's Tongass National Forest.",
+       "zh": "特朗普政府正在努力废除“无路规则”，该规则禁止在一些国家森林中修建道路。这可能会影响阿拉斯加的汤加斯国家森林。"
+      },
+      {
+       "en": "For decades, an administrative rule known as the Roadless Rule banned new road building and logging across millions of acres of national forest lands. Now the Trump administration has moved to lift the ban. That's controversial in places like Alaska's Tongass National Forest, the largest national forest in the U.S. Reporter Alix Soliman from member station KTOO has the story.",
+       "zh": "几十年来，一项被称为“无路规则”的行政规定禁止在数百万英亩的国家森林土地上新建道路和采伐木材。如今，特朗普政府已采取行动取消这一禁令。这在阿拉斯加的通加斯国家森林等地引发了争议，该森林是美国最大的国家森林。会员电台KTOO的记者Alix Soliman带来了报道。"
+      },
+      {
+       "en": "ALIX SOLIMAN, BYLINE: Around half of the Tongass National Forest in Southeast Alaska has no active roads. That's more than 9 million acres.",
+       "zh": "阿利克斯·索利曼，署名：阿拉斯加东南部的通加斯国家森林约有一半没有通行道路。这超过 900 万英亩。"
+      },
+      {
+       "en": "SOLIMAN: On a recent afternoon, Judith Daxootsu Ramos walked through a roadless area. She's a Tlingit anthropologist from Yakutat, a small Alaska Native village. And she says the forest supports a number of Tlingit traditions, like harvesting berries and hunting deer.",
+       "zh": "SOLIMAN：在一个最近的下午，朱迪斯·达克苏茨·拉莫斯走过了一片没有道路的区域。她是来自雅库塔，一个阿拉斯加原住民小村庄的特林吉特人类学家。她说，这片森林支持许多特林吉特人的传统活动，比如采摘浆果和打猎鹿。"
+      },
+      {
+       "en": "JUDITH DAXOOTSU RAMOS: Without this, we're going to lose our traditional medicines, our traditional art styles, our traditional foods. And all of that is really connected to the forest.",
+       "zh": "朱迪思·达克舒特苏·拉莫斯：没有这些，我们将失去我们的传统药物、传统艺术风格、传统食物。而这一切都与森林密切相关。"
+      },
+      {
+       "en": "SOLIMAN: Ramos sits on the board of the Southeast Alaska Conservation Council, a local nonprofit advocating to keep the Roadless Rule in place. She visited Prince of Wales Island, a heavily logged part of the forest, and says the trees that grew back in old-growth clearcuts looked sterile.",
+       "zh": "SOLIMAN: 拉莫斯是东南阿拉斯加保护委员会的董事会成员，该委员会是一个本地非营利组织，倡导维持无道路区法规。她访问了威尔士亲王岛，这是森林中被大量伐木的地区，她说在老林采伐区重新长出的树木看起来很贫瘠。"
+      },
+      {
+       "en": "RAMOS: It's a very different forest. And there was no animals, no birds there, and it was kind of really quiet. And so it was kind of scary.",
+       "zh": "拉莫斯：这是一个完全不同的森林。那里没有动物，没有鸟，而且非常安静。所以有点可怕。"
+      },
+      {
+       "en": "SOLIMAN: Others in the region oppose lifting the Roadless Rule because they worry it will hurt ecotourism or undermine the climate benefits of the Tongass, which holds a third of all carbon stored in intact U.S. national forests. But the U.S. Department of Agriculture says that it wants to roll back the Roadless Rule to give firefighters access to fight wildfires and remove what they say are outdated regulatory barriers. But many in this part of Alaska think it's to increase logging. The Trump administration has tried to boost national timber production in the past, and the first Trump administration temporarily rolled back the rule in just the Tongass.",
+       "zh": "SOLIMAN：该地区的其他人反对取消无路区规则，因为他们担心这会损害生态旅游或削弱汤加斯国家森林的气候效益，而汤加斯拥有美国完整国家森林储存的三分之一碳。但美国农业部表示，他们希望取消无路区规则，以便让消防员进入扑灭野火，并移除他们所说的过时监管障碍。但阿拉斯加这一部分的许多人认为这是为了增加伐木。特朗普政府过去曾试图提高国家木材产量，特朗普政府的第一次任期仅在汤加斯暂时取消了该规则。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "administration",
+       "pos": "n.",
+       "zh": "政府；行政",
+       "ex": "The Trump administration is working to rescind the \"Roadless Rule,\" which blocks road construction in some national forests.",
+       "forms": []
+      },
+      {
+       "w": "national",
+       "pos": "adj.",
+       "zh": "国家的；全国的",
+       "ex": "The Trump administration is working to rescind the \"Roadless Rule,\" which blocks road construction in some national forests.",
+       "forms": []
+      },
+      {
+       "w": "forest",
+       "pos": "n.",
+       "zh": "森林",
+       "ex": "The Trump administration is working to rescind the \"Roadless Rule,\" which blocks road construction in some national forests.",
+       "forms": [
+        "forests"
+       ]
+      },
+      {
+       "w": "million",
+       "pos": "n.",
+       "zh": "百万",
+       "ex": "For decades, an administrative rule known as the Roadless Rule banned new road building and logging across millions of acres of national forest lands.",
+       "forms": [
+        "millions"
+       ]
+      },
+      {
+       "w": "land",
+       "pos": "n.",
+       "zh": "土地；陆地",
+       "ex": "For decades, an administrative rule known as the Roadless Rule banned new road building and logging across millions of acres of national forest lands.",
+       "forms": [
+        "lands"
+       ]
+      },
+      {
+       "w": "support",
+       "pos": "v.",
+       "zh": "支持",
+       "ex": "And she says the forest supports a number of Tlingit traditions, like harvesting berries and hunting deer.",
+       "forms": [
+        "supports"
+       ]
+      },
+      {
+       "w": "number",
+       "pos": "n.",
+       "zh": "数量；数字",
+       "ex": "And she says the forest supports a number of Tlingit traditions, like harvesting berries and hunting deer.",
+       "forms": []
+      },
+      {
+       "w": "tradition",
+       "pos": "n.",
+       "zh": "传统",
+       "ex": "And she says the forest supports a number of Tlingit traditions, like harvesting berries and hunting deer.",
+       "forms": [
+        "traditions"
+       ]
+      },
+      {
+       "w": "food",
+       "pos": "n.",
+       "zh": "食物",
+       "ex": "JUDITH DAXOOTSU RAMOS: Without this, we're going to lose our traditional medicines, our traditional art styles, our traditional foods.",
+       "forms": [
+        "foods"
+       ]
+      },
+      {
+       "w": "conservation",
+       "pos": "n.",
+       "zh": "保护；保育",
+       "ex": "SOLIMAN: Ramos sits on the board of the Southeast Alaska Conservation Council, a local nonprofit advocating to keep the Roadless Rule in place.",
+       "forms": []
+      },
+      {
+       "w": "local",
+       "pos": "adj.",
+       "zh": "当地的",
+       "ex": "SOLIMAN: Ramos sits on the board of the Southeast Alaska Conservation Council, a local nonprofit advocating to keep the Roadless Rule in place.",
+       "forms": []
+      },
+      {
+       "w": "advocate",
+       "pos": "v.",
+       "zh": "倡导；拥护",
+       "ex": "SOLIMAN: Ramos sits on the board of the Southeast Alaska Conservation Council, a local nonprofit advocating to keep the Roadless Rule in place.",
+       "forms": [
+        "advocating"
+       ]
+      }
+     ],
+     "homeWords": [
+      "administration",
+      "national",
+      "forest",
+      "million",
+      "land"
+     ],
+     "keyVocab": [
+      "administration",
+      "national",
+      "forest",
+      "million",
+      "land",
+      "support",
+      "number",
+      "tradition"
+     ]
+    },
+    {
+     "id": "2026-11-18-culture",
+     "section": "Culture",
+     "sectionZh": "文化",
+     "title": "Why an SNL comedy sketch about caretaking went viral",
+     "dek": "The SNL ad parody \"Sister\" hit home for daughters caring for parents without help from their brothers. NPR's Juana Summers speaks with writer Liz Plank about her Substack essay on why it resonated.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/17/nx-s1-6044081/why-an-snl-comedy-sketch-about-caretaking-went-viral",
+     "byline": "Sophia Paliza-Carre",
+     "dateLabel": "2026-11-18",
+     "words": 399,
+     "readTime": 3,
+     "level": "B2",
+     "levelEn": "Upper-intermediate",
+     "paragraphs": [
+      {
+       "en": "The SNL ad parody \"Sister\" hit home for daughters caring for parents without help from their brothers. NPR's Juana Summers speaks with writer Liz Plank about her Substack essay on why it resonated.",
+       "zh": "《周六夜现场》的广告恶搞“小妹”让那些在照顾父母时得不到兄弟帮助的女儿感同身受。NPR 的 Juana Summers 与作家 Liz Plank 讨论了她在 Substack 上关于这一共鸣原因的文章。"
+      },
+      {
+       "en": "Sometimes comedy hits a little too close to home. One sketch from this weekend's \"Saturday Night Live\" hosted by John Mulaney is going viral. Here's the setup - a fake ad for this amazing new service to help men care for their aging parents.",
+       "zh": "有时喜剧会让人感到过于贴近生活。本周末由约翰·穆拉尼主持的《周六夜现场》中的一个小品正在病毒式传播。这是场景设定——一个关于这项神奇新服务的假广告，帮助男性照顾他们年迈的父母。"
+      },
+      {
+       "en": "JOHN MULANEY: (As character) That's when I heard about Sister.",
+       "zh": "约翰·穆雷尼：（以角色口吻）那时我听说了兄妹。"
+      },
+      {
+       "en": "MULANEY: Sister is a live-in 24/7 elder care provider that is completely free and also your sister. Now I don't have to worry about Dad getting the care and attention he needs because my sister will do it.",
+       "zh": "穆兰尼：姐姐是一个全天候24小时的住家老人护理提供者，完全免费，而且还是你的姐姐。现在我不用担心爸爸得不到他所需的照顾和关注，因为我姐姐会去做。"
+      },
+      {
+       "en": "SUMMERS: And this sketch resonated with a lot of viewers. Liz Plank wrote an essay about it for her Substack. It's called \"The Sister Sketch Is A Documentary.\" Plank is a writer and host of the podcast \"Boy Problems,\" and she joins me now. Welcome to ALL THINGS CONSIDERED.",
+       "zh": "萨默斯：而这个短剧引起了很多观众的共鸣。莉兹·普兰克为她的Substack写了一篇关于它的文章。标题是《姐妹短剧是一部纪录片》。普兰克是一名作家，也是播客《男孩问题》的主持人，她现在加入了我们。欢迎来到《一切皆考虑》。"
+      },
+      {
+       "en": "SUMMERS: I mean, Liz, I just have to say my group texts have been blowing up. One friend even called me about this sketch and was like, if you did not watch this, you need to go look right now. Here's a link. What was your first reaction when you saw this sketch?",
+       "zh": "SUMMERS：我的意思是，Liz，我只能说我的群聊消息一直在炸。一位朋友甚至给我打电话说这个小品，跟我说，如果你还没看这个，你现在就得去看。这是链接。你第一次看到这个小品时的反应是什么？"
+      },
+      {
+       "en": "PLANK: I had the same experience. I mean, it was exploding in every group chat that I have with women, sharing just a lot of laughter, but also a lot of grief. I think a lot of women...",
+       "zh": "PLANK：我有同样的经历。我的意思是，它在我和女性的每个群聊中都在爆炸，大家分享了很多笑声，但也有很多悲伤。我想很多女性……"
+      },
+      {
+       "en": "PLANK: ...Were both triggered and felt also empowered to send it to their group chat, to their family group chat. I mean, that's what I ended up doing for a lot of my friends who I know have been struggling with brothers, with boyfriends - right? - men in their lives who aren't doing their fair share. And so it was kind of an - it's been kind of an exciting time, to be honest (laughter).",
+       "zh": "PLANK：……两者都被触发了，同时也感到有力量把它发送到他们的群聊，发送到他们的家庭群聊。我的意思是，这就是我最后为我许多朋友做的事情，我知道他们一直在为有兄弟、男朋友——对吧？——生活中那些没有尽到本分的男人而苦恼。所以说，说实话，这是一个有点令人兴奋的时期（笑）。"
+      },
+      {
+       "en": "SUMMERS: I have to say when I watched it, it was kind of this weird cocktail. It was like a mix of I thought it was funny, but I was also frustrated. It tapped into some resentment that I wasn't expecting to feel. Is there something specific about the sketch that you think made it resonate so much?",
+       "zh": "萨默斯：我得说，当我看的时候，这感觉就像是一种奇怪的鸡尾酒。它像是某种混合体，我觉得有趣，但同时也感到沮丧。它触动了一些我没想到会有的怨恨情绪。你觉得这个小品有什么特别之处，让它如此引起共鸣吗？"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "service",
+       "pos": "n.",
+       "zh": "服务",
+       "ex": "Here's the setup - a fake ad for this amazing new service to help men care for their aging parents.",
+       "forms": []
+      },
+      {
+       "w": "documentary",
+       "pos": "n.",
+       "zh": "纪录片",
+       "ex": "It's called \"The Sister Sketch Is A Documentary.\" Plank is a writer and host of the podcast \"Boy Problems,\" and she joins me now.",
+       "forms": []
+      },
+      {
+       "w": "problem",
+       "pos": "n.",
+       "zh": "问题",
+       "ex": "It's called \"The Sister Sketch Is A Documentary.\" Plank is a writer and host of the podcast \"Boy Problems,\" and she joins me now.",
+       "forms": [
+        "problems"
+       ]
+      },
+      {
+       "w": "trigger",
+       "pos": "v.",
+       "zh": "引发；触发",
+       "ex": "PLANK: ...Were both triggered and felt also empowered to send it to their group chat, to their family group chat.",
+       "forms": [
+        "triggered"
+       ]
+      },
+      {
+       "w": "family",
+       "pos": "n.",
+       "zh": "家庭",
+       "ex": "PLANK: ...Were both triggered and felt also empowered to send it to their group chat, to their family group chat.",
+       "forms": []
+      },
+      {
+       "w": "expect",
+       "pos": "v.",
+       "zh": "预期；期待",
+       "ex": "It tapped into some resentment that I wasn't expecting to feel.",
+       "forms": [
+        "expecting"
+       ]
+      }
+     ],
+     "homeWords": [
+      "service",
+      "documentary",
+      "problem",
+      "trigger",
+      "family"
+     ],
+     "keyVocab": [
+      "service",
+      "documentary",
+      "problem",
+      "trigger",
+      "family",
+      "expect"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-17",
    "articles": [
@@ -4416,825 +5189,6 @@
       "national",
       "undermine",
       "generation"
-     ]
-    }
-   ]
-  },
-  {
-   "date": "2026-11-11",
-   "articles": [
-    {
-     "id": "2026-11-11-world",
-     "section": "World",
-     "sectionZh": "国际",
-     "title": "U.S. boycotts U.N. human rights review for second year running",
-     "dek": "GENEVA, Switzerland — The United States has left an empty chair at a key United Nations human rights review for the second year running, becoming the only U.N. member state ever to do so.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/10/nx-s1-6034998/un-human-rights-us-geneva",
-     "byline": "Imogen Foulkes",
-     "dateLabel": "2026-11-11",
-     "words": 367,
-     "readTime": 3,
-     "level": "B2",
-     "levelEn": "Upper-intermediate",
-     "paragraphs": [
-      {
-       "en": "GENEVA, Switzerland — The United States has left an empty chair at a key United Nations human rights review for the second year running, becoming the only U.N. member state ever to do so.",
-       "zh": "瑞士日内瓦——美国连续第二年在联合国一项关键的人权审查会上留下空位，成为迄今唯一这样做的联合国会员国。"
-      },
-      {
-       "en": "The review, known as the universal periodic review, is meant to be just that: universal. Each state is reviewed every four to five years by fellow member states. The aim is to ensure that every country, however powerful, undergoes a peer review of its human rights record.",
-       "zh": "这一审查，被称为普遍定期审查，正是意在如此：普遍。每个国家每四到五年由其他成员国进行一次审查。其目的是确保每个国家，无论多么强大，都要接受同侪对其人权记录的审查。"
-      },
-      {
-       "en": "As well as diplomats from countries under review, civil society groups are allowed to submit evidence too. Several made the trip to Geneva, led by the American Civil Liberties Union.",
-       "zh": "除了受审查国家的外交官之外，民间社会团体也被允许提交证据。数个团体在美国公民自由联盟的带领下来到日内瓦。"
-      },
-      {
-       "en": "Jamil Dakwar, the ACLU's human rights director, told journalists that the current U.S. administration was continuing to violate human rights \"unabashed,\" citing the treatment of immigrants, student protesters and the LGBTQ community as examples.",
-       "zh": "美国公民自由联盟的人权主任贾米尔·达克瓦尔告诉记者，目前的美国政府“毫不掩饰”地继续侵犯人权，并以移民、学生抗议者和 LGBTQ 社群的待遇为例。"
-      },
-      {
-       "en": "Dakwar said the U.N. must hold the U.S. accountable, warning that the Trump administration wanted to \"dismantle human rights.\" In a written response, the State Department pointed out that Washington had already formally withdrawn from the U.N. Human Rights Council, accusing it of \"pushing anti-American rhetoric.\"",
-       "zh": "达克瓦尔表示，联合国必须追究美国的责任，并警告说特朗普政府想要“拆除人权”。在书面回应中，国务院指出，华盛顿已经正式退出了联合国人权理事会，指责该理事会“推动反美言论”。"
-      },
-      {
-       "en": "In fact, leaving the council, which has 47 elected members, does not mean the U.S. can easily get out of the review process, which is obligatory for all 193 U.N. member states. Human rights groups see Washington's stance as part of a pattern of disengagement and even active opposition to multilateral organizations, pointing to U.S. sanctions on the International Criminal Court and the decision to leave the World Health Organization.",
-       "zh": "事实上，离开拥有47名民选成员的理事会，并不意味着美国可以轻易摆脱这一对所有193个联合国会员国都强制性的审查程序。人权组织认为，华盛顿的立场是脱离甚至积极反对多边组织的一种模式，他们指出美国对国际刑事法院的制裁以及决定退出世界卫生组织。"
-      },
-      {
-       "en": "So what happens now? The U.N. has few sanctions against a country that does not cooperate with the review process. Israel skipped one review back in 2013 in protest at what it said was anti-Israel bias, but returned nine months later after the U.N. rescheduled. Until today's no-show by the U.S., no country has ever failed to turn up twice.",
-       "zh": "那么现在会发生什么？联合国对不配合审查程序的国家几乎没有制裁。以色列在2013年因为抗议其所谓的反以色列偏见而错过了一次审查，但在联合国重新安排后九个月又回来了。在今天美国未出席之前，还没有任何国家曾经两次缺席。"
-      },
-      {
-       "en": "Rights groups would like the U.N. to hold the review anyway, and take evidence about alleged violations in the U.S. Member states had already drawn up a list of questions for Washington's diplomats, including questions about the use of the death penalty and restrictions on abortion.",
-       "zh": "人权组织希望联合国无论如何都进行审查，并收集有关美国涉嫌侵权的证据。成员国已经为华盛顿的外交官拟定了一份问题清单，包括关于死刑使用和堕胎限制的问题。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "diplomat",
-       "pos": "n.",
-       "zh": "外交官",
-       "ex": "As well as diplomats from countries under review, civil society groups are allowed to submit evidence too.",
-       "forms": [
-        "diplomats"
-       ]
-      },
-      {
-       "w": "evidence",
-       "pos": "n.",
-       "zh": "证据",
-       "ex": "As well as diplomats from countries under review, civil society groups are allowed to submit evidence too.",
-       "forms": []
-      },
-      {
-       "w": "union",
-       "pos": "n.",
-       "zh": "工会；联盟",
-       "ex": "Several made the trip to Geneva, led by the American Civil Liberties Union.",
-       "forms": []
-      },
-      {
-       "w": "journalist",
-       "pos": "n.",
-       "zh": "记者；新闻工作者",
-       "ex": "Jamil Dakwar, the ACLU's human rights director, told journalists that the current U.S.",
-       "forms": [
-        "journalists"
-       ]
-      },
-      {
-       "w": "administration",
-       "pos": "n.",
-       "zh": "政府；行政",
-       "ex": "administration was continuing to violate human rights \"unabashed,\" citing the treatment of immigrants, student protesters and the LGBTQ community as examples.",
-       "forms": []
-      },
-      {
-       "w": "violate",
-       "pos": "v.",
-       "zh": "违反；侵犯",
-       "ex": "administration was continuing to violate human rights \"unabashed,\" citing the treatment of immigrants, student protesters and the LGBTQ community as examples.",
-       "forms": []
-      },
-      {
-       "w": "cite",
-       "pos": "v.",
-       "zh": "引用；援引",
-       "ex": "administration was continuing to violate human rights \"unabashed,\" citing the treatment of immigrants, student protesters and the LGBTQ community as examples.",
-       "forms": [
-        "citing"
-       ]
-      },
-      {
-       "w": "treatment",
-       "pos": "n.",
-       "zh": "治疗",
-       "ex": "administration was continuing to violate human rights \"unabashed,\" citing the treatment of immigrants, student protesters and the LGBTQ community as examples.",
-       "forms": []
-      },
-      {
-       "w": "student",
-       "pos": "n.",
-       "zh": "学生",
-       "ex": "administration was continuing to violate human rights \"unabashed,\" citing the treatment of immigrants, student protesters and the LGBTQ community as examples.",
-       "forms": []
-      },
-      {
-       "w": "community",
-       "pos": "n.",
-       "zh": "社区；群体",
-       "ex": "administration was continuing to violate human rights \"unabashed,\" citing the treatment of immigrants, student protesters and the LGBTQ community as examples.",
-       "forms": []
-      },
-      {
-       "w": "warn",
-       "pos": "v.",
-       "zh": "警告",
-       "ex": "accountable, warning that the Trump administration wanted to \"dismantle human rights.\" In a written response, the State Department pointed out that Washington had already formally withdrawn from the U.N.",
-       "forms": [
-        "warning"
-       ]
-      },
-      {
-       "w": "opposition",
-       "pos": "n.",
-       "zh": "反对派；反对",
-       "ex": "Human rights groups see Washington's stance as part of a pattern of disengagement and even active opposition to multilateral organizations, pointing to U.S.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "diplomat",
-      "evidence",
-      "union",
-      "journalist",
-      "administration"
-     ],
-     "keyVocab": [
-      "diplomat",
-      "evidence",
-      "union",
-      "journalist",
-      "administration",
-      "violate",
-      "cite",
-      "treatment"
-     ]
-    },
-    {
-     "id": "2026-11-11-business",
-     "section": "Business",
-     "sectionZh": "商业 · 财经",
-     "title": "The scandal surrounding the head of Nvidia could have wide-ranging implications",
-     "dek": "NPR's Sacha Pfeiffer speaks with Bloomberg tech reporter Ian King about the unusually overarching role of Nvidia CEO Jensen Huang at his company and within the American tech industry at large.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/10/nx-s1-6035694/the-scandal-surrounding-the-head-of-nvidia-could-have-wide-ranging-implications",
-     "byline": "Mia Venkat",
-     "dateLabel": "2026-11-11",
-     "words": 579,
-     "readTime": 3,
-     "level": "B2",
-     "levelEn": "Upper-intermediate",
-     "paragraphs": [
-      {
-       "en": "NPR's Sacha Pfeiffer speaks with Bloomberg tech reporter Ian King about the unusually overarching role of Nvidia CEO Jensen Huang at his company and within the American tech industry at large.",
-       "zh": "NPR 的 Sacha Pfeiffer 与彭博科技记者 Ian King 谈论了英伟达首席执行官黄仁勋在公司以及整个美国科技行业中异常广泛的角色。"
-      },
-      {
-       "en": "He is the CEO of an American tech giant. She was a Chinese executive at a firm in Singapore. And their liaison could cost him everything. That sounds like a soap opera, and yet it is a thing that has actually happened to Jensen Huang, whose company, NVIDIA, creates many of the world's most powerful computer chips. U.S. intelligence agencies believe the Chinese businesswoman was actually a spy for China. China denies that. But on Sunday, Jensen Huang did admit to the affair, and NVIDIA has lost hundreds of billions of dollars in market value in the last two days. How important is Jensen Huang to NVIDIA, and how important is NVIDIA to the U.S. economy? Those are two of the questions I'm going to put to Ian King. He's been writing about this story for Bloomberg. Ian, welcome.",
-       "zh": "他是一家美国科技巨头的首席执行官。她曾是新加坡一家公司的中国高管。他们之间的关系可能会让他失去一切。这听起来像一部肥皂剧，但这实际上发生在黄仁勋身上，他的公司英伟达制造了世界上许多最强大的计算机芯片。美国情报机构认为，这位中国女商人实际上是为中国进行间谍活动的人。中国对此予以否认。但在周日，黄仁勋确实承认了这段关系，而英伟达在过去两天内市值蒸发了数千亿美元。黄仁勋对英伟达有多重要，而英伟达对美国经济有多重要？这些是我要问布隆伯格记者伊恩·金的两个问题。伊恩，一直在报道这个故事。欢迎你，伊恩。"
-      },
-      {
-       "en": "PFEIFFER: Ian, anyone who follows the stock market knows that a company like NVIDIA has been underpinning the U.S. economy enormously through its dominant role in U.S. financial markets. Tell us why that matters when we talk about this what otherwise might be a sort of simple corporate affair scandal story.",
-       "zh": "PFEIFFER：Ian，任何关注股市的人都知道，像英伟达这样的公司通过其在美国金融市场中的主导地位极大地支撑了美国经济。告诉我们，当我们谈论这一可能本来只是一个简单的企业丑闻故事时，这为什么很重要。"
-      },
-      {
-       "en": "KING: No, that's exactly the right question. Jensen Huang is the only CEO that NVIDIA has ever had. He is absolutely central to how it acts, its strategy and everything else, that he has a unique corporate structure (ph). If it was only that, that would be of note to NVIDIA investors, and there are a lot of them. But even more than that, he has been the cheerleader for the U.S.'s efforts to promote artificial intelligence and to try to propagate that industry throughout the world. And in addition to that, he has pledged literally tens of billions of dollars in investments to fund other companies' efforts to get up to speed and to move that all forward.",
-       "zh": "KING：不，这正是正确的问题。黄仁勋是英伟达有史以来唯一的首席执行官。他对公司的运作、战略及其他所有方面都至关重要，以至于他拥有独特的公司结构。如果仅仅是这样，这对英伟达的投资者来说已经值得关注，而且投资者有很多。但更重要的是，他一直是美国推动人工智能发展并试图在全球推广这一产业的积极支持者。除此之外，他还承诺投入数百亿美元的投资，以资助其他公司加速发展并推动这一切前进。"
-      },
-      {
-       "en": "PFEIFFER: Do you consider him a different type of CEO than other tech CEOs? Is he distinctive in some way?",
-       "zh": "PFEIFFER：你认为他与其他科技公司的首席执行官是不同类型的吗？他在某些方面有独特之处吗？"
-      },
-      {
-       "en": "KING: He's distinctive in many ways. The most important thing is that this company was built around him. His staff are absolutely devoted to him. They can't answer questions without referring to what he says. He sits in a room. His office isn't an office. It's essentially a small auditorium where the people that report to him sit and face his scrutiny. He can be very harsh. He can also be very supportive. He never fires people. He deals with customers. He deals with the government relations. The front man, he's the head - he's everything and consciously so for this company.",
-       "zh": "KING：他在许多方面都很独特。最重要的是，这家公司是围绕他建立的。他的员工对他绝对忠诚。他们在回答问题时都必须参考他的话。他坐在一个房间里。他的办公室不是真正的办公室，它本质上是一个小型礼堂，向他汇报的人坐在那里，接受他的审查。他可能非常严格，也可能非常支持。他从不解雇人。他处理客户关系，也处理政府事务。作为门面，他是负责人——他是公司的一切，而且公司对此心知肚明。"
-      },
-      {
-       "en": "PFEIFFER: He's the opposite of a hands-off manager. He's down there on the floor with the worker bees. He kind of gets all aspects of the company?",
-       "zh": "PFEIFFER：他完全不是那种放手不管的管理者。他就在一线和工蜂们在一起。他有点了解公司的各个方面，对吗？"
-      },
-      {
-       "en": "KING: He acts like he owns it, and the people who work for him act like he owns the company. That's the bottom line, despite the fact that that's not true, despite the fact that it's a $4 trillion company. He hasn't got anything in the way of a succession plan that would lead you to believe, well, OK, maybe in the case of Microsoft, when Bill Gates leaves, Steve Ballmer steps up and everything's OK. That's just not the way NVIDIA is run and the way NVIDIA is structured.",
-       "zh": "国王：他表现得好像自己拥有它，而为他工作的人也表现得好像他拥有这家公司。这就是根本问题，尽管事实并非如此，尽管这是一家市值4万亿美元的公司。他没有任何继任计划，让你觉得，嗯，好吧，也许在微软的情况下，当比尔·盖茨离开时，史蒂夫·鲍默会接任，一切都会没问题。但NVIDIA并不是这样运作和组织的。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "industry",
-       "pos": "n.",
-       "zh": "行业；工业",
-       "ex": "NPR's Sacha Pfeiffer speaks with Bloomberg tech reporter Ian King about the unusually overarching role of Nvidia CEO Jensen Huang at his company and within the American tech industry at large.",
-       "forms": []
-      },
-      {
-       "w": "cost",
-       "pos": "n.",
-       "zh": "成本；代价",
-       "ex": "And their liaison could cost him everything.",
-       "forms": []
-      },
-      {
-       "w": "chip",
-       "pos": "n.",
-       "zh": "芯片",
-       "ex": "That sounds like a soap opera, and yet it is a thing that has actually happened to Jensen Huang, whose company, NVIDIA, creates many of the world's most powerful computer chips.",
-       "forms": [
-        "chips"
-       ]
-      },
-      {
-       "w": "intelligence",
-       "pos": "n.",
-       "zh": "情报；智能",
-       "ex": "intelligence agencies believe the Chinese businesswoman was actually a spy for China.",
-       "forms": []
-      },
-      {
-       "w": "agency",
-       "pos": "n.",
-       "zh": "机构；代理",
-       "ex": "intelligence agencies believe the Chinese businesswoman was actually a spy for China.",
-       "forms": [
-        "agencies"
-       ]
-      },
-      {
-       "w": "deny",
-       "pos": "v.",
-       "zh": "否认",
-       "ex": "China denies that.",
-       "forms": [
-        "denies"
-       ]
-      },
-      {
-       "w": "admit",
-       "pos": "v.",
-       "zh": "承认；准许进入",
-       "ex": "But on Sunday, Jensen Huang did admit to the affair, and NVIDIA has lost hundreds of billions of dollars in market value in the last two days.",
-       "forms": []
-      },
-      {
-       "w": "billion",
-       "pos": "n.",
-       "zh": "十亿",
-       "ex": "But on Sunday, Jensen Huang did admit to the affair, and NVIDIA has lost hundreds of billions of dollars in market value in the last two days.",
-       "forms": [
-        "billions"
-       ]
-      },
-      {
-       "w": "market",
-       "pos": "n.",
-       "zh": "市场",
-       "ex": "But on Sunday, Jensen Huang did admit to the affair, and NVIDIA has lost hundreds of billions of dollars in market value in the last two days.",
-       "forms": [
-        "markets"
-       ]
-      },
-      {
-       "w": "economy",
-       "pos": "n.",
-       "zh": "经济",
-       "ex": "economy?",
-       "forms": []
-      },
-      {
-       "w": "financial",
-       "pos": "adj.",
-       "zh": "金融的；财务的",
-       "ex": "financial markets.",
-       "forms": []
-      },
-      {
-       "w": "scandal",
-       "pos": "n.",
-       "zh": "丑闻",
-       "ex": "Tell us why that matters when we talk about this what otherwise might be a sort of simple corporate affair scandal story.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "industry",
-      "cost",
-      "chip",
-      "intelligence",
-      "agency"
-     ],
-     "keyVocab": [
-      "industry",
-      "cost",
-      "chip",
-      "intelligence",
-      "agency",
-      "deny",
-      "admit",
-      "billion"
-     ]
-    },
-    {
-     "id": "2026-11-11-technology",
-     "section": "Technology",
-     "sectionZh": "科技",
-     "title": "Testing the new generation of AI-enabled fire-extinguishing drones",
-     "dek": "On a rare overcast day in late summer, red-and-white fire trucks pepper a grassy strip of land in the mountains of western Colorado.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/10/nx-s1-6030962/testing-the-new-generation-of-ai-enabled-fire-extinguishing-drones",
-     "byline": "Halle Zander",
-     "dateLabel": "2026-11-11",
-     "words": 261,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "On a rare overcast day in late summer, red-and-white fire trucks pepper a grassy strip of land in the mountains of western Colorado.",
-       "zh": "在夏末一个罕见的阴天，红白相间的消防车点缀在科罗拉多西部山区的一片草地上。"
-      },
-      {
-       "en": "A persistent buzzing rises and falls as several uniformed staff from the Aspen Fire Protection District huddle around an iPad, watching one of their volunteer firefighters control a massive drone.",
-       "zh": "当来自阿斯彭消防保护区的几名穿制服的工作人员围在一台iPad周围，观看他们的一名志愿消防员操控一台巨大的无人机时，一种持续的嗡嗡声时高时低地响起。"
-      },
-      {
-       "en": "This first-of-its-kind machine looks like a giant bug. Black and white with propellers attached to four large arms, it's about 10 by 12 feet wide — roughly the size of a small U-Haul trailer.",
-       "zh": "这款首创的机器看起来像一只巨大的虫子。它是黑白相间的，四个大臂上装有螺旋桨，宽约10乘12英尺——大约是一个小型U-Haul拖车的大小。"
-      },
-      {
-       "en": "While firefighters have used drones to monitor wildfires for decades, this new product could use AI to help extinguish fires.",
-       "zh": "虽然消防员已经使用无人机监控野火几十年，但这款新产品可以利用人工智能帮助扑灭火灾。"
-      },
-      {
-       "en": "Developed by the California-based company Seneca, the drones are designed to work in a swarm. Similar to a small fire engine, five of them can carry 500 to 1,000 gallons of finished fire foam, and firefighters in Aspen reported they were easy to operate.",
-       "zh": "由位于加利福尼亚的公司塞内卡开发，这些无人机被设计为群体协作。类似于一辆小型消防车，五架无人机可以携带500到1000加仑的成品灭火泡沫，阿斯本的消防员报告说它们操作起来很容易。"
-      },
-      {
-       "en": "\"We were just joking that my 12-year-old could fly these things,\" said Andy Fisher, deputy chief of Aspen Fire.",
-       "zh": "阿斯本消防副局长安迪·费舍尔说：“我们只是在开玩笑，说我12岁的孩子都能驾驶这些东西。”"
-      },
-      {
-       "en": "When Aspen Fire officially launches its new drone program, as early as next year, it'll be the first fire department in the world to operate the drones independently. So far, they've only been used on prescribed burns in California with support from Seneca's staff.",
-       "zh": "当阿斯本消防局正式启动其新的无人机项目时，最早可能在明年，它将成为世界上第一个独立操作无人机的消防部门。到目前为止，它们仅在加州的规定烧除中使用，并且有塞内卡工作人员的支持。"
-      },
-      {
-       "en": "Fisher wants to send these drones to hard-to-reach fires, like remote lightning strikes, before firefighters arrive. The city of Aspen, famously home to billions of dollars in real estate, is surrounded by dense forests — like an expensive tinderbox with few evacuation routes for residents and visitors.",
-       "zh": "费舍尔希望在消防员到达之前，将这些无人机送到难以到达的火灾现场，比如偏远的雷击地点。著名的阿斯彭市，以数十亿美元的房地产闻名，四周被浓密的森林包围——就像一个昂贵的火药桶，居民和游客的疏散路线很少。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "land",
-       "pos": "n.",
-       "zh": "土地；陆地",
-       "ex": "On a rare overcast day in late summer, red-and-white fire trucks pepper a grassy strip of land in the mountains of western Colorado.",
-       "forms": []
-      },
-      {
-       "w": "rise",
-       "pos": "n.",
-       "zh": "上升；上涨",
-       "ex": "A persistent buzzing rises and falls as several uniformed staff from the Aspen Fire Protection District huddle around an iPad, watching one of their volunteer firefighters control a massive drone.",
-       "forms": [
-        "rises"
-       ]
-      },
-      {
-       "w": "fall",
-       "pos": "n.",
-       "zh": "下降；下跌",
-       "ex": "A persistent buzzing rises and falls as several uniformed staff from the Aspen Fire Protection District huddle around an iPad, watching one of their volunteer firefighters control a massive drone.",
-       "forms": [
-        "falls"
-       ]
-      },
-      {
-       "w": "drone",
-       "pos": "n.",
-       "zh": "无人机",
-       "ex": "A persistent buzzing rises and falls as several uniformed staff from the Aspen Fire Protection District huddle around an iPad, watching one of their volunteer firefighters control a massive drone.",
-       "forms": [
-        "drones"
-       ]
-      },
-      {
-       "w": "wildfire",
-       "pos": "n.",
-       "zh": "野火",
-       "ex": "While firefighters have used drones to monitor wildfires for decades, this new product could use AI to help extinguish fires.",
-       "forms": [
-        "wildfires"
-       ]
-      },
-      {
-       "w": "product",
-       "pos": "n.",
-       "zh": "产品",
-       "ex": "While firefighters have used drones to monitor wildfires for decades, this new product could use AI to help extinguish fires.",
-       "forms": []
-      },
-      {
-       "w": "report",
-       "pos": "n.",
-       "zh": "报告；报道",
-       "ex": "Similar to a small fire engine, five of them can carry 500 to 1,000 gallons of finished fire foam, and firefighters in Aspen reported they were easy to operate.",
-       "forms": [
-        "reported"
-       ]
-      },
-      {
-       "w": "support",
-       "pos": "v.",
-       "zh": "支持",
-       "ex": "So far, they've only been used on prescribed burns in California with support from Seneca's staff.",
-       "forms": []
-      },
-      {
-       "w": "strike",
-       "pos": "n.",
-       "zh": "罢工；打击",
-       "ex": "Fisher wants to send these drones to hard-to-reach fires, like remote lightning strikes, before firefighters arrive.",
-       "forms": [
-        "strikes"
-       ]
-      },
-      {
-       "w": "billion",
-       "pos": "n.",
-       "zh": "十亿",
-       "ex": "The city of Aspen, famously home to billions of dollars in real estate, is surrounded by dense forests — like an expensive tinderbox with few evacuation routes for residents and visitors.",
-       "forms": [
-        "billions"
-       ]
-      },
-      {
-       "w": "forest",
-       "pos": "n.",
-       "zh": "森林",
-       "ex": "The city of Aspen, famously home to billions of dollars in real estate, is surrounded by dense forests — like an expensive tinderbox with few evacuation routes for residents and visitors.",
-       "forms": [
-        "forests"
-       ]
-      },
-      {
-       "w": "resident",
-       "pos": "n.",
-       "zh": "居民",
-       "ex": "The city of Aspen, famously home to billions of dollars in real estate, is surrounded by dense forests — like an expensive tinderbox with few evacuation routes for residents and visitors.",
-       "forms": [
-        "residents"
-       ]
-      }
-     ],
-     "homeWords": [
-      "land",
-      "rise",
-      "fall",
-      "drone",
-      "wildfire"
-     ],
-     "keyVocab": [
-      "land",
-      "rise",
-      "fall",
-      "drone",
-      "wildfire",
-      "product",
-      "report",
-      "support"
-     ]
-    },
-    {
-     "id": "2026-11-11-science",
-     "section": "Science",
-     "sectionZh": "科学",
-     "title": "Climate change is altering the colors we see in the world: an illustrated journey",
-     "dek": "Imagine the bright tones of coral under the sea. What do you see? What colors come to mind?",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
-     "byline": "Connie Hanzhang Jin",
-     "dateLabel": "2026-11-11",
-     "words": 311,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "Imagine the bright tones of coral under the sea. What do you see? What colors come to mind?",
-       "zh": "想象海底珊瑚的明亮色调。你看到了什么？脑海中浮现出哪些颜色？"
-      },
-      {
-       "en": "One of the ways that climate change will alter — or has already altered — our world is by shifting the familiar colors of nature. When warming ocean waters bleach the vibrant colors of coral to white, that’s one example.",
-       "zh": "气候变化将改变——或已经改变——我们世界的一种方式是通过改变自然界熟悉的颜色。当变暖的海水将珊瑚鲜艳的颜色漂白成白色时，这就是一个例子。"
-      },
-      {
-       "en": "“Many young scientists who are working on coral reefs don’t realize that what they’re seeing is vastly degraded,” says Anya Salih, a scientist who has studied coral reefs and their fluorescent colors for decades. “It’s often hard to perceive how it was to what it is now.”",
-       "zh": "“许多从事珊瑚礁研究的年轻科学家并没有意识到他们所看到的其实已经严重退化，”长期研究珊瑚礁及其荧光色彩的科学家安雅·萨利赫说。“通常很难察觉它曾经的样子与现在的差距。”"
-      },
-      {
-       "en": "This change of color isn’t just aesthetic. For coral, bleaching leaves them vulnerable to disease and other stressors that can lead to death. In other situations, these color changes have more complex impacts, ones that scientists are still trying to understand.",
-       "zh": "这种颜色的变化不仅仅是审美上的。对于珊瑚来说，白化会使它们容易受到疾病和其他压力因素的影响，这些都可能导致死亡。在其他情况下，这些颜色变化有更复杂的影响，科学家们仍在试图理解这些影响。"
-      },
-      {
-       "en": "Every summer, massive climate-driven wildfires spread soot across huge swaths of the Arctic, covering the ice in a blanket of black particles. Soot pollution from oil and gas operations, as well as commercial shipping and increased tourism, contributes to the problem at both poles.",
-       "zh": "每年夏天，由气候驱动的大规模野火会将烟尘传播到北极的大片地区，为冰层覆盖上一层黑色颗粒的毯子。来自油气作业、商业航运以及增加的旅游活动的烟尘污染，也在两极加剧了这一问题。"
-      },
-      {
-       "en": "The dark particles coat white snow and soak up heat from the sun, exacerbating melting that was already happening more quickly because of climate change. Increased melting in the Arctic leads to sea level rise, which threatens communities across the world. And the soot itself pollutes the air and water it seeps into.",
-       "zh": "黑色颗粒覆盖在白雪上并吸收太阳的热量，加剧了由于气候变化已经加快的融化。北极地区融化的增加导致海平面上升，这威胁着世界各地的社区。而黑碳本身也污染了其渗入的空气和水。"
-      },
-      {
-       "en": "“We know that the high northern latitudes are warming faster than the rest of the planet,” says Douglas Morton, an Earth scientist at NASA’s Goddard Space Flight Center. These changes are shifting the colors of the Arctic landscape.",
-       "zh": "“我们知道，高纬度地区的变暖速度比地球其他地区更快，”美国宇航局戈达德太空飞行中心的地球科学家道格拉斯·莫顿说。这些变化正在改变北极景观的颜色。"
-      },
-      {
-       "en": "Annual surface air temperature, departure from the 1991-2020 mean",
-       "zh": "年度地表空气温度，相对于1991-2020年均值的偏差"
-      },
-      {
-       "en": "Beyond the Arctic ice at the pole, farther south, lie vast regions of permafrost: soil that has remained frozen for years.",
-       "zh": "在北极冰层以外，更向南，是广阔的永久冻土区：多年保持冻结的土壤。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "climate",
-       "pos": "n.",
-       "zh": "气候",
-       "ex": "One of the ways that climate change will alter — or has already altered — our world is by shifting the familiar colors of nature.",
-       "forms": []
-      },
-      {
-       "w": "change",
-       "pos": "n.",
-       "zh": "变化；改变",
-       "ex": "One of the ways that climate change will alter — or has already altered — our world is by shifting the familiar colors of nature.",
-       "forms": [
-        "changes"
-       ]
-      },
-      {
-       "w": "shift",
-       "pos": "n.",
-       "zh": "转变；转移",
-       "ex": "One of the ways that climate change will alter — or has already altered — our world is by shifting the familiar colors of nature.",
-       "forms": [
-        "shifting"
-       ]
-      },
-      {
-       "w": "water",
-       "pos": "n.",
-       "zh": "水",
-       "ex": "When warming ocean waters bleach the vibrant colors of coral to white, that’s one example.",
-       "forms": [
-        "waters"
-       ]
-      },
-      {
-       "w": "young",
-       "pos": "adj.",
-       "zh": "年轻的",
-       "ex": "“Many young scientists who are working on coral reefs don’t realize that what they’re seeing is vastly degraded,” says Anya Salih, a scientist who has studied coral reefs and their fluorescent colors for decades.",
-       "forms": []
-      },
-      {
-       "w": "scientist",
-       "pos": "n.",
-       "zh": "科学家",
-       "ex": "“Many young scientists who are working on coral reefs don’t realize that what they’re seeing is vastly degraded,” says Anya Salih, a scientist who has studied coral reefs and their fluorescent colors for decades.",
-       "forms": [
-        "scientists"
-       ]
-      },
-      {
-       "w": "study",
-       "pos": "n.",
-       "zh": "研究；学习",
-       "ex": "“Many young scientists who are working on coral reefs don’t realize that what they’re seeing is vastly degraded,” says Anya Salih, a scientist who has studied coral reefs and their fluorescent colors for decades.",
-       "forms": [
-        "studied"
-       ]
-      },
-      {
-       "w": "aesthetic",
-       "pos": "n.",
-       "zh": "美学；审美",
-       "ex": "“It’s often hard to perceive how it was to what it is now.” This change of color isn’t just aesthetic.",
-       "forms": []
-      },
-      {
-       "w": "vulnerable",
-       "pos": "adj.",
-       "zh": "脆弱的；易受伤害的",
-       "ex": "For coral, bleaching leaves them vulnerable to disease and other stressors that can lead to death.",
-       "forms": []
-      },
-      {
-       "w": "disease",
-       "pos": "n.",
-       "zh": "疾病",
-       "ex": "For coral, bleaching leaves them vulnerable to disease and other stressors that can lead to death.",
-       "forms": []
-      },
-      {
-       "w": "impact",
-       "pos": "n.",
-       "zh": "影响；冲击",
-       "ex": "In other situations, these color changes have more complex impacts, ones that scientists are still trying to understand.",
-       "forms": [
-        "impacts"
-       ]
-      },
-      {
-       "w": "wildfire",
-       "pos": "n.",
-       "zh": "野火",
-       "ex": "Every summer, massive climate-driven wildfires spread soot across huge swaths of the Arctic, covering the ice in a blanket of black particles.",
-       "forms": [
-        "wildfires"
-       ]
-      }
-     ],
-     "homeWords": [
-      "climate",
-      "change",
-      "shift",
-      "water",
-      "young"
-     ],
-     "keyVocab": [
-      "climate",
-      "change",
-      "shift",
-      "water",
-      "young",
-      "scientist",
-      "study",
-      "aesthetic"
-     ]
-    },
-    {
-     "id": "2026-11-11-culture",
-     "section": "Culture",
-     "sectionZh": "文化",
-     "title": "Americans across the economic spectrum feel a 'panic' about finances, author says",
-     "dek": "How much money would it take for you to feel financially secure? Pulitzer Prize-winning journalist Mona Chalabi spent five years following 10 Americans, from those living paycheck to paycheck to…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/10/nx-s1-6032767/mona-chalabi-ten-lives",
-     "byline": "Tonya Mosley",
-     "dateLabel": "2026-11-11",
-     "words": 406,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "How much money would it take for you to feel financially secure? Pulitzer Prize-winning journalist Mona Chalabi spent five years following 10 Americans, from those living paycheck to paycheck to those earning hundreds of thousands of dollars a year, in an effort to answer that question. Her new book, Ten Lives: How What We Have Shapes Who We Are, explores why financial security can feel so elusive.",
-       "zh": "需要多少钱才能让你感到财务安全？普利策奖获奖记者莫娜·查拉比花了五年时间跟踪调查了10名美国人，从靠工资勉强度日的人到年收入数十万美元的人，试图回答这个问题。她的新书《十种人生：我们拥有什么塑造了我们是谁》探讨了为什么财务安全感会显得如此难以捉摸。"
-      },
-      {
-       "en": "\"It's called 10 Lives because I specifically didn't just want to focus on the 1%,\" Chalabi says. \"Instead I wanted to talk about how the 99% of us aren't all in it together, and the kind of power differentials between us.\"",
-       "zh": "查拉比说：“它被称为《10条生命》，因为我特别不想只关注1%。相反，我想谈谈我们99%的人并不是完全站在一起的，以及我们之间存在的权力差异。”"
-      },
-      {
-       "en": "Chalabi says almost everyone she profiled in the book was deeply worried about their financial future, even those who earn plenty of money.",
-       "zh": "查拉比说，她在书中描写的几乎每个人都对自己的财务未来非常担忧，即使是那些赚很多钱的人也是如此。"
-      },
-      {
-       "en": "\"Across the board, everyone just seemed to be expressing this feeling of panic that I think is really, really particular to U.S. capitalism, which is an incredibly precarious and cruel system where you are one crisis away from experiencing a real economic shock,\" she says.",
-       "zh": "“总体而言，每个人似乎都在表达这种恐慌的感觉，我认为这确实是美国资本主义特有的，这是一种极其不稳定和残酷的制度，你可能因为一次危机就遭遇真正的经济冲击，”她说。"
-      },
-      {
-       "en": "Chalabi also noticed that many of the people she profiled considered themselves middle class, regardless of what their actual income was. She says that disconnect between actual wealth and a sense of class has consequences — not just for how we see ourselves, but also in how we judge everybody else.",
-       "zh": "查拉比还注意到，她所描绘的许多人认为自己是中产阶级，不管他们的实际收入是多少。她说，实际财富与阶级感之间的这种脱节有其后果——不仅影响我们如何看待自己，也影响我们如何评判其他人。"
-      },
-      {
-       "en": "\"To be poor in this country is to encounter an enormous, enormous array of obstacles, including assumptions about your intelligence [and] your educational level,\" she says. \"And so it's actually quite rational sometimes for people to try to present themselves as middle class, maybe even to try and signal wealth with the clothes that they buy or the cars that they drive. I don't think it's simply aspirational. I also think it is them trying to avoid the discrimination that they might face if their real income level were disclosed.\"",
-       "zh": "“在这个国家，贫穷意味着要面对大量、巨大的障碍，包括人们对你的智力和教育水平的假设，”她说。“因此，有时候人们试图表现得像中产阶级，甚至通过他们购买的衣服或驾驶的汽车来显示财富，实际上是相当理性的。我不认为这仅仅是追求向上；我也认为这是他们试图避免如果真实收入水平被公开可能面临的歧视。”"
-      },
-      {
-       "en": "On the importance of parents when it comes to financial security",
-       "zh": "论父母在财务安全方面的重要性"
-      },
-      {
-       "en": "If you really want to understand somebody's economic security, you need to understand who they can turn to when times get hard, and obviously a household is an imperfect measure of that. People sometimes even live with spouses that they can't necessarily lean on. ... But one of the things that came out time and time and time again from the book is how much money your parents have is so profound in shaping your economic security. …",
-       "zh": "如果你真的想了解某人的经济安全状况，你需要了解他们在困难时期可以依靠谁，而显然一个家庭是对此不完全准确的衡量标准。人们有时甚至会和他们不一定可以依靠的配偶生活在一起。……但这本书一次又一次强调的一点是，你父母有多少钱在塑造你的经济安全方面有着深远的影响。……"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "journalist",
-       "pos": "n.",
-       "zh": "记者；新闻工作者",
-       "ex": "Pulitzer Prize-winning journalist Mona Chalabi spent five years following 10 Americans, from those living paycheck to paycheck to those earning hundreds of thousands of dollars a year, in an effort to answer that question.",
-       "forms": []
-      },
-      {
-       "w": "financial",
-       "pos": "adj.",
-       "zh": "金融的；财务的",
-       "ex": "Her new book, Ten Lives: How What We Have Shapes Who We Are, explores why financial security can feel so elusive.",
-       "forms": []
-      },
-      {
-       "w": "power",
-       "pos": "n.",
-       "zh": "权力；电力",
-       "ex": "\"Instead I wanted to talk about how the 99% of us aren't all in it together, and the kind of power differentials between us.\" Chalabi says almost everyone she profiled in the book was deeply worried about their financial future, even those who earn plenty of money.",
-       "forms": []
-      },
-      {
-       "w": "future",
-       "pos": "n.",
-       "zh": "未来",
-       "ex": "\"Instead I wanted to talk about how the 99% of us aren't all in it together, and the kind of power differentials between us.\" Chalabi says almost everyone she profiled in the book was deeply worried about their financial future, even those who earn plenty of money.",
-       "forms": []
-      },
-      {
-       "w": "economic",
-       "pos": "adj.",
-       "zh": "经济的",
-       "ex": "capitalism, which is an incredibly precarious and cruel system where you are one crisis away from experiencing a real economic shock,\" she says.",
-       "forms": []
-      },
-      {
-       "w": "income",
-       "pos": "n.",
-       "zh": "收入",
-       "ex": "Chalabi also noticed that many of the people she profiled considered themselves middle class, regardless of what their actual income was.",
-       "forms": []
-      },
-      {
-       "w": "wealth",
-       "pos": "n.",
-       "zh": "财富",
-       "ex": "She says that disconnect between actual wealth and a sense of class has consequences — not just for how we see ourselves, but also in how we judge everybody else.",
-       "forms": []
-      },
-      {
-       "w": "judge",
-       "pos": "n.",
-       "zh": "法官",
-       "ex": "She says that disconnect between actual wealth and a sense of class has consequences — not just for how we see ourselves, but also in how we judge everybody else.",
-       "forms": []
-      },
-      {
-       "w": "enormous",
-       "pos": "adj.",
-       "zh": "巨大的；庞大的",
-       "ex": "\"To be poor in this country is to encounter an enormous, enormous array of obstacles, including assumptions about your intelligence [and] your educational level,\" she says.",
-       "forms": []
-      },
-      {
-       "w": "intelligence",
-       "pos": "n.",
-       "zh": "情报；智能",
-       "ex": "\"To be poor in this country is to encounter an enormous, enormous array of obstacles, including assumptions about your intelligence [and] your educational level,\" she says.",
-       "forms": []
-      },
-      {
-       "w": "level",
-       "pos": "n.",
-       "zh": "水平；层级",
-       "ex": "\"To be poor in this country is to encounter an enormous, enormous array of obstacles, including assumptions about your intelligence [and] your educational level,\" she says.",
-       "forms": []
-      },
-      {
-       "w": "profound",
-       "pos": "adj.",
-       "zh": "深刻的；深远的",
-       "ex": "But one of the things that came out time and time and time again from the book is how much money your parents have is so profound in shaping your economic security.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "journalist",
-      "financial",
-      "power",
-      "future",
-      "economic"
-     ],
-     "keyVocab": [
-      "journalist",
-      "financial",
-      "power",
-      "future",
-      "economic",
-      "income",
-      "wealth",
-      "judge"
      ]
     }
    ]
