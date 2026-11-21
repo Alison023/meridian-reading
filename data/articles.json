@@ -1,6 +1,808 @@
 {
- "updated": "2026-11-20T07:34:31.726048+00:00",
+ "updated": "2026-11-21T07:34:34.746302+00:00",
  "days": [
+  {
+   "date": "2026-11-21",
+   "articles": [
+    {
+     "id": "2026-11-21-world",
+     "section": "World",
+     "sectionZh": "国际",
+     "title": "Another day of survival for a family in Ukraine",
+     "dek": "On the outskirts of Kyiv, one family prepares for the fifth winter of war against Russia — stockpiling food and fuel and trying to maintain as much a sense of normalcy as possible.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/20/nx-s1-6042206/another-day-of-survival-for-a-family-in-ukraine",
+     "byline": "Eleanor Beardsley",
+     "dateLabel": "2026-11-21",
+     "words": 385,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "On the outskirts of Kyiv, one family prepares for the fifth winter of war against Russia — stockpiling food and fuel and trying to maintain as much a sense of normalcy as possible.",
+       "zh": "在基辅郊区，一个家庭正在为与俄罗斯交战的第五个冬天做准备——储存粮食和燃料，并尽量保持一种正常的生活状态。"
+      },
+      {
+       "en": "For a fifth straight winter, Ukrainians fully expect that Russia will again attack their already weakened energy grid in an effort to break their will. But many Ukrainians are more determined than ever to hold on. NPR's Eleanor Beardsley spent time with one family outside Kyiv that has equipped itself for the worst.",
+       "zh": "连续第五个冬天，乌克兰人完全预计俄罗斯将再次攻击他们已经脆弱不堪的电网，以摧垮他们的意志。但许多乌克兰人比以往任何时候都更加坚定地要坚持下去。美国国家公共电台（NPR）的埃莉诺·比尔兹利（Eleanor Beardsley）与基辅郊外的一家人共度了一段时间，他们已经为最坏的情况做好了准备。"
+      },
+      {
+       "en": "ELEANOR BEARDSLEY, BYLINE: It's dinner time at the Pavlenco household in the town of Irpin just north of Kyiv. The power is out and, the streets are dark across most of the Kyiv region. But the Pavlenco duplex is a pocket of warmth and light as parents Roman and Tanya make dinner.",
+       "zh": "ELEANOR BEARDSLEY，署名：在基辅以北的伊尔平镇，帕夫连科一家正在享用晚餐。基辅地区大部分地方停电，街道一片漆黑。但帕夫连科家的双拼别墅却是一处温暖明亮的空间，父母罗曼和塔尼娅正在准备晚餐。"
+      },
+      {
+       "en": "BEARDSLEY: Eggplant, mashed potatoes and pickled tomatoes from Roman's father's garden in Moldova. Roman, a doctor, now sells medical equipment. He's been in Ukraine for two decades, but he was born in Moldova on Ukraine's southwest border, which means he does not have to serve in Ukraine's military. So the family could leave the country, but they choose to stay.",
+       "zh": "BEARDSLEY：茄子、土豆泥和腌番茄，来自罗曼父亲在摩尔多瓦的菜园。罗曼是一名医生，现在从事医疗器械销售。他在乌克兰已经生活了二十年，但他出生在乌克兰西南边境的摩尔多瓦，这意味着他不必在乌克兰军队服役。因此，这个家庭本可以离开乌克兰，但他们选择留下。"
+      },
+      {
+       "en": "ROMAN: We are still at home. We are still in our country. I really trust that our country will survive, and I want that my children will live here because I want that my children will grow up like Ukrainians. They should study here because if they will be there in Europe, they are not will be Ukrainians.",
+       "zh": "ROMAN：我们仍然在自己的家园。我们仍然在自己的国家。我真心相信我们的国家会挺过去，我希望我的孩子们能在这里生活，因为我希望我的孩子们能像乌克兰人一样成长。他们应该在这里上学，因为如果他们去欧洲，他们就不会是乌克兰人了。"
+      },
+      {
+       "en": "TANYA: Yes, it's the right choice because my children have good teachers here and music school and coach, sports coach, and the education here is very good.",
+       "zh": "TANYA：是的，这是正确的选择，因为我的孩子们在这里有优秀的老师，有音乐学校和教练，有体育教练，这里的教育非常好。"
+      },
+      {
+       "en": "BEARDSLEY: And they are ready for this fifth winter of war. We go to the basement for a look.",
+       "zh": "BEARDSLEY：他们已经为这场战争的第五个冬天做好了准备。我们去地下室看看。"
+      },
+      {
+       "en": "BEARDSLEY: Lodged between the washer and dryer is a massive electrical system with batteries called an inverter that is connected to several energy sources and toggles between them.",
+       "zh": "BEARDSLEY：在洗衣机和烘干机之间，有一个带有电池的大型电气系统，称为逆变器，它连接到多个能源并在这两者之间切换。"
+      },
+      {
+       "en": "ROMAN: I have the whole system. I have the solar panels on my roof. Another thing is batteries here. Thirdly, I have a grid electricity from the central electricity. Three sources - in the day from the sun, in the night from the batteries, and if we have from the central, we use that one.",
+       "zh": "ROMAN：我有一整套系统。我的屋顶上装有太阳能电池板。还有就是这里的电池。第三，我还有来自中央电网的电。有三种来源：白天用太阳能，晚上用电池，如果有中央电网的电，我们就用中央电网的电。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "family",
+       "pos": "n.",
+       "zh": "家庭",
+       "ex": "On the outskirts of Kyiv, one family prepares for the fifth winter of war against Russia — stockpiling food and fuel and trying to maintain as much a sense of normalcy as possible.",
+       "forms": []
+      },
+      {
+       "w": "stockpile",
+       "pos": "v.",
+       "zh": "囤积；储备",
+       "ex": "On the outskirts of Kyiv, one family prepares for the fifth winter of war against Russia — stockpiling food and fuel and trying to maintain as much a sense of normalcy as possible.",
+       "forms": [
+        "stockpiling"
+       ]
+      },
+      {
+       "w": "food",
+       "pos": "n.",
+       "zh": "食物",
+       "ex": "On the outskirts of Kyiv, one family prepares for the fifth winter of war against Russia — stockpiling food and fuel and trying to maintain as much a sense of normalcy as possible.",
+       "forms": []
+      },
+      {
+       "w": "expect",
+       "pos": "v.",
+       "zh": "预期；期待",
+       "ex": "For a fifth straight winter, Ukrainians fully expect that Russia will again attack their already weakened energy grid in an effort to break their will.",
+       "forms": []
+      },
+      {
+       "w": "energy",
+       "pos": "n.",
+       "zh": "能源；精力",
+       "ex": "For a fifth straight winter, Ukrainians fully expect that Russia will again attack their already weakened energy grid in an effort to break their will.",
+       "forms": []
+      },
+      {
+       "w": "grid",
+       "pos": "n.",
+       "zh": "电网；网格",
+       "ex": "For a fifth straight winter, Ukrainians fully expect that Russia will again attack their already weakened energy grid in an effort to break their will.",
+       "forms": []
+      },
+      {
+       "w": "power",
+       "pos": "n.",
+       "zh": "权力；电力",
+       "ex": "The power is out and, the streets are dark across most of the Kyiv region.",
+       "forms": []
+      },
+      {
+       "w": "region",
+       "pos": "n.",
+       "zh": "地区；区域",
+       "ex": "The power is out and, the streets are dark across most of the Kyiv region.",
+       "forms": []
+      },
+      {
+       "w": "doctor",
+       "pos": "n.",
+       "zh": "医生",
+       "ex": "Roman, a doctor, now sells medical equipment.",
+       "forms": []
+      },
+      {
+       "w": "border",
+       "pos": "n.",
+       "zh": "边境；边界",
+       "ex": "He's been in Ukraine for two decades, but he was born in Moldova on Ukraine's southwest border, which means he does not have to serve in Ukraine's military.",
+       "forms": []
+      },
+      {
+       "w": "military",
+       "pos": "n.",
+       "zh": "军队；军方",
+       "ex": "He's been in Ukraine for two decades, but he was born in Moldova on Ukraine's southwest border, which means he does not have to serve in Ukraine's military.",
+       "forms": []
+      },
+      {
+       "w": "study",
+       "pos": "n.",
+       "zh": "研究；学习",
+       "ex": "They should study here because if they will be there in Europe, they are not will be Ukrainians.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "family",
+      "stockpile",
+      "food",
+      "expect",
+      "energy"
+     ],
+     "keyVocab": [
+      "family",
+      "stockpile",
+      "food",
+      "expect",
+      "energy",
+      "grid",
+      "power",
+      "region"
+     ]
+    },
+    {
+     "id": "2026-11-21-business",
+     "section": "Business",
+     "sectionZh": "商业 · 财经",
+     "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
+     "dek": "NEW YORK — A bruising sell-off in artificial intelligence stocks on Friday pulled the S&P 500 down 3.7%, dragging the index to its worst weekly loss in more than 18 months, and knocking the Nasdaq…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
+     "byline": "The Associated Press",
+     "dateLabel": "2026-11-21",
+     "words": 295,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "NEW YORK — A bruising sell-off in artificial intelligence stocks on Friday pulled the S&P 500 down 3.7%, dragging the index to its worst weekly loss in more than 18 months, and knocking the Nasdaq composite into the red for the year.",
+       "zh": "纽约讯——周五，人工智能股遭遇重挫性抛售，导致标准普尔500指数下跌3.7%，创下18个多月以来的最大单周跌幅，并使纳斯达克综合指数今年以来转为下跌。"
+      },
+      {
+       "en": "The benchmark index is now in what professional investors call a \"correction,\" having fallen more than 10% from its Oct. 6 all-time high.",
+       "zh": "该基准指数目前正处于专业投资者所称的“回调”阶段，较10月6日历史高点已下跌超过10%。"
+      },
+      {
+       "en": "The last time the S&P 500 had a correction was March 2025, as the Trump administration's trade war rattled the market. Its weekly loss, marking its worst such decline since April 2025, as the trade war escalated, capped a seven-day losing streak, the longest such string of losses since the onset of the COVID-19 pandemic in 2020.",
+       "zh": "标普500指数上一次出现回调是在2025年3月，当时特朗普政府的贸易战令市场动荡不安。随着贸易战的升级，标普500指数的周跌幅创下2025年4月以来的最大跌幅，结束了七连跌的走势，这是自2020年新冠疫情爆发以来的最长连跌纪录。"
+      },
+      {
+       "en": "The Nasdaq composite, which is more greatly influenced by tech stocks, slumped 5.3%, pulling it into negative territory for the year. Its weekly loss was also just shy of its worst week since March 2020, when the pandemic ground the global economy to a halt.",
+       "zh": "受科技股影响更大的纳斯达克综合指数暴跌 5.3%，跌入年度负值区间。其周跌幅也仅次于2020年3月以来的最差一周，当时新冠疫情使全球经济陷入停滞。"
+      },
+      {
+       "en": "The Dow Jones Industrial Average, with less exposure to technology stocks, fell 1.9%.",
+       "zh": "道琼斯工业平均指数受科技股影响较小，下跌了1.9%。"
+      },
+      {
+       "en": "Chip stocks like Nvidia, Micron Technology, Broadcom and Advanced Micro Devices bore the brunt of the selling, but other companies connected to the AI buildout tanked as well, including the optical products company Corning and the energy provider Bloom Energy. The AI lab Anthropic, coming off a successful IPO Thursday, tumbled 9.1%.",
+       "zh": "英伟达、美光科技、博通和超威半导体等芯片股首当其冲，但与人工智能发展相关的其他公司也遭遇重挫，包括光学产品公司康宁和能源供应商Bloom Energy。人工智能实验室Anthropic周四成功上市，但股价随即大跌9.1%。"
+      },
+      {
+       "en": "The sell-off in technology stocks spread around the globe: Japan's Nikkei and South Korea's Kospi each fell more than 5% overnight. European indexes fell sharply as well.",
+       "zh": "科技股的抛售蔓延至全球：日本的日经指数和韩国的科斯达克指数隔夜均下跌超过 5%。欧洲股市也大幅下挫。"
+      },
+      {
+       "en": "AI stocks have hefty market values and have a much bigger impact on the market's direction. They were responsible for Wall Street's big gains this year and are now behind the big slide for the market.",
+       "zh": "人工智能股票的市值庞大，对市场走势的影响也大得多。它们是今年华尔街大涨的功臣，现在又成了市场大跌的幕后推手。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "artificial",
+       "pos": "adj.",
+       "zh": "人工的；人造的",
+       "ex": "NEW YORK — A bruising sell-off in artificial intelligence stocks on Friday pulled the S&P 500 down 3.7%, dragging the index to its worst weekly loss in more than 18 months, and knocking the Nasdaq composite into the red for the year.",
+       "forms": []
+      },
+      {
+       "w": "intelligence",
+       "pos": "n.",
+       "zh": "情报；智能",
+       "ex": "NEW YORK — A bruising sell-off in artificial intelligence stocks on Friday pulled the S&P 500 down 3.7%, dragging the index to its worst weekly loss in more than 18 months, and knocking the Nasdaq composite into the red for the year.",
+       "forms": []
+      },
+      {
+       "w": "benchmark",
+       "pos": "n.",
+       "zh": "基准；参照标准",
+       "ex": "The benchmark index is now in what professional investors call a \"correction,\" having fallen more than 10% from its Oct.",
+       "forms": []
+      },
+      {
+       "w": "investor",
+       "pos": "n.",
+       "zh": "投资者",
+       "ex": "The benchmark index is now in what professional investors call a \"correction,\" having fallen more than 10% from its Oct.",
+       "forms": [
+        "investors"
+       ]
+      },
+      {
+       "w": "market",
+       "pos": "n.",
+       "zh": "市场",
+       "ex": "The last time the S&P 500 had a correction was March 2025, as the Trump administration's trade war rattled the market.",
+       "forms": []
+      },
+      {
+       "w": "decline",
+       "pos": "n.",
+       "zh": "下降；衰退",
+       "ex": "Its weekly loss, marking its worst such decline since April 2025, as the trade war escalated, capped a seven-day losing streak, the longest such string of losses since the onset of the COVID-19 pandemic in 2020.",
+       "forms": []
+      },
+      {
+       "w": "pandemic",
+       "pos": "n.",
+       "zh": "大流行病",
+       "ex": "Its weekly loss, marking its worst such decline since April 2025, as the trade war escalated, capped a seven-day losing streak, the longest such string of losses since the onset of the COVID-19 pandemic in 2020.",
+       "forms": []
+      },
+      {
+       "w": "slump",
+       "pos": "n.",
+       "zh": "暴跌；低迷",
+       "ex": "The Nasdaq composite, which is more greatly influenced by tech stocks, slumped 5.3%, pulling it into negative territory for the year.",
+       "forms": [
+        "slumped"
+       ]
+      },
+      {
+       "w": "territory",
+       "pos": "n.",
+       "zh": "领土",
+       "ex": "The Nasdaq composite, which is more greatly influenced by tech stocks, slumped 5.3%, pulling it into negative territory for the year.",
+       "forms": []
+      },
+      {
+       "w": "global",
+       "pos": "adj.",
+       "zh": "全球的",
+       "ex": "Its weekly loss was also just shy of its worst week since March 2020, when the pandemic ground the global economy to a halt.",
+       "forms": []
+      },
+      {
+       "w": "economy",
+       "pos": "n.",
+       "zh": "经济",
+       "ex": "Its weekly loss was also just shy of its worst week since March 2020, when the pandemic ground the global economy to a halt.",
+       "forms": []
+      },
+      {
+       "w": "halt",
+       "pos": "v.",
+       "zh": "停止；叫停",
+       "ex": "Its weekly loss was also just shy of its worst week since March 2020, when the pandemic ground the global economy to a halt.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "artificial",
+      "intelligence",
+      "benchmark",
+      "investor",
+      "market"
+     ],
+     "keyVocab": [
+      "artificial",
+      "intelligence",
+      "benchmark",
+      "investor",
+      "market",
+      "decline",
+      "pandemic",
+      "slump"
+     ]
+    },
+    {
+     "id": "2026-11-21-technology",
+     "section": "Technology",
+     "sectionZh": "科技",
+     "title": "Tech stocks end the week on a down note, despite Anthropic's mega-IPO",
+     "dek": "The stock market is ending the week down despite Anthropic's blockbuster IPO and a strong Nvidia earnings report, largely thanks to investor jitters about the future of AI.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/20/nx-s1-6048645/tech-stocks-end-the-week-on-a-down-note-despite-anthropics-mega-ipo",
+     "byline": "Scott Detrow",
+     "dateLabel": "2026-11-21",
+     "words": 432,
+     "readTime": 3,
+     "level": "B2",
+     "levelEn": "Upper-intermediate",
+     "paragraphs": [
+      {
+       "en": "The stock market is ending the week down despite Anthropic's blockbuster IPO and a strong Nvidia earnings report, largely thanks to investor jitters about the future of AI.",
+       "zh": "尽管有Anthropic的重磅IPO和英伟达强劲的财报，但股市本周仍以下跌收官，这主要归因于投资者对人工智能未来的担忧。"
+      },
+      {
+       "en": "The stock market is ending the week down, way down. The tech-heavy NASDAQ has fallen 10% since last Friday. That is despite two really big events in tech that should have made investors feel pretty good. NPR tech correspondent John Ruwitch is here to walk us through the week. Hey, John.",
+       "zh": "股市本周收盘下跌，跌幅很大。自上周五以来，科技股为主的纳斯达克指数已下跌10%。尽管科技领域发生了两件非常重大的事件，本应让投资者感到相当振奋。NPR科技记者John Ruwitch将在这里为我们回顾本周行情。嗨，John。"
+      },
+      {
+       "en": "DETROW: A quick note before we get into the story - Anthropic is a financial supporter of NPR, and we are obviously going to talk about Anthropic. So that being said, John, bring us up to speed on what's been going on in the stock market this week.",
+       "zh": "DETROW：在进入正题之前，先简单说明一下——Anthropic是NPR的资助方，我们显然要谈到Anthropic。话虽如此，John，请向我们介绍一下本周股市的最新动态。"
+      },
+      {
+       "en": "RUWITCH: Yeah, let me tell you about the first of those two events that you mentioned there that, seen through one lens or maybe some different quantum reality, could be seen as positive for the markets. It was Nvidia's earnings report. This is the most important chip company on Earth because it makes the most in-demand microchips that are powering the AI boom. Its quarterly financials on Tuesday were great. Its revenues were up over 100% from the same quarter last year, and the company raised its projection for next year's revenues. These are signs the company is doing very well.",
+       "zh": "RUWITCH：是的，让我来谈谈你刚才提到的这两个事件中的第一个。从一个角度来看，或者从某种不同的量子现实来看，它可以被视为对市场有利的。那就是英伟达的财报。这是地球上最重要的芯片公司，因为它生产着最受欢迎的微芯片，这些微芯片正在推动人工智能的蓬勃发展。该公司周二公布的季度财务业绩非常出色。其收入较去年同期增长超过100%，公司上调了明年的收入预期。这些迹象表明公司经营状况非常好。"
+      },
+      {
+       "en": "But, of course, this is a company in a state of turmoil, right? Founder Jensen Huang stepped down as CEO last week over allegations of marital infidelity, including with a woman who might have been spying for China. Now, those financial figures were baked in long ago - right? - before the scandal and before Huang was replaced by an interim CEO. The market didn't like it, though. Nvidia's share price is down over 20% from last Friday's close and nearly 40% over the past month as this saga played out.",
+       "zh": "但当然，这家公司正处于动荡之中，对吧？创始人黄仁勋上周因婚外情指控而辞去首席执行官职务，其中涉及一名可能为中国从事间谍活动的女性。现在，这些财务数据是很久以前就定下来的，对吧？是在丑闻发生之前，在黄仁勋被临时首席执行官取代之前。不过，市场并不买账。随着这场风波的演进，英伟达的股价较上周五收盘时下跌了20%以上，较上月下跌了近40%。"
+      },
+      {
+       "en": "DETROW: So a complicated week, to put it mildly for an Nvidia.",
+       "zh": "DETROW：对于英伟达来说，这周可谓相当复杂，这还只是委婉的说法。"
+      },
+      {
+       "en": "DETROW: What about the second big event that investors were focused on?",
+       "zh": "DETROW：投资者关注的第二个大事件是什么？"
+      },
+      {
+       "en": "RUWITCH: ...The record-breaking IPO that this AI company had. It was the biggest in history. There was strong demand from institutional investors leading up to the IPO. The company was able to price its shares much higher than they had expected. And yesterday, on day one of trading to the public, its shares opened strong. They were 34% higher than the IPO price. That was all taken by some analysts as a sign that the AI trade is back and that there's robust demand for companies linked to AI.",
+       "zh": "RUWITCH：……这家人工智能公司创下IPO纪录。这是历史上规模最大的IPO。在IPO之前，机构投资者的需求非常旺盛。该公司得以将其股票定价定得比预期高得多。昨天，在面向公众交易的第一天，其股价开盘强劲。比IPO价格高出34%。一些分析师认为，所有这些都表明人工智能交易已经回归，与人工智能相关的公司需求强劲。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "market",
+       "pos": "n.",
+       "zh": "市场",
+       "ex": "The stock market is ending the week down despite Anthropic's blockbuster IPO and a strong Nvidia earnings report, largely thanks to investor jitters about the future of AI.",
+       "forms": [
+        "markets"
+       ]
+      },
+      {
+       "w": "report",
+       "pos": "n.",
+       "zh": "报告；报道",
+       "ex": "The stock market is ending the week down despite Anthropic's blockbuster IPO and a strong Nvidia earnings report, largely thanks to investor jitters about the future of AI.",
+       "forms": []
+      },
+      {
+       "w": "investor",
+       "pos": "n.",
+       "zh": "投资者",
+       "ex": "The stock market is ending the week down despite Anthropic's blockbuster IPO and a strong Nvidia earnings report, largely thanks to investor jitters about the future of AI.",
+       "forms": [
+        "investors"
+       ]
+      },
+      {
+       "w": "future",
+       "pos": "n.",
+       "zh": "未来",
+       "ex": "The stock market is ending the week down despite Anthropic's blockbuster IPO and a strong Nvidia earnings report, largely thanks to investor jitters about the future of AI.",
+       "forms": []
+      },
+      {
+       "w": "financial",
+       "pos": "adj.",
+       "zh": "金融的；财务的",
+       "ex": "DETROW: A quick note before we get into the story - Anthropic is a financial supporter of NPR, and we are obviously going to talk about Anthropic.",
+       "forms": [
+        "financials"
+       ]
+      },
+      {
+       "w": "quantum",
+       "pos": "n.",
+       "zh": "量子",
+       "ex": "RUWITCH: Yeah, let me tell you about the first of those two events that you mentioned there that, seen through one lens or maybe some different quantum reality, could be seen as positive for the markets.",
+       "forms": []
+      },
+      {
+       "w": "chip",
+       "pos": "n.",
+       "zh": "芯片",
+       "ex": "This is the most important chip company on Earth because it makes the most in-demand microchips that are powering the AI boom.",
+       "forms": []
+      },
+      {
+       "w": "power",
+       "pos": "n.",
+       "zh": "权力；电力",
+       "ex": "This is the most important chip company on Earth because it makes the most in-demand microchips that are powering the AI boom.",
+       "forms": [
+        "powering"
+       ]
+      },
+      {
+       "w": "boom",
+       "pos": "n.",
+       "zh": "繁荣；激增",
+       "ex": "This is the most important chip company on Earth because it makes the most in-demand microchips that are powering the AI boom.",
+       "forms": []
+      },
+      {
+       "w": "revenue",
+       "pos": "n.",
+       "zh": "收入；营收",
+       "ex": "Its revenues were up over 100% from the same quarter last year, and the company raised its projection for next year's revenues.",
+       "forms": [
+        "revenues"
+       ]
+      },
+      {
+       "w": "projection",
+       "pos": "n.",
+       "zh": "预测；推算",
+       "ex": "Its revenues were up over 100% from the same quarter last year, and the company raised its projection for next year's revenues.",
+       "forms": []
+      },
+      {
+       "w": "scandal",
+       "pos": "n.",
+       "zh": "丑闻",
+       "ex": "- before the scandal and before Huang was replaced by an interim CEO.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "market",
+      "report",
+      "investor",
+      "future",
+      "financial"
+     ],
+     "keyVocab": [
+      "market",
+      "report",
+      "investor",
+      "future",
+      "financial",
+      "quantum",
+      "chip",
+      "power"
+     ]
+    },
+    {
+     "id": "2026-11-21-science",
+     "section": "Science",
+     "sectionZh": "科学",
+     "title": "Trump's impact on an Ohio steel plant",
+     "dek": "The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal. The switch would have cut hazardous air pollution — and greenhouse gas emissions. But that…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant",
+     "byline": "Reid Frazier",
+     "dateLabel": "2026-11-21",
+     "words": 354,
+     "readTime": 3,
+     "level": "B2",
+     "levelEn": "Upper-intermediate",
+     "paragraphs": [
+      {
+       "en": "The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal. The switch would have cut hazardous air pollution — and greenhouse gas emissions. But that plan has changed under President Trump",
+       "zh": "位于俄亥俄州米德尔敦的这家大型钢铁厂计划不再使用焦炭（一种精炼煤）。这一转变本可以减少有害空气污染和温室气体排放。但在特朗普总统执政期间，该计划发生了变化。"
+      },
+      {
+       "en": "In Middletown, Ohio, a big steel mill is the city's largest employer and the biggest source of local air pollution. Under the Biden administration, the mill had planned to clean up its operations by shifting away from coal, but that has changed under President Trump. Middletown is now one example of the administration's efforts to boost fossil fuels. The Allegheny Front's Reid Frazier reports.",
+       "zh": "在俄亥俄州米德尔敦，一家大型钢铁厂是该市最大的雇主，也是当地最大的空气污染源。在拜登政府执政期间，该钢厂曾计划通过弃用煤炭来净化其生产运营，但在特朗普总统执政期间，这一计划发生了变化。米德尔敦现在是政府大力发展化石燃料的一个范例。阿勒格尼前线（Allegheny Front）的Reid Frazier为您报道。"
+      },
+      {
+       "en": "REID FRAZIER, BYLINE: Donna Ballinger stands outside her house in Middletown, Ohio.",
+       "zh": "REID FRAZIER，署名：Donna Ballinger站在俄亥俄州米德尔敦的自家门外。"
+      },
+      {
+       "en": "FRAZIER: Through a thicket of trees, she points to the Middletown Works, a steel mill which rises several stories above her home.",
+       "zh": "弗雷泽：她指着一丛树林后面的米德尔敦钢铁厂，这座钢铁厂比她的家高出好几层。"
+      },
+      {
+       "en": "FRAZIER: The plant makes steel the traditional way - using coke, a refined form of coal. That process emits a lot of air pollution, including carbon dioxide, which contributes to climate change. It also releases lots of soot, which drifts down onto Ballinger's neighborhood.",
+       "zh": "FRAZIER：该厂采用传统方式炼钢，使用焦炭，这是一种精炼的煤炭。该工艺会排放大量空气污染物，包括二氧化碳，这会加剧气候变化。它还会释放大量烟尘，这些烟尘飘落到巴林格所在的街区。"
+      },
+      {
+       "en": "BALLINGER: It's the fallout that's on everything we own, cars, property, kids' toys. You can't touch anything. You can't open your windows.",
+       "zh": "BALLINGER：放射性尘埃落在我们拥有的所有东西上，汽车、房产、孩子的玩具。你什么都不能碰。你不能打开窗户。"
+      },
+      {
+       "en": "FRAZIER: That soot is bad for human health. According to the EPA, the tiny particles are linked to higher rates of heart and lung problems, including asthma. Ballinger eventually got so fed up with the air quality, she began working with the local Sierra Club to try to force the plant to clean up.",
+       "zh": "FRAZIER：这种烟尘对人体健康有害。根据美国环保署的说法，这些微小颗粒与更高的心脏和肺部疾病发病率有关，包括哮喘。Ballinger最终对空气质量感到厌烦，她开始与当地的塞拉俱乐部合作，试图迫使该工厂进行整治。"
+      },
+      {
+       "en": "Then a few years ago, the steel mill did announce plans to cut its air pollution. Its owner, Cleveland-Cliffs, said it would convert to a new steelmaking process that doesn't use coal. Instead, it would switch to using natural gas or hydrogen. That would cut both the plant's local air pollution and its carbon footprint. That's important because the steel industry is a major source of climate pollution. CEO Lourenco Goncalves told investors at the time, hydrogen was the solution.",
+       "zh": "然后，几年前，这家钢铁厂确实宣布了减少空气污染的计划。其所有者Cliffs表示，将改用一种不使用煤炭的新型炼钢工艺。而是改用天然气或氢气。这将减少该厂的本地空气污染及其碳足迹。这一点很重要，因为钢铁行业是气候污染的主要来源。首席执行官Lourenco Goncalves当时对投资者表示，氢气是解决方案。"
+      },
+      {
+       "en": "LAURENCO GONCALVES: We believe hydrogen will be the true game changer for the decarbonization of steel.",
+       "zh": "LAURENCO GONCALVES：我们相信，氢能将成为钢铁脱碳的真正颠覆性因素。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "plant",
+       "pos": "n.",
+       "zh": "工厂；植物",
+       "ex": "The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal.",
+       "forms": []
+      },
+      {
+       "w": "pollution",
+       "pos": "n.",
+       "zh": "污染",
+       "ex": "The switch would have cut hazardous air pollution — and greenhouse gas emissions.",
+       "forms": []
+      },
+      {
+       "w": "gas",
+       "pos": "n.",
+       "zh": "天然气；气体",
+       "ex": "The switch would have cut hazardous air pollution — and greenhouse gas emissions.",
+       "forms": []
+      },
+      {
+       "w": "emission",
+       "pos": "n.",
+       "zh": "排放；排放物",
+       "ex": "The switch would have cut hazardous air pollution — and greenhouse gas emissions.",
+       "forms": [
+        "emissions"
+       ]
+      },
+      {
+       "w": "change",
+       "pos": "n.",
+       "zh": "变化；改变",
+       "ex": "But that plan has changed under President Trump In Middletown, Ohio, a big steel mill is the city's largest employer and the biggest source of local air pollution.",
+       "forms": [
+        "changed"
+       ]
+      },
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "But that plan has changed under President Trump In Middletown, Ohio, a big steel mill is the city's largest employer and the biggest source of local air pollution.",
+       "forms": []
+      },
+      {
+       "w": "local",
+       "pos": "adj.",
+       "zh": "当地的",
+       "ex": "But that plan has changed under President Trump In Middletown, Ohio, a big steel mill is the city's largest employer and the biggest source of local air pollution.",
+       "forms": []
+      },
+      {
+       "w": "administration",
+       "pos": "n.",
+       "zh": "政府；行政",
+       "ex": "Under the Biden administration, the mill had planned to clean up its operations by shifting away from coal, but that has changed under President Trump.",
+       "forms": []
+      },
+      {
+       "w": "shift",
+       "pos": "n.",
+       "zh": "转变；转移",
+       "ex": "Under the Biden administration, the mill had planned to clean up its operations by shifting away from coal, but that has changed under President Trump.",
+       "forms": [
+        "shifting"
+       ]
+      },
+      {
+       "w": "boost",
+       "pos": "v.",
+       "zh": "提振；推动",
+       "ex": "Middletown is now one example of the administration's efforts to boost fossil fuels.",
+       "forms": []
+      },
+      {
+       "w": "fossil",
+       "pos": "n.",
+       "zh": "化石",
+       "ex": "Middletown is now one example of the administration's efforts to boost fossil fuels.",
+       "forms": []
+      },
+      {
+       "w": "report",
+       "pos": "n.",
+       "zh": "报告；报道",
+       "ex": "The Allegheny Front's Reid Frazier reports.",
+       "forms": [
+        "reports"
+       ]
+      }
+     ],
+     "homeWords": [
+      "plant",
+      "pollution",
+      "gas",
+      "emission",
+      "change"
+     ],
+     "keyVocab": [
+      "plant",
+      "pollution",
+      "gas",
+      "emission",
+      "change",
+      "president",
+      "local",
+      "administration"
+     ]
+    },
+    {
+     "id": "2026-11-21-culture",
+     "section": "Culture",
+     "sectionZh": "文化",
+     "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
+     "dek": "A federal judge in Virginia plans to issue a preliminary injunction blocking President Trump's triumphal arch indefinitely.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington",
+     "byline": "Rachel Treisman",
+     "dateLabel": "2026-11-21",
+     "words": 332,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "A federal judge in Virginia plans to issue a preliminary injunction blocking President Trump's triumphal arch indefinitely.",
+       "zh": "弗吉尼亚州的一名联邦法官计划发布一项初步禁令，无限期阻止特朗普总统的凯旋门项目。"
+      },
+      {
+       "en": "District Judge Leonie Brinkema said during a Friday hearing that she would grant the request of the county board of Arlington, Va., which sued over the arch in October. Democracy Forward, the nonprofit representing the plaintiffs, confirmed the ruling in a statement shared with NPR.",
+       "zh": "地区法官Leonie Brinkema在周五的听证会上表示，她将批准弗吉尼亚州阿灵顿县委员会的请求，该委员会于10月就该拱门提起诉讼。代表原告的非营利组织Democracy Forward在与NPR分享的一份声明中确认了该裁决。"
+      },
+      {
+       "en": "\"We are pleased that the court has recognized the irreparable harm that will come to people who live and work in Arlington and stopped the massive vanity project while our case is heard and considered by the court,\" said senior counsel Kate Talmor.",
+       "zh": "“我们很高兴法院认识到在阿灵顿生活和工作的人们将遭受不可挽回的伤害，并在法院审理和审议我们的案件期间叫停了这个庞大的沽名钓誉项目。”高级律师Kate Talmor表示。"
+      },
+      {
+       "en": "Justice Department spokesperson Matthew Nies told NPR it will appeal the decision immediately.",
+       "zh": "司法部发言人马修·尼斯（Matthew Nies）告诉美国国家公共电台（NPR），司法部将立即对该裁决提起上诉。"
+      },
+      {
+       "en": "The 250-foot arch would be built in Memorial Circle, which is part of D.C. but sits on the Virginia side of the Potomac River, a short distance from both Arlington National Cemetery and Ronald Reagan Washington National Airport, both in Arlington.",
+       "zh": "这座76米高的拱门将建在纪念广场（Memorial Circle），该广场属于华盛顿特区，但位于波托马克河的弗吉尼亚州一侧，距离阿灵顿国家公墓和罗纳德·里根华盛顿国家机场（均位于阿灵顿）不远。"
+      },
+      {
+       "en": "Arlington County has argued that the arch would \"cause significant harm\" to its residents in multiple ways, including increasing noise and air pollution and \"clogging thoroughfares needed for emergency transport services.\" And it said an arch that doubles as a military complex — as Trump has suggested — would pose public safety risks and require additional county resources to manage.",
+       "zh": "阿灵顿县认为，拱门将以多种方式对该县居民“造成重大危害”，包括加剧噪音和空气污染，以及“堵塞紧急运输服务所需的交通要道”。该县还表示，正如特朗普所建议的那样，一座兼具军事建筑功能的拱门将对公共安全构成威胁，并需要县政府投入额外资源来管理。"
+      },
+      {
+       "en": "Arlington also argues the arch would disrupt historic sightlines between Arlington National Cemetery and D.C.'s National Mall, and pose logistical challenges for the roughly 24 to 27 funerals the cemetery holds every weekday. The county also has concerns about air and road traffic, saying construction-related delays could cause more accidents and disrupt emergency vehicles far beyond the traffic circle.",
+       "zh": "阿灵顿还认为，这座拱门将破坏阿灵顿国家公墓与华盛顿特区国家广场之间的历史视线，并给该公墓每个工作日举行的约24至27场葬礼带来后勤方面的挑战。该县还对空中和道路交通表示担忧，称与施工相关的延误可能导致更多事故，并对环岛以外的应急车辆造成干扰。"
+      },
+      {
+       "en": "\"In the last 60 days, Arlington police, fire, and emergency units have responded to approximately 200 incidents in the area surrounding the Circle, including traffic stops and assisting with unconscious persons within Arlington National Cemetery,\" they wrote. \"And the visitors the Arch is intended to attract will increase demand for those same emergency services.\"",
+       "zh": "他们写道：“在过去的60天里，阿灵顿的警察、消防和应急部门在环形广场周边地区处置了大约200起事件，包括拦停车辆和在阿灵顿国家公墓内协助处理昏迷人员。” “而拱门旨在吸引的游客将增加对这些同样应急服务的需求。”"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "federal",
+       "pos": "adj.",
+       "zh": "联邦的",
+       "ex": "A federal judge in Virginia plans to issue a preliminary injunction blocking President Trump's triumphal arch indefinitely.",
+       "forms": []
+      },
+      {
+       "w": "judge",
+       "pos": "n.",
+       "zh": "法官",
+       "ex": "A federal judge in Virginia plans to issue a preliminary injunction blocking President Trump's triumphal arch indefinitely.",
+       "forms": []
+      },
+      {
+       "w": "issue",
+       "pos": "n.",
+       "zh": "议题；问题",
+       "ex": "A federal judge in Virginia plans to issue a preliminary injunction blocking President Trump's triumphal arch indefinitely.",
+       "forms": []
+      },
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "A federal judge in Virginia plans to issue a preliminary injunction blocking President Trump's triumphal arch indefinitely.",
+       "forms": []
+      },
+      {
+       "w": "democracy",
+       "pos": "n.",
+       "zh": "民主；民主制度",
+       "ex": "Democracy Forward, the nonprofit representing the plaintiffs, confirmed the ruling in a statement shared with NPR.",
+       "forms": []
+      },
+      {
+       "w": "confirm",
+       "pos": "v.",
+       "zh": "证实；确认",
+       "ex": "Democracy Forward, the nonprofit representing the plaintiffs, confirmed the ruling in a statement shared with NPR.",
+       "forms": [
+        "confirmed"
+       ]
+      },
+      {
+       "w": "ruling",
+       "pos": "n.",
+       "zh": "裁决；裁定",
+       "ex": "Democracy Forward, the nonprofit representing the plaintiffs, confirmed the ruling in a statement shared with NPR.",
+       "forms": []
+      },
+      {
+       "w": "statement",
+       "pos": "n.",
+       "zh": "声明；陈述",
+       "ex": "Democracy Forward, the nonprofit representing the plaintiffs, confirmed the ruling in a statement shared with NPR.",
+       "forms": []
+      },
+      {
+       "w": "court",
+       "pos": "n.",
+       "zh": "法院；法庭",
+       "ex": "\"We are pleased that the court has recognized the irreparable harm that will come to people who live and work in Arlington and stopped the massive vanity project while our case is heard and considered by the court,\" said senior counsel Kate Talmor.",
+       "forms": []
+      },
+      {
+       "w": "appeal",
+       "pos": "n.",
+       "zh": "上诉；呼吁",
+       "ex": "Justice Department spokesperson Matthew Nies told NPR it will appeal the decision immediately.",
+       "forms": []
+      },
+      {
+       "w": "national",
+       "pos": "adj.",
+       "zh": "国家的；全国的",
+       "ex": "but sits on the Virginia side of the Potomac River, a short distance from both Arlington National Cemetery and Ronald Reagan Washington National Airport, both in Arlington.",
+       "forms": []
+      },
+      {
+       "w": "argue",
+       "pos": "v.",
+       "zh": "主张；争论",
+       "ex": "Arlington County has argued that the arch would \"cause significant harm\" to its residents in multiple ways, including increasing noise and air pollution and \"clogging thoroughfares needed for emergency transport services.\" And it said an arch that doubles as a military complex — as Trump has suggested — would pose public safety risks and require additional county resources to manage.",
+       "forms": [
+        "argued",
+        "argues"
+       ]
+      }
+     ],
+     "homeWords": [
+      "federal",
+      "judge",
+      "issue",
+      "president",
+      "democracy"
+     ],
+     "keyVocab": [
+      "federal",
+      "judge",
+      "issue",
+      "president",
+      "democracy",
+      "confirm",
+      "ruling",
+      "statement"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-20",
    "articles": [
@@ -4408,763 +5210,6 @@
       "explain",
       "invasion",
       "novelist"
-     ]
-    }
-   ]
-  },
-  {
-   "date": "2026-11-14",
-   "articles": [
-    {
-     "id": "2026-11-14-world",
-     "section": "World",
-     "sectionZh": "国际",
-     "title": "What's Trump's strategy now with Iran? To keep things as they are",
-     "dek": "DUBAI, United Arab Emirates — President Trump is confronting new realities nine months into the war with Iran that leave him with dwindling options to ending the conflict.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
-     "byline": "Aya Batrawy",
-     "dateLabel": "2026-11-14",
-     "words": 253,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "DUBAI, United Arab Emirates — President Trump is confronting new realities nine months into the war with Iran that leave him with dwindling options to ending the conflict.",
-       "zh": "阿拉伯联合酋长国迪拜——与伊朗的战争已持续九个月，特朗普总统正面临新的现实，他结束这场冲突的选项越来越少。"
-      },
-      {
-       "en": "On Thursday, he waved away the need for a deal with Iran, saying the U.S. has billions of Iran's dollars frozen in overseas accounts.",
-       "zh": "周四，他否认了与伊朗达成协议的必要性，并表示美国在海外账户中冻结了伊朗数十亿美元的资金。"
-      },
-      {
-       "en": "\"We don't need a deal with Iran. Those days have long since passed. We've got their money,\" he wrote in a Truth Social post.",
-       "zh": "“我们不需要与伊朗达成协议。那些日子早已一去不复返了。我们拿到了他们的钱。”他在Truth Social上发帖写道。"
-      },
-      {
-       "en": "Negotiations with Iran are stuck with mediator Qatar working to bridge the divide. Trump met Qatar's prime minister at the White House this week, and said afterward that Gulf Arab allies prefer \"the status quo\" of continued economic pressure on Iran. He wrote that while the U.S. remains \"locked and loaded,\" an attack at this point \"seems to be quite unlikely.\"",
-       "zh": "与伊朗的谈判陷入僵局，调解国卡塔尔正努力弥合分歧。本周，特朗普在白宫会见了卡塔尔首相，会后表示，海湾阿拉伯盟友更倾向于继续对伊朗施加经济压力的“现状”。他写道，虽然美国仍然“严阵以待”，但目前看来“发动袭击的可能性相当小”。"
-      },
-      {
-       "en": "That's a pivot from his threats to carry out quick, intense strikes on Iran in the days before he had to contend with two election setbacks.",
-       "zh": "这是他从威胁要在其不得不应对两次选举挫折的前几天对伊朗发动快速、猛烈打击的立场上发生的转变。"
-      },
-      {
-       "en": "Trump's wartime ally, Israeli Prime Minister Benjamin Netanyahu, whom he'd thrown his support behind, is on the cusp of being ousted from power after elections there.",
-       "zh": "特朗普在战争时期的盟友、以色列总理本雅明·内塔尼亚胡（Benjamin Netanyahu）得到了他的支持，但在以色列大选后即将被赶下台。"
-      },
-      {
-       "en": "Meanwhile, at home, Trump's party lost its majority in Congress in midterm elections. Vice President Vance blamed Republican losses on the unpopular war with Iran and the nature of U.S. relations with Israel.",
-       "zh": "与此同时，在国内，特朗普的政党在中期选举中失去了国会多数席位。万斯副总统将共和党的失利归咎于不受欢迎的对伊战争以及美国与以色列关系的性质。"
-      },
-      {
-       "en": "With less room to room maneuver and Iran still defiant, Trump's strategy appears to be to keep things as they are, for now. That means the possibility of escalation still looms.",
-       "zh": "由于回旋余地较小，且伊朗仍态度强硬，特朗普的策略似乎是暂时维持现状。这意味着局势升级的可能性仍然存在。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "president",
-       "pos": "n.",
-       "zh": "总统；总裁",
-       "ex": "DUBAI, United Arab Emirates — President Trump is confronting new realities nine months into the war with Iran that leave him with dwindling options to ending the conflict.",
-       "forms": []
-      },
-      {
-       "w": "conflict",
-       "pos": "n.",
-       "zh": "冲突",
-       "ex": "DUBAI, United Arab Emirates — President Trump is confronting new realities nine months into the war with Iran that leave him with dwindling options to ending the conflict.",
-       "forms": []
-      },
-      {
-       "w": "billion",
-       "pos": "n.",
-       "zh": "十亿",
-       "ex": "has billions of Iran's dollars frozen in overseas accounts.",
-       "forms": [
-        "billions"
-       ]
-      },
-      {
-       "w": "social",
-       "pos": "adj.",
-       "zh": "社会的；社交的",
-       "ex": "We've got their money,\" he wrote in a Truth Social post.",
-       "forms": []
-      },
-      {
-       "w": "negotiation",
-       "pos": "n.",
-       "zh": "谈判；协商",
-       "ex": "Negotiations with Iran are stuck with mediator Qatar working to bridge the divide.",
-       "forms": [
-        "negotiations"
-       ]
-      },
-      {
-       "w": "minister",
-       "pos": "n.",
-       "zh": "部长；大臣",
-       "ex": "Trump met Qatar's prime minister at the White House this week, and said afterward that Gulf Arab allies prefer \"the status quo\" of continued economic pressure on Iran.",
-       "forms": []
-      },
-      {
-       "w": "economic",
-       "pos": "adj.",
-       "zh": "经济的",
-       "ex": "Trump met Qatar's prime minister at the White House this week, and said afterward that Gulf Arab allies prefer \"the status quo\" of continued economic pressure on Iran.",
-       "forms": []
-      },
-      {
-       "w": "threat",
-       "pos": "n.",
-       "zh": "威胁",
-       "ex": "remains \"locked and loaded,\" an attack at this point \"seems to be quite unlikely.\" That's a pivot from his threats to carry out quick, intense strikes on Iran in the days before he had to contend with two election setbacks.",
-       "forms": [
-        "threats"
-       ]
-      },
-      {
-       "w": "strike",
-       "pos": "n.",
-       "zh": "罢工；打击",
-       "ex": "remains \"locked and loaded,\" an attack at this point \"seems to be quite unlikely.\" That's a pivot from his threats to carry out quick, intense strikes on Iran in the days before he had to contend with two election setbacks.",
-       "forms": [
-        "strikes"
-       ]
-      },
-      {
-       "w": "election",
-       "pos": "n.",
-       "zh": "选举",
-       "ex": "remains \"locked and loaded,\" an attack at this point \"seems to be quite unlikely.\" That's a pivot from his threats to carry out quick, intense strikes on Iran in the days before he had to contend with two election setbacks.",
-       "forms": [
-        "elections"
-       ]
-      },
-      {
-       "w": "support",
-       "pos": "v.",
-       "zh": "支持",
-       "ex": "Trump's wartime ally, Israeli Prime Minister Benjamin Netanyahu, whom he'd thrown his support behind, is on the cusp of being ousted from power after elections there.",
-       "forms": []
-      },
-      {
-       "w": "power",
-       "pos": "n.",
-       "zh": "权力；电力",
-       "ex": "Trump's wartime ally, Israeli Prime Minister Benjamin Netanyahu, whom he'd thrown his support behind, is on the cusp of being ousted from power after elections there.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "president",
-      "conflict",
-      "billion",
-      "social",
-      "negotiation"
-     ],
-     "keyVocab": [
-      "president",
-      "conflict",
-      "billion",
-      "social",
-      "negotiation",
-      "minister",
-      "economic",
-      "threat"
-     ]
-    },
-    {
-     "id": "2026-11-14-business",
-     "section": "Business",
-     "sectionZh": "商业 · 财经",
-     "title": "Is there an opening for Nvidia's competitors, now that Jensen Huang is out?",
-     "dek": "NPR's Scott Detrow talks with Dylan Patel of the AI and semiconductor research firm SemiAnalysis about Jensen Huang's departure from Nvidia, and whether it opens up the field for Nvidia's competitors.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/13/nx-s1-6040264/is-there-an-opening-for-nvidias-competitors-now-that-jensen-huang-is-out",
-     "byline": "Kai McNamee",
-     "dateLabel": "2026-11-14",
-     "words": 562,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "NPR's Scott Detrow talks with Dylan Patel of the AI and semiconductor research firm SemiAnalysis about Jensen Huang's departure from Nvidia, and whether it opens up the field for Nvidia's competitors.",
-       "zh": "NPR的Scott Detrow与人工智能和半导体研究公司SemiAnalysis的Dylan Patel讨论了Jensen Huang离开英伟达一事，以及这是否为英伟达的竞争对手打开了局面。"
-      },
-      {
-       "en": "Nvidia has long been the kingpin of the semiconductor industry, a company whose huge technological bets paid off, making its chips the most in-demand chips in the world and crowning the company, for a time, the most valuable in the world. But with Nvidia's leader, Jensen Huang, out, does that leave an opening for Nvidia's competitors to catch up? We're going to put that question to Dylan Patel. He is founder and CEO of SemiAnalysis, an AI and semiconductor research firm. Welcome to ALL THINGS CONSIDERED.",
-       "zh": "英伟达长期以来一直是半导体行业的龙头老大，该公司的大胆技术押注获得了回报，使其芯片成为全球最受欢迎的芯片，并一度使该公司成为全球市值最高的公司。但是，随着英伟达的掌门人黄仁勋的离场，这是否为英伟达的竞争对手提供了赶超的机会？我们将向Dylan Patel提出这个问题。他是人工智能和半导体研究公司SemiAnalysis的创始人兼首席执行官。欢迎收听《ALL THINGS CONSIDERED》。"
-      },
-      {
-       "en": "DETROW: So you and others have estimated Nvidia is probably a year, two years ahead of its competitors. With Huang out, can other companies catch up?",
-       "zh": "DETROW：所以，您和其他人估计，英伟达可能比竞争对手领先一两年。黄仁勋离任后，其他公司能赶上吗？"
-      },
-      {
-       "en": "PATEL: I think that's the biggest risk at least. Over the last, you know, handful of years, Nvidia's lead has actually lessened, and so therefore, they've lost market share, albeit, the market has grown so fast, Nvidia's revenue and profits have skyrocketed so fast. But now, with, you know, many barbarians at the gate, when sort of Jensen is needed most, he sort of is disappearing or (inaudible) the game.",
-       "zh": "PATEL：我认为这至少是最大的风险。在过去的几年里，Nvidia的领先优势实际上有所缩小，因此，他们失去了市场份额，尽管市场增长非常快，Nvidia的收入和利润也飙升得非常快。但现在，你知道的，门外有许多野蛮人，在最需要Jensen的时候，他似乎在消失或（听不清）这场游戏。"
-      },
-      {
-       "en": "PATEL: I think most - the most to the company. The industry has for a long time tried to roll their own solution, you know, at least as far as the biggest customers. Google, Microsoft, Meta, Amazon all have been working on their own AI chips for, you know, a number of years. And yet, they all still relied on Nvidia. But their reliance is reducing to some extent, and that's their goal and has been their goal. And now, you know, the only way Nvidia can keep their market share and stay on top of the world is if they out execute everyone - right? - they keep innovating and bringing new technology to the market. But without Jensen, you know, the founder and the visionary of the company, it's going to be a lot harder for them to keep on top.",
-       "zh": "PATEL：我认为对公司来说影响最大。长期以来，业界一直在尝试推出自己的解决方案，至少就最大的客户而言是这样。谷歌、微软、Meta、亚马逊都在开发自己的AI芯片，已经有好几年了。然而，他们仍然都依赖英伟达。但他们的依赖程度正在一定程度上降低，这就是他们的目标，也一直是他们的目标。现在，你知道，Nvidia能够保持其市场份额并稳居世界巅峰的唯一途径就是超越所有竞争对手——对吧？他们不断创新，并将新技术推向市场。但如果没有Jensen——公司的创始人兼有远见的领导者——他们将很难继续保持领先地位。"
-      },
-      {
-       "en": "DETROW: One of the things you've written about that I think is really important to understand is the way that - like, sometimes I feel like a CEO's role in a company is overblown. But how much came to (ph) his personal decisions, his personal decision-making? Let's talk about this first on the supply side. How was his personal relationships with supply chain managers in Korea and Taiwan so key to Nvidia getting what it needed?",
-       "zh": "DETROW：您写过的一些内容中，我认为非常需要理解的一点是——比如，有时我觉得CEO在公司中的作用被夸大了。但是，他的个人决定、他的个人决策起到了多大作用？我们先从供应端谈起。他与韩国和台湾供应链经理的个人关系为何对英伟达获得所需资源如此关键？"
-      },
-      {
-       "en": "PATEL: There's no other company in the supply chain, including in the semiconductor supply chain, where the CEO is, every quarter, meeting with all his suppliers. And, you know, chips are such a complex supply chain. He has hundreds of suppliers. He's talking to every single one of them, going to Korea, going to Taiwan, going to China, meeting, having drinks with them, going to local fried chicken spots, or, you know, night food markets, everything to woo them. And given this is such a complex industry where, you know, products are improving by 2x a year - right? - it's at an incredible pace - you need your suppliers to have full focus and put their best engineers on your product. And this just keeps Nvidia ahead of everyone.",
-       "zh": "PATEL：在供应链中，包括半导体供应链中，没有哪家公司的首席执行官会每个季度都与所有供应商会面。你知道的，芯片的供应链非常复杂。他有数百家供应商。他与他们中的每一个人都进行了交谈，去了韩国、台湾、中国，与他们见面、一起喝酒，去当地的炸鸡店，或者，你知道的，去夜市，总之就是想尽一切办法来吸引他们。而且，考虑到这是一个非常复杂的行业，产品每年都在以两倍的速度改进——对吧？——速度快得令人难以置信——你需要供应商全力以赴，派出他们最优秀的工程师来负责你的产品。这让英伟达一直遥遥领先。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "semiconductor",
-       "pos": "n.",
-       "zh": "半导体",
-       "ex": "NPR's Scott Detrow talks with Dylan Patel of the AI and semiconductor research firm SemiAnalysis about Jensen Huang's departure from Nvidia, and whether it opens up the field for Nvidia's competitors.",
-       "forms": []
-      },
-      {
-       "w": "research",
-       "pos": "n.",
-       "zh": "研究",
-       "ex": "NPR's Scott Detrow talks with Dylan Patel of the AI and semiconductor research firm SemiAnalysis about Jensen Huang's departure from Nvidia, and whether it opens up the field for Nvidia's competitors.",
-       "forms": []
-      },
-      {
-       "w": "industry",
-       "pos": "n.",
-       "zh": "行业；工业",
-       "ex": "Nvidia has long been the kingpin of the semiconductor industry, a company whose huge technological bets paid off, making its chips the most in-demand chips in the world and crowning the company, for a time, the most valuable in the world.",
-       "forms": []
-      },
-      {
-       "w": "chip",
-       "pos": "n.",
-       "zh": "芯片",
-       "ex": "Nvidia has long been the kingpin of the semiconductor industry, a company whose huge technological bets paid off, making its chips the most in-demand chips in the world and crowning the company, for a time, the most valuable in the world.",
-       "forms": [
-        "chips"
-       ]
-      },
-      {
-       "w": "leader",
-       "pos": "n.",
-       "zh": "领导人",
-       "ex": "But with Nvidia's leader, Jensen Huang, out, does that leave an opening for Nvidia's competitors to catch up?",
-       "forms": []
-      },
-      {
-       "w": "estimate",
-       "pos": "n.",
-       "zh": "估计；估算",
-       "ex": "DETROW: So you and others have estimated Nvidia is probably a year, two years ahead of its competitors.",
-       "forms": [
-        "estimated"
-       ]
-      },
-      {
-       "w": "risk",
-       "pos": "n.",
-       "zh": "风险",
-       "ex": "PATEL: I think that's the biggest risk at least.",
-       "forms": []
-      },
-      {
-       "w": "market",
-       "pos": "n.",
-       "zh": "市场",
-       "ex": "Over the last, you know, handful of years, Nvidia's lead has actually lessened, and so therefore, they've lost market share, albeit, the market has grown so fast, Nvidia's revenue and profits have skyrocketed so fast.",
-       "forms": [
-        "markets"
-       ]
-      },
-      {
-       "w": "revenue",
-       "pos": "n.",
-       "zh": "收入；营收",
-       "ex": "Over the last, you know, handful of years, Nvidia's lead has actually lessened, and so therefore, they've lost market share, albeit, the market has grown so fast, Nvidia's revenue and profits have skyrocketed so fast.",
-       "forms": []
-      },
-      {
-       "w": "profit",
-       "pos": "n.",
-       "zh": "利润",
-       "ex": "Over the last, you know, handful of years, Nvidia's lead has actually lessened, and so therefore, they've lost market share, albeit, the market has grown so fast, Nvidia's revenue and profits have skyrocketed so fast.",
-       "forms": [
-        "profits"
-       ]
-      },
-      {
-       "w": "skyrocket",
-       "pos": "v.",
-       "zh": "飞涨；猛升",
-       "ex": "Over the last, you know, handful of years, Nvidia's lead has actually lessened, and so therefore, they've lost market share, albeit, the market has grown so fast, Nvidia's revenue and profits have skyrocketed so fast.",
-       "forms": [
-        "skyrocketed"
-       ]
-      },
-      {
-       "w": "solution",
-       "pos": "n.",
-       "zh": "解决方案",
-       "ex": "The industry has for a long time tried to roll their own solution, you know, at least as far as the biggest customers.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "semiconductor",
-      "research",
-      "industry",
-      "chip",
-      "leader"
-     ],
-     "keyVocab": [
-      "semiconductor",
-      "research",
-      "industry",
-      "chip",
-      "leader",
-      "estimate",
-      "risk",
-      "market"
-     ]
-    },
-    {
-     "id": "2026-11-14-technology",
-     "section": "Technology",
-     "sectionZh": "科技",
-     "title": "Microsoft outage disrupts work and gives some a chance to unplug",
-     "dek": "Millions of individuals, organizations and businesses were left without access to Microsoft's Outlook email on Thursday. Some people celebrated a day without email, while others work around obstacles.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/13/nx-s1-6040004/microsoft-outage-disrupts-work-and-gives-some-a-chance-to-unplug",
-     "byline": "Andrea Hsu",
-     "dateLabel": "2026-11-14",
-     "words": 282,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "Millions of individuals, organizations and businesses were left without access to Microsoft's Outlook email on Thursday. Some people celebrated a day without email, while others work around obstacles.",
-       "zh": "周四，数百万个人、组织和企业无法访问微软的Outlook电子邮件。有些人欢庆没有电子邮件的一天，而其他人则想方设法克服障碍。"
-      },
-      {
-       "en": "Microsoft says it is seeing broad recovery and stability following a massive outage of its Outlook email system and other applications yesterday. The company says it was a technical issue not related to AI agents. The outage hit millions of Microsoft users in more than 70 countries. NPR workplace correspondent Andrea Hsu hit the phones to find out how people weathered the disruption.",
-       "zh": "微软表示，在昨天其Outlook电子邮件系统和其他应用程序发生大规模宕机之后，目前正在全面恢复并趋于稳定。该公司表示，这是一个与AI代理无关的技术问题。这次服务中断影响了70多个国家/地区的数百万微软用户。NPR工作场所记者Andrea Hsu拨打电话，了解人们是如何应对这次服务中断的。"
-      },
-      {
-       "en": "ANDREA HSU, BYLINE: As president of the Global Healthy Living Foundation, Seth Ginsberg spends long days communicating with patients, doctors and government officials in the U.S., as well as Canada, Australia and Japan.",
-       "zh": "ANDREA HSU，署名：作为全球健康生活基金会（Global Healthy Living Foundation）的总裁，Seth Ginsberg每天花很长时间与美国、加拿大、澳大利亚和日本的患者、医生和政府官员沟通。"
-      },
-      {
-       "en": "HSU: Some 200 emails a day. But starting midday yesterday, for 20 hours, he heard nothing. For someone who's dedicated his career to improving the quality of life for people with chronic illnesses, it was jarring.",
-       "zh": "HSU：每天大约200封电子邮件。但从昨天中午开始，整整20个小时，他都没有收到任何消息。对于一个毕生致力于改善慢性病患者生活质量的人来说，这令人不安。"
-      },
-      {
-       "en": "GINSBERG: It was almost like an existential crisis because I went from feeling incredibly productive to wondering whether anyone needed me anymore.",
-       "zh": "GINSBERG：这几乎像是一场存在主义危机，因为我从感觉自己富有创造力，变成了怀疑是否还有人需要我。"
-      },
-      {
-       "en": "HSU: Once his tech team assured him that his emails would come through eventually, he settled in with pad and paper, worked on some follow-up notes from a rheumatology conference last week.",
-       "zh": "HSU：在技术团队向他保证电子邮件最终会送达后，他坐下来，拿起记事本和纸笔，开始整理上周风湿病学会议的一些后续笔记。"
-      },
-      {
-       "en": "GINSBERG: The funny part is how we're all so conditioned to respond to email that when it stops, we assume something terrible has happened. And apparently now, like, peace and quiet is a technical malfunction.",
-       "zh": "GINSBERG：有趣的是，我们都习惯于回复电子邮件，以至于当电子邮件停止时，我们会以为发生了什么可怕的事情。现在看来，宁静祥和似乎是一种技术故障。"
-      },
-      {
-       "en": "HSU: Now, even without email, people couldn't stay away from their devices. Social media was flooded with posts. On TikTok, Reba McEntire shared a song as she wondered why her inbox was quiet.",
-       "zh": "HSU：现在，即使没有电子邮件，人们也离不开自己的设备。社交媒体上充斥着各种帖子。在TikTok上，Reba McEntire分享了一首歌，同时她也想知道为什么她的收件箱里没有新邮件。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "million",
-       "pos": "n.",
-       "zh": "百万",
-       "ex": "Millions of individuals, organizations and businesses were left without access to Microsoft's Outlook email on Thursday.",
-       "forms": [
-        "millions"
-       ]
-      },
-      {
-       "w": "outlook",
-       "pos": "n.",
-       "zh": "前景；展望",
-       "ex": "Millions of individuals, organizations and businesses were left without access to Microsoft's Outlook email on Thursday.",
-       "forms": []
-      },
-      {
-       "w": "recovery",
-       "pos": "n.",
-       "zh": "复苏；恢复",
-       "ex": "Microsoft says it is seeing broad recovery and stability following a massive outage of its Outlook email system and other applications yesterday.",
-       "forms": []
-      },
-      {
-       "w": "issue",
-       "pos": "n.",
-       "zh": "议题；问题",
-       "ex": "The company says it was a technical issue not related to AI agents.",
-       "forms": []
-      },
-      {
-       "w": "disruption",
-       "pos": "n.",
-       "zh": "颠覆；中断；扰乱",
-       "ex": "NPR workplace correspondent Andrea Hsu hit the phones to find out how people weathered the disruption.",
-       "forms": []
-      },
-      {
-       "w": "president",
-       "pos": "n.",
-       "zh": "总统；总裁",
-       "ex": "ANDREA HSU, BYLINE: As president of the Global Healthy Living Foundation, Seth Ginsberg spends long days communicating with patients, doctors and government officials in the U.S., as well as Canada, Australia and Japan.",
-       "forms": []
-      },
-      {
-       "w": "global",
-       "pos": "adj.",
-       "zh": "全球的",
-       "ex": "ANDREA HSU, BYLINE: As president of the Global Healthy Living Foundation, Seth Ginsberg spends long days communicating with patients, doctors and government officials in the U.S., as well as Canada, Australia and Japan.",
-       "forms": []
-      },
-      {
-       "w": "patient",
-       "pos": "n.",
-       "zh": "病人；患者",
-       "ex": "ANDREA HSU, BYLINE: As president of the Global Healthy Living Foundation, Seth Ginsberg spends long days communicating with patients, doctors and government officials in the U.S., as well as Canada, Australia and Japan.",
-       "forms": [
-        "patients"
-       ]
-      },
-      {
-       "w": "doctor",
-       "pos": "n.",
-       "zh": "医生",
-       "ex": "ANDREA HSU, BYLINE: As president of the Global Healthy Living Foundation, Seth Ginsberg spends long days communicating with patients, doctors and government officials in the U.S., as well as Canada, Australia and Japan.",
-       "forms": [
-        "doctors"
-       ]
-      },
-      {
-       "w": "official",
-       "pos": "n.",
-       "zh": "官员；adj. 官方的",
-       "ex": "ANDREA HSU, BYLINE: As president of the Global Healthy Living Foundation, Seth Ginsberg spends long days communicating with patients, doctors and government officials in the U.S., as well as Canada, Australia and Japan.",
-       "forms": [
-        "officials"
-       ]
-      },
-      {
-       "w": "career",
-       "pos": "n.",
-       "zh": "职业；生涯",
-       "ex": "For someone who's dedicated his career to improving the quality of life for people with chronic illnesses, it was jarring.",
-       "forms": []
-      },
-      {
-       "w": "device",
-       "pos": "n.",
-       "zh": "设备；装置",
-       "ex": "HSU: Now, even without email, people couldn't stay away from their devices.",
-       "forms": [
-        "devices"
-       ]
-      }
-     ],
-     "homeWords": [
-      "million",
-      "outlook",
-      "recovery",
-      "issue",
-      "disruption"
-     ],
-     "keyVocab": [
-      "million",
-      "outlook",
-      "recovery",
-      "issue",
-      "disruption",
-      "president",
-      "global",
-      "patient"
-     ]
-    },
-    {
-     "id": "2026-11-14-science",
-     "section": "Science",
-     "sectionZh": "科学",
-     "title": "Plans for a data center threaten scenic wilderness and dark skies in West Virginia",
-     "dek": "DAVIS, W.Va. — Stretching nearly a million acres through the rugged mountains of eastern West Virginia, the Monongahela National Forest links some of the state's best known natural attractions.…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/31/nx-s1-5992790/data-centers-west-virginia-skiing-dark-skies",
-     "byline": "Scott Neuman",
-     "dateLabel": "2026-11-14",
-     "words": 356,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "DAVIS, W.Va. — Stretching nearly a million acres through the rugged mountains of eastern West Virginia, the Monongahela National Forest links some of the state's best known natural attractions. The vast area ranges from the ski slopes of Canaan Valley to the dark skies of Blackwater Falls and Spruce Knob and includes the small towns of Davis and Thomas that serve as gateways for visitors to the region.",
-       "zh": "西弗吉尼亚州戴维斯——莫农加希拉国家森林绵延近100万英亩，横亘于西弗吉尼亚州东部的崎岖山脉之间，将该州一些最著名的自然景点串联起来。这片广阔的区域从迦南谷的滑雪坡道一直延伸到黑水瀑布和云杉秃顶的黑暗天空，并包括戴维斯和托马斯这两个小镇，它们是游客进入该地区的门户。"
-      },
-      {
-       "en": "For the past seven months, Kaleb Skelton, his wife, Ella, their 2-year-old son, Ryder, and dog Mabel have lived in a camper in this corner of West Virginia's \"almost heaven.\" Kaleb is finishing a seasonal stint as a campground manager on a lake near Spruce Knob, the state's highest point.",
-       "zh": "在过去的七个月里，Kaleb Skelton、他的妻子Ella、他们2岁的儿子Ryder以及狗狗Mabel一直住在西弗吉尼亚州“近乎天堂”一隅的一辆露营车里。Kaleb即将结束在斯普鲁斯诺布（该州最高点）附近一个湖畔露营地担任季节性经理的工作。"
-      },
-      {
-       "en": "On clear nights atop the isolated peak, they get to experience a river of stars in one of the very few pockets of darkness remaining in the Eastern United States. The area has become a draw for amateur astronomers.",
-       "zh": "在晴朗的夜晚，他们站在这座与世隔绝的山巅上，可以欣赏到星河灿烂，这里是美国东部为数不多的几处黑暗之地之一。该地区已成为吸引业余天文学家的胜地。"
-      },
-      {
-       "en": "During summer's new moons, Kaleb says, one in four campsites he oversees is occupied by someone with a telescope. He thought his family's cabin in eastern Texas offered \"the craziest\" dark skies he'd ever seen, \"but coming out here definitely rivals it.\"",
-       "zh": "Kaleb说，在夏季的新月期间，他负责的营地中每四处就有一处被带着望远镜的人占据。他认为，他家位于德克萨斯州东部的小木屋能看到他有生以来「最令人惊叹」的夜空，「但来到这里，这里的夜空绝对不遑多让。」"
-      },
-      {
-       "en": "Those inky-black nights — and the natural beauty they shelter — are now under threat from what many residents see as a modern-day version of extractive industries like logging and mining that once defined the region. In a place where tourism, outdoor recreation and community are deeply intertwined, a gigantic power plant and data center campus in nearby Tucker County would bring large-scale development into the heart of it all.",
-       "zh": "那些漆黑的夜晚，以及它们所庇护的自然美景，如今正受到许多居民眼中现代版采掘业的威胁，这些采掘业包括伐木和采矿，它们曾是该地区的标志性产业。在一个旅游业、户外休闲和社区紧密交织的地方，位于附近塔克县的一座庞大的发电厂和数据中心园区将把大规模开发带入这一切的核心。"
-      },
-      {
-       "en": "A stark image of the town of Davis from 1885, during the heyday of logging, is a reminder of that transformation. The photo shows a handful of squat buildings amid a broad clearing littered with forest remains.",
-       "zh": "一张摄于 1885 年（伐木业鼎盛时期）的戴维斯镇照片生动地再现了那段变革历史。照片中，几栋矮矮的建筑坐落在宽阔的空地上，四周散落着森林的残骸。"
-      },
-      {
-       "en": "They used to call it \"Stump Town,\" says Kim Williams, president of the Snow Sports Museum of West Virginia in Canaan Valley. At the turn of the century, massive first-growth trees dominated the landscape.",
-       "zh": "西弗吉尼亚州卡南谷雪上运动博物馆馆长金·威廉斯（Kim Williams）说：“他们以前管这里叫‘树桩镇’。” 在世纪之交，高大的原生林树木主宰着这片景观。"
-      },
-      {
-       "en": "Then, logging companies \"came in and clear-cut the whole valley and everything around it,\" he says.",
-       "zh": "然后，伐木公司“进驻并砍伐了整个山谷及其周围的一切”，他说。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "million",
-       "pos": "n.",
-       "zh": "百万",
-       "ex": "— Stretching nearly a million acres through the rugged mountains of eastern West Virginia, the Monongahela National Forest links some of the state's best known natural attractions.",
-       "forms": []
-      },
-      {
-       "w": "national",
-       "pos": "adj.",
-       "zh": "国家的；全国的",
-       "ex": "— Stretching nearly a million acres through the rugged mountains of eastern West Virginia, the Monongahela National Forest links some of the state's best known natural attractions.",
-       "forms": []
-      },
-      {
-       "w": "forest",
-       "pos": "n.",
-       "zh": "森林",
-       "ex": "— Stretching nearly a million acres through the rugged mountains of eastern West Virginia, the Monongahela National Forest links some of the state's best known natural attractions.",
-       "forms": []
-      },
-      {
-       "w": "vast",
-       "pos": "adj.",
-       "zh": "巨大的；广阔的",
-       "ex": "The vast area ranges from the ski slopes of Canaan Valley to the dark skies of Blackwater Falls and Spruce Knob and includes the small towns of Davis and Thomas that serve as gateways for visitors to the region.",
-       "forms": []
-      },
-      {
-       "w": "fall",
-       "pos": "n.",
-       "zh": "下降；下跌",
-       "ex": "The vast area ranges from the ski slopes of Canaan Valley to the dark skies of Blackwater Falls and Spruce Knob and includes the small towns of Davis and Thomas that serve as gateways for visitors to the region.",
-       "forms": [
-        "falls"
-       ]
-      },
-      {
-       "w": "region",
-       "pos": "n.",
-       "zh": "地区；区域",
-       "ex": "The vast area ranges from the ski slopes of Canaan Valley to the dark skies of Blackwater Falls and Spruce Knob and includes the small towns of Davis and Thomas that serve as gateways for visitors to the region.",
-       "forms": []
-      },
-      {
-       "w": "rival",
-       "pos": "v.",
-       "zh": "与……竞争；媲美",
-       "ex": "He thought his family's cabin in eastern Texas offered \"the craziest\" dark skies he'd ever seen, \"but coming out here definitely rivals it.\" Those inky-black nights — and the natural beauty they shelter — are now under threat from what many residents see as a modern-day version of extractive industries like logging and mining that once defined the region.",
-       "forms": [
-        "rivals"
-       ]
-      },
-      {
-       "w": "threat",
-       "pos": "n.",
-       "zh": "威胁",
-       "ex": "He thought his family's cabin in eastern Texas offered \"the craziest\" dark skies he'd ever seen, \"but coming out here definitely rivals it.\" Those inky-black nights — and the natural beauty they shelter — are now under threat from what many residents see as a modern-day version of extractive industries like logging and mining that once defined the region.",
-       "forms": []
-      },
-      {
-       "w": "resident",
-       "pos": "n.",
-       "zh": "居民",
-       "ex": "He thought his family's cabin in eastern Texas offered \"the craziest\" dark skies he'd ever seen, \"but coming out here definitely rivals it.\" Those inky-black nights — and the natural beauty they shelter — are now under threat from what many residents see as a modern-day version of extractive industries like logging and mining that once defined the region.",
-       "forms": [
-        "residents"
-       ]
-      },
-      {
-       "w": "industry",
-       "pos": "n.",
-       "zh": "行业；工业",
-       "ex": "He thought his family's cabin in eastern Texas offered \"the craziest\" dark skies he'd ever seen, \"but coming out here definitely rivals it.\" Those inky-black nights — and the natural beauty they shelter — are now under threat from what many residents see as a modern-day version of extractive industries like logging and mining that once defined the region.",
-       "forms": [
-        "industries"
-       ]
-      },
-      {
-       "w": "community",
-       "pos": "n.",
-       "zh": "社区；群体",
-       "ex": "In a place where tourism, outdoor recreation and community are deeply intertwined, a gigantic power plant and data center campus in nearby Tucker County would bring large-scale development into the heart of it all.",
-       "forms": []
-      },
-      {
-       "w": "power",
-       "pos": "n.",
-       "zh": "权力；电力",
-       "ex": "In a place where tourism, outdoor recreation and community are deeply intertwined, a gigantic power plant and data center campus in nearby Tucker County would bring large-scale development into the heart of it all.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "million",
-      "national",
-      "forest",
-      "vast",
-      "fall"
-     ],
-     "keyVocab": [
-      "million",
-      "national",
-      "forest",
-      "vast",
-      "fall",
-      "region",
-      "rival",
-      "threat"
-     ]
-    },
-    {
-     "id": "2026-11-14-culture",
-     "section": "Culture",
-     "sectionZh": "文化",
-     "title": "In different ways, these 2 new films take on the craft and the business of filmmaking",
-     "dek": "Pedro Almodovar's Bitter Christmas and Peter Farrelly's I Play Rocky are dramas that depict filmmakers creating films. Though different in style, they have much in common.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/13/nx-s1-6034398/in-different-ways-these-2-new-films-take-on-the-craft-and-the-business-of-filmmaking",
-     "byline": "Bob Mondello",
-     "dateLabel": "2026-11-14",
-     "words": 322,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "Pedro Almodovar's Bitter Christmas and Peter Farrelly's I Play Rocky are dramas that depict filmmakers creating films. Though different in style, they have much in common.",
-       "zh": "佩德罗·阿莫多瓦的《苦涩的圣诞节》和彼得·法拉利的《我扮演洛奇》都是描写电影人创作电影的剧情片。虽然风格不同，但它们有很多共同之处。"
-      },
-      {
-       "en": "Write what you know is probably the most time-honored advice you can give a storyteller. Maybe these days, it should be film what you know.",
-       "zh": "“写你所知道的”可能是你能给一个讲故事的人最经久不衰的建议。也许在如今这个时代，它应该变成“拍摄你所知道的”。"
-      },
-      {
-       "en": "UNIDENTIFIED ACTOR: (As character) Cut. All right, we're moving in.",
-       "zh": "身份不明的演员：（扮演角色）停。好了，我们要进去了。"
-      },
-      {
-       "en": "PFEIFFER: Critic Bob Mondello says that's what moviemakers are doing in two new films about filmmaking, \"Bitter Christmas\" and \"I Play Rocky.\"",
-       "zh": "PFEIFFER：影评人鲍勃·蒙德洛（Bob Mondello）说，这就是电影制片人在两部关于电影制作的新片《苦涩的圣诞节》（Bitter Christmas）和《我演洛奇》（I Play Rocky）中所做的事情。"
-      },
-      {
-       "en": "BOB MONDELLO, BYLINE: At the beginning of \"Bitter Christmas,\" we hear the sound of typing on a keyboard as the words - a film by Almodóvar - appear on the screen, and that clickety-click keeps returning because the folks we're watching, a filmmaker named Elsa and her firefighter boyfriend Bo, are fictional characters in a movie that's being written by Raúl, a real filmmaker. Well, real being relative, of course, since Raúl is himself a fictional character created by Almodóvar. The plot turns on how moviemakers inevitably use what they see around them and maybe shouldn't. The fictional Elsa, for instance, models her new script on the failing marriage of a friend, which of course, infuriates the friend.",
-       "zh": "BOB MONDELLO，署名：在《苦涩的圣诞节》开头，我们听到键盘打字的声音，同时屏幕上出现“阿莫多瓦执导的电影”的字样。这种哒哒哒的声音不断响起，因为我们正在观看的人物——名叫埃尔莎的电影人和她的消防员男友博——是虚构角色，出现在一部由真正的电影人劳尔正在撰写的电影中。当然，真实性是相对的，因为劳尔本身就是阿尔莫多瓦虚构的人物。剧情围绕着电影人不可避免地使用他们周围所见的事物，而这些事物也许不应该被使用。例如，虚构的艾尔莎以朋友失败的婚姻为蓝本创作她的新剧本，这当然激怒了这位朋友。"
-      },
-      {
-       "en": "MONDELLO: And since Elsa is herself modeled on Raúl's assistant, Mónica, Mónica's just as ticked off at Raúl.",
-       "zh": "MONDELLO：既然Elsa本身是以Raúl的助理Mónica为原型，那么Mónica对Raúl的怨气也同样大。"
-      },
-      {
-       "en": "MONDELLO: Happily, all this introspection is augmented by campy melodrama. Elsa's fictional boyfriend isn't just a firefighter. He moonlights as a stripper. And Raúl's assistant Mónica gets to critique not just the film within a film that's ticked her off, but all of Raúl's career and, by extension, Almodóvar's. Though, of course, since he's calling the shots, that means Almodóvar is doing the critiquing. The effect would be dizzying even without the black sand beaches and blazing scarlet and gold wardrobe, visual notes that keep \"Bitter Christmas\" firmly in the Almodóvar canon.",
-       "zh": "MONDELLO：幸运的是，所有这些自我反思都因夸张的戏剧性情节而得到增强。埃尔莎的虚构男友不仅仅是一名消防员。他还兼职当脱衣舞男。而劳尔的助理莫妮卡不仅要批评让她恼火的片中片，还要批评劳尔的整个职业生涯，进而批评阿尔莫多瓦。当然，既然他是说了算的，那就意味着是阿尔莫多瓦在进行批评。即使没有黑沙滩和鲜艳的红色与金色服装——这些视觉元素让《苦涩的圣诞节》牢牢地归入阿尔莫多瓦的经典之作——这部电影的效果也会令人目眩。"
-      },
-      {
-       "en": "(SOUNDBITE OF BILL CONTI SONG, \"GONNA FLY NOW (THEME FROM ROCKY)\")",
-       "zh": "（比尔·康蒂歌曲《Gonna Fly Now（洛奇主题曲）》的录音片段）"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "film",
-       "pos": "n.",
-       "zh": "电影；影片",
-       "ex": "Pedro Almodovar's Bitter Christmas and Peter Farrelly's I Play Rocky are dramas that depict filmmakers creating films.",
-       "forms": [
-        "films"
-       ]
-      },
-      {
-       "w": "actor",
-       "pos": "n.",
-       "zh": "演员",
-       "ex": "UNIDENTIFIED ACTOR: (As character) Cut.",
-       "forms": []
-      },
-      {
-       "w": "critic",
-       "pos": "n.",
-       "zh": "评论家；批评家",
-       "ex": "PFEIFFER: Critic Bob Mondello says that's what moviemakers are doing in two new films about filmmaking, \"Bitter Christmas\" and \"I Play Rocky.\" BOB MONDELLO, BYLINE: At the beginning of \"Bitter Christmas,\" we hear the sound of typing on a keyboard as the words - a film by Almodóvar - appear on the screen, and that clickety-click keeps returning because the folks we're watching, a filmmaker named Elsa and her firefighter boyfriend Bo, are fictional characters in a movie that's being written by Raúl, a real filmmaker.",
-       "forms": []
-      },
-      {
-       "w": "augmented",
-       "pos": "adj.",
-       "zh": "增强的（AR）",
-       "ex": "MONDELLO: Happily, all this introspection is augmented by campy melodrama.",
-       "forms": []
-      },
-      {
-       "w": "career",
-       "pos": "n.",
-       "zh": "职业；生涯",
-       "ex": "And Raúl's assistant Mónica gets to critique not just the film within a film that's ticked her off, but all of Raúl's career and, by extension, Almodóvar's.",
-       "forms": []
-      },
-      {
-       "w": "effect",
-       "pos": "n.",
-       "zh": "影响；效果",
-       "ex": "The effect would be dizzying even without the black sand beaches and blazing scarlet and gold wardrobe, visual notes that keep \"Bitter Christmas\" firmly in the Almodóvar canon.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "film",
-      "actor",
-      "critic",
-      "augmented",
-      "career"
-     ],
-     "keyVocab": [
-      "film",
-      "actor",
-      "critic",
-      "augmented",
-      "career",
-      "effect"
      ]
     }
    ]
