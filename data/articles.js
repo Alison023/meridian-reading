@@ -1,6 +1,802 @@
 window.__MERIDIAN_DATA__ = {
- "updated": "2026-11-21T07:34:34.746302+00:00",
+ "updated": "2026-11-22T07:16:37.046014+00:00",
  "days": [
+  {
+   "date": "2026-11-22",
+   "articles": [
+    {
+     "id": "2026-11-22-world",
+     "section": "World",
+     "sectionZh": "国际",
+     "title": "What did Xi Jinping get from the bear hug with Trump at the Shenzhen summit?",
+     "dek": "NPR's Rob Schmitz speaks with Robert Daly, director of the program on US China relations at University of Maryland's School of Public Policy, about President Trump's trip to China this week.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/21/nx-s1-6048741/what-did-xi-jinping-get-from-the-bear-hug-with-trump-at-the-shenzhen-summit",
+     "byline": "Rob Schmitz",
+     "dateLabel": "2026-11-22",
+     "words": 393,
+     "readTime": 3,
+     "level": "B2",
+     "levelEn": "Upper-intermediate",
+     "paragraphs": [
+      {
+       "en": "NPR's Rob Schmitz speaks with Robert Daly, director of the program on US China relations at University of Maryland's School of Public Policy, about President Trump's trip to China this week.",
+       "zh": "美国国家公共电台（NPR）的罗伯·施密茨（Rob Schmitz）与马里兰大学公共政策学院中美关系项目主任罗伯特·戴利（Robert Daly）就特朗普总统本周对中国的访问进行了访谈。"
+      },
+      {
+       "en": "When the president goes on a big diplomatic trip, it's not always clear what's happening in all those meetings they go to. That was true during President Trump's trip to China this week, but there were intriguing public moments.",
+       "zh": "当总统进行重大外交访问时，他所参加的所有会议的具体情况并不总是很清楚。本周特朗普总统访华期间也是如此，但也有一些引人注目的公开场合。"
+      },
+      {
+       "en": "SCHMITZ: A group of children chanted, warm welcome, over and over, as Xi Jinping met Trump on the tarmac. Now add a third leader to the mix.",
+       "zh": "SCHMITZ：习近平在停机坪上与特朗普会面时，一群孩子一遍又一遍地高呼“热烈欢迎”。现在，再加入第三位领导人。"
+      },
+      {
+       "en": "SCHMITZ: That was Vladimir Putin, who's also a friend of Xi Jinping's, though the two may preside over an uneasy alliance. The stakes were high. Trump is looking for a breakthrough on nuclear weapons control. The U.S. and China are in a faceoff over AI, and a deal to end the bloodshed in Ukraine has been elusive.",
+       "zh": "SCHMITZ：那是弗拉基米尔·普京，他也是习近平的朋友，尽管两人可能领导着一个并不稳固的联盟。利害关系重大。特朗普正在寻求在核武器控制方面取得突破。美国和中国正在人工智能问题上针锋相对，而结束乌克兰流血冲突的协议一直遥不可及。"
+      },
+      {
+       "en": "Now that the summit's over, we're joined by someone who can help make sense of what happened. Robert Daly was a U.S. foreign service officer in China and now directs the program on U.S.-China relations at the University of Maryland School of Public Policy. And he's here with me in the studio. Welcome.",
+       "zh": "峰会已经结束，现在我们请来了一位嘉宾，他将帮助我们理解峰会期间发生的事情。罗伯特·戴利曾是美国驻华外交官，现任马里兰大学公共政策学院中美关系项目主任。他现在和我一起在演播室。欢迎。"
+      },
+      {
+       "en": "DALY: Xi Jinping - as always, his first goal is performative. It is to have the Chinese people see him as a world leader, beneficent, competent, hosting others who are coming somewhat cap in hand, at least in a very friendly way, to China. There's a very ancient saying in Chinese, (speaking Chinese), which means the 10,000 kingdoms all come to the center here. And Xi has been hosting an awful lot of leaders recently.",
+       "zh": "戴利：习近平——一如既往，他的首要目标是表演性。那就是让中国人民将他视为一位仁慈、干练的世界领袖，接待那些多少有些低声下气地、至少是以非常友好的方式前来中国的其他国家领导人。中国有一句非常古老的俗语，（用中文说），意思是万国来朝。习近平最近接待了非常多的领导人。"
+      },
+      {
+       "en": "DALY: He did very well from the Chinese point of view. I think that the hug of Donald Trump - we tend to see that from an American point of view as being friendly. Now, whether that's performative, friendship or truly felt is only for them to say. But for the Chinese, that's an unusually warm and humanizing move for Xi. Even the Chinese people will complain that their leaders are often too stayed, too in control. And this warmth, I think, also makes him look good, as does all the formal ceremony.",
+       "zh": "戴利：从中国的角度来看，他做得非常好。我认为，唐纳德·特朗普的拥抱——我们倾向于从美国的角度来看待这一举动，认为这是友好的表现。至于那是表演性的友谊还是真情实感，只有他们自己知道。但对于中国人来说，这是习近平一个非常热情、富有亲和力的举动。就连中国人民也会抱怨说，他们的领导人往往过于拘谨，过于克制。我认为，这种热情也让他看起来很棒，所有正式的仪式也是如此。"
+      },
+      {
+       "en": "SCHMITZ: We also had Vladimir Putin there, the president of Russia. What was his goal at this meeting?",
+       "zh": "SCHMITZ：俄罗斯总统弗拉基米尔·普京也在场。他在这次会议上的目标是什么？"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "university",
+       "pos": "n.",
+       "zh": "大学",
+       "ex": "NPR's Rob Schmitz speaks with Robert Daly, director of the program on US China relations at University of Maryland's School of Public Policy, about President Trump's trip to China this week.",
+       "forms": []
+      },
+      {
+       "w": "school",
+       "pos": "n.",
+       "zh": "学校",
+       "ex": "NPR's Rob Schmitz speaks with Robert Daly, director of the program on US China relations at University of Maryland's School of Public Policy, about President Trump's trip to China this week.",
+       "forms": []
+      },
+      {
+       "w": "public",
+       "pos": "adj.",
+       "zh": "公共的；公众的",
+       "ex": "NPR's Rob Schmitz speaks with Robert Daly, director of the program on US China relations at University of Maryland's School of Public Policy, about President Trump's trip to China this week.",
+       "forms": []
+      },
+      {
+       "w": "policy",
+       "pos": "n.",
+       "zh": "政策；方针",
+       "ex": "NPR's Rob Schmitz speaks with Robert Daly, director of the program on US China relations at University of Maryland's School of Public Policy, about President Trump's trip to China this week.",
+       "forms": []
+      },
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "NPR's Rob Schmitz speaks with Robert Daly, director of the program on US China relations at University of Maryland's School of Public Policy, about President Trump's trip to China this week.",
+       "forms": []
+      },
+      {
+       "w": "leader",
+       "pos": "n.",
+       "zh": "领导人",
+       "ex": "Now add a third leader to the mix.",
+       "forms": [
+        "leaders"
+       ]
+      },
+      {
+       "w": "alliance",
+       "pos": "n.",
+       "zh": "联盟",
+       "ex": "SCHMITZ: That was Vladimir Putin, who's also a friend of Xi Jinping's, though the two may preside over an uneasy alliance.",
+       "forms": []
+      },
+      {
+       "w": "nuclear",
+       "pos": "adj.",
+       "zh": "核的；核能的",
+       "ex": "Trump is looking for a breakthrough on nuclear weapons control.",
+       "forms": []
+      },
+      {
+       "w": "foreign",
+       "pos": "adj.",
+       "zh": "外国的",
+       "ex": "foreign service officer in China and now directs the program on U.S.-China relations at the University of Maryland School of Public Policy.",
+       "forms": []
+      },
+      {
+       "w": "service",
+       "pos": "n.",
+       "zh": "服务",
+       "ex": "foreign service officer in China and now directs the program on U.S.-China relations at the University of Maryland School of Public Policy.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "university",
+      "school",
+      "public",
+      "policy",
+      "president"
+     ],
+     "keyVocab": [
+      "university",
+      "school",
+      "public",
+      "policy",
+      "president",
+      "leader",
+      "alliance",
+      "nuclear"
+     ]
+    },
+    {
+     "id": "2026-11-22-business",
+     "section": "Business",
+     "sectionZh": "商业 · 财经",
+     "title": "The AI boom had a really bad week — and it's raising loud alarms",
+     "dek": "A yearslong AI boom showed signs of unraveling this week in spectacular fashion.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
+     "byline": "Rafael Nam",
+     "dateLabel": "2026-11-22",
+     "words": 257,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "A yearslong AI boom showed signs of unraveling this week in spectacular fashion.",
+       "zh": "持续多年的AI热潮本周以戏剧性的方式显现出衰退的迹象。"
+      },
+      {
+       "en": "AI-related stocks have powered markets to record highs and helped support the broader economy. But investors now fear that a potential bubble in the sector could be bursting, which could spark wider financial repercussions.",
+       "zh": "与人工智能相关的股票推动市场创下历史新高，并有助于支撑更广泛的经济。但投资者现在担心该行业的潜在泡沫可能破裂，这可能会引发更广泛的金融影响。"
+      },
+      {
+       "en": "Here's what to know about the week in AI and why alarm bells are ringing",
+       "zh": "以下是本周人工智能领域值得关注的动态，以及为何警钟正在敲响。"
+      },
+      {
+       "en": "Investors were hoping the stock market debut of AI giant Anthropic this week would provide a boost to the markets. Instead, the entire stock market got pummeled on Friday, sparking one of the worst weeks that Wall Street has seen in quite some time.",
+       "zh": "投资者曾希望，人工智能巨头Anthropic本周的股市首秀将提振市场。然而，整个股市周五却遭遇重挫，引发了华尔街一段时间以来最糟糕的一周。"
+      },
+      {
+       "en": "The tech-heavy Nasdaq dropped 10% for the week, its worst performance since the onset of COVID-19 pandemic lockdowns in March 2020. Even Anthropic, which gained 17% on its debut, ended up slumping more than 8% to close near its IPO price on Friday.",
+       "zh": "科技股为主的纳斯达克指数本周下跌 10%，这是自 2020 年 3 月新冠疫情封锁开始以来的最差表现。即使是首日上涨 17% 的 Anthropic，最终也下跌了 8% 以上，周五收盘时接近其 IPO 价格。"
+      },
+      {
+       "en": "Meanwhile, both the S&P 500 and the Dow Jones Industrial Average entered a correction as of the close of trade on Friday, meaning a drop of 10% from their recent highs.",
+       "zh": "与此同时，截至周五收盘，标准普尔500指数和道琼斯工业平均指数均进入回调区间，这意味着较近期高点下跌了10%。"
+      },
+      {
+       "en": "It's the culmination of weeks of fears that have been building up about the sustainability of the AI trade.",
+       "zh": "这是对人工智能板块可持续性数周来不断积累的担忧情绪的最终爆发。"
+      },
+      {
+       "en": "Back in September, the Federal Reserve raised interest rates for the first time in over three years. That poses a big challenge to AI companies because they still need to borrow billions of dollars to do things like build out data centers that power the growth of their technologies. Higher interest rates make borrowing more expensive for them.",
+       "zh": "早在9月份，美联储就迎来了三年多以来的首次加息。这对人工智能公司构成了巨大挑战，因为它们仍需要借贷数十亿美元来开展各种工作，例如建设数据中心，为它们的技术发展提供动力。利率的提高使他们的借贷成本更高。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "boom",
+       "pos": "n.",
+       "zh": "繁荣；激增",
+       "ex": "A yearslong AI boom showed signs of unraveling this week in spectacular fashion.",
+       "forms": []
+      },
+      {
+       "w": "fashion",
+       "pos": "n.",
+       "zh": "时尚；时装",
+       "ex": "A yearslong AI boom showed signs of unraveling this week in spectacular fashion.",
+       "forms": []
+      },
+      {
+       "w": "power",
+       "pos": "n.",
+       "zh": "权力；电力",
+       "ex": "AI-related stocks have powered markets to record highs and helped support the broader economy.",
+       "forms": [
+        "powered"
+       ]
+      },
+      {
+       "w": "market",
+       "pos": "n.",
+       "zh": "市场",
+       "ex": "AI-related stocks have powered markets to record highs and helped support the broader economy.",
+       "forms": [
+        "markets"
+       ]
+      },
+      {
+       "w": "support",
+       "pos": "v.",
+       "zh": "支持",
+       "ex": "AI-related stocks have powered markets to record highs and helped support the broader economy.",
+       "forms": []
+      },
+      {
+       "w": "economy",
+       "pos": "n.",
+       "zh": "经济",
+       "ex": "AI-related stocks have powered markets to record highs and helped support the broader economy.",
+       "forms": []
+      },
+      {
+       "w": "investor",
+       "pos": "n.",
+       "zh": "投资者",
+       "ex": "But investors now fear that a potential bubble in the sector could be bursting, which could spark wider financial repercussions.",
+       "forms": [
+        "investors"
+       ]
+      },
+      {
+       "w": "bubble",
+       "pos": "n.",
+       "zh": "泡沫",
+       "ex": "But investors now fear that a potential bubble in the sector could be bursting, which could spark wider financial repercussions.",
+       "forms": []
+      },
+      {
+       "w": "spark",
+       "pos": "v.",
+       "zh": "引发；点燃",
+       "ex": "But investors now fear that a potential bubble in the sector could be bursting, which could spark wider financial repercussions.",
+       "forms": [
+        "sparking"
+       ]
+      },
+      {
+       "w": "financial",
+       "pos": "adj.",
+       "zh": "金融的；财务的",
+       "ex": "But investors now fear that a potential bubble in the sector could be bursting, which could spark wider financial repercussions.",
+       "forms": []
+      },
+      {
+       "w": "boost",
+       "pos": "v.",
+       "zh": "提振；推动",
+       "ex": "Here's what to know about the week in AI and why alarm bells are ringing Investors were hoping the stock market debut of AI giant Anthropic this week would provide a boost to the markets.",
+       "forms": []
+      },
+      {
+       "w": "pandemic",
+       "pos": "n.",
+       "zh": "大流行病",
+       "ex": "The tech-heavy Nasdaq dropped 10% for the week, its worst performance since the onset of COVID-19 pandemic lockdowns in March 2020.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "boom",
+      "fashion",
+      "power",
+      "market",
+      "support"
+     ],
+     "keyVocab": [
+      "boom",
+      "fashion",
+      "power",
+      "market",
+      "support",
+      "economy",
+      "investor",
+      "bubble"
+     ]
+    },
+    {
+     "id": "2026-11-22-technology",
+     "section": "Technology",
+     "sectionZh": "科技",
+     "title": "Google employees protest AI in schools policy",
+     "dek": "More than 550 Google employees signed a petition to allow schools access to Search without AI. Parents and educators protested outside Google offices in 6 cities last week for the same ask.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy",
+     "byline": "Sequoia Carrillo",
+     "dateLabel": "2026-11-22",
+     "words": 459,
+     "readTime": 3,
+     "level": "B2",
+     "levelEn": "Upper-intermediate",
+     "paragraphs": [
+      {
+       "en": "More than 550 Google employees signed a petition to allow schools access to Search without AI. Parents and educators protested outside Google offices in 6 cities last week for the same ask.",
+       "zh": "550多名谷歌员工签署了一份请愿书，要求允许学校使用不含人工智能的搜索功能。上周，家长和教育工作者在6个城市的谷歌办事处外举行抗议，提出同样的要求。"
+      },
+      {
+       "en": "Parents and educators want Google to provide an AI-free version of the search engine for students. The backlash started after the company announced that they would not unbundle AI from their tools for education. Now some Google employees are joining in the push to provide AI-free access to students. NPR education reporter Sequoia Carrillo is following the story. She joins us now. Hey, Sequoia.",
+       "zh": "家长和教育工作者希望Google为学生提供无人工智能版本的搜索引擎。在该公司宣布不会将其教育工具与人工智能分离后，反弹情绪开始出现。现在，一些谷歌员工也加入到推动为学生提供无人工智能访问的行列中来。NPR教育记者Sequoia Carrillo正在跟进此事。她现在加入了我们的节目。嗨，Sequoia。"
+      },
+      {
+       "en": "SCHMITZ: So parents have mixed feelings, obviously, about using AI in the classroom. Why is Google taking such a firm stance on this?",
+       "zh": "SCHMITZ：显然，家长们对于在课堂上使用人工智能持喜忧参半的态度。为什么Google在这方面态度如此坚决？"
+      },
+      {
+       "en": "CARRILLO: I think mixed feelings is actually kind of a nice read of the situation. I've pretty much only talked to very angry parents, and we have a lot of very angry legislators, too, at the state and at national levels. Why Google's taking such a firm stance? There's no clear answer. I mean, some will point you to the fact that Google's very heavily invested in AI, and they want schools to be just as invested in it.",
+       "zh": "CARRILLO：我认为“喜忧参半”其实是对当前情况的恰当描述。我几乎只和非常愤怒的家长谈过，在州一级和国家一级，我们也有很多非常愤怒的立法者。为什么谷歌要采取如此强硬的立场？没有明确的答案。我的意思是，有些人会告诉你，Google在人工智能方面投入了大量资金，他们希望学校也能像他们一样投入大量资金。"
+      },
+      {
+       "en": "And I actually spoke to some people who pointed me towards two court cases earlier this year. Google got those dismissed by arguing that AI Overview and their search function are one tool. And those dismissals might mean that breaking them up could potentially be legally difficult for them. And when I talk to Google, they would not give us comments. So who is to say right now?",
+       "zh": "我实际上和一些人聊过，他们向我提到了今年早些时候的两起法院案件。Google通过辩称AI Overview和他们的搜索功能是一个工具，使这两起案件被驳回。这些驳回可能意味着，从法律上来说，将它们拆分可能对他们来说有难度。当我与Google沟通时，他们不愿向我们发表评论。所以现在谁能说得准呢？"
+      },
+      {
+       "en": "SCHMITZ: That's really interesting. So it sounds like Google has sort of backed itself into a legal corner on this issue, and it sounds like Google's own employees are angry about this.",
+       "zh": "SCHMITZ：这真有意思。听起来在这个问题上，谷歌似乎把自己逼进了法律的死胡同，而且谷歌自己的员工对此也很不满。"
+      },
+      {
+       "en": "CARRILLO: Yes. So Google employees are now weighing in. A small percentage signed a petition to allow schools the option to use search without AI overview, and the union for Google employees says that they're worried that this could damage the company's reputation among students and teachers and end up with schools ultimately shutting out Google's products altogether. There is some merit to that. Earlier this month, we saw protests across the country outside of Google offices because of this exact stance.",
+       "zh": "CARRILLO：是的。所以现在Google的员工正在发表意见。一小部分员工签署了一份请愿书，要求允许学校选择使用不带AI概览的搜索功能。Google员工工会表示，他们担心这可能会损害公司在学生和教师中的声誉，最终导致学校彻底弃用Google的产品。这种说法有一定道理。本月早些时候，我们看到正是因为这一立场，全国各地在谷歌办事处外发生了抗议活动。"
+      },
+      {
+       "en": "SCHMITZ: So what are schools doing to prepare for this change?",
+       "zh": "SCHMITZ：那么，学校正在采取哪些措施来为这一变化做好准备？"
+      },
+      {
+       "en": "CARRILLO: People are definitely finding workarounds, and if they haven't already found it, they're definitely working on it. They say something as simple as the Chrome extension might be able to help districts keep the search engine. Fairfax County, a very large, well-funded district in Northern Virginia, was actually already doing this. They're piloting a kind of ad-blocking-type tool for AI on their school devices that they developed.",
+       "zh": ""
+      }
+     ],
+     "vocab": [
+      {
+       "w": "employee",
+       "pos": "n.",
+       "zh": "雇员",
+       "ex": "More than 550 Google employees signed a petition to allow schools access to Search without AI.",
+       "forms": [
+        "employees"
+       ]
+      },
+      {
+       "w": "school",
+       "pos": "n.",
+       "zh": "学校",
+       "ex": "More than 550 Google employees signed a petition to allow schools access to Search without AI.",
+       "forms": [
+        "schools"
+       ]
+      },
+      {
+       "w": "protest",
+       "pos": "n.",
+       "zh": "抗议",
+       "ex": "Parents and educators protested outside Google offices in 6 cities last week for the same ask.",
+       "forms": [
+        "protested",
+        "protests"
+       ]
+      },
+      {
+       "w": "student",
+       "pos": "n.",
+       "zh": "学生",
+       "ex": "Parents and educators want Google to provide an AI-free version of the search engine for students.",
+       "forms": [
+        "students"
+       ]
+      },
+      {
+       "w": "announce",
+       "pos": "v.",
+       "zh": "宣布；公布",
+       "ex": "The backlash started after the company announced that they would not unbundle AI from their tools for education.",
+       "forms": [
+        "announced"
+       ]
+      },
+      {
+       "w": "education",
+       "pos": "n.",
+       "zh": "教育",
+       "ex": "The backlash started after the company announced that they would not unbundle AI from their tools for education.",
+       "forms": []
+      },
+      {
+       "w": "national",
+       "pos": "adj.",
+       "zh": "国家的；全国的",
+       "ex": "I've pretty much only talked to very angry parents, and we have a lot of very angry legislators, too, at the state and at national levels.",
+       "forms": []
+      },
+      {
+       "w": "level",
+       "pos": "n.",
+       "zh": "水平；层级",
+       "ex": "I've pretty much only talked to very angry parents, and we have a lot of very angry legislators, too, at the state and at national levels.",
+       "forms": [
+        "levels"
+       ]
+      },
+      {
+       "w": "court",
+       "pos": "n.",
+       "zh": "法院；法庭",
+       "ex": "And I actually spoke to some people who pointed me towards two court cases earlier this year.",
+       "forms": []
+      },
+      {
+       "w": "dismiss",
+       "pos": "v.",
+       "zh": "驳回；不予理会",
+       "ex": "Google got those dismissed by arguing that AI Overview and their search function are one tool.",
+       "forms": [
+        "dismissed"
+       ]
+      },
+      {
+       "w": "argue",
+       "pos": "v.",
+       "zh": "主张；争论",
+       "ex": "Google got those dismissed by arguing that AI Overview and their search function are one tool.",
+       "forms": [
+        "arguing"
+       ]
+      },
+      {
+       "w": "comment",
+       "pos": "n.",
+       "zh": "评论；意见",
+       "ex": "And when I talk to Google, they would not give us comments.",
+       "forms": [
+        "comments"
+       ]
+      }
+     ],
+     "homeWords": [
+      "employee",
+      "school",
+      "protest",
+      "student",
+      "announce"
+     ],
+     "keyVocab": [
+      "employee",
+      "school",
+      "protest",
+      "student",
+      "announce",
+      "education",
+      "national",
+      "level"
+     ]
+    },
+    {
+     "id": "2026-11-22-science",
+     "section": "Science",
+     "sectionZh": "科学",
+     "title": "Senate permitting bill speeds up renewables, divides greens over oil and gas",
+     "dek": "A permitting reform bill in the Senate could help speed the development of renewable energy projects, but it's splitting environmentalists over other provisions that help the oil and gas industry.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas",
+     "byline": "Matthew Brown",
+     "dateLabel": "2026-11-22",
+     "words": 355,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "A permitting reform bill in the Senate could help speed the development of renewable energy projects, but it's splitting environmentalists over other provisions that help the oil and gas industry.",
+       "zh": ""
+      },
+      {
+       "en": "This week, the Senate passed a bipartisan bill that's meant to speed up construction of new energy infrastructure projects. It comes after midterm elections, when affordability and rising energy costs were top of the mind for many voters. But this bill divides Democrats and some of their key allies. NPR political reporter Matthew Brown joins us now. Matthew, thanks so much for being with us.",
+       "zh": ""
+      },
+      {
+       "en": "SIMON: So this bill is a rare example of bipartisan support. How did it come together?",
+       "zh": ""
+      },
+      {
+       "en": "BROWN: Well, lawmakers say they heard loud and clear that cost-of-living concerns are a top priority for Americans. This bill was co-sponsored by two Democrats and two Republicans and seeks to address those concerns by cutting or streamlining a lot of the regulations that many projects have to go through before they can be built. These are really complicated projects and can take years, sometimes even more than a decade, before they're finished. The idea is that if Congress cuts a lot of the red tape here, then more of these projects will be built, more energy will be produced and prices would then hopefully go down for Americans.",
+       "zh": ""
+      },
+      {
+       "en": "Here's one of the bill's authors, West Virginia Republican Shelley Moore Capito, talking up the bill on the Senate floor ahead of its final passage.",
+       "zh": ""
+      },
+      {
+       "en": "SHELLEY MOORE CAPITO: American people have used their voices, and they've made them clear. And we must listen. They deserve bipartisan solutions that make life more affordable. That's what this bill does.",
+       "zh": ""
+      },
+      {
+       "en": "SIMON: But, Matthew, how would this bill make life more affordable?",
+       "zh": ""
+      },
+      {
+       "en": "BROWN: Well, this would rewrite some of the nation's most important environmental laws - things like the National Environmental Policy Act, the Clean Water Act and the Endangered Species Act. It's really worth emphasizing these are bedrock protections that have been on the books for decades, and they were designed to make sure that things like animal species, local ecosystems and archaeological sites aren't damaged by development.",
+       "zh": ""
+      }
+     ],
+     "vocab": [
+      {
+       "w": "reform",
+       "pos": "n.",
+       "zh": "改革",
+       "ex": "A permitting reform bill in the Senate could help speed the development of renewable energy projects, but it's splitting environmentalists over other provisions that help the oil and gas industry.",
+       "forms": []
+      },
+      {
+       "w": "senate",
+       "pos": "n.",
+       "zh": "参议院",
+       "ex": "A permitting reform bill in the Senate could help speed the development of renewable energy projects, but it's splitting environmentalists over other provisions that help the oil and gas industry.",
+       "forms": []
+      },
+      {
+       "w": "renewable",
+       "pos": "adj.",
+       "zh": "可再生的",
+       "ex": "A permitting reform bill in the Senate could help speed the development of renewable energy projects, but it's splitting environmentalists over other provisions that help the oil and gas industry.",
+       "forms": []
+      },
+      {
+       "w": "energy",
+       "pos": "n.",
+       "zh": "能源；精力",
+       "ex": "A permitting reform bill in the Senate could help speed the development of renewable energy projects, but it's splitting environmentalists over other provisions that help the oil and gas industry.",
+       "forms": []
+      },
+      {
+       "w": "oil",
+       "pos": "n.",
+       "zh": "石油",
+       "ex": "A permitting reform bill in the Senate could help speed the development of renewable energy projects, but it's splitting environmentalists over other provisions that help the oil and gas industry.",
+       "forms": []
+      },
+      {
+       "w": "gas",
+       "pos": "n.",
+       "zh": "天然气；气体",
+       "ex": "A permitting reform bill in the Senate could help speed the development of renewable energy projects, but it's splitting environmentalists over other provisions that help the oil and gas industry.",
+       "forms": []
+      },
+      {
+       "w": "industry",
+       "pos": "n.",
+       "zh": "行业；工业",
+       "ex": "A permitting reform bill in the Senate could help speed the development of renewable energy projects, but it's splitting environmentalists over other provisions that help the oil and gas industry.",
+       "forms": []
+      },
+      {
+       "w": "infrastructure",
+       "pos": "n.",
+       "zh": "基础设施",
+       "ex": "This week, the Senate passed a bipartisan bill that's meant to speed up construction of new energy infrastructure projects.",
+       "forms": []
+      },
+      {
+       "w": "election",
+       "pos": "n.",
+       "zh": "选举",
+       "ex": "It comes after midterm elections, when affordability and rising energy costs were top of the mind for many voters.",
+       "forms": [
+        "elections"
+       ]
+      },
+      {
+       "w": "rise",
+       "pos": "n.",
+       "zh": "上升；上涨",
+       "ex": "It comes after midterm elections, when affordability and rising energy costs were top of the mind for many voters.",
+       "forms": [
+        "rising"
+       ]
+      },
+      {
+       "w": "cost",
+       "pos": "n.",
+       "zh": "成本；代价",
+       "ex": "It comes after midterm elections, when affordability and rising energy costs were top of the mind for many voters.",
+       "forms": [
+        "costs"
+       ]
+      },
+      {
+       "w": "support",
+       "pos": "v.",
+       "zh": "支持",
+       "ex": "SIMON: So this bill is a rare example of bipartisan support.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "reform",
+      "senate",
+      "renewable",
+      "energy",
+      "oil"
+     ],
+     "keyVocab": [
+      "reform",
+      "senate",
+      "renewable",
+      "energy",
+      "oil",
+      "gas",
+      "industry",
+      "infrastructure"
+     ]
+    },
+    {
+     "id": "2026-11-22-culture",
+     "section": "Culture",
+     "sectionZh": "文化",
+     "title": "Paolo Bulgari, who turned a family jewelry business into a global brand, dies at 89",
+     "dek": "ATHENS, Greece (AP) — Paolo Bulgari, the grandson of a Greek silversmith who helped transform the family jewelry business into a global luxury brand synonymous with Italian glamour and design, has…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/21/g-s1-154971/bulgari-jewelry-obit",
+     "byline": "The Associated Press",
+     "dateLabel": "2026-11-22",
+     "words": 315,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "ATHENS, Greece (AP) — Paolo Bulgari, the grandson of a Greek silversmith who helped transform the family jewelry business into a global luxury brand synonymous with Italian glamour and design, has died. He was 89.",
+       "zh": ""
+      },
+      {
+       "en": "His family announced his death Saturday, describing him as \"the greatest jeweler of our time\" and praising his humanity and entrepreneurial talent.",
+       "zh": ""
+      },
+      {
+       "en": "Bulgari presided for decades over a brand celebrated by supermodels, Hollywood stars and collectors for its bold designs and distinctive use of color.",
+       "zh": ""
+      },
+      {
+       "en": "Born in Rome in 1937, he was the grandson of Sotirios Voulgaris, who founded the jewelry business after leaving Greece. Originally from Paramythia, a mountain village in the Epirus region of northwestern Greece renowned for its silver jewelry, Voulgaris fled Ottoman rule and settled in Naples before opening a shop in Rome, adapting both his craft and his family name to his new home.",
+       "zh": ""
+      },
+      {
+       "en": "Paolo Bulgari joined the family business shortly after leaving school. Working alongside his father, Giorgio, he initially focused on precious stones, developing an expertise in gemstones that would inform his work as a designer and businessman throughout his career.",
+       "zh": ""
+      },
+      {
+       "en": "Turning away from the delicate aesthetic associated with Parisian jewelry houses, the Bulgari family embraced bold gemstones, rich yellow gold, generous proportions and unexpected combinations of color. Drawing inspiration from ancient Rome and Italy's artistic heritage, the distinctive style helped set the brand apart internationally.",
+       "zh": ""
+      },
+      {
+       "en": "Alongside his brother Nicola and nephew Francesco Trapani, Bulgari led the company's expansion into major luxury markets, opening stores in New York, Paris, Geneva and Monte Carlo. The business diversified beyond jewelry into watches, perfumes, leather goods and, eventually, hotels.",
+       "zh": ""
+      },
+      {
+       "en": "Heading the group since the mid-1980s, Bulgari guided the company through a period of significant international growth. Its jewelry was a fixture on celebrities spanning from Elizabeth Taylor to Zendaya. Tall and silver-haired, he occasionally appeared alongside the stars wearing his creations, maintaining a characteristically reserved presence.",
+       "zh": ""
+      }
+     ],
+     "vocab": [
+      {
+       "w": "family",
+       "pos": "n.",
+       "zh": "家庭",
+       "ex": "ATHENS, Greece (AP) — Paolo Bulgari, the grandson of a Greek silversmith who helped transform the family jewelry business into a global luxury brand synonymous with Italian glamour and design, has died.",
+       "forms": []
+      },
+      {
+       "w": "global",
+       "pos": "adj.",
+       "zh": "全球的",
+       "ex": "ATHENS, Greece (AP) — Paolo Bulgari, the grandson of a Greek silversmith who helped transform the family jewelry business into a global luxury brand synonymous with Italian glamour and design, has died.",
+       "forms": []
+      },
+      {
+       "w": "announce",
+       "pos": "v.",
+       "zh": "宣布；公布",
+       "ex": "His family announced his death Saturday, describing him as \"the greatest jeweler of our time\" and praising his humanity and entrepreneurial talent.",
+       "forms": [
+        "announced"
+       ]
+      },
+      {
+       "w": "describe",
+       "pos": "v.",
+       "zh": "描述",
+       "ex": "His family announced his death Saturday, describing him as \"the greatest jeweler of our time\" and praising his humanity and entrepreneurial talent.",
+       "forms": [
+        "describing"
+       ]
+      },
+      {
+       "w": "region",
+       "pos": "n.",
+       "zh": "地区；区域",
+       "ex": "Originally from Paramythia, a mountain village in the Epirus region of northwestern Greece renowned for its silver jewelry, Voulgaris fled Ottoman rule and settled in Naples before opening a shop in Rome, adapting both his craft and his family name to his new home.",
+       "forms": []
+      },
+      {
+       "w": "school",
+       "pos": "n.",
+       "zh": "学校",
+       "ex": "Paolo Bulgari joined the family business shortly after leaving school.",
+       "forms": []
+      },
+      {
+       "w": "career",
+       "pos": "n.",
+       "zh": "职业；生涯",
+       "ex": "Working alongside his father, Giorgio, he initially focused on precious stones, developing an expertise in gemstones that would inform his work as a designer and businessman throughout his career.",
+       "forms": []
+      },
+      {
+       "w": "aesthetic",
+       "pos": "n.",
+       "zh": "美学；审美",
+       "ex": "Turning away from the delicate aesthetic associated with Parisian jewelry houses, the Bulgari family embraced bold gemstones, rich yellow gold, generous proportions and unexpected combinations of color.",
+       "forms": []
+      },
+      {
+       "w": "heritage",
+       "pos": "n.",
+       "zh": "遗产；传承",
+       "ex": "Drawing inspiration from ancient Rome and Italy's artistic heritage, the distinctive style helped set the brand apart internationally.",
+       "forms": []
+      },
+      {
+       "w": "market",
+       "pos": "n.",
+       "zh": "市场",
+       "ex": "Alongside his brother Nicola and nephew Francesco Trapani, Bulgari led the company's expansion into major luxury markets, opening stores in New York, Paris, Geneva and Monte Carlo.",
+       "forms": [
+        "markets"
+       ]
+      },
+      {
+       "w": "significant",
+       "pos": "adj.",
+       "zh": "显著的；重要的",
+       "ex": "Heading the group since the mid-1980s, Bulgari guided the company through a period of significant international growth.",
+       "forms": []
+      },
+      {
+       "w": "international",
+       "pos": "adj.",
+       "zh": "国际的",
+       "ex": "Heading the group since the mid-1980s, Bulgari guided the company through a period of significant international growth.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "family",
+      "global",
+      "announce",
+      "describe",
+      "region"
+     ],
+     "keyVocab": [
+      "family",
+      "global",
+      "announce",
+      "describe",
+      "region",
+      "school",
+      "career",
+      "aesthetic"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-21",
    "articles": [
@@ -4488,728 +5284,6 @@ window.__MERIDIAN_DATA__ = {
       "public",
       "regulation",
       "federal"
-     ]
-    }
-   ]
-  },
-  {
-   "date": "2026-11-15",
-   "articles": [
-    {
-     "id": "2026-11-15-world",
-     "section": "World",
-     "sectionZh": "国际",
-     "title": "Fuel crisis and protests pressure Chile's far-right president",
-     "dek": "SANTIAGO, Chile — Chile's ultraconservative president finds himself on the back foot after just eight months in power.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
-     "byline": "John Bartlett",
-     "dateLabel": "2026-11-15",
-     "words": 256,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "SANTIAGO, Chile — Chile's ultraconservative president finds himself on the back foot after just eight months in power.",
-       "zh": "圣地亚哥，智利——智利的极度保守总统在执政仅八个月后就处于下风。"
-      },
-      {
-       "en": "José Antonio Kast, a politician who spent a career railing against progressive issues, reproductive rights and welfare policies from the extreme fringes of right-wing politics, now finds himself with just 24% approval in the polls.",
-       "zh": "何塞·安东尼奥·卡斯特，一位政客，他的职业生涯一直在极右翼政治的边缘猛烈抨击进步议题、生育权利和福利政策，如今在民调中只有24%的支持率。"
-      },
-      {
-       "en": "It is less than a year since Kast stormed to the presidency in December 2025 by avoiding all mention of his hardline stances on social matters, focusing instead on two hot-button issues whipped up in the national media: illegal immigration and public security.",
-       "zh": "自从卡斯特在2025年12月通过回避所有关于社会事务强硬立场的提及而迅速赢得总统职位，转而专注于全国媒体炒作的两个热点问题：非法移民和公共安全，已经不到一年了。"
-      },
-      {
-       "en": "But rather than pressing ahead with those at the top of his agenda, he has floundered. And as elsewhere around the Americas and worldwide, rising costs of living have come to hit him hard.",
-       "zh": "但他并没有推进议程上最重要的事项，而是陷入了困境。正如美洲及世界其他地区一样，生活成本的上升对他打击甚大。"
-      },
-      {
-       "en": "\"Our salaries are maybe 20% of a European income, but with a similar cost of living – it's terrible,\" said Simón Echavarría, a 30-year-old architect, at a march in Santiago on Friday evening.",
-       "zh": "30岁的建筑师西蒙·埃查瓦里亚在星期五晚上圣地亚哥的一次游行中说：“我们的工资也许只是欧洲收入的20%，但生活成本却相似——这太糟糕了。”"
-      },
-      {
-       "en": "\"We want to protest against the measures that have set us back on environmental issues, on human rights, even reducing the sentences of pedophiles – they are implementing things that nobody asked for,\" he said.",
-       "zh": "他说：“我们想抗议那些让我们在环境问题、人权问题上倒退，甚至减轻恋童癖者刑期的措施——他们在实施没人要求的事情。”"
-      },
-      {
-       "en": "Behind him, heavily armed police blocked the streets and fired water cannons at protesters chanting and waving flags in the square.",
-       "zh": "在他身后，装备精良的警察封锁了街道，并向在广场上呼喊口号、挥舞旗帜的抗议者发射了水炮。"
-      },
-      {
-       "en": "Much of the recent ire stems from the revelation last month that Kast's government had signed decrees to cut the sentences of 56 prisoners whose crimes range from the rape of children to dictatorship-era human rights violations.",
-       "zh": "最近的许多愤怒源于上个月的揭露，即卡斯特政府签署法令，减轻56名囚犯的刑期，这些囚犯的犯罪行为从强奸儿童到独裁时期的人权侵犯不等。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "president",
-       "pos": "n.",
-       "zh": "总统；总裁",
-       "ex": "SANTIAGO, Chile — Chile's ultraconservative president finds himself on the back foot after just eight months in power.",
-       "forms": []
-      },
-      {
-       "w": "power",
-       "pos": "n.",
-       "zh": "权力；电力",
-       "ex": "SANTIAGO, Chile — Chile's ultraconservative president finds himself on the back foot after just eight months in power.",
-       "forms": []
-      },
-      {
-       "w": "career",
-       "pos": "n.",
-       "zh": "职业；生涯",
-       "ex": "José Antonio Kast, a politician who spent a career railing against progressive issues, reproductive rights and welfare policies from the extreme fringes of right-wing politics, now finds himself with just 24% approval in the polls.",
-       "forms": []
-      },
-      {
-       "w": "issue",
-       "pos": "n.",
-       "zh": "议题；问题",
-       "ex": "José Antonio Kast, a politician who spent a career railing against progressive issues, reproductive rights and welfare policies from the extreme fringes of right-wing politics, now finds himself with just 24% approval in the polls.",
-       "forms": [
-        "issues"
-       ]
-      },
-      {
-       "w": "policy",
-       "pos": "n.",
-       "zh": "政策；方针",
-       "ex": "José Antonio Kast, a politician who spent a career railing against progressive issues, reproductive rights and welfare policies from the extreme fringes of right-wing politics, now finds himself with just 24% approval in the polls.",
-       "forms": [
-        "policies"
-       ]
-      },
-      {
-       "w": "poll",
-       "pos": "n.",
-       "zh": "民意调查",
-       "ex": "José Antonio Kast, a politician who spent a career railing against progressive issues, reproductive rights and welfare policies from the extreme fringes of right-wing politics, now finds himself with just 24% approval in the polls.",
-       "forms": [
-        "polls"
-       ]
-      },
-      {
-       "w": "social",
-       "pos": "adj.",
-       "zh": "社会的；社交的",
-       "ex": "It is less than a year since Kast stormed to the presidency in December 2025 by avoiding all mention of his hardline stances on social matters, focusing instead on two hot-button issues whipped up in the national media: illegal immigration and public security.",
-       "forms": []
-      },
-      {
-       "w": "national",
-       "pos": "adj.",
-       "zh": "国家的；全国的",
-       "ex": "It is less than a year since Kast stormed to the presidency in December 2025 by avoiding all mention of his hardline stances on social matters, focusing instead on two hot-button issues whipped up in the national media: illegal immigration and public security.",
-       "forms": []
-      },
-      {
-       "w": "media",
-       "pos": "n.",
-       "zh": "媒体",
-       "ex": "It is less than a year since Kast stormed to the presidency in December 2025 by avoiding all mention of his hardline stances on social matters, focusing instead on two hot-button issues whipped up in the national media: illegal immigration and public security.",
-       "forms": []
-      },
-      {
-       "w": "immigration",
-       "pos": "n.",
-       "zh": "移民（入境）",
-       "ex": "It is less than a year since Kast stormed to the presidency in December 2025 by avoiding all mention of his hardline stances on social matters, focusing instead on two hot-button issues whipped up in the national media: illegal immigration and public security.",
-       "forms": []
-      },
-      {
-       "w": "public",
-       "pos": "adj.",
-       "zh": "公共的；公众的",
-       "ex": "It is less than a year since Kast stormed to the presidency in December 2025 by avoiding all mention of his hardline stances on social matters, focusing instead on two hot-button issues whipped up in the national media: illegal immigration and public security.",
-       "forms": []
-      },
-      {
-       "w": "rise",
-       "pos": "n.",
-       "zh": "上升；上涨",
-       "ex": "And as elsewhere around the Americas and worldwide, rising costs of living have come to hit him hard.",
-       "forms": [
-        "rising"
-       ]
-      }
-     ],
-     "homeWords": [
-      "president",
-      "power",
-      "career",
-      "issue",
-      "policy"
-     ],
-     "keyVocab": [
-      "president",
-      "power",
-      "career",
-      "issue",
-      "policy",
-      "poll",
-      "social",
-      "national"
-     ]
-    },
-    {
-     "id": "2026-11-15-business",
-     "section": "Business",
-     "sectionZh": "商业 · 财经",
-     "title": "Commerce Department under pressure for delaying export controls on Nvidia chips",
-     "dek": "The U.S. Commerce Department is under scrutiny for clearing Chinese companies to handle Nvidia chips, despite national security concerns from cabinet officials and U.S. intelligence agencies.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/14/nx-s1-6040379/commerce-department-under-pressure-for-delaying-export-controls-on-nvidia-chips",
-     "byline": "Sarah Robbins",
-     "dateLabel": "2026-11-15",
-     "words": 343,
-     "readTime": 3,
-     "level": "B2",
-     "levelEn": "Upper-intermediate",
-     "paragraphs": [
-      {
-       "en": "The U.S. Commerce Department is under scrutiny for clearing Chinese companies to handle Nvidia chips, despite national security concerns from cabinet officials and U.S. intelligence agencies.",
-       "zh": "美国商务部因批准中国公司处理英伟达芯片而受到审查，尽管内阁官员和美国情报机构对国家安全表示担忧。"
-      },
-      {
-       "en": "Pressure is growing on the Commerce Department and its Secretary Howard Lutnick over why Nvidia's chips have been allowed to be exported to China, despite national security concerns from cabinet officials and intelligence agencies.",
-       "zh": "随着内阁官员和情报机构提出国家安全方面的担忧，商务部及其部长霍华德·卢特尼克为何允许英伟达的芯片出口到中国，压力正在增加。"
-      },
-      {
-       "en": "SCOTT BESSENT: They were in favor of putting Megaspeed on the entity list for months, but commerce has the pin. Commerce BIS has the pin, and you will have to ask them about their internal processes.",
-       "zh": "SCOTT BESSENT：他们几个月来一直支持将Megaspeed列入实体清单，但商务部掌握着关键权力。商务部BIS掌握着关键权力，你需要向他们询问其内部流程。"
-      },
-      {
-       "en": "SCHMITZ: That is Treasury Secretary Scott Bessent accusing Lutnick's department of not putting Megaspeed, a Singapore-based firm with suspected Chinese intelligence ties, on the federal trade restriction list. Liza Tobin is former China director for the National Security Council in the first Trump and Biden administrations. She's here with us now to discuss this. Welcome.",
-       "zh": "施密茨：这是财政部长斯科特·贝森特指责卢特尼克的部门没有将Megaspeed（一家总部位于新加坡、与中国情报有嫌疑联系的公司）列入联邦贸易限制名单。莉萨·托宾曾在特朗普和拜登的第一届政府中担任国家安全委员会的中国事务主任。她现在和我们在一起讨论此事。欢迎她。"
-      },
-      {
-       "en": "SCHMITZ: So you're watching this situation unfold very closely. Tell me your reaction to these accusations against Secretary Lutnick.",
-       "zh": "施密茨：所以你正在密切关注这一情况的发展。告诉我你对这些针对卢特尼克国务卿的指控有何反应。"
-      },
-      {
-       "en": "TOBIN: Commerce has the pen. Commerce is the agency that has been given the statutory authority by the Congress to regulate the export of these AI chips. They're the ones that write the rules. They also have a law enforcement role. Right now, the whole cover has been blown off this scandal, and Lutnick is there at the center, and it's clear that he just didn't do his job in enforcing those rules.",
-       "zh": "托宾：商务部掌握着笔杆子。商务部是国会赋予法定权力来监管这些人工智能芯片出口的机构。他们才是制定规则的人。他们也承担执法职责。现在，这场丑闻的整个内幕已经被揭露出来，而卢特尼克正处在风口浪尖，很明显他在执行这些规则时根本没有尽到自己的职责。"
-      },
-      {
-       "en": "TOBIN: So that is the trillion-dollar question. I think we're going to find out a lot more as Congress starts to dig into this. I think we're going to learn a lot more about, was Howard Lutnick benefiting from this regulatory capture? You know, he...",
-       "zh": "托宾：所以这就是那个万亿问题。我认为随着国会开始深入调查这一点，我们将会发现更多。我认为我们会更多地了解，霍华德·卢特尼克是否从这种监管俘获中受益？你知道，他……"
-      },
-      {
-       "en": "SCHMITZ: Well, I mean, we do know that Cantor Fitzgerald, a firm run by Lutnick's sons Brandon and Kyle, helps place companies that run data centers in Asia, and their firm has a financial interest in looser chip restrictions that Lutnick himself was in charge of implementing. That seems like a conflict of interest, no?",
-       "zh": "SCHMITZ：嗯，我是说，我们确实知道 Cantor Fitzgerald，这是一家由卢特尼克的儿子布兰登和凯尔经营的公司，帮助将经营数据中心的公司引入亚洲，而且他们的公司在卢特尼克自己负责实施的更宽松芯片限制中有经济利益。这看起来像是利益冲突，不是吗？"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "chip",
-       "pos": "n.",
-       "zh": "芯片",
-       "ex": "Commerce Department is under scrutiny for clearing Chinese companies to handle Nvidia chips, despite national security concerns from cabinet officials and U.S.",
-       "forms": [
-        "chips"
-       ]
-      },
-      {
-       "w": "national",
-       "pos": "adj.",
-       "zh": "国家的；全国的",
-       "ex": "Commerce Department is under scrutiny for clearing Chinese companies to handle Nvidia chips, despite national security concerns from cabinet officials and U.S.",
-       "forms": []
-      },
-      {
-       "w": "cabinet",
-       "pos": "n.",
-       "zh": "内阁",
-       "ex": "Commerce Department is under scrutiny for clearing Chinese companies to handle Nvidia chips, despite national security concerns from cabinet officials and U.S.",
-       "forms": []
-      },
-      {
-       "w": "official",
-       "pos": "n.",
-       "zh": "官员；adj. 官方的",
-       "ex": "Commerce Department is under scrutiny for clearing Chinese companies to handle Nvidia chips, despite national security concerns from cabinet officials and U.S.",
-       "forms": [
-        "officials"
-       ]
-      },
-      {
-       "w": "intelligence",
-       "pos": "n.",
-       "zh": "情报；智能",
-       "ex": "intelligence agencies.",
-       "forms": []
-      },
-      {
-       "w": "agency",
-       "pos": "n.",
-       "zh": "机构；代理",
-       "ex": "intelligence agencies.",
-       "forms": [
-        "agencies"
-       ]
-      },
-      {
-       "w": "export",
-       "pos": "n.",
-       "zh": "出口",
-       "ex": "Pressure is growing on the Commerce Department and its Secretary Howard Lutnick over why Nvidia's chips have been allowed to be exported to China, despite national security concerns from cabinet officials and intelligence agencies.",
-       "forms": [
-        "exported"
-       ]
-      },
-      {
-       "w": "federal",
-       "pos": "adj.",
-       "zh": "联邦的",
-       "ex": "SCHMITZ: That is Treasury Secretary Scott Bessent accusing Lutnick's department of not putting Megaspeed, a Singapore-based firm with suspected Chinese intelligence ties, on the federal trade restriction list.",
-       "forms": []
-      },
-      {
-       "w": "administration",
-       "pos": "n.",
-       "zh": "政府；行政",
-       "ex": "Liza Tobin is former China director for the National Security Council in the first Trump and Biden administrations.",
-       "forms": [
-        "administrations"
-       ]
-      },
-      {
-       "w": "discuss",
-       "pos": "v.",
-       "zh": "讨论",
-       "ex": "She's here with us now to discuss this.",
-       "forms": []
-      },
-      {
-       "w": "authority",
-       "pos": "n.",
-       "zh": "当局；权威机构",
-       "ex": "Commerce is the agency that has been given the statutory authority by the Congress to regulate the export of these AI chips.",
-       "forms": []
-      },
-      {
-       "w": "congress",
-       "pos": "n.",
-       "zh": "国会",
-       "ex": "Commerce is the agency that has been given the statutory authority by the Congress to regulate the export of these AI chips.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "chip",
-      "national",
-      "cabinet",
-      "official",
-      "intelligence"
-     ],
-     "keyVocab": [
-      "chip",
-      "national",
-      "cabinet",
-      "official",
-      "intelligence",
-      "agency",
-      "export",
-      "federal"
-     ]
-    },
-    {
-     "id": "2026-11-15-technology",
-     "section": "Technology",
-     "sectionZh": "科技",
-     "title": "Hello? James Gleick's new book compares the history of the telephone to the modern era",
-     "dek": "Have you ever wondered where phone etiquette or the idea for the first social network came from? Author James Gleick talks about his new book, The Telephone.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/14/nx-s1-6037416/hello-james-gleicks-new-book-compares-the-history-of-the-telephone-to-the-modern-era",
-     "byline": "Sarah Robbins",
-     "dateLabel": "2026-11-15",
-     "words": 244,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "Have you ever wondered where phone etiquette or the idea for the first social network came from? Author James Gleick talks about his new book, The Telephone.",
-       "zh": "你是否曾想过电话礼仪或第一个社交网络的概念是从哪里来的？作者詹姆斯·格雷克谈论了他的新书《电话》。"
-      },
-      {
-       "en": "You know, this is the first time I've noticed this, but here in the cafeteria, in the corner, there is a telephone booth, and I'm going to get into this booth right now, and I'm going to call our next guest.",
-       "zh": "你知道，这是我第一次注意到这个，但在这里的自助餐厅的角落里，有一个电话亭，我现在要进去这个电话亭，我要给我们的下一位嘉宾打电话。"
-      },
-      {
-       "en": "SCHMITZ: Hello, this is Rob Schmitz at NPR. We're talking to you about a book you wrote. It's called \"The Telephone: A New History.\" Welcome.",
-       "zh": "施密茨：你好，我是NPR的罗布·施密茨。我们正在和你谈论你写的一本书。它叫《电话：新历史》。欢迎。"
-      },
-      {
-       "en": "SCHMITZ: So, James, there's a good chunk of your book all about the development of the etiquette of answering the phone. So how did I do there?",
-       "zh": "施密茨：所以，詹姆斯，你的书里有相当一部分内容是关于接电话礼仪的发展。那么我那方面做得怎么样？"
-      },
-      {
-       "en": "GLEICK: I mean, the fact that we say hello - and it's not just English speakers. It's - people in many countries say hello or some version of allo (ph).",
-       "zh": "GLEICK：我的意思是，我们说‘你好’这一事实——而且不仅仅是讲英语的人。很多国家的人都会说‘你好’或某种形式的‘allo’。"
-      },
-      {
-       "en": "GLEICK: What's weird is that's a telephone word. That word was not in particularly common use before the telephone arrived. And when Alexander Graham Bell and his assistant Tom Watson started making their first phone calls along an open line, you know, they used to say, ahoy, ahoy.",
-       "zh": "GLEICK：奇怪的是，那是一个电话用语。在电话出现之前，这个词并不是特别常用。当亚历山大·格雷厄姆·贝尔和他的助手汤姆·沃森沿着一条开放线路开始拨打他们的第一个电话时，你知道，他们过去常说，‘喂，喂’。"
-      },
-      {
-       "en": "GLEICK: But within a couple of years, just as if God had sent a memo, everybody was using the word hello.",
-       "zh": "格雷克：但是仅仅几年之后，就好像上帝发了一份备忘录一样，每个人都在使用‘你好’这个词。"
-      },
-      {
-       "en": "SCHMITZ: When I grew up in the 1970s and '80s, I was sometimes told by my parents to answer the phone, Schmitz residence, Robert speaking.",
-       "zh": "施密茨：当我在1970年代和1980年代长大时，父母有时会告诉我接电话时说，施密茨家，罗伯特在说话。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "social",
-       "pos": "adj.",
-       "zh": "社会的；社交的",
-       "ex": "Have you ever wondered where phone etiquette or the idea for the first social network came from?",
-       "forms": []
-      },
-      {
-       "w": "network",
-       "pos": "n.",
-       "zh": "网络",
-       "ex": "Have you ever wondered where phone etiquette or the idea for the first social network came from?",
-       "forms": []
-      },
-      {
-       "w": "history",
-       "pos": "n.",
-       "zh": "历史",
-       "ex": "It's called \"The Telephone: A New History.\" Welcome.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "social",
-      "network",
-      "history"
-     ],
-     "keyVocab": [
-      "social",
-      "network",
-      "history"
-     ]
-    },
-    {
-     "id": "2026-11-15-science",
-     "section": "Science",
-     "sectionZh": "科学",
-     "title": "Oyster stocks have plunged in the Chesapeake. This resident wants to bring them back",
-     "dek": "John Consoli stands on the edge of his pier, which juts out from the southern tip of Maryland's Kent Island and into the Chesapeake Bay. He leans over and hoists a mesh the size and shape of a…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/31/nx-s1-6011228/oyster-farming-conservation-chesapeake-bay",
-     "byline": "Ari Daniel",
-     "dateLabel": "2026-11-15",
-     "words": 403,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "John Consoli stands on the edge of his pier, which juts out from the southern tip of Maryland's Kent Island and into the Chesapeake Bay. He leans over and hoists a mesh the size and shape of a pillowcase out of the water.",
-       "zh": "约翰·康索利站在他的码头边缘，码头从马里兰州肯特岛南端伸出，延伸到切萨皮克湾。他弯下腰，把一个大小和枕套一样的网从水中提了上来。"
-      },
-      {
-       "en": "It's packed with oysters. He manages to get it onto the pier. \"These are brand new oysters from this year,\" he says. \"When I got them, they weighed nothing. And this is just three months of growth. The net is chock full, I can hardly pull it up.\"",
-       "zh": "里面满是牡蛎。他设法把它弄到码头上。“这些是今年的新牡蛎，”他说。“当我拿到它们时，几乎没重量。这只是三个月的生长。网满得不得了，我几乎拉不上来。”"
-      },
-      {
-       "en": "Once he catches his breath, Consoli marvels at these molluscs. \"I think I'm more enthusiastic about something that's like a rock than anybody else could possibly be,\" he says with a big grin. \"I really can't think of many more creatures that do the good that oysters do.\"",
-       "zh": "一旦他喘过气来，康索利便惊叹于这些软体动物。“我想我对像岩石一样的东西可能比任何人都更热情，”他带着大大的笑容说。“我真的想不出还有多少生物能像牡蛎那样做好事。”"
-      },
-      {
-       "en": "Oysters underpin the Chesapeake's coastal and estuarine ecosystem. Each adult filters up to 50 gallons of water a day. Cleaner water leads to a healthier bay and more sea grass. \"That helps crabs and other organisms,\" says Consoli.",
-       "zh": "牡蛎支撑着切萨皮克湾的沿海和河口生态系统。每只成年牡蛎每天可以过滤多达50加仑的水。水质更清洁意味着海湾更健康，海草更多。“这对螃蟹和其他生物都有帮助，”康索利说。"
-      },
-      {
-       "en": "Plus, oyster shells are a habitat unto themselves. \"Because of all the nooks and crannies,\" he explains, \"a lot of small fish and crabs live and eat amongst them and hide, so it creates a biodiverse environment. I even found a seahorse, which was incredible. I've never seen a seahorse in my life!\"",
-       "zh": "此外，牡蛎壳本身就是一个栖息地。他解释说：“因为有这么多的角落和缝隙，许多小鱼和螃蟹在其中生活、觅食和藏身，因此它创造了一个生物多样化的环境。我甚至发现了一只海马，这太不可思议了。我这辈子从未见过海马！”"
-      },
-      {
-       "en": "Oyster reefs used to abound in the Chesapeake, but overharvesting decimated their ranks — by over 99% by 2011, according to one estimate. This monumental shift in the bay contributed to poorer water quality and less habitat for other species.",
-       "zh": "牡蛎礁曾经在切萨皮克湾大量存在，但过度捕捞摧毁了它们的数量——据一项估计，到2011年减少了超过99%。这一巨大变化导致海湾水质下降，并为其他物种留下的栖息地减少。"
-      },
-      {
-       "en": "Oyster farming in the Chesapeake has expanded in recent years, despite environmental and disease challenges, says Ryan Carnegie, a biologist at the Virginia Institute of Marine Science. He adds that wild oysters have also made a partial comeback, helped by better management and investments in restoration. But, says Elizabeth North, a fisheries oceanographer at the University of Maryland Center for Environmental Science, \"there is still a lot of room to grow.\"",
-       "zh": "弗吉尼亚海洋科学研究所的生物学家瑞安·卡内基表示，尽管面临环境和疾病的挑战，切萨皮克湾的牡蛎养殖近年来仍在扩大。他补充说，野生牡蛎也有所部分恢复，这得益于更好的管理和恢复投资。但马里兰大学环境科学中心的渔业海洋学家伊丽莎白·诺斯表示，“仍有很大的增长空间。”"
-      },
-      {
-       "en": "Consoli's goal, therefore, is to be a caretaker of sorts, stocking the bay with ever more oysters and looking after their wellbeing. He floats them just below the surface where he says the nutrients are concentrated to help them grow quickly. And although his oysters aren't intended for eating, a cleaner bay does mean better habitat for those that are harvested commercially.",
-       "zh": "因此，Consoli 的目标是成为某种照管者，为海湾储存越来越多的牡蛎并照顾它们的健康。他将牡蛎漂浮在水面下方，他说那里营养物质集中，有助于它们快速生长。尽管他的牡蛎并不用于食用，但清洁的海湾确实意味着为商业采收的牡蛎提供了更好的栖息环境。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "water",
-       "pos": "n.",
-       "zh": "水",
-       "ex": "He leans over and hoists a mesh the size and shape of a pillowcase out of the water.",
-       "forms": []
-      },
-      {
-       "w": "growth",
-       "pos": "n.",
-       "zh": "增长",
-       "ex": "And this is just three months of growth.",
-       "forms": []
-      },
-      {
-       "w": "ecosystem",
-       "pos": "n.",
-       "zh": "生态系统",
-       "ex": "\"I really can't think of many more creatures that do the good that oysters do.\" Oysters underpin the Chesapeake's coastal and estuarine ecosystem.",
-       "forms": []
-      },
-      {
-       "w": "habitat",
-       "pos": "n.",
-       "zh": "栖息地",
-       "ex": "Plus, oyster shells are a habitat unto themselves.",
-       "forms": []
-      },
-      {
-       "w": "explain",
-       "pos": "v.",
-       "zh": "解释",
-       "ex": "\"Because of all the nooks and crannies,\" he explains, \"a lot of small fish and crabs live and eat amongst them and hide, so it creates a biodiverse environment.",
-       "forms": [
-        "explains"
-       ]
-      },
-      {
-       "w": "estimate",
-       "pos": "n.",
-       "zh": "估计；估算",
-       "ex": "I've never seen a seahorse in my life!\" Oyster reefs used to abound in the Chesapeake, but overharvesting decimated their ranks — by over 99% by 2011, according to one estimate.",
-       "forms": []
-      },
-      {
-       "w": "shift",
-       "pos": "n.",
-       "zh": "转变；转移",
-       "ex": "This monumental shift in the bay contributed to poorer water quality and less habitat for other species.",
-       "forms": []
-      },
-      {
-       "w": "species",
-       "pos": "n.",
-       "zh": "物种",
-       "ex": "This monumental shift in the bay contributed to poorer water quality and less habitat for other species.",
-       "forms": []
-      },
-      {
-       "w": "expand",
-       "pos": "v.",
-       "zh": "扩大；扩张",
-       "ex": "Oyster farming in the Chesapeake has expanded in recent years, despite environmental and disease challenges, says Ryan Carnegie, a biologist at the Virginia Institute of Marine Science.",
-       "forms": [
-        "expanded"
-       ]
-      },
-      {
-       "w": "disease",
-       "pos": "n.",
-       "zh": "疾病",
-       "ex": "Oyster farming in the Chesapeake has expanded in recent years, despite environmental and disease challenges, says Ryan Carnegie, a biologist at the Virginia Institute of Marine Science.",
-       "forms": []
-      },
-      {
-       "w": "challenge",
-       "pos": "n.",
-       "zh": "挑战",
-       "ex": "Oyster farming in the Chesapeake has expanded in recent years, despite environmental and disease challenges, says Ryan Carnegie, a biologist at the Virginia Institute of Marine Science.",
-       "forms": [
-        "challenges"
-       ]
-      },
-      {
-       "w": "investment",
-       "pos": "n.",
-       "zh": "投资",
-       "ex": "He adds that wild oysters have also made a partial comeback, helped by better management and investments in restoration.",
-       "forms": [
-        "investments"
-       ]
-      }
-     ],
-     "homeWords": [
-      "water",
-      "growth",
-      "ecosystem",
-      "habitat",
-      "explain"
-     ],
-     "keyVocab": [
-      "water",
-      "growth",
-      "ecosystem",
-      "habitat",
-      "explain",
-      "estimate",
-      "shift",
-      "species"
-     ]
-    },
-    {
-     "id": "2026-11-15-culture",
-     "section": "Culture",
-     "sectionZh": "文化",
-     "title": "M. John Harrison makes history as first sci-fi author to win the Booker Prize",
-     "dek": "M. John Harrison has become the first science fiction author to win the prestigious Booker Prize, for \"The End of Everything,\" in a milestone for the genre.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/14/nx-s1-6037700/m-john-harrison-makes-history-as-first-sci-fi-author-to-win-the-booker-prize",
-     "byline": "Andrew Limbong",
-     "dateLabel": "2026-11-15",
-     "words": 442,
-     "readTime": 3,
-     "level": "B2",
-     "levelEn": "Upper-intermediate",
-     "paragraphs": [
-      {
-       "en": "M. John Harrison has become the first science fiction author to win the prestigious Booker Prize, for \"The End of Everything,\" in a milestone for the genre.",
-       "zh": "约翰·哈里森先生成为首位获得享有盛誉的布克奖的科幻小说作家，他凭借《万物终结》获得此奖，这对于该类型是一个里程碑。"
-      },
-      {
-       "en": "Every year, the Booker Prize honors the best fiction published in the U.K. and Ireland. It is one of the highest achievements in English-language literature. Past winners include Salman Rushdie for \"Midnight's Children,\" Hilary Mantel for \"Wolf Hall\" and Kazuo Ishiguro for \"The Remains Of The Day.\" This year, the prize went to M. John Harrison's \"The End Of Everything,\" and it is the first science fiction novel to win the Booker in the prize's nearly six-decade history. What took so long? What's it mean for the genre? NPR's Andrew Limbong is here. Andrew, thanks so much for being with us.",
-       "zh": "每年，布克奖都会表彰在英国和爱尔兰出版的最佳小说。它是英语文学中最高的成就之一。过去的获奖者包括萨尔曼·鲁西迪的《午夜之子》、希拉里·曼特尔的《狼厅》和石黑一雄的《剩物之日》。今年，该奖颁给了M. 约翰·哈里森的《万物终结》，这是该奖近六十年历史上首部获奖的科幻小说。为什么会花这么长时间？这对这个类型意味着什么？NPR的安德鲁·林邦在这里。安德鲁，非常感谢你加入我们。"
-      },
-      {
-       "en": "SIMON: I'm embarrassed to say I hadn't heard of the book. Tell us about it.",
-       "zh": "西蒙：我不好意思地说我没听说过这本书。给我们介绍一下吧。"
-      },
-      {
-       "en": "LIMBONG: So it's set in this dystopian near future, but it's not exactly clear at the start what's happened that's caused this dystopian future. And we begin by following this guy named Phillip, who's a beachcomber. So he spends his time along the southern coast of England looking for stuff to sell. And he comes across this blob. It's hard to explain, but it's this shape-shifting thing that grows and regenerates. It ends up talking, and Phillip takes it under his care. All the while in the background, we're being given this information about an alien invasion, the iGhetti. But again, it is not super-duper clear what kind of aliens these are or what, really, the invasion itself caused.",
-       "zh": "LIMBONG：所以故事设定在一个反乌托邦的近未来，但一开始并不完全清楚导致这个反乌托邦未来发生了什么。我们一开始跟随一个名叫菲利普的人，他是个拾荒者。他在英格兰南海岸沿岸寻找可以出售的东西。有一天，他遇到了一个无法轻易描述的东西，是一种会改变形状、不断生长和再生的生物。它最终会说话，菲利普开始照顾它。与此同时，背景中我们会被提供一些关于外星人入侵的消息，即iGhetti。但同样地，这些外星人到底是什么样的，入侵本身又真正造成了什么，并不是非常清楚。"
-      },
-      {
-       "en": "SIMON: And I gather M. John Harrison isn't one of those novelists who overexplain circumstances...",
-       "zh": "西蒙：我听说约翰·哈里森先生并不是那种会过度解释情节的小说家……"
-      },
-      {
-       "en": "LIMBONG: (Laughter) No. No, no, absolutely not. This is very much a vibes-based book. And it's a pretty slim one, too. This is, like, under 200 pages.",
-       "zh": "LIMBONG：（笑）不。不，不，绝对不。这本书非常依赖氛围。而且它相当薄，大约不到200页。"
-      },
-      {
-       "en": "LIMBONG: It's been bananas, Scott. It's been bonkers. This is a bit of a divisive book, and I think intentionally so. When M. John Harrison accepted the award, he started by saying he didn't think he'd end up winning. And I don't think that's false modesty. I'm inclined to believe him, judging by the reaction. The book has under three stars out of five on Goodreads, same on StoryGraph. He beat out authors sort of beloved by litfic (ph) fans and critics. You know, you got Marlon James, Elizabeth Strout, Douglas Stuart, which means, you know, there are a lot of people who are displeased by this win, to say the least.",
-       "zh": "LIMBONG：真是疯狂，Scott。真是狂热。这本书有点分裂人群，我觉得这是故意的。当M. John Harrison接受奖项时，他开始时说他没想到自己会获奖。我认为这并非是假谦虚。从反应来看，我倾向于相信他。这本书在Goodreads上评分不到五颗星中的三颗，StoryGraph上也是如此。他战胜了一些受文学小说粉丝和评论家喜爱的作者。你知道，有Marlon James、Elizabeth Strout、Douglas Stuart，这意味着，至少可以说，有很多人对这个获奖结果不满意。"
-      },
-      {
-       "en": "SIMON: There have been, over the past 50 years, a lot of great science fiction novels. What do you think put this one over the top?",
-       "zh": "西蒙：在过去的50年里，有许多伟大的科幻小说。你认为是什么让这本书脱颖而出？"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "fiction",
-       "pos": "n.",
-       "zh": "小说；虚构",
-       "ex": "John Harrison has become the first science fiction author to win the prestigious Booker Prize, for \"The End of Everything,\" in a milestone for the genre.",
-       "forms": []
-      },
-      {
-       "w": "genre",
-       "pos": "n.",
-       "zh": "类型；流派",
-       "ex": "John Harrison has become the first science fiction author to win the prestigious Booker Prize, for \"The End of Everything,\" in a milestone for the genre.",
-       "forms": []
-      },
-      {
-       "w": "literature",
-       "pos": "n.",
-       "zh": "文学",
-       "ex": "It is one of the highest achievements in English-language literature.",
-       "forms": []
-      },
-      {
-       "w": "history",
-       "pos": "n.",
-       "zh": "历史",
-       "ex": "John Harrison's \"The End Of Everything,\" and it is the first science fiction novel to win the Booker in the prize's nearly six-decade history.",
-       "forms": []
-      },
-      {
-       "w": "future",
-       "pos": "n.",
-       "zh": "未来",
-       "ex": "LIMBONG: So it's set in this dystopian near future, but it's not exactly clear at the start what's happened that's caused this dystopian future.",
-       "forms": []
-      },
-      {
-       "w": "explain",
-       "pos": "v.",
-       "zh": "解释",
-       "ex": "It's hard to explain, but it's this shape-shifting thing that grows and regenerates.",
-       "forms": []
-      },
-      {
-       "w": "invasion",
-       "pos": "n.",
-       "zh": "入侵；侵略",
-       "ex": "All the while in the background, we're being given this information about an alien invasion, the iGhetti.",
-       "forms": []
-      },
-      {
-       "w": "novelist",
-       "pos": "n.",
-       "zh": "小说家",
-       "ex": "John Harrison isn't one of those novelists who overexplain circumstances...",
-       "forms": [
-        "novelists"
-       ]
-      },
-      {
-       "w": "accept",
-       "pos": "v.",
-       "zh": "接受",
-       "ex": "John Harrison accepted the award, he started by saying he didn't think he'd end up winning.",
-       "forms": [
-        "accepted"
-       ]
-      },
-      {
-       "w": "judge",
-       "pos": "n.",
-       "zh": "法官",
-       "ex": "I'm inclined to believe him, judging by the reaction.",
-       "forms": [
-        "judging"
-       ]
-      },
-      {
-       "w": "critic",
-       "pos": "n.",
-       "zh": "评论家；批评家",
-       "ex": "He beat out authors sort of beloved by litfic (ph) fans and critics.",
-       "forms": [
-        "critics"
-       ]
-      }
-     ],
-     "homeWords": [
-      "fiction",
-      "genre",
-      "literature",
-      "history",
-      "future"
-     ],
-     "keyVocab": [
-      "fiction",
-      "genre",
-      "literature",
-      "history",
-      "future",
-      "explain",
-      "invasion",
-      "novelist"
      ]
     }
    ]
