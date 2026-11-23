@@ -1,6 +1,786 @@
 window.__MERIDIAN_DATA__ = {
- "updated": "2026-11-22T07:16:37.046014+00:00",
+ "updated": "2026-11-23T07:58:11.652141+00:00",
  "days": [
+  {
+   "date": "2026-11-23",
+   "articles": [
+    {
+     "id": "2026-11-23-world",
+     "section": "World",
+     "sectionZh": "国际",
+     "title": "Ukraine war spilling into NATO territory",
+     "dek": "The war between Russia and Ukraine once again creeps onto European territory – from attacks on ships to missiles in Poland and fresh allegations of Russian operations inside Denmark.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
+     "byline": "Teri Schultz",
+     "dateLabel": "2026-11-23",
+     "words": 596,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "The war between Russia and Ukraine once again creeps onto European territory – from attacks on ships to missiles in Poland and fresh allegations of Russian operations inside Denmark.",
+       "zh": "俄罗斯与乌克兰之间的战争再次蔓延到欧洲领土——从对船只的袭击到波兰的导弹袭击，以及针对俄罗斯在丹麦内部行动的新指控。"
+      },
+      {
+       "en": "A Russian ship was set ablaze after it was struck by a drone in the Baltic Sea. Yet another sign that the war in Ukraine is, at times, spilling over into the rest of Europe. This comes just days after President Trump called Russian President Vladimir Putin his friend. Teri Schultz joins us now from Brussels. Teri, let's start in the Gulf of Finland. A Russian cargo ship was hit by a drone there Saturday and caught fire. What's the latest on that?",
+       "zh": "一艘俄罗斯船在波罗的海被无人机击中后起火。这又是一个迹象，显示乌克兰战争有时会蔓延到欧洲其他地区。这发生在特朗普总统称俄罗斯总统弗拉基米尔·普京为他的朋友几天之后。特里·舒尔茨现在从布鲁塞尔加入我们。特里，让我们从芬兰湾开始。上周六，一艘俄罗斯货船在那里被无人机击中并起火。最新情况如何？"
+      },
+      {
+       "en": "TERI SCHULTZ, BYLINE: Well, a few hours ago, Rob, Russia took control of this cargo ship, the Sparta II, and towed it out of Finnish waters a day after, as you mentioned, it was hit by a drone. The crew was rescued by another Russian vessel traveling nearby at the time of the strike. Now, the attack is presumed to have come from Ukraine, but Kyiv has not yet claimed responsibility. Finnish President Alexander Stubb referred to the incident as an unfortunate reminder that the, quote, \"consequences of Russia's war of aggression are also visible in our region.\" Interestingly, teams from both Finland and neighboring Estonia came Saturday and helped Russian ships try to put out the fire on board. Stubb thanked all of those involved for what he called responsible and professional actions.",
+       "zh": "特里·舒尔茨(Teri Schultz) 署名：几小时前，罗布，俄罗斯控制了这艘货船“斯巴达二号”(Sparta II)，并将其从芬兰水域拖出，正如你提到的，这发生在它被无人机击中后的第二天。当时另一艘在附近航行的俄罗斯船只救出了船员。目前，攻击被认为是来自乌克兰，但基辅尚未承认责任。芬兰总统亚历山大·斯图布(Alexander Stubb) 将此次事件称为一个不幸的提醒，引用原话：“俄罗斯侵略战争的后果在我们地区也是显而易见的。”有趣的是，来自芬兰和邻国爱沙尼亚的团队在周六到达，并帮助俄罗斯船只试图扑灭船上的火灾。斯图布感谢所有参与人员，他称其为负责任且专业的行动。"
+      },
+      {
+       "en": "SCHMITZ: So if the Sparta II was in the service of the Russian military, why didn't Finland seize the ship to put it out of business?",
+       "zh": "施密茨：所以如果斯巴达II号为俄罗斯军方服务，为什么芬兰没有扣押这艘船以使其停运呢？"
+      },
+      {
+       "en": "SCHULTZ: There was a lot of talk about this in Finland because this ship transports weapons and other supplies to Russia to use against Ukraine. And the vessel itself is under U.S. and U.K. sanctions, and its owner is under European Union sanctions. But the conclusion this time was that it would create too big an environmental hazard to keep it in Finnish waters. Here's how it was described in a press conference by Jukka-Pekka Lumilahti, the director of sea operations for the Finnish Border Guard.",
+       "zh": "舒尔茨：在芬兰，这件事引起了很多讨论，因为这艘船向俄罗斯运送武器和其他物资，用于对抗乌克兰。而且这艘船本身受到美国和英国的制裁，其船东也受到欧盟的制裁。但这次的结论是，将其留在芬兰水域会造成过大的环境风险。在一次新闻发布会上，芬兰边境警卫队海上行动主管尤卡-佩卡·卢米拉希是这样描述的。"
+      },
+      {
+       "en": "JUKKA-PEKKA LUMILAHTI: (Through interpreter) If we would let the vessel burn, it would most likely sink. And after that, it would cause a major environmental risk for Finland and Estonia.",
+       "zh": "JUKKA-PEKKA LUMILAHTI：（通过翻译）如果我们让船只燃烧，它很可能会沉没。之后，这将对芬兰和爱沙尼亚造成重大环境风险。"
+      },
+      {
+       "en": "SCHULTZ: So as much as Finland would be pleased to take a military cargo ship out of Moscow's arsenal, in this case, they were basically saying good riddance.",
+       "zh": "舒尔茨：所以，尽管芬兰很高兴能从莫斯科的军火库里拿走一艘军用货船，但在这种情况下，他们基本上是在说再见了，好走不送。"
+      },
+      {
+       "en": "SCHMITZ: So Ukraine is not the only one launching far-reaching strikes. Last Friday, Russia launched missiles into Polish territory. And I understand that you were there covering a nearby military exercise involving nearly a dozen countries, and it was that that was suspected to be Russia's reason for doing this, right?",
+       "zh": "SCHMITZ：所以乌克兰并不是唯一发动远程打击的国家。上周五，俄罗斯向波兰领土发射了导弹。据我了解，你当时正在那里报道一次涉及近十多个国家的附近军事演习，而这次演习被怀疑是俄罗斯这样做的原因，对吧？"
+      },
+      {
+       "en": "SCHULTZ: Yeah, that's right. There were three Russian cruise missiles that landed between 30 and 60 miles from this military exercise, which was training forces for what's envisioned to eventually be a peace-monitoring mission in post-war Ukraine. At the time, all we knew on the ground was that there were multiple air alerts, at one time even telling us to take cover. And that happens often in Poland, especially at that location just over a hundred miles from the Ukrainian border. But this is particularly risky for the Russians, as they never know whether they'll kill people from a NATO country on the ground. NATO Secretary General Mark Rutte was asked by a crowd of reporters in Warsaw whether the alliance can do anything to stop these Russian incursions.",
+       "zh": "舒尔茨：是的，没错。有三枚俄罗斯巡航导弹落在距离这次军演大约30到60英里的地方，这次军演是为了训练部队参与预计将来在战后乌克兰执行的和平观察任务。当时，我们在现场所知道的只是出现了多次空袭警报，有一次甚至告诉我们要寻找掩护。在波兰，这种情况经常发生，特别是在距离乌克兰边境刚刚一百多英里的那个地点。但这对俄罗斯人来说尤其危险，因为他们永远不知道是否会杀到北约国家的人员。北约秘书长马克·吕特在华沙被一群记者问到，联盟是否能采取任何措施阻止这些俄罗斯的入侵。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "territory",
+       "pos": "n.",
+       "zh": "领土",
+       "ex": "The war between Russia and Ukraine once again creeps onto European territory – from attacks on ships to missiles in Poland and fresh allegations of Russian operations inside Denmark.",
+       "forms": []
+      },
+      {
+       "w": "missile",
+       "pos": "n.",
+       "zh": "导弹",
+       "ex": "The war between Russia and Ukraine once again creeps onto European territory – from attacks on ships to missiles in Poland and fresh allegations of Russian operations inside Denmark.",
+       "forms": [
+        "missiles"
+       ]
+      },
+      {
+       "w": "drone",
+       "pos": "n.",
+       "zh": "无人机",
+       "ex": "A Russian ship was set ablaze after it was struck by a drone in the Baltic Sea.",
+       "forms": []
+      },
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "This comes just days after President Trump called Russian President Vladimir Putin his friend.",
+       "forms": []
+      },
+      {
+       "w": "water",
+       "pos": "n.",
+       "zh": "水",
+       "ex": "TERI SCHULTZ, BYLINE: Well, a few hours ago, Rob, Russia took control of this cargo ship, the Sparta II, and towed it out of Finnish waters a day after, as you mentioned, it was hit by a drone.",
+       "forms": [
+        "waters"
+       ]
+      },
+      {
+       "w": "strike",
+       "pos": "n.",
+       "zh": "罢工；打击",
+       "ex": "The crew was rescued by another Russian vessel traveling nearby at the time of the strike.",
+       "forms": [
+        "strikes"
+       ]
+      },
+      {
+       "w": "claim",
+       "pos": "v.",
+       "zh": "声称；主张",
+       "ex": "Now, the attack is presumed to have come from Ukraine, but Kyiv has not yet claimed responsibility.",
+       "forms": [
+        "claimed"
+       ]
+      },
+      {
+       "w": "region",
+       "pos": "n.",
+       "zh": "地区；区域",
+       "ex": "Finnish President Alexander Stubb referred to the incident as an unfortunate reminder that the, quote, \"consequences of Russia's war of aggression are also visible in our region.\" Interestingly, teams from both Finland and neighboring Estonia came Saturday and helped Russian ships try to put out the fire on board.",
+       "forms": []
+      },
+      {
+       "w": "service",
+       "pos": "n.",
+       "zh": "服务",
+       "ex": "SCHMITZ: So if the Sparta II was in the service of the Russian military, why didn't Finland seize the ship to put it out of business?",
+       "forms": []
+      },
+      {
+       "w": "military",
+       "pos": "n.",
+       "zh": "军队；军方",
+       "ex": "SCHMITZ: So if the Sparta II was in the service of the Russian military, why didn't Finland seize the ship to put it out of business?",
+       "forms": []
+      },
+      {
+       "w": "supply",
+       "pos": "n.",
+       "zh": "供应；供给",
+       "ex": "SCHULTZ: There was a lot of talk about this in Finland because this ship transports weapons and other supplies to Russia to use against Ukraine.",
+       "forms": [
+        "supplies"
+       ]
+      },
+      {
+       "w": "sanction",
+       "pos": "n.",
+       "zh": "制裁",
+       "ex": "sanctions, and its owner is under European Union sanctions.",
+       "forms": [
+        "sanctions"
+       ]
+      }
+     ],
+     "homeWords": [
+      "territory",
+      "missile",
+      "drone",
+      "president",
+      "water"
+     ],
+     "keyVocab": [
+      "territory",
+      "missile",
+      "drone",
+      "president",
+      "water",
+      "strike",
+      "claim",
+      "region"
+     ]
+    },
+    {
+     "id": "2026-11-23-business",
+     "section": "Business",
+     "sectionZh": "商业 · 财经",
+     "title": "He expected a small-business loan. He got a 7-year nightmare",
+     "dek": "GLENDALE, Calif. — Sitting at his desk, tucked into a corner of his teenage bedroom — a place where he'd never intended to return, well into middle age — Vahe Shahinian rereads the emails that…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
+     "byline": "Alina Selyukh",
+     "dateLabel": "2026-11-23",
+     "words": 250,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "GLENDALE, Calif. — Sitting at his desk, tucked into a corner of his teenage bedroom — a place where he'd never intended to return, well into middle age — Vahe Shahinian rereads the emails that split his life into before and after.",
+       "zh": "加利福尼亚州格伦代尔——坐在他的书桌前，书桌被安置在他青少年时期的卧室一角——这是一个他从未打算在中年以后回来的地方——瓦赫·沙希尼安重读那些将他的人生划分为之前和之后的电子邮件。"
+      },
+      {
+       "en": "A broker was offering to fund Shahinian's small business with a line of credit worth $750,000.",
+       "zh": "一位经纪人正在提供资金支持Shahinian的小企业，额度为75万美元的信用额度。"
+      },
+      {
+       "en": "It was 2019, and Shahinian's company soared, like a miniature Live Nation-Ticketmaster, selling tickets and producing concerts around Los Angeles and beyond. He imagined how much he could do with stable funding.",
+       "zh": "那是2019年，沙希尼安的公司蒸蒸日上，就像一个迷你版的Live Nation-Ticketmaster，在洛杉矶及其他地区售票并制作演唱会。他设想如果有稳定的资金支持，他能做多少事情。"
+      },
+      {
+       "en": "The pitch had a catch: Shahinian would first accept a third of the sum and start paying it back immediately, in daily installments of $3,600. After 30 days, he could access the rest of the money. He crunched the numbers, followed up with questions — and took the deal.",
+       "zh": "这个提议有一个附加条件：Shahinian 首先会接受总额的三分之一，并立即开始偿还，每天分期支付 3,600 美元。30 天后，他才能使用剩余的钱。他算了算账，提出了一些问题——然后接受了这个协议。"
+      },
+      {
+       "en": "Shahinian sent the daily payments, he says, for 30 days. Then 40. Then 50.",
+       "zh": "Shahinian说，他每天支付了30天。然后是40天。然后是50天。"
+      },
+      {
+       "en": "\"From that day,\" he says, \"it's been one long day, one long nightmare.\"",
+       "zh": "“从那一天起，”他说，“就像是一整天，一场漫长的噩梦。”"
+      },
+      {
+       "en": "For seven years, Shahinian has been mired in the shadowy industry that is now the fastest-growing source of funding for small business in the United States. It's largely unregulated, promising fast money at a tremendous cost. And Shahinian's lawsuit against his funders could become one of the first of its kind to go to trial.",
+       "zh": "七年来，Shahinian一直陷在这个如今成为美国小企业最快增长资金来源的阴暗行业中。它在很大程度上不受监管，承诺快速赚钱，但代价巨大。而Shahinian针对他的资金方提起的诉讼可能成为首批将开庭审理的此类案件之一。"
+      },
+      {
+       "en": "Before the \"incident,\" as Shahinian calls his fateful deal, he'd been in business for 15 years, building his company from a side hustle into his main source of income.",
+       "zh": "在沙希尼安所称的那次“事件”发生之前，他已经经营了十五年的生意，将公司从副业发展成主要收入来源。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "fund",
+       "pos": "n.",
+       "zh": "基金；资金",
+       "ex": "A broker was offering to fund Shahinian's small business with a line of credit worth $750,000.",
+       "forms": [
+        "funding"
+       ]
+      },
+      {
+       "w": "credit",
+       "pos": "n.",
+       "zh": "信贷；信用",
+       "ex": "A broker was offering to fund Shahinian's small business with a line of credit worth $750,000.",
+       "forms": []
+      },
+      {
+       "w": "soar",
+       "pos": "v.",
+       "zh": "飙升；猛涨",
+       "ex": "It was 2019, and Shahinian's company soared, like a miniature Live Nation-Ticketmaster, selling tickets and producing concerts around Los Angeles and beyond.",
+       "forms": [
+        "soared"
+       ]
+      },
+      {
+       "w": "accept",
+       "pos": "v.",
+       "zh": "接受",
+       "ex": "The pitch had a catch: Shahinian would first accept a third of the sum and start paying it back immediately, in daily installments of $3,600.",
+       "forms": []
+      },
+      {
+       "w": "number",
+       "pos": "n.",
+       "zh": "数量；数字",
+       "ex": "He crunched the numbers, followed up with questions — and took the deal.",
+       "forms": [
+        "numbers"
+       ]
+      },
+      {
+       "w": "industry",
+       "pos": "n.",
+       "zh": "行业；工业",
+       "ex": "\"From that day,\" he says, \"it's been one long day, one long nightmare.\" For seven years, Shahinian has been mired in the shadowy industry that is now the fastest-growing source of funding for small business in the United States.",
+       "forms": []
+      },
+      {
+       "w": "cost",
+       "pos": "n.",
+       "zh": "成本；代价",
+       "ex": "It's largely unregulated, promising fast money at a tremendous cost.",
+       "forms": []
+      },
+      {
+       "w": "lawsuit",
+       "pos": "n.",
+       "zh": "诉讼",
+       "ex": "And Shahinian's lawsuit against his funders could become one of the first of its kind to go to trial.",
+       "forms": []
+      },
+      {
+       "w": "trial",
+       "pos": "n.",
+       "zh": "审判；试验",
+       "ex": "And Shahinian's lawsuit against his funders could become one of the first of its kind to go to trial.",
+       "forms": []
+      },
+      {
+       "w": "income",
+       "pos": "n.",
+       "zh": "收入",
+       "ex": "Before the \"incident,\" as Shahinian calls his fateful deal, he'd been in business for 15 years, building his company from a side hustle into his main source of income.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "fund",
+      "credit",
+      "soar",
+      "accept",
+      "number"
+     ],
+     "keyVocab": [
+      "fund",
+      "credit",
+      "soar",
+      "accept",
+      "number",
+      "industry",
+      "cost",
+      "lawsuit"
+     ]
+    },
+    {
+     "id": "2026-11-23-technology",
+     "section": "Technology",
+     "sectionZh": "科技",
+     "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+     "dek": "GENEVA — Diplomats meeting at the United Nations in Geneva have agreed to start discussing options to regulate lethal autonomous weapons, often called \"killer robots.\"",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+     "byline": "Imogen Foulkes",
+     "dateLabel": "2026-11-23",
+     "words": 296,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "GENEVA — Diplomats meeting at the United Nations in Geneva have agreed to start discussing options to regulate lethal autonomous weapons, often called \"killer robots.\"",
+       "zh": "日内瓦——在日内瓦联合国会晤的外交官们已经同意开始讨论规范致命自主武器的选项，这种武器通常被称为“杀手机器人”。"
+      },
+      {
+       "en": "After a week of negotiations that dragged on until the small hours of Saturday morning, a compromise emerged: countries would have two years to suggest regulations that could be legally binding, but could also be optional.",
+       "zh": "经过一周的谈判，谈判一直拖到周六凌晨，达成了一个妥协：各国将有两年的时间提出可能具有法律约束力但也可以是可选的规定。"
+      },
+      {
+       "en": "Bleary-eyed negotiators insisted the agreement was better than nothing and showed the U.N.'s disarmament process could still function. But for many humanitarian organizations and many countries, the deal falls far short of what they had hoped for.",
+       "zh": "眼睛昏花的谈判代表坚持认为，这项协议总比没有好，并显示联合国的裁军进程仍然可以运作。但对于许多人道主义组织和许多国家来说，这项协议远未达到他们的期望。"
+      },
+      {
+       "en": "Before the negotiations got underway, the International Committee of the Red Cross, the guardian of the Geneva Conventions, said it was urgent for legally binding rules to be drafted within a year. That call was backed by the U.N. secretary-general and by Pope Leo.",
+       "zh": "在谈判开始之前，作为日内瓦公约的守护者的红十字国际委员会表示，迫切需要在一年内起草具有法律约束力的规则。这一呼吁得到了联合国秘书长和教皇利奥的支持。"
+      },
+      {
+       "en": "Their concerns stem from the kind of warfare we are now seeing. In Ukraine, Sudan and Gaza, civilians are being killed by semi-autonomous drones. This year in Sudan, 80% of civilian deaths were caused by drones according to the U.N.",
+       "zh": "他们的担忧源于我们现在所看到的战争类型。在乌克兰、苏丹和加沙，平民正遭到半自主无人机的杀害。据联合国称，今年在苏丹，80%的平民死亡是由无人机造成的。"
+      },
+      {
+       "en": "Humans remain, albeit very remotely, in control for now, but humanitarian organizations fear we are on the verge of seeing artificial intelligence-assisted weapons make the decision to kill entirely on their own.",
+       "zh": "人类仍然暂时处于控制之中，尽管控制力非常有限，但人道主义组织担心，我们正处于人工智能辅助武器完全自主作出杀戮决定的边缘。"
+      },
+      {
+       "en": "\"There is a fundamental ethical concern with having what are essentially these life-and-death decisions determined by programming, determined by an algorithm,\" said ICRC legal adviser Georgia Hinds. \"That's not something that you can fix with better technology. That is a moral red line that we cannot cross.\"",
+       "zh": "红十字国际委员会法律顾问乔治亚·欣兹表示：“让本质上关乎生死的决定由程序、由算法来决定，这是一个根本的伦理问题。这不是通过更好的技术就能解决的。这是一条我们不能跨越的道德红线。”"
+      },
+      {
+       "en": "No one went into the negotiations thinking they would be easy; some of the world's most powerful countries, among them the U.S., Russia and Israel, had already indicated their reluctance to agree to binding regulations.",
+       "zh": "没有人进入谈判时认为事情会很容易；世界上一些最强大的国家，其中包括美国、俄罗斯和以色列，已经表示不愿意同意有约束力的规定。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "diplomat",
+       "pos": "n.",
+       "zh": "外交官",
+       "ex": "GENEVA — Diplomats meeting at the United Nations in Geneva have agreed to start discussing options to regulate lethal autonomous weapons, often called \"killer robots.\" After a week of negotiations that dragged on until the small hours of Saturday morning, a compromise emerged: countries would have two years to suggest regulations that could be legally binding, but could also be optional.",
+       "forms": [
+        "diplomats"
+       ]
+      },
+      {
+       "w": "discuss",
+       "pos": "v.",
+       "zh": "讨论",
+       "ex": "GENEVA — Diplomats meeting at the United Nations in Geneva have agreed to start discussing options to regulate lethal autonomous weapons, often called \"killer robots.\" After a week of negotiations that dragged on until the small hours of Saturday morning, a compromise emerged: countries would have two years to suggest regulations that could be legally binding, but could also be optional.",
+       "forms": [
+        "discussing"
+       ]
+      },
+      {
+       "w": "negotiation",
+       "pos": "n.",
+       "zh": "谈判；协商",
+       "ex": "GENEVA — Diplomats meeting at the United Nations in Geneva have agreed to start discussing options to regulate lethal autonomous weapons, often called \"killer robots.\" After a week of negotiations that dragged on until the small hours of Saturday morning, a compromise emerged: countries would have two years to suggest regulations that could be legally binding, but could also be optional.",
+       "forms": [
+        "negotiations"
+       ]
+      },
+      {
+       "w": "emerge",
+       "pos": "v.",
+       "zh": "出现；浮现",
+       "ex": "GENEVA — Diplomats meeting at the United Nations in Geneva have agreed to start discussing options to regulate lethal autonomous weapons, often called \"killer robots.\" After a week of negotiations that dragged on until the small hours of Saturday morning, a compromise emerged: countries would have two years to suggest regulations that could be legally binding, but could also be optional.",
+       "forms": [
+        "emerged"
+       ]
+      },
+      {
+       "w": "suggest",
+       "pos": "v.",
+       "zh": "表明；建议",
+       "ex": "GENEVA — Diplomats meeting at the United Nations in Geneva have agreed to start discussing options to regulate lethal autonomous weapons, often called \"killer robots.\" After a week of negotiations that dragged on until the small hours of Saturday morning, a compromise emerged: countries would have two years to suggest regulations that could be legally binding, but could also be optional.",
+       "forms": []
+      },
+      {
+       "w": "regulation",
+       "pos": "n.",
+       "zh": "监管；法规",
+       "ex": "GENEVA — Diplomats meeting at the United Nations in Geneva have agreed to start discussing options to regulate lethal autonomous weapons, often called \"killer robots.\" After a week of negotiations that dragged on until the small hours of Saturday morning, a compromise emerged: countries would have two years to suggest regulations that could be legally binding, but could also be optional.",
+       "forms": [
+        "regulations"
+       ]
+      },
+      {
+       "w": "fall",
+       "pos": "n.",
+       "zh": "下降；下跌",
+       "ex": "But for many humanitarian organizations and many countries, the deal falls far short of what they had hoped for.",
+       "forms": [
+        "falls"
+       ]
+      },
+      {
+       "w": "international",
+       "pos": "adj.",
+       "zh": "国际的",
+       "ex": "Before the negotiations got underway, the International Committee of the Red Cross, the guardian of the Geneva Conventions, said it was urgent for legally binding rules to be drafted within a year.",
+       "forms": []
+      },
+      {
+       "w": "drone",
+       "pos": "n.",
+       "zh": "无人机",
+       "ex": "In Ukraine, Sudan and Gaza, civilians are being killed by semi-autonomous drones.",
+       "forms": [
+        "drones"
+       ]
+      },
+      {
+       "w": "artificial",
+       "pos": "adj.",
+       "zh": "人工的；人造的",
+       "ex": "Humans remain, albeit very remotely, in control for now, but humanitarian organizations fear we are on the verge of seeing artificial intelligence-assisted weapons make the decision to kill entirely on their own.",
+       "forms": []
+      },
+      {
+       "w": "fundamental",
+       "pos": "adj.",
+       "zh": "根本的；基本的",
+       "ex": "\"There is a fundamental ethical concern with having what are essentially these life-and-death decisions determined by programming, determined by an algorithm,\" said ICRC legal adviser Georgia Hinds.",
+       "forms": []
+      },
+      {
+       "w": "algorithm",
+       "pos": "n.",
+       "zh": "算法",
+       "ex": "\"There is a fundamental ethical concern with having what are essentially these life-and-death decisions determined by programming, determined by an algorithm,\" said ICRC legal adviser Georgia Hinds.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "diplomat",
+      "discuss",
+      "negotiation",
+      "emerge",
+      "suggest"
+     ],
+     "keyVocab": [
+      "diplomat",
+      "discuss",
+      "negotiation",
+      "emerge",
+      "suggest",
+      "regulation",
+      "fall",
+      "international"
+     ]
+    },
+    {
+     "id": "2026-11-23-science",
+     "section": "Science",
+     "sectionZh": "科学",
+     "title": "What it's like at a climate conference as talks collapse",
+     "dek": "What it's like in the halls of a climate conference as it collapses",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/22/nx-s1-6050248/what-its-like-at-a-climate-conference-as-talks-collapse",
+     "byline": "Rachel Waldholz",
+     "dateLabel": "2026-11-23",
+     "words": 456,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "What it's like in the halls of a climate conference as it collapses",
+       "zh": "气候会议崩溃时大堂里的情形"
+      },
+      {
+       "en": "After two weeks of negotiations, international climate talks fail to reach an agreement. NPR's Rachel Waldholz was in Turkey for the conference.",
+       "zh": "经过两周的谈判，国际气候会议未能达成协议。NPR的Rachel Waldholz参加了在土耳其举行的会议。"
+      },
+      {
+       "en": "International climate talks in Antalya, Turkey, ended today after negotiations fell apart. NPR's Rachel Waldholz has been at the conference and sent us this report.",
+       "zh": "土耳其安塔利亚的国际气候谈判在谈判破裂后于今天结束。美国国家公共电台的拉切尔·沃尔德霍尔茨一直在现场参加会议，并向我们发送了这份报道。"
+      },
+      {
+       "en": "RACHEL WALDHOLZ, BYLINE: I'm here in the Antalya Expo Center, which, for the past two weeks, has been packed with some 70,000 people who came to the COP31 climate conference. Now it's almost completely empty. In fact, they're disassembling parts of the venue around me. The climate talks ran two days past their scheduled end. By the time the gavel fell, many negotiators had already left to catch their flights home. Australia climate chief Chris Bowen led the negotiations.",
+       "zh": "瑞切尔·沃尔德霍尔茨（RACHEL WALDHOLZ），署名：我现在在安塔利亚博览中心，在过去的两周里，这里挤满了大约7万名参加联合国气候变化大会（COP31）的人。现在这里几乎已经空无一人。实际上，他们正在我周围拆卸场馆的一部分设施。气候谈判比预定时间延长了两天。等到会议主席敲下木槌时，许多谈判代表已经离开赶回家。澳大利亚气候首席代表克里斯·鲍文（Chris Bowen）主持了此次谈判。"
+      },
+      {
+       "en": "CHRIS BOWEN: I haven't slept for the last three nights, been negotiating all the way through, but more importantly, people on delegations came at it and gave it everything they had.",
+       "zh": "克里斯·鲍文：我在过去三晚都没睡觉，一直在进行谈判，但更重要的是，代表团的人们全力以赴地投入其中。"
+      },
+      {
+       "en": "WALDHOLZ: Delegates came to Antalya with long wish lists, from electrifying more of the global economy to money for developing countries to help deal with the impacts of climate change. Looming over it all is that this is the first summit to squarely face the reality that the planet will miss a key target of the Paris Climate Agreement, reaching warming of 1.5 degrees Celsius or 2.7 degrees Fahrenheit above pre-Industrial levels. The U.N. says limiting that overshoot requires cutting the use of fossil fuels nearly in half in the next 10 to 15 years. Many countries wanted an agreement explicitly calling for a transition away from coal, oil and natural gas. But big oil-producing countries, like Saudi Arabia, blocked any mention of fossil fuels. Ultimately, the European Union decided no deal was better than the deal on the table. Darragh O'Brien is Ireland's environment minister.",
+       "zh": "瓦尔德霍尔茨：代表们带着长长的愿望清单来到安塔利亚，从加速全球经济电气化到为发展中国家提供资金以应对气候变化的影响。笼罩在这一切之上的是，这是首次首脑会议正面面对一个现实：地球将无法实现《巴黎气候协定》的关键目标，即全球气温较工业化前水平升高控制在1.5摄氏度或2.7华氏度以内。联合国表示，要限制超标，需要在未来10到15年内将化石燃料的使用量几乎减半。许多国家希望达成一项明确要求逐步摆脱煤炭、石油和天然气的协议。但像沙特阿拉伯这样的主要产油国阻止了关于化石燃料的任何提及。最终，欧盟决定，没有协议比现有协议更好。达拉·奥布赖恩是爱尔兰环境部长。"
+      },
+      {
+       "en": "DARRAGH O'BRIEN: We will not endorse a cover decision or an Antalya pact that does not even mention fossil fuels, which is the key driver of climate change.",
+       "zh": "DARRAGH O'BRIEN：我们不会支持一项封面决定或安塔利亚协议，如果它甚至没有提到化石燃料，而化石燃料是气候变化的关键驱动因素。"
+      },
+      {
+       "en": "WALDHOLZ: Many negotiators left the expo center dragging their suitcases on the way to the airport. They'll pick up negotiations next year at the next climate summit in Ethiopia. I'm Rachel Waldholz in Antalya, Turkey.",
+       "zh": "瓦尔德霍尔茨：许多谈判代表离开博览中心时拖着行李箱前往机场。他们将在明年埃塞俄比亚举行的下一次气候峰会上继续谈判。我是雷切尔·瓦尔德霍尔茨，来自土耳其安塔利亚。"
+      },
+      {
+       "en": "Accuracy and availability of transcripts for NPR programming may vary. Transcript text may also be revised to correct errors or match updates to audio. Audio may be edited after its original broadcast or publication. The authoritative record of NPR’s programming is the audio record. Please note that NPR platforms and products also include some programming produced by third parties; NPR cannot guarantee transcripts for that content and some transcripts may be produced using automated or other tools.",
+       "zh": "NPR 节目的文字记录的准确性和可用性可能有所不同。文字记录的文本也可能会被修改以纠正错误或与音频更新保持一致。音频可能在原始广播或发布后进行编辑。NPR 节目的权威记录是音频记录。请注意，NPR 平台和产品也包括一些由第三方制作的节目；NPR 无法保证这些内容的文字记录，并且一些文字记录可能使用自动或其他工具制作。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "climate",
+       "pos": "n.",
+       "zh": "气候",
+       "ex": "What it's like in the halls of a climate conference as it collapses After two weeks of negotiations, international climate talks fail to reach an agreement.",
+       "forms": []
+      },
+      {
+       "w": "collapse",
+       "pos": "v.",
+       "zh": "崩溃；倒塌",
+       "ex": "What it's like in the halls of a climate conference as it collapses After two weeks of negotiations, international climate talks fail to reach an agreement.",
+       "forms": [
+        "collapses"
+       ]
+      },
+      {
+       "w": "negotiation",
+       "pos": "n.",
+       "zh": "谈判；协商",
+       "ex": "What it's like in the halls of a climate conference as it collapses After two weeks of negotiations, international climate talks fail to reach an agreement.",
+       "forms": [
+        "negotiations"
+       ]
+      },
+      {
+       "w": "international",
+       "pos": "adj.",
+       "zh": "国际的",
+       "ex": "What it's like in the halls of a climate conference as it collapses After two weeks of negotiations, international climate talks fail to reach an agreement.",
+       "forms": []
+      },
+      {
+       "w": "report",
+       "pos": "n.",
+       "zh": "报告；报道",
+       "ex": "NPR's Rachel Waldholz has been at the conference and sent us this report.",
+       "forms": []
+      },
+      {
+       "w": "global",
+       "pos": "adj.",
+       "zh": "全球的",
+       "ex": "WALDHOLZ: Delegates came to Antalya with long wish lists, from electrifying more of the global economy to money for developing countries to help deal with the impacts of climate change.",
+       "forms": []
+      },
+      {
+       "w": "economy",
+       "pos": "n.",
+       "zh": "经济",
+       "ex": "WALDHOLZ: Delegates came to Antalya with long wish lists, from electrifying more of the global economy to money for developing countries to help deal with the impacts of climate change.",
+       "forms": []
+      },
+      {
+       "w": "impact",
+       "pos": "n.",
+       "zh": "影响；冲击",
+       "ex": "WALDHOLZ: Delegates came to Antalya with long wish lists, from electrifying more of the global economy to money for developing countries to help deal with the impacts of climate change.",
+       "forms": [
+        "impacts"
+       ]
+      },
+      {
+       "w": "change",
+       "pos": "n.",
+       "zh": "变化；改变",
+       "ex": "WALDHOLZ: Delegates came to Antalya with long wish lists, from electrifying more of the global economy to money for developing countries to help deal with the impacts of climate change.",
+       "forms": []
+      },
+      {
+       "w": "summit",
+       "pos": "n.",
+       "zh": "峰会；顶峰",
+       "ex": "Looming over it all is that this is the first summit to squarely face the reality that the planet will miss a key target of the Paris Climate Agreement, reaching warming of 1.5 degrees Celsius or 2.7 degrees Fahrenheit above pre-Industrial levels.",
+       "forms": []
+      },
+      {
+       "w": "level",
+       "pos": "n.",
+       "zh": "水平；层级",
+       "ex": "Looming over it all is that this is the first summit to squarely face the reality that the planet will miss a key target of the Paris Climate Agreement, reaching warming of 1.5 degrees Celsius or 2.7 degrees Fahrenheit above pre-Industrial levels.",
+       "forms": [
+        "levels"
+       ]
+      },
+      {
+       "w": "fossil",
+       "pos": "n.",
+       "zh": "化石",
+       "ex": "says limiting that overshoot requires cutting the use of fossil fuels nearly in half in the next 10 to 15 years.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "climate",
+      "collapse",
+      "negotiation",
+      "international",
+      "report"
+     ],
+     "keyVocab": [
+      "climate",
+      "collapse",
+      "negotiation",
+      "international",
+      "report",
+      "global",
+      "economy",
+      "impact"
+     ]
+    },
+    {
+     "id": "2026-11-23-culture",
+     "section": "Culture",
+     "sectionZh": "文化",
+     "title": "Meet the young authors! A literacy program inspires kids in South Africa",
+     "dek": "JOHANNESBURG — It's an ordinary Saturday morning in Alexandra township, known simply as Alex or sometimes dubbed Gomora, a reference to the biblical city of Gomorrah that was known for its wickedness.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
+     "byline": "Kate Bartlett",
+     "dateLabel": "2026-11-23",
+     "words": 305,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "JOHANNESBURG — It's an ordinary Saturday morning in Alexandra township, known simply as Alex or sometimes dubbed Gomora, a reference to the biblical city of Gomorrah that was known for its wickedness.",
+       "zh": "约翰内斯堡——这是亚历山德拉镇的一个普通星期六早晨，这里通常被简称为亚历克斯，有时也被称为戈莫拉，取名自圣经中的罪恶城市戈摩拉。"
+      },
+      {
+       "en": "That nickname stems from Alexandra's high crime rates. It's a high-density area, where modest brick houses and tin shacks stretch as far as the eye can see and rotting garbage piles up along potholed streets.",
+       "zh": "这个绰号源自亚历山德拉的高犯罪率。这里是一个高密度地区，简陋的砖房和铁皮棚一直延伸到视线尽头，坑洼的街道上堆积着腐烂的垃圾。"
+      },
+      {
+       "en": "But that image doesn't intrude on an event at a small building at the Kwabhekilanga Sports Ground. There's a palpable sense of excitement. Something different is happening this weekend and community members have turned up for it.",
+       "zh": "但那幅画面并没有干扰Kwabhekilanga体育场小建筑中的活动。现场充满了明显的兴奋感。这个周末发生了一些不同寻常的事情，社区成员都赶来了。"
+      },
+      {
+       "en": "It's a book launch for a collection entitled From Gomora to the World. Stories from Alex. The seven stories in the self-published anthology have been written by children from the township who attend a free weekly literacy program.",
+       "zh": "这是《从戈莫拉到世界——亚历克斯的故事》一书的发布会。这本自费出版的选集中的七个故事由来自该镇的孩子们创作，他们参加一个免费的每周读写项目。"
+      },
+      {
+       "en": "South Africa is in the midst of a literacy crisis, with one international study showing a majority of 10-year-olds — some 81% — are unable to read for meaning in any of South Africa's 12 official languages.",
+       "zh": "南非正处于识字危机之中，一项国际研究显示，大多数10岁的儿童——约81%——无法用南非的12种官方语言中的任何一种进行意义阅读。"
+      },
+      {
+       "en": "The grassroots program Read Alex has been trying to change this, offering a weekend reading club, mainly in English, to instill a love of books in children. Launched by the Run Alex Athletics Club, it has about 50 participants. Among the activities: an annual public speaking competition, two spelling bees and a book drive on Mandela Day every year that brings in about 500 volumes — some of which the kids take home and some of which go to libraries.",
+       "zh": "基层项目“Read Alex”一直在试图改变这种状况，提供一个主要用英语进行的周末阅读俱乐部，以培养儿童对书籍的热爱。该项目由“Run Alex Athletics Club”发起，约有50名参与者。活动包括：每年的公开演讲比赛、两场拼写比赛，以及每年曼德拉日举行的图书募捐活动，筹集约500本书——其中一些让孩子们带回家，另一些则捐给图书馆。"
+      },
+      {
+       "en": "Now, not only are the children getting to practice their reading, some of them have tried their hand at writing their own stories.",
+       "zh": "现在，孩子们不仅可以练习阅读，其中一些孩子还尝试写自己的故事。"
+      },
+      {
+       "en": "The newly published authors sit up front, ready to sign the pile of freshly-printed books for sale and answer questions about their process.",
+       "zh": "新近出版的作者坐在前排，准备为待售的一摞新印刷的书签名，并回答关于他们创作过程的问题。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "rate",
+       "pos": "n.",
+       "zh": "比率；速度",
+       "ex": "That nickname stems from Alexandra's high crime rates.",
+       "forms": [
+        "rates"
+       ]
+      },
+      {
+       "w": "modest",
+       "pos": "adj.",
+       "zh": "适度的；谦虚的",
+       "ex": "It's a high-density area, where modest brick houses and tin shacks stretch as far as the eye can see and rotting garbage piles up along potholed streets.",
+       "forms": []
+      },
+      {
+       "w": "community",
+       "pos": "n.",
+       "zh": "社区；群体",
+       "ex": "Something different is happening this weekend and community members have turned up for it.",
+       "forms": []
+      },
+      {
+       "w": "international",
+       "pos": "adj.",
+       "zh": "国际的",
+       "ex": "South Africa is in the midst of a literacy crisis, with one international study showing a majority of 10-year-olds — some 81% — are unable to read for meaning in any of South Africa's 12 official languages.",
+       "forms": []
+      },
+      {
+       "w": "study",
+       "pos": "n.",
+       "zh": "研究；学习",
+       "ex": "South Africa is in the midst of a literacy crisis, with one international study showing a majority of 10-year-olds — some 81% — are unable to read for meaning in any of South Africa's 12 official languages.",
+       "forms": []
+      },
+      {
+       "w": "majority",
+       "pos": "n.",
+       "zh": "多数；大多数",
+       "ex": "South Africa is in the midst of a literacy crisis, with one international study showing a majority of 10-year-olds — some 81% — are unable to read for meaning in any of South Africa's 12 official languages.",
+       "forms": []
+      },
+      {
+       "w": "official",
+       "pos": "n.",
+       "zh": "官员；adj. 官方的",
+       "ex": "South Africa is in the midst of a literacy crisis, with one international study showing a majority of 10-year-olds — some 81% — are unable to read for meaning in any of South Africa's 12 official languages.",
+       "forms": []
+      },
+      {
+       "w": "change",
+       "pos": "n.",
+       "zh": "变化；改变",
+       "ex": "The grassroots program Read Alex has been trying to change this, offering a weekend reading club, mainly in English, to instill a love of books in children.",
+       "forms": []
+      },
+      {
+       "w": "public",
+       "pos": "adj.",
+       "zh": "公共的；公众的",
+       "ex": "Among the activities: an annual public speaking competition, two spelling bees and a book drive on Mandela Day every year that brings in about 500 volumes — some of which the kids take home and some of which go to libraries.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "rate",
+      "modest",
+      "community",
+      "international",
+      "study"
+     ],
+     "keyVocab": [
+      "rate",
+      "modest",
+      "community",
+      "international",
+      "study",
+      "majority",
+      "official",
+      "change"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-22",
    "articles": [
@@ -4540,750 +5320,6 @@ window.__MERIDIAN_DATA__ = {
       "sufficient",
       "level",
       "vote"
-     ]
-    }
-   ]
-  },
-  {
-   "date": "2026-11-16",
-   "articles": [
-    {
-     "id": "2026-11-16-world",
-     "section": "World",
-     "sectionZh": "国际",
-     "title": "What to expect from Trump and Xi's upcoming meeting in China",
-     "dek": "Preview of what to expect as President Trump meets with Chinese leader Xi Jinping and Russian President Vladimir Putin at the Asia-Pacific Economic Cooperation summit in Shenzhen, China this week.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/15/nx-s1-6038814/what-to-expect-from-trump-and-xis-upcoming-meeting-in-china",
-     "byline": "Michael Levitt",
-     "dateLabel": "2026-11-16",
-     "words": 578,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "Preview of what to expect as President Trump meets with Chinese leader Xi Jinping and Russian President Vladimir Putin at the Asia-Pacific Economic Cooperation summit in Shenzhen, China this week.",
-       "zh": "本周，特朗普总统将在中国深圳举行的亚太经济合作组织峰会上与中国国家主席习近平和俄罗斯总统弗拉基米尔·普京会晤，以下是此次会晤的预期情况预览。"
-      },
-      {
-       "en": "President Trump will meet with some of the world's most powerful leaders this week. China's Xi Jinping, Russia's Vladimir Putin and President Trump will be among the attendees to the Asia-Pacific Economic Cooperation summit in Shenzhen China. But while the administration says nuclear proliferation is on the docket, all eyes will be on the U.S.-China relationship. That's now under serious strain after the scandalous departure of NVIDIA CEO Jensen Huang, following revelations regarding a romantic relationship with a woman suspected of ties to Chinese intelligence. Evan Osnos writes for The New Yorker. He has covered China for much of his career and is closely following the APEC summit. Welcome.",
-       "zh": "特朗普总统本周将与世界上一些最有权势的领导人会晤。中国国家主席习近平、俄罗斯总统弗拉基米尔·普京和美国总统特朗普将出席在中国深圳举行的亚太经济合作组织峰会。但是，尽管美国政府表示核扩散问题已列入议程，但所有人的目光都将聚焦于中美关系。在曝出与一名涉嫌与中国情报部门有联系的女性存在婚外情后，英伟达首席执行官黄仁勋丑闻缠身并离职，该公司的股价目前正承受着巨大压力。Evan Osnos是《纽约客》的撰稿人。他在职业生涯的大部分时间里都从事中国事务的报道，并密切关注亚太经合组织峰会。欢迎您。"
-      },
-      {
-       "en": "SCHMITZ: So let's start with what's been dominating headlines this week, NVIDIA. You know, this scandal is hanging over this upcoming meeting between Trump and Xi Jinping. How do you think this will set the tone?",
-       "zh": "SCHMITZ：那么，我们先从本周占据头条新闻的英伟达说起。你知道，这桩丑闻正笼罩在即将举行的特朗普与习近平会晤之上。您认为这会如何定调？"
-      },
-      {
-       "en": "OSNOS: Well, it is a huge development to happen right before a meeting at this altitude of two leaders. I mean, you have now a case that has brought the underlying issues right to the surface, and by that I mean the tension around technology and chips and more specifically, what the Trump administration has set out to do when it comes to allowing or restricting the export of American chips and who it's been listening to. So, you know, Jensen Huang has been one of the president's most trusted voices over the course of the last two years of this administration on technology issues. He is now gone, and so they go into this summit with a scrambled set of inputs. And it's not entirely clear how that's going to play out in the room.",
-       "zh": "奥斯诺斯：好吧，在两位领导人即将举行高规格会晤之际发生这样的重大事态发展。我的意思是，现在出现了一个将深层问题直接摆到台面的案例，我指的是围绕技术和芯片的紧张局势，更具体地说，就是特朗普政府在允许或限制美国芯片出口方面打算采取什么行动，以及它一直在听取谁的意见。大家都知道，在过去两年里，在本届政府处理技术问题时，Jensen Huang一直是总统最信任的声音之一。他现在已经离开了，所以他们带着一套杂乱无章的意见参加这次峰会。目前还不完全清楚这将在会场上如何展开。"
-      },
-      {
-       "en": "SCHMITZ: So I want to pivot to another trade issue here. This week, China extended its trade truce over rare earth exports by two more months to January 10, and for its part, the U.S. is extending tariff exclusions on 178 Chinese products until that date. What is at stake here if these two sides cannot come to an agreement?",
-       "zh": "SCHMITZ：接下来我想转到另一个贸易问题。本周，中国将稀土出口的贸易休战期再延长两个月，至1月10日。美国方面则将178种中国产品的关税豁免期延长至该日期。如果双方无法达成协议，将面临怎样的风险？"
-      },
-      {
-       "en": "OSNOS: Well, it's an explosive prospect. But they have managed to avoid having these full tariffs go into effect now for many months, and that's by mutual design. I mean, the - China's economy has weakness on the domestic side. They're still dealing with the outcome of a property collapse, which left 90 million houses unfilled - enough people, by the way, to house the entire population of Russia. They've had youth unemployment - at some points, up above 20%. So they were not eager to get into a trade war.",
-       "zh": "奥斯诺斯：嗯，这是一个爆炸性的前景。但他们设法避免了这些全额关税在过去几个月内生效，这是双方共同的意图。我的意思是，中国经济在国内方面存在弱点。他们仍在应对房地产泡沫破裂的后果，泡沫破裂导致9000万套房屋空置——顺便说一句，这些房屋足以容纳俄罗斯的全部人口。他们存在青年失业问题，在某些时候，失业率超过20%。因此，他们并不急于卷入贸易战。"
-      },
-      {
-       "en": "And of course, on the United States' side, Donald Trump's party was just battered in the midterms partly because of the effects of tariffs introduced into trade relationships around the world. So in some ways, he's had reasons to try to hold this off. If, in fact, the truce collapses and they're not able to figure out a way to push this off, this could trigger another round of retaliatory tariffs and a spiral of retaliation that could drive up prices for American consumers. And that comes, obviously, at a moment when voters have signaled pretty loudly that they don't want to see that happen. So the stakes are high for the administration on that score.",
-       "zh": "当然，在美国方面，唐纳德·特朗普所在的政党刚刚在中期选举中遭遇惨败，部分原因在于对全球贸易关系征收关税所产生的影响。因此，在某种程度上，他有理由试图阻止这一局面。事实上，如果停战协议破裂，他们又无法找到办法来避免这种情况，这可能会引发新一轮的报复性关税，并导致报复行为的恶性循环，从而推高美国消费者的物价。很明显，这发生在选民大声疾呼不希望看到这种情况发生的时候。因此，在这方面，政府面临的风险很高。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "expect",
-       "pos": "v.",
-       "zh": "预期；期待",
-       "ex": "Preview of what to expect as President Trump meets with Chinese leader Xi Jinping and Russian President Vladimir Putin at the Asia-Pacific Economic Cooperation summit in Shenzhen, China this week.",
-       "forms": []
-      },
-      {
-       "w": "president",
-       "pos": "n.",
-       "zh": "总统；总裁",
-       "ex": "Preview of what to expect as President Trump meets with Chinese leader Xi Jinping and Russian President Vladimir Putin at the Asia-Pacific Economic Cooperation summit in Shenzhen, China this week.",
-       "forms": []
-      },
-      {
-       "w": "leader",
-       "pos": "n.",
-       "zh": "领导人",
-       "ex": "Preview of what to expect as President Trump meets with Chinese leader Xi Jinping and Russian President Vladimir Putin at the Asia-Pacific Economic Cooperation summit in Shenzhen, China this week.",
-       "forms": [
-        "leaders"
-       ]
-      },
-      {
-       "w": "economic",
-       "pos": "adj.",
-       "zh": "经济的",
-       "ex": "Preview of what to expect as President Trump meets with Chinese leader Xi Jinping and Russian President Vladimir Putin at the Asia-Pacific Economic Cooperation summit in Shenzhen, China this week.",
-       "forms": []
-      },
-      {
-       "w": "summit",
-       "pos": "n.",
-       "zh": "峰会；顶峰",
-       "ex": "Preview of what to expect as President Trump meets with Chinese leader Xi Jinping and Russian President Vladimir Putin at the Asia-Pacific Economic Cooperation summit in Shenzhen, China this week.",
-       "forms": []
-      },
-      {
-       "w": "administration",
-       "pos": "n.",
-       "zh": "政府；行政",
-       "ex": "But while the administration says nuclear proliferation is on the docket, all eyes will be on the U.S.-China relationship.",
-       "forms": []
-      },
-      {
-       "w": "nuclear",
-       "pos": "adj.",
-       "zh": "核的；核能的",
-       "ex": "But while the administration says nuclear proliferation is on the docket, all eyes will be on the U.S.-China relationship.",
-       "forms": []
-      },
-      {
-       "w": "intelligence",
-       "pos": "n.",
-       "zh": "情报；智能",
-       "ex": "That's now under serious strain after the scandalous departure of NVIDIA CEO Jensen Huang, following revelations regarding a romantic relationship with a woman suspected of ties to Chinese intelligence.",
-       "forms": []
-      },
-      {
-       "w": "career",
-       "pos": "n.",
-       "zh": "职业；生涯",
-       "ex": "He has covered China for much of his career and is closely following the APEC summit.",
-       "forms": []
-      },
-      {
-       "w": "dominate",
-       "pos": "v.",
-       "zh": "主导；支配",
-       "ex": "SCHMITZ: So let's start with what's been dominating headlines this week, NVIDIA.",
-       "forms": [
-        "dominating"
-       ]
-      },
-      {
-       "w": "scandal",
-       "pos": "n.",
-       "zh": "丑闻",
-       "ex": "You know, this scandal is hanging over this upcoming meeting between Trump and Xi Jinping.",
-       "forms": []
-      },
-      {
-       "w": "issue",
-       "pos": "n.",
-       "zh": "议题；问题",
-       "ex": "I mean, you have now a case that has brought the underlying issues right to the surface, and by that I mean the tension around technology and chips and more specifically, what the Trump administration has set out to do when it comes to allowing or restricting the export of American chips and who it's been listening to.",
-       "forms": [
-        "issues"
-       ]
-      }
-     ],
-     "homeWords": [
-      "expect",
-      "president",
-      "leader",
-      "economic",
-      "summit"
-     ],
-     "keyVocab": [
-      "expect",
-      "president",
-      "leader",
-      "economic",
-      "summit",
-      "administration",
-      "nuclear",
-      "intelligence"
-     ]
-    },
-    {
-     "id": "2026-11-16-business",
-     "section": "Business",
-     "sectionZh": "商业 · 财经",
-     "title": "These economists say in-person work boosts creativity, but office mandates fall short",
-     "dek": "A pair economists argue in a new book that people are more creative and productive when they work together in person. But it's not enough for employers to simply order workers back to the office.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/14/nx-s1-6040158/these-economists-say-in-person-work-boosts-creativity-but-office-mandates-fall-short",
-     "byline": "Scott Horsley",
-     "dateLabel": "2026-11-16",
-     "words": 369,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "A pair economists argue in a new book that people are more creative and productive when they work together in person. But it's not enough for employers to simply order workers back to the office.",
-       "zh": "两位经济学家在新书里指出，当人们面对面一起工作时，他们的创造力和工作效率更高。但雇主仅仅要求员工返回办公室是不够的。"
-      },
-      {
-       "en": "Years ago, Natalia Emanuel was a graduate student at Harvard, sharing a small basement office with another budding economist, and the two wound up forming a lasting professional partnership.",
-       "zh": "多年前，Natalia Emanuel是哈佛大学的一名研究生，与另一位崭露头角的经济学家共用一间狭小的地下室办公室，两人最终结成了长久的专业合作伙伴关系。"
-      },
-      {
-       "en": "NATALIA EMANUEL: We had many, many years where we were only a few feet away from each other. You could say, oh, is this a brilliant idea? Or someone could very easily say, no, that's a waste of time. Please stop.",
-       "zh": "NATALIA EMANUEL：我们有许多许多年都只相隔几英尺。你可以说，哦，这是个好主意吗？或者有人很容易就会说，不，这纯属浪费时间。请别再说了。"
-      },
-      {
-       "en": "SIMON: Emanuel and her one-time office mate, Emma Harrington, have now written a book on the advantages of working side by side with colleagues. It is called \"In Person,\" and the book comes as many businesses now contend with just how in person they want their workers to be. NPR's Scott Horsley reports.",
-       "zh": "西蒙：埃马纽埃尔和她曾经的办公室同事艾玛·哈灵顿（Emma Harrington）现在撰写了一本书，阐述与同事并肩工作的益处。这本书名为《面对面》（In Person），正值许多企业正在权衡希望员工以何种方式面对面工作之际出版。NPR的斯科特·霍斯利（Scott Horsley）来报道。"
-      },
-      {
-       "en": "SCOTT HORSLEY, BYLINE: The book opens with a story about Steve Jobs, who insisted that Pixar's headquarters have a central atrium where animators and engineers would naturally bump into each other. Emanuel says the man who's responsible for putting screens in all of our pockets nevertheless understood the value of connecting coworkers face to face.",
-       "zh": "SCOTT HORSLEY，署名：这本书以一个关于史蒂夫·乔布斯的故事开篇，他坚持要求皮克斯总部设一个中央中庭，让动画师和工程师能够自然地碰面。埃马纽埃尔说，这位将屏幕装进我们所有口袋的人，却深知同事之间面对面交流的价值。"
-      },
-      {
-       "en": "EMANUEL: You do need to have some friction, the unexpected serendipitous encounter, and those things are much, much more likely to happen in person.",
-       "zh": "EMANUEL：你确实需要一些摩擦，一些意想不到的偶然相遇，而这些事情在面对面交流时发生的可能性要大得多。"
-      },
-      {
-       "en": "HORSLEY: But in-person contact on the job is less common since the pandemic. Emanuel says nearly 1 out of 4 employees still works remotely, almost seven years after the outbreak began. As economists, she and Harrington have documented some of the drawbacks of that - a 20% drop in on-the-job feedback, less mentoring, which makes it harder for young people to find jobs, and more isolation, which wears on mental health. Some companies have begun to backtrack on work-from-home policies they adopted during the pandemic. In leaked audio, published by Barron's last year, JP Morgan Chase CEO Jamie Dimon told employees remote work wasn't working.",
-       "zh": "HORSLEY：但是，自疫情爆发以来，工作中的面对面接触变得不那么常见了。Emanuel表示，在疫情爆发近七年后，仍有近四分之一的员工远程办公。作为经济学家，她和哈林顿记录了其中的一些弊端——工作中的反馈减少了20%，指导也减少了，这使得年轻人更难找到工作，而且孤立感加剧，对心理健康造成了影响。一些公司已开始收回疫情期间所采用的居家办公政策。在《巴伦周刊》去年发布的泄露音频中，摩根大通首席执行官杰米·戴蒙 (Jamie Dimon) 告诉员工，远程办公行不通。"
-      },
-      {
-       "en": "JAMIE DIMON: It slows down decision-making. The young generation is being damaged by this. They're being left behind socially, ideas, meeting people. I can't stand it anymore.",
-       "zh": "JAMIE DIMON：它会拖慢决策过程。年轻一代正因此受到损害。他们在社交、思想、结识他人方面都落后了。我实在受不了了。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "argue",
-       "pos": "v.",
-       "zh": "主张；争论",
-       "ex": "A pair economists argue in a new book that people are more creative and productive when they work together in person.",
-       "forms": []
-      },
-      {
-       "w": "worker",
-       "pos": "n.",
-       "zh": "工人；员工",
-       "ex": "But it's not enough for employers to simply order workers back to the office.",
-       "forms": [
-        "workers"
-       ]
-      },
-      {
-       "w": "student",
-       "pos": "n.",
-       "zh": "学生",
-       "ex": "Years ago, Natalia Emanuel was a graduate student at Harvard, sharing a small basement office with another budding economist, and the two wound up forming a lasting professional partnership.",
-       "forms": []
-      },
-      {
-       "w": "report",
-       "pos": "n.",
-       "zh": "报告；报道",
-       "ex": "NPR's Scott Horsley reports.",
-       "forms": [
-        "reports"
-       ]
-      },
-      {
-       "w": "pandemic",
-       "pos": "n.",
-       "zh": "大流行病",
-       "ex": "HORSLEY: But in-person contact on the job is less common since the pandemic.",
-       "forms": []
-      },
-      {
-       "w": "employee",
-       "pos": "n.",
-       "zh": "雇员",
-       "ex": "Emanuel says nearly 1 out of 4 employees still works remotely, almost seven years after the outbreak began.",
-       "forms": [
-        "employees"
-       ]
-      },
-      {
-       "w": "outbreak",
-       "pos": "n.",
-       "zh": "暴发；疫情暴发",
-       "ex": "Emanuel says nearly 1 out of 4 employees still works remotely, almost seven years after the outbreak began.",
-       "forms": []
-      },
-      {
-       "w": "young",
-       "pos": "adj.",
-       "zh": "年轻的",
-       "ex": "As economists, she and Harrington have documented some of the drawbacks of that - a 20% drop in on-the-job feedback, less mentoring, which makes it harder for young people to find jobs, and more isolation, which wears on mental health.",
-       "forms": []
-      },
-      {
-       "w": "health",
-       "pos": "n.",
-       "zh": "健康；卫生",
-       "ex": "As economists, she and Harrington have documented some of the drawbacks of that - a 20% drop in on-the-job feedback, less mentoring, which makes it harder for young people to find jobs, and more isolation, which wears on mental health.",
-       "forms": []
-      },
-      {
-       "w": "policy",
-       "pos": "n.",
-       "zh": "政策；方针",
-       "ex": "Some companies have begun to backtrack on work-from-home policies they adopted during the pandemic.",
-       "forms": [
-        "policies"
-       ]
-      },
-      {
-       "w": "generation",
-       "pos": "n.",
-       "zh": "一代人；世代",
-       "ex": "The young generation is being damaged by this.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "argue",
-      "worker",
-      "student",
-      "report",
-      "pandemic"
-     ],
-     "keyVocab": [
-      "argue",
-      "worker",
-      "student",
-      "report",
-      "pandemic",
-      "employee",
-      "outbreak",
-      "young"
-     ]
-    },
-    {
-     "id": "2026-11-16-technology",
-     "section": "Technology",
-     "sectionZh": "科技",
-     "title": "How the tech industry and markets have responded to Jensen Huang's resignation",
-     "dek": "We look at the industry and market response to news that NVIDIA founder and CEO Jensen Huang was forced to step down after reports of affairs with an alleged Chinese spy and two of his employees.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/15/nx-s1-6040394/how-the-tech-industry-and-markets-have-responded-to-jensen-huangs-resignation",
-     "byline": "Ayesha Rascoe",
-     "dateLabel": "2026-11-16",
-     "words": 372,
-     "readTime": 3,
-     "level": "B2",
-     "levelEn": "Upper-intermediate",
-     "paragraphs": [
-      {
-       "en": "We look at the industry and market response to news that NVIDIA founder and CEO Jensen Huang was forced to step down after reports of affairs with an alleged Chinese spy and two of his employees.",
-       "zh": "我们来关注一下行业和市场对以下消息的反应：有报道称，英伟达创始人兼首席执行官黄仁勋因涉嫌与一名中国间谍以及他的两名员工有染而被逼下台。"
-      },
-      {
-       "en": "You might have heard that Jensen Huang, founder of Nvidia and its now-former CEO, was found to have affairs with two employees as well as one with a Chinese businesswoman. The New York Times, citing U.S. intelligence, reported that the businesswoman, who was a client of Nvidia's, was recruited by China's top spy agency. China denies having anything to do with this. But the national security implications are huge, given that Nvidia designs advanced microchips and is involved in AI policy. So what now?",
-       "zh": "您可能听说过，英伟达的创始人兼现已卸任的首席执行官黄仁勋被曝与两名员工以及一名中国女商人有染。《纽约时报》援引美国情报部门的消息报道称，这位女商人是英伟达的客户，被中国顶级情报机构招募。中国否认与此事有任何关系。但鉴于英伟达设计先进的微芯片并参与人工智能政策的制定，其对国家安全的影响是巨大的。那么现在该怎么办呢？"
-      },
-      {
-       "en": "Ricky Mulvey is a reporter with NPR's daily economics show, The Indicator from Planet Money. Welcome to the program.",
-       "zh": "Ricky Mulvey是NPR每日经济节目《The Indicator from Planet Money》的记者。欢迎收听本节目。"
-      },
-      {
-       "en": "RASCOE: Ricky, The Indicator explains a slice of the economy in 10 minutes or less. Today, you definitely have less, OK?",
-       "zh": "RASCOE：Ricky，《经济指标》会在10分钟或更短的时间内解释经济的一个方面。今天，你绝对用不了10分钟，好吗？"
-      },
-      {
-       "en": "RASCOE: So let's start here. Was this a failure on Nvidia's part or U.S. intelligence?",
-       "zh": "RASCOE：那么，我们从这里开始。这是英伟达的失误还是美国情报部门的失误？"
-      },
-      {
-       "en": "MULVEY: Yeah. So let's take the personal indiscretions out of this for a moment. Jensen Huang has a personal security team, and hopefully they know who he is closely interacting with. Jensen Huang denied knowing that she was a spy. But Alice Huang, the alleged spy, was a television presenter for Chinese state television before pivoting to tech. And when she was with Jensen, she was an executive at a computing firm called Megaspeed. And Megaspeed was allegedly bypassing U.S. export restrictions to ship advanced chips to China.",
-       "zh": "MULVEY：是的。那么，我们暂时先不谈个人行为不检的问题。黄仁勋有一个个人安保团队，希望他们知道他与谁有密切的互动。黄仁勋否认知道她是间谍。但据称是间谍的黄静（Alice Huang）在转向科技领域之前，曾是中国中央电视台的电视节目主持人。当她与Jensen在一起时，她是名为Megaspeed的计算机公司的高管。据称，Megaspeed 绕过了美国的出口限制，向中国运送先进芯片。"
-      },
-      {
-       "en": "Investigators at the Commerce Department raised some flags about this company a couple of years ago. They thought it was unusual that Megaspeed had Nvidia chips just packed in boxes at its data center in Malaysia - sort of like leaving Amazon packages in your entranceway, except with highly coveted AI chips.",
-       "zh": "几年前，商务部的调查人员就对这家公司提出了一些警示。他们认为，Megaspeed在其马来西亚数据中心将Nvidia芯片直接装在箱子里，这很不寻常——有点像把亚马逊包裹放在自家门口，只不过这些包裹里装的是炙手可热的AI芯片。"
-      },
-      {
-       "en": "In a statement provided to NPR, Megaspeed says it conducts lawful and legitimate business and that Alice Huang left the company last year. Now, Culper Research - a short seller, or someone who bets against companies - noted their uncomfortably close relationship back in May. So in other words, there was some smoke long before this fire.",
-       "zh": "Megaspeed在向NPR提供的一份声明中表示，该公司从事合法合规的业务，而Alice Huang已于去年离职。现在，Culper Research（一家做空机构，即做空公司股票的机构）早在5月份就注意到了他们之间令人不安的密切关系。换句话说，早在这次火灾发生之前，就已经有迹象显示出问题。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "industry",
-       "pos": "n.",
-       "zh": "行业；工业",
-       "ex": "We look at the industry and market response to news that NVIDIA founder and CEO Jensen Huang was forced to step down after reports of affairs with an alleged Chinese spy and two of his employees.",
-       "forms": []
-      },
-      {
-       "w": "market",
-       "pos": "n.",
-       "zh": "市场",
-       "ex": "We look at the industry and market response to news that NVIDIA founder and CEO Jensen Huang was forced to step down after reports of affairs with an alleged Chinese spy and two of his employees.",
-       "forms": []
-      },
-      {
-       "w": "news",
-       "pos": "n.",
-       "zh": "新闻",
-       "ex": "We look at the industry and market response to news that NVIDIA founder and CEO Jensen Huang was forced to step down after reports of affairs with an alleged Chinese spy and two of his employees.",
-       "forms": []
-      },
-      {
-       "w": "report",
-       "pos": "n.",
-       "zh": "报告；报道",
-       "ex": "We look at the industry and market response to news that NVIDIA founder and CEO Jensen Huang was forced to step down after reports of affairs with an alleged Chinese spy and two of his employees.",
-       "forms": [
-        "reported",
-        "reports"
-       ]
-      },
-      {
-       "w": "employee",
-       "pos": "n.",
-       "zh": "雇员",
-       "ex": "We look at the industry and market response to news that NVIDIA founder and CEO Jensen Huang was forced to step down after reports of affairs with an alleged Chinese spy and two of his employees.",
-       "forms": [
-        "employees"
-       ]
-      },
-      {
-       "w": "cite",
-       "pos": "v.",
-       "zh": "引用；援引",
-       "ex": "The New York Times, citing U.S.",
-       "forms": [
-        "citing"
-       ]
-      },
-      {
-       "w": "intelligence",
-       "pos": "n.",
-       "zh": "情报；智能",
-       "ex": "intelligence, reported that the businesswoman, who was a client of Nvidia's, was recruited by China's top spy agency.",
-       "forms": []
-      },
-      {
-       "w": "agency",
-       "pos": "n.",
-       "zh": "机构；代理",
-       "ex": "intelligence, reported that the businesswoman, who was a client of Nvidia's, was recruited by China's top spy agency.",
-       "forms": []
-      },
-      {
-       "w": "deny",
-       "pos": "v.",
-       "zh": "否认",
-       "ex": "China denies having anything to do with this.",
-       "forms": [
-        "denied",
-        "denies"
-       ]
-      },
-      {
-       "w": "national",
-       "pos": "adj.",
-       "zh": "国家的；全国的",
-       "ex": "But the national security implications are huge, given that Nvidia designs advanced microchips and is involved in AI policy.",
-       "forms": []
-      },
-      {
-       "w": "policy",
-       "pos": "n.",
-       "zh": "政策；方针",
-       "ex": "But the national security implications are huge, given that Nvidia designs advanced microchips and is involved in AI policy.",
-       "forms": []
-      },
-      {
-       "w": "economic",
-       "pos": "adj.",
-       "zh": "经济的",
-       "ex": "Ricky Mulvey is a reporter with NPR's daily economics show, The Indicator from Planet Money.",
-       "forms": [
-        "economics"
-       ]
-      }
-     ],
-     "homeWords": [
-      "industry",
-      "market",
-      "news",
-      "report",
-      "employee"
-     ],
-     "keyVocab": [
-      "industry",
-      "market",
-      "news",
-      "report",
-      "employee",
-      "cite",
-      "intelligence",
-      "agency"
-     ]
-    },
-    {
-     "id": "2026-11-16-science",
-     "section": "Science",
-     "sectionZh": "科学",
-     "title": "After last year's storm, this remote Alaska town is still picking up the pieces",
-     "dek": "Last fall, the remnants of Typhoon Halong tore through numerous small Alaska Native villages off the road system in Western Alaska. The storm destroyed infrastructure, floated homes off their…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/10/31/nx-s1-6021471/ex-typhoon-halong-damages-western-alaska-native-villages-kipnuk",
-     "byline": "Samantha Watson",
-     "dateLabel": "2026-11-16",
-     "words": 290,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "Last fall, the remnants of Typhoon Halong tore through numerous small Alaska Native villages off the road system in Western Alaska. The storm destroyed infrastructure, floated homes off their foundations, and displaced over a thousand people. A year later, hundreds remain displaced as the slow work of repair in a remote part of the state continues. And in one of the hardest hit communities – the small town of Kipnuk – people still aren't sure when they'll be moving back.",
-       "zh": "去年秋天，台风“哈隆”的残余气流席卷了阿拉斯加西部公路系统之外的众多阿拉斯加原住民小村庄。这场风暴摧毁了基础设施，将房屋从地基上掀起，导致超过1000人流离失所。一年后，由于该州偏远地区的重建工作进展缓慢，仍有数百人流离失所。而在受灾最严重的社区之一——基普努克小镇——人们仍然不确定何时能够搬回去。"
-      },
-      {
-       "en": "The village of under 200 homes is situated on the wide open tundra and only consistently accessible by plane.",
-       "zh": "这个不到200户人家的村庄坐落在广阔的苔原上，只有乘坐飞机才能始终如一地抵达。"
-      },
-      {
-       "en": "A year ago, 90% of the residences here were damaged by the remnants of Typhoon Halong, according to the State of Alaska's Emergency Operations Center. Dozens were swept off their foundations, some with families still inside. The community is now largely scattered across Alaska – some outside the region their ancestors have lived in for thousands of years.",
-       "zh": "据阿拉斯加州应急行动中心的数据，一年前，这里的90%的房屋都因台风“哈隆”的余威而受损。数十栋房屋被从地基上掀起，其中一些房屋里还有家人。该社区的人们现在大多分散在阿拉斯加各地，有些人甚至离开了他们祖先生活了数千年的地区。"
-      },
-      {
-       "en": "Throughout the past year, crews have been working on repairs.",
-       "zh": "在过去的一年里，工作人员一直在进行维修工作。"
-      },
-      {
-       "en": "On a clear day in August, Eddie Chuckwuk's construction crew attempted what sounded like magic: raising a building back onto its foundations using air compressors.",
-       "zh": "八月的一个晴朗日子，Eddie Chuckwuk的施工队尝试了一项听起来像魔法的壮举：使用空气压缩机将一栋建筑重新抬回其地基上。"
-      },
-      {
-       "en": "Chuckwuk is one of several dozen people who have been working long days to rebuild the place where he grew up.",
-       "zh": "Chuckwuk是数十名长期辛勤工作以重建自己成长之地的人之一。"
-      },
-      {
-       "en": "\"We're working as fast as possible as we can to get the people back in town,\" Chuckwuk says. \"That's what I just want to see – for everybody to come back and enjoy where they grew up instead of being placed in a different place … where they're not used to. It's pretty hard.\"",
-       "zh": "“我们正在尽最大努力，让人们尽快回到镇上，”Chuckwuk说。“这就是我希望看到的——每个人都能回来，在自己长大的地方安居乐业，而不是被安置在……他们不习惯的陌生地方。这真的很艰难。”"
-      },
-      {
-       "en": "This work is critical to getting Kipnuk's homes in shape to live in again, but the town is far from being fully restored.",
-       "zh": "这项工作对于让基普努克的房屋恢复宜居状态至关重要，但该镇距离全面恢复还有很长的路要走。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "fall",
-       "pos": "n.",
-       "zh": "下降；下跌",
-       "ex": "Last fall, the remnants of Typhoon Halong tore through numerous small Alaska Native villages off the road system in Western Alaska.",
-       "forms": []
-      },
-      {
-       "w": "infrastructure",
-       "pos": "n.",
-       "zh": "基础设施",
-       "ex": "The storm destroyed infrastructure, floated homes off their foundations, and displaced over a thousand people.",
-       "forms": []
-      },
-      {
-       "w": "community",
-       "pos": "n.",
-       "zh": "社区；群体",
-       "ex": "And in one of the hardest hit communities – the small town of Kipnuk – people still aren't sure when they'll be moving back.",
-       "forms": [
-        "communities"
-       ]
-      },
-      {
-       "w": "family",
-       "pos": "n.",
-       "zh": "家庭",
-       "ex": "Dozens were swept off their foundations, some with families still inside.",
-       "forms": [
-        "families"
-       ]
-      },
-      {
-       "w": "region",
-       "pos": "n.",
-       "zh": "地区；区域",
-       "ex": "The community is now largely scattered across Alaska – some outside the region their ancestors have lived in for thousands of years.",
-       "forms": []
-      },
-      {
-       "w": "critical",
-       "pos": "adj.",
-       "zh": "关键的；批评的",
-       "ex": "It's pretty hard.\" This work is critical to getting Kipnuk's homes in shape to live in again, but the town is far from being fully restored.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "fall",
-      "infrastructure",
-      "community",
-      "family",
-      "region"
-     ],
-     "keyVocab": [
-      "fall",
-      "infrastructure",
-      "community",
-      "family",
-      "region",
-      "critical"
-     ]
-    },
-    {
-     "id": "2026-11-16-culture",
-     "section": "Culture",
-     "sectionZh": "文化",
-     "title": "A new generation of disability rights activists carry on Judy Heumann's legacy",
-     "dek": "A new generation of disability rights activists carry on Judy Heumann’s legacy",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
-     "byline": "Jonaki Mehta",
-     "dateLabel": "2026-11-16",
-     "words": 312,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "A new generation of disability rights activists carry on Judy Heumann’s legacy",
-       "zh": "新一代残疾人权利活动家传承朱迪·休曼的衣钵"
-      },
-      {
-       "en": "Judy Heumann is known as the mother of the disability rights movement — yet she is lesser known than many of the other civil rights activists of her time. Now, a new film seeks to change that.",
-       "zh": "朱迪·休曼被誉为残疾人权利运动之母，但与她那个时代的许多其他民权活动家相比，她并不那么知名。现在，一部新电影旨在改变这一现状。"
-      },
-      {
-       "en": "Being Heumann, the latest movie from Oscar-winning director Siân Heder, tells the story of the young woman from Brooklyn who led the movement to win the first civil rights protections in the country for people with disabilities.",
-       "zh": "《成为休曼》是奥斯卡获奖导演希安·海德（Siân Heder）的最新电影，讲述了一位来自布鲁克林的年轻女性的故事，她领导了一场运动，为该国残疾人争取到了首批民权保护。"
-      },
-      {
-       "en": "Before the Americans with Disabilities Act (ADA) was passed in 1990, there was Section 504 of the Rehabilitation Act of 1973. It was a single sentence, written into the law, promising people with disabilities the right to fair employment and access to public life without facing discrimination.",
-       "zh": "在1990年《美国残疾人法案》（ADA）通过之前，存在1973年《康复法案》第504条。这是一句写进法律的单句，承诺残疾人享有公平就业的权利，并有权在不受歧视的情况下参与公共生活。"
-      },
-      {
-       "en": "But for years, there were no rules or regulations making the federal government actually enforce those protections.",
-       "zh": "但多年来，一直没有制定任何规则或法规来让联邦政府切实执行这些保护措施。"
-      },
-      {
-       "en": "Until the spring of 1977, when a band of activists with disabilities decided to do something about it. Led by Heumann and Kitty Cone, activists took over the former Department of Health, Education and Welfare building in San Francisco for nearly a month — widely considered the longest sit-in of a federal building in U.S. history.",
-       "zh": "直到1977年春天，一群残疾人活动人士决定采取行动。在休曼和基蒂·科恩的带领下，活动人士占领了旧金山的前卫生、教育和福利部大楼近一个月，这被普遍认为是美国历史上在联邦政府大楼内举行的最长时间的静坐示威。"
-      },
-      {
-       "en": "People across disability groups — from wheelchair users to people with intellectual and health-related disabilities — camped out, demanding, and eventually winning the passage of rules that made Section 504 enforceable. The protests paved the way for federally funded institutions like schools, libraries, city buildings and other entities to be made accessible for disabled people.",
-       "zh": "从轮椅使用者到智力障碍和健康相关障碍人士，各残疾人群体露营抗议，提出要求，最终促成了使第504条具有可执行性的法规通过。这些抗议活动为学校、图书馆、市政建筑和其他由联邦政府资助的机构为残疾人提供无障碍环境铺平了道路。"
-      },
-      {
-       "en": "\"Judy always said, 'disability only becomes a tragedy for me when society fails to provide the things we need to lead our lives' — job opportunities or barrier-free buildings, for example,\" says former NPR correspondent Joe Shapiro, who covered disability and was a friend of Heumann's until she died in 2023.",
-       "zh": "“朱迪总是说：‘只有当社会未能提供我们过上正常生活所需的东西时，残疾才会对我来说成为一种悲剧’——例如工作机会或无障碍建筑。”前NPR记者乔·沙皮罗（Joe Shapiro）说道。他曾报道过残疾人相关新闻，并且是休曼的朋友，直到她于2023年去世。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "generation",
-       "pos": "n.",
-       "zh": "一代人；世代",
-       "ex": "A new generation of disability rights activists carry on Judy Heumann’s legacy Judy Heumann is known as the mother of the disability rights movement — yet she is lesser known than many of the other civil rights activists of her time.",
-       "forms": []
-      },
-      {
-       "w": "activist",
-       "pos": "n.",
-       "zh": "活动家；积极分子",
-       "ex": "A new generation of disability rights activists carry on Judy Heumann’s legacy Judy Heumann is known as the mother of the disability rights movement — yet she is lesser known than many of the other civil rights activists of her time.",
-       "forms": [
-        "activists"
-       ]
-      },
-      {
-       "w": "film",
-       "pos": "n.",
-       "zh": "电影；影片",
-       "ex": "Now, a new film seeks to change that.",
-       "forms": []
-      },
-      {
-       "w": "change",
-       "pos": "n.",
-       "zh": "变化；改变",
-       "ex": "Now, a new film seeks to change that.",
-       "forms": []
-      },
-      {
-       "w": "young",
-       "pos": "adj.",
-       "zh": "年轻的",
-       "ex": "Being Heumann, the latest movie from Oscar-winning director Siân Heder, tells the story of the young woman from Brooklyn who led the movement to win the first civil rights protections in the country for people with disabilities.",
-       "forms": []
-      },
-      {
-       "w": "public",
-       "pos": "adj.",
-       "zh": "公共的；公众的",
-       "ex": "It was a single sentence, written into the law, promising people with disabilities the right to fair employment and access to public life without facing discrimination.",
-       "forms": []
-      },
-      {
-       "w": "regulation",
-       "pos": "n.",
-       "zh": "监管；法规",
-       "ex": "But for years, there were no rules or regulations making the federal government actually enforce those protections.",
-       "forms": [
-        "regulations"
-       ]
-      },
-      {
-       "w": "federal",
-       "pos": "adj.",
-       "zh": "联邦的",
-       "ex": "But for years, there were no rules or regulations making the federal government actually enforce those protections.",
-       "forms": []
-      },
-      {
-       "w": "enforce",
-       "pos": "v.",
-       "zh": "执行；强制实施",
-       "ex": "But for years, there were no rules or regulations making the federal government actually enforce those protections.",
-       "forms": []
-      },
-      {
-       "w": "health",
-       "pos": "n.",
-       "zh": "健康；卫生",
-       "ex": "Led by Heumann and Kitty Cone, activists took over the former Department of Health, Education and Welfare building in San Francisco for nearly a month — widely considered the longest sit-in of a federal building in U.S.",
-       "forms": []
-      },
-      {
-       "w": "education",
-       "pos": "n.",
-       "zh": "教育",
-       "ex": "Led by Heumann and Kitty Cone, activists took over the former Department of Health, Education and Welfare building in San Francisco for nearly a month — widely considered the longest sit-in of a federal building in U.S.",
-       "forms": []
-      },
-      {
-       "w": "history",
-       "pos": "n.",
-       "zh": "历史",
-       "ex": "history.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "generation",
-      "activist",
-      "film",
-      "change",
-      "young"
-     ],
-     "keyVocab": [
-      "generation",
-      "activist",
-      "film",
-      "change",
-      "young",
-      "public",
-      "regulation",
-      "federal"
      ]
     }
    ]
