@@ -1,6 +1,802 @@
 window.__MERIDIAN_DATA__ = {
- "updated": "2026-11-23T07:58:11.652141+00:00",
+ "updated": "2026-11-24T10:16:08.798122+00:00",
  "days": [
+  {
+   "date": "2026-11-24",
+   "articles": [
+    {
+     "id": "2026-11-24-world",
+     "section": "World",
+     "sectionZh": "国际",
+     "title": "Bleeding, birth defects: Congo residents sue over alleged mining pollution",
+     "dek": "KOLWEZI, Democratic Republic of Congo — In a small cinderblock home in the scrub beside a Chinese-owned copper and cobalt mine in Kolwezi, a mother shares a story of devastating loss.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals",
+     "byline": "Emmet Livingstone",
+     "dateLabel": "2026-11-24",
+     "words": 243,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "KOLWEZI, Democratic Republic of Congo — In a small cinderblock home in the scrub beside a Chinese-owned copper and cobalt mine in Kolwezi, a mother shares a story of devastating loss.",
+       "zh": "刚果民主共和国科卢韦齐——在一座位于科卢韦齐一家中资铜钴矿旁边的灌木丛中的小砖房里，一位母亲讲述了一个关于惨痛损失的故事。"
+      },
+      {
+       "en": "She believes pollution from the neighboring mine is responsible for her family's suffering.",
+       "zh": "她认为，邻近矿山的污染是导致她家人遭受苦难的原因。"
+      },
+      {
+       "en": "She has lost three children. Two died at birth. A third suffered repeated nosebleeds before dying. One of her two surviving children has stunted growth.",
+       "zh": "她失去了三个孩子。两个孩子刚出生就夭折了。第三个孩子在去世前反复出现鼻出血。她幸存的两个孩子中有一个发育迟缓。"
+      },
+      {
+       "en": "Now she and 26 other residents are taking the company to court in a rare attempt to hold alleged polluters accountable in the Democratic Republic of Congo. They are also suing the government, accusing it of failing to enforce environmental regulations.",
+       "zh": "现在，她和其他26名居民正在起诉该公司，这是在刚果民主共和国罕见的一次追究涉嫌污染者责任的尝试。他们还起诉了政府，指控政府未能执行环境法规。"
+      },
+      {
+       "en": "Like other plaintiffs, she asked NPR not to identify her, fearing retribution from the company or government. Although the claimants' names are public in court documents, they want to avoid further exposure. Their lawyers also fear the plaintiffs could face intimidation from other locals.",
+       "zh": "与其他原告一样，她要求NPR不要透露她的身份，因为她担心会遭到公司或政府的报复。虽然法院文件中公开了原告的姓名，但他们希望避免进一步曝光。他们的律师也担心原告可能会受到其他当地人的恐吓。"
+      },
+      {
+       "en": "\"Our children are the first victims,\" she said, as the sun set over a nearby mound of mine tailings. \"What we're hoping for is to see justice done.\"",
+       "zh": "“我们的孩子是第一批受害者，”她说，这时太阳正落到附近的一座尾矿堆上。“我们希望看到正义得到伸张。”"
+      },
+      {
+       "en": "The plaintiffs, whose case began Nov. 3, describe similar problems: contaminated water, nosebleeds, skin rashes, miscarriages and birth defects, which they blame on mining pollution.",
+       "zh": "原告的诉讼于11月3日开始，他们描述了类似的问题：水质污染、鼻出血、皮肤皮疹、流产和先天缺陷，他们将这些问题归咎于采矿污染。"
+      },
+      {
+       "en": "The mine, known as COMMUS, is owned by Chinese multinational Zijin and lies in Kolwezi, a city of more than 500,000 people in the heart of Congo's copper belt, a southern region with vast mineral reserves.",
+       "zh": "该矿场名为COMMUS，由中国跨国公司紫金矿业所有，位于科卢韦齐，这是一座拥有50多万人口的城市，地处刚果铜矿带的中心，该地区位于刚果南部，拥有丰富的矿产储量。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "pollution",
+       "pos": "n.",
+       "zh": "污染",
+       "ex": "She believes pollution from the neighboring mine is responsible for her family's suffering.",
+       "forms": []
+      },
+      {
+       "w": "growth",
+       "pos": "n.",
+       "zh": "增长",
+       "ex": "One of her two surviving children has stunted growth.",
+       "forms": []
+      },
+      {
+       "w": "resident",
+       "pos": "n.",
+       "zh": "居民",
+       "ex": "Now she and 26 other residents are taking the company to court in a rare attempt to hold alleged polluters accountable in the Democratic Republic of Congo.",
+       "forms": [
+        "residents"
+       ]
+      },
+      {
+       "w": "court",
+       "pos": "n.",
+       "zh": "法院；法庭",
+       "ex": "Now she and 26 other residents are taking the company to court in a rare attempt to hold alleged polluters accountable in the Democratic Republic of Congo.",
+       "forms": []
+      },
+      {
+       "w": "enforce",
+       "pos": "v.",
+       "zh": "执行；强制实施",
+       "ex": "They are also suing the government, accusing it of failing to enforce environmental regulations.",
+       "forms": []
+      },
+      {
+       "w": "regulation",
+       "pos": "n.",
+       "zh": "监管；法规",
+       "ex": "They are also suing the government, accusing it of failing to enforce environmental regulations.",
+       "forms": [
+        "regulations"
+       ]
+      },
+      {
+       "w": "public",
+       "pos": "adj.",
+       "zh": "公共的；公众的",
+       "ex": "Although the claimants' names are public in court documents, they want to avoid further exposure.",
+       "forms": []
+      },
+      {
+       "w": "local",
+       "pos": "adj.",
+       "zh": "当地的",
+       "ex": "Their lawyers also fear the plaintiffs could face intimidation from other locals.",
+       "forms": [
+        "locals"
+       ]
+      },
+      {
+       "w": "victim",
+       "pos": "n.",
+       "zh": "受害者",
+       "ex": "\"Our children are the first victims,\" she said, as the sun set over a nearby mound of mine tailings.",
+       "forms": [
+        "victims"
+       ]
+      },
+      {
+       "w": "describe",
+       "pos": "v.",
+       "zh": "描述",
+       "ex": "3, describe similar problems: contaminated water, nosebleeds, skin rashes, miscarriages and birth defects, which they blame on mining pollution.",
+       "forms": []
+      },
+      {
+       "w": "problem",
+       "pos": "n.",
+       "zh": "问题",
+       "ex": "3, describe similar problems: contaminated water, nosebleeds, skin rashes, miscarriages and birth defects, which they blame on mining pollution.",
+       "forms": [
+        "problems"
+       ]
+      },
+      {
+       "w": "water",
+       "pos": "n.",
+       "zh": "水",
+       "ex": "3, describe similar problems: contaminated water, nosebleeds, skin rashes, miscarriages and birth defects, which they blame on mining pollution.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "pollution",
+      "growth",
+      "resident",
+      "court",
+      "enforce"
+     ],
+     "keyVocab": [
+      "pollution",
+      "growth",
+      "resident",
+      "court",
+      "enforce",
+      "regulation",
+      "public",
+      "local"
+     ]
+    },
+    {
+     "id": "2026-11-24-business",
+     "section": "Business",
+     "sectionZh": "商业 · 财经",
+     "title": "They attended Trump's meme coin dinner. It didn't go well",
+     "dek": "Headed to what some have called \"the most exclusive dinner in the world,\" hosted by President Trump, crypto investor Morten Christensen and his young sister Gabriëlle Felen had butterflies in…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/24/nx-s1-6051604/trump-crypto-corruption-meme-coin-dinner",
+     "byline": "Rafael Nam",
+     "dateLabel": "2026-11-24",
+     "words": 293,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "Headed to what some have called \"the most exclusive dinner in the world,\" hosted by President Trump, crypto investor Morten Christensen and his young sister Gabriëlle Felen had butterflies in their stomachs.",
+       "zh": "在前往一些人称之为“世界上最尊贵的晚宴”的路上，由特朗普总统主办的这场晚宴让加密货币投资者Morten Christensen和他的妹妹Gabriëlle Felen感到紧张不已。"
+      },
+      {
+       "en": "The dinner on Sunday, Nov. 22, was meant to reward the top holders of the president's meme coin — a type of crypto currency that Trump had launched just days before his inauguration.",
+       "zh": "11月22日（星期日）的晚宴旨在奖励总统迷因币的最大持有者，这种加密货币是特朗普在就职前几天推出的。"
+      },
+      {
+       "en": "\"I'm excited!,\" said Christensen. \"It's always nice to dress up for an event. My sister looks amazing!\"",
+       "zh": "“我很兴奋！”克里斯滕森说。“为参加活动盛装打扮总是很棒。我妹妹看起来太棒了！”"
+      },
+      {
+       "en": "Christensen — the founder of a crypto website called Airdrop Alert — is a veteran trader who got the crypto bug as far back as 2013. He has attended each of the previous two events Trump has held for the top holders of his meme coin.",
+       "zh": "克里斯滕森是名为Airdrop Alert的加密货币网站的创始人，他是一位资深交易员，早在2013年就迷上了加密货币。他参加了特朗普此前为他的迷因币顶级持有者举办的两场活动。"
+      },
+      {
+       "en": "For him it was just a chance to get a glimpse of the president. Christensen said that he's not political — and always advises others to \"never buy a political meme coin ever.\"",
+       "zh": "对他来说，这只是一个一睹总统风采的机会。克里斯滕森表示，他并不关心政治，并且总是建议其他人“永远不要购买政治迷因币”。"
+      },
+      {
+       "en": "The events have been intensely controversial. Anti-corruption activists have said they pose enormous conflicts of interest concerns, effectively rewarding those who buy the most coins with access to the president. Top buyers get the closest access.",
+       "zh": "这些活动备受争议。反腐败活动人士表示，这些活动引发了巨大的利益冲突问题，实际上是对购买最多代币的人给予接触总统的奖励。购买量最大的买家可以获得最亲密的接触机会。"
+      },
+      {
+       "en": "Christensen was unsure if he would attend this latest dinner. But a sharp drop in the value of Trump's meme coin — from a peak of over $70 in January 2025 to now less than a dollar — had sharply reduced the cost of qualifying as a top holder, which provides access to the dinner.",
+       "zh": "克里斯滕森不确定自己是否会参加这次最新的晚宴。但特朗普的迷因币价值大幅下跌——从2025年1月的峰值70多美元跌至现在的不到1美元——这大大降低了成为顶级持有者的成本，而顶级持有者有资格参加晚宴。"
+      },
+      {
+       "en": "And, above all, it was a chance to bring his sister Felen for the ride.",
+       "zh": "最重要的是，他有机会带上妹妹Felen一起骑行。"
+      },
+      {
+       "en": "On Sunday night, Christensen and Felen agreed to provide NPR with voice memos through an event that turned out to be something they likely won't forget.",
+       "zh": "周日晚上，克里斯滕森和费伦同意通过一场他们可能永远不会忘记的活动，向NPR提供语音备忘录。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "Headed to what some have called \"the most exclusive dinner in the world,\" hosted by President Trump, crypto investor Morten Christensen and his young sister Gabriëlle Felen had butterflies in their stomachs.",
+       "forms": []
+      },
+      {
+       "w": "investor",
+       "pos": "n.",
+       "zh": "投资者",
+       "ex": "Headed to what some have called \"the most exclusive dinner in the world,\" hosted by President Trump, crypto investor Morten Christensen and his young sister Gabriëlle Felen had butterflies in their stomachs.",
+       "forms": []
+      },
+      {
+       "w": "young",
+       "pos": "adj.",
+       "zh": "年轻的",
+       "ex": "Headed to what some have called \"the most exclusive dinner in the world,\" hosted by President Trump, crypto investor Morten Christensen and his young sister Gabriëlle Felen had butterflies in their stomachs.",
+       "forms": []
+      },
+      {
+       "w": "currency",
+       "pos": "n.",
+       "zh": "货币",
+       "ex": "22, was meant to reward the top holders of the president's meme coin — a type of crypto currency that Trump had launched just days before his inauguration.",
+       "forms": []
+      },
+      {
+       "w": "activist",
+       "pos": "n.",
+       "zh": "活动家；积极分子",
+       "ex": "Anti-corruption activists have said they pose enormous conflicts of interest concerns, effectively rewarding those who buy the most coins with access to the president.",
+       "forms": [
+        "activists"
+       ]
+      },
+      {
+       "w": "enormous",
+       "pos": "adj.",
+       "zh": "巨大的；庞大的",
+       "ex": "Anti-corruption activists have said they pose enormous conflicts of interest concerns, effectively rewarding those who buy the most coins with access to the president.",
+       "forms": []
+      },
+      {
+       "w": "conflict",
+       "pos": "n.",
+       "zh": "冲突",
+       "ex": "Anti-corruption activists have said they pose enormous conflicts of interest concerns, effectively rewarding those who buy the most coins with access to the president.",
+       "forms": [
+        "conflicts"
+       ]
+      },
+      {
+       "w": "sharp",
+       "pos": "adj.",
+       "zh": "急剧的；锋利的",
+       "ex": "But a sharp drop in the value of Trump's meme coin — from a peak of over $70 in January 2025 to now less than a dollar — had sharply reduced the cost of qualifying as a top holder, which provides access to the dinner.",
+       "forms": []
+      },
+      {
+       "w": "cost",
+       "pos": "n.",
+       "zh": "成本；代价",
+       "ex": "But a sharp drop in the value of Trump's meme coin — from a peak of over $70 in January 2025 to now less than a dollar — had sharply reduced the cost of qualifying as a top holder, which provides access to the dinner.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "president",
+      "investor",
+      "young",
+      "currency",
+      "activist"
+     ],
+     "keyVocab": [
+      "president",
+      "investor",
+      "young",
+      "currency",
+      "activist",
+      "enormous",
+      "conflict",
+      "sharp"
+     ]
+    },
+    {
+     "id": "2026-11-24-technology",
+     "section": "Technology",
+     "sectionZh": "科技",
+     "title": "Trump claims credit as Jensen Huang returns to Nvidia",
+     "dek": "Nvidia reinstated Jensen Huang as CEO of the world's largest chipmaker on Monday, sending the company's stock soaring as President Trump claimed credit for brokering his close ally's return.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump",
+     "byline": "Shannon Bond",
+     "dateLabel": "2026-11-24",
+     "words": 331,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "Nvidia reinstated Jensen Huang as CEO of the world's largest chipmaker on Monday, sending the company's stock soaring as President Trump claimed credit for brokering his close ally's return.",
+       "zh": "周一，英伟达（Nvidia）重新任命黄仁勋（Jensen Huang）为这家全球最大芯片制造商的首席执行官，该公司股价应声飙升，而特朗普总统则宣称自己促成了这位亲密盟友的回归。"
+      },
+      {
+       "en": "It was a stunning reversal of fortune for Huang. He resigned less than two weeks ago, following news reports of extramarital affairs, including with a woman U.S. intelligence agencies suspected of being a Chinese spy.",
+       "zh": "这对黄来说是命运的惊人逆转。在有关他婚外情的报道传出后，他于不到两周前辞职。这些报道称，他的婚外情对象中包括一名被美国情报机构怀疑是中国间谍的女性。"
+      },
+      {
+       "en": "In a statement put out just before the market opened, Nvidia said its board voted unanimously in favor of bringing back Huang after a series of conversations and meetings, as well as input from people at \"senior levels\" of the U.S. government. \"Based on that input, the Board is confident that Mr. Huang's reinstatement poses no national security risk,\" the board said.",
+       "zh": "英伟达在市场开盘前发布的一份声明中表示，经过一系列的讨论和会议，以及美国政府“高层”人士的意见，其董事会一致投票赞成让黄仁勋复职。董事会表示：“根据这些意见，董事会有信心认为黄先生的复职不会对国家安全构成风险。”"
+      },
+      {
+       "en": "Nvidia's stock price shot up more than 30% on Monday, helping buoy stock indexes after last week's losses, which were driven by the tech sector.",
+       "zh": "英伟达的股价周一飙升逾30%，帮助提振了在上周受科技板块拖累而下跌的股市指数。"
+      },
+      {
+       "en": "Trump endorsed the move, calling it the \"correct and proper decision\" in a social media post. He said Huang's leadership was needed \"in order to ensure the Success and Prosperity of not only the Company, but the American Economy.\"",
+       "zh": "特朗普在社交媒体帖文中表示支持这一举措，称其为“正确且恰当的决定”。他说，需要黄仁勋的领导力，“以确保不仅是公司的成功和繁荣，还有美国经济的成功和繁荣。”"
+      },
+      {
+       "en": "The president had repeatedly urged Nvidia's board to reinstate Huang as CEO in public comments and on social media. In a lengthy interview with CNBC Monday morning, Trump claimed his influence helped Huang get his job back.",
+       "zh": "特朗普总统曾在公开场合和社交媒体上多次敦促英伟达董事会恢复黄仁勋的首席执行官职务。在周一上午接受CNBC的长时间采访中，特朗普声称他的影响力帮助黄仁勋重获职位。"
+      },
+      {
+       "en": "\"I don't want to say, but basically I was represented at the board,\" the president said, in response to a question about a report in Semafor that he had called directly into the Nvidia board meeting.",
+       "zh": "在回答有关Semafor的一篇报道的问题时，该总裁表示：“我不想多说，但基本上我在董事会是有代表的。”该报道称，他曾直接致电参加Nvidia的董事会会议。"
+      },
+      {
+       "en": "\"I spoke to them. Let me just put it that way. And I convinced them,\" Trump told CNBC. \"And I must tell you, it was a lot easier to convince them yesterday than it was a week and a half ago.\"",
+       "zh": "“我和他们谈过了。我就这么说吧。我让他们相信了，”特朗普对CNBC表示。“我必须告诉你们，昨天说服他们比一个半星期前容易得多。”"
+      },
+      {
+       "en": "He later added: \"When the stock starts dropping forty, fifty percent, it was a lot easier for me to do it yesterday than it would have been.\"",
+       "zh": "他后来补充道：“当股价开始下跌40%、50%时，我昨天采取行动要比现在容易得多。”"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "soar",
+       "pos": "v.",
+       "zh": "飙升；猛涨",
+       "ex": "Nvidia reinstated Jensen Huang as CEO of the world's largest chipmaker on Monday, sending the company's stock soaring as President Trump claimed credit for brokering his close ally's return.",
+       "forms": [
+        "soaring"
+       ]
+      },
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "Nvidia reinstated Jensen Huang as CEO of the world's largest chipmaker on Monday, sending the company's stock soaring as President Trump claimed credit for brokering his close ally's return.",
+       "forms": []
+      },
+      {
+       "w": "claim",
+       "pos": "v.",
+       "zh": "声称；主张",
+       "ex": "Nvidia reinstated Jensen Huang as CEO of the world's largest chipmaker on Monday, sending the company's stock soaring as President Trump claimed credit for brokering his close ally's return.",
+       "forms": [
+        "claimed"
+       ]
+      },
+      {
+       "w": "credit",
+       "pos": "n.",
+       "zh": "信贷；信用",
+       "ex": "Nvidia reinstated Jensen Huang as CEO of the world's largest chipmaker on Monday, sending the company's stock soaring as President Trump claimed credit for brokering his close ally's return.",
+       "forms": []
+      },
+      {
+       "w": "news",
+       "pos": "n.",
+       "zh": "新闻",
+       "ex": "He resigned less than two weeks ago, following news reports of extramarital affairs, including with a woman U.S.",
+       "forms": []
+      },
+      {
+       "w": "report",
+       "pos": "n.",
+       "zh": "报告；报道",
+       "ex": "He resigned less than two weeks ago, following news reports of extramarital affairs, including with a woman U.S.",
+       "forms": [
+        "reports"
+       ]
+      },
+      {
+       "w": "intelligence",
+       "pos": "n.",
+       "zh": "情报；智能",
+       "ex": "intelligence agencies suspected of being a Chinese spy.",
+       "forms": []
+      },
+      {
+       "w": "agency",
+       "pos": "n.",
+       "zh": "机构；代理",
+       "ex": "intelligence agencies suspected of being a Chinese spy.",
+       "forms": [
+        "agencies"
+       ]
+      },
+      {
+       "w": "statement",
+       "pos": "n.",
+       "zh": "声明；陈述",
+       "ex": "In a statement put out just before the market opened, Nvidia said its board voted unanimously in favor of bringing back Huang after a series of conversations and meetings, as well as input from people at \"senior levels\" of the U.S.",
+       "forms": []
+      },
+      {
+       "w": "market",
+       "pos": "n.",
+       "zh": "市场",
+       "ex": "In a statement put out just before the market opened, Nvidia said its board voted unanimously in favor of bringing back Huang after a series of conversations and meetings, as well as input from people at \"senior levels\" of the U.S.",
+       "forms": []
+      },
+      {
+       "w": "vote",
+       "pos": "n.",
+       "zh": "投票；表决",
+       "ex": "In a statement put out just before the market opened, Nvidia said its board voted unanimously in favor of bringing back Huang after a series of conversations and meetings, as well as input from people at \"senior levels\" of the U.S.",
+       "forms": [
+        "voted"
+       ]
+      },
+      {
+       "w": "level",
+       "pos": "n.",
+       "zh": "水平；层级",
+       "ex": "In a statement put out just before the market opened, Nvidia said its board voted unanimously in favor of bringing back Huang after a series of conversations and meetings, as well as input from people at \"senior levels\" of the U.S.",
+       "forms": [
+        "levels"
+       ]
+      }
+     ],
+     "homeWords": [
+      "soar",
+      "president",
+      "claim",
+      "credit",
+      "news"
+     ],
+     "keyVocab": [
+      "soar",
+      "president",
+      "claim",
+      "credit",
+      "news",
+      "report",
+      "intelligence",
+      "agency"
+     ]
+    },
+    {
+     "id": "2026-11-24-science",
+     "section": "Science",
+     "sectionZh": "科学",
+     "title": "Meet Colombia's fuzzy 'water guardians'",
+     "dek": "MONGUÍ, Colombia — Moisés Moreno greets visitors at his greenhouse 10,000 feet high in the Andes Mountains. Underneath the plastic roof, he nurtures tiny seedlings that can grow to be 30-feet tall.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/24/nx-s1-6038806/colombia-water-plants-frailejons",
+     "byline": "John Otis",
+     "dateLabel": "2026-11-24",
+     "words": 292,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "MONGUÍ, Colombia — Moisés Moreno greets visitors at his greenhouse 10,000 feet high in the Andes Mountains. Underneath the plastic roof, he nurtures tiny seedlings that can grow to be 30-feet tall.",
+       "zh": "哥伦比亚蒙圭——Moisés Moreno 在位于安第斯山脉海拔 10000 英尺的温室里迎接游客。在塑料棚顶下，他悉心培育着细小的幼苗，这些幼苗长大后可长到30英尺高。"
+      },
+      {
+       "en": "\"Do you know anything about frailejons?\" Moreno asks his visitors, who are mostly clueless.",
+       "zh": "“你们对弗莱洪有什么了解吗？” 莫雷诺问他的访客，他们大多一无所知。"
+      },
+      {
+       "en": "Related to the sunflower, frailejons are the iconic flora of Colombia's high mountain wetlands, which are known as páramos, and are vital for the country's water supply.",
+       "zh": "弗莱莱洪与向日葵同属一科，是哥伦比亚高山湿地（被称为“páramos”）的标志性植物，对该国的供水至关重要。"
+      },
+      {
+       "en": "The wooly fuzz on their leaves protect frailejons from the cold and absorb water from the cloud cover. This helps maintain moisture in the páramos, which are the source of major rivers, and much of Colombia's water.",
+       "zh": "叶子上的绒毛可以保护弗雷洪植物免受寒冷，并从云层中吸收水分。这有助于保持高寒草甸的水分，而高寒草甸是主要河流以及哥伦比亚大部分水源的源头。"
+      },
+      {
+       "en": "But frailejons and the páramos where they grow face a growing array of threats, including farmers, cattle ranchers and coal miners who are gradually pushing higher into the Andes. In addition, climate change is warming the mountains, allowing invasive species to survive at higher altitudes and disrupt their fragile ecosystems.",
+       "zh": "然而，弗雷莱洪植物及其生长的帕拉莫正面临着越来越多的威胁，包括正逐步向安第斯山脉更高处推进的农民、牧场主和煤矿工人。此外，气候变化正在使山区变暖，使入侵物种能够在更高海拔地区生存，并破坏脆弱的生态系统。"
+      },
+      {
+       "en": "Of the nearly 150 species of frailejons, two-thirds are at risk and 17 are endangered, says Mauricio Diazgranados, a Colombian expert on the plant who is chief science officer at the New York Botanical Garden.",
+       "zh": "哥伦比亚植物专家、纽约植物园首席科学官毛里西奥·迪亚兹格拉纳多斯（Mauricio Diazgranados）表示，在近150种弗莱莱洪植物中，有三分之二面临威胁，其中17种濒临灭绝。"
+      },
+      {
+       "en": "\"They are a keystone species for maintaining the páramos and play a key role in water production,\" he says. \"But most frailejons are in trouble,\"",
+       "zh": "“它们是维持高寒草甸的伞物种，在水源涵养方面发挥着关键作用。”他说，“但大多数弗莱洪植物都面临困境。”"
+      },
+      {
+       "en": "When explorers first spotted the shrubs mysteriously protruding from the mountain fog centuries ago, they reminded them of hooded monks. Hence the name frailejon, which is Spanish for \"big friar.\"",
+       "zh": "几个世纪前，当探险家们第一次看到这些灌木丛神秘地从山间雾气中冒出来时，它们让探险家们想起了头戴兜帽的僧侣。因此，它们得名“frailejon”，在西班牙语中意为“大修士”。"
+      },
+      {
+       "en": "The long, thin leaves of some species bend toward the sky and resemble palm fronds. Many are stout in the middle because, rather than falling to the ground, their dying leaves slump down to form a brownish outer shell to their trunks.",
+       "zh": "有些物种的叶子又长又细，向天空弯曲，形似棕榈叶。许多龙血树的中间部分很粗壮，因为它们的枯叶不会掉落到地上，而是下垂形成棕褐色的外壳包裹在树干上。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "vital",
+       "pos": "adj.",
+       "zh": "至关重要的",
+       "ex": "Related to the sunflower, frailejons are the iconic flora of Colombia's high mountain wetlands, which are known as páramos, and are vital for the country's water supply.",
+       "forms": []
+      },
+      {
+       "w": "water",
+       "pos": "n.",
+       "zh": "水",
+       "ex": "Related to the sunflower, frailejons are the iconic flora of Colombia's high mountain wetlands, which are known as páramos, and are vital for the country's water supply.",
+       "forms": []
+      },
+      {
+       "w": "supply",
+       "pos": "n.",
+       "zh": "供应；供给",
+       "ex": "Related to the sunflower, frailejons are the iconic flora of Colombia's high mountain wetlands, which are known as páramos, and are vital for the country's water supply.",
+       "forms": []
+      },
+      {
+       "w": "cloud",
+       "pos": "n.",
+       "zh": "云（计算）；云",
+       "ex": "The wooly fuzz on their leaves protect frailejons from the cold and absorb water from the cloud cover.",
+       "forms": []
+      },
+      {
+       "w": "threat",
+       "pos": "n.",
+       "zh": "威胁",
+       "ex": "But frailejons and the páramos where they grow face a growing array of threats, including farmers, cattle ranchers and coal miners who are gradually pushing higher into the Andes.",
+       "forms": [
+        "threats"
+       ]
+      },
+      {
+       "w": "climate",
+       "pos": "n.",
+       "zh": "气候",
+       "ex": "In addition, climate change is warming the mountains, allowing invasive species to survive at higher altitudes and disrupt their fragile ecosystems.",
+       "forms": []
+      },
+      {
+       "w": "change",
+       "pos": "n.",
+       "zh": "变化；改变",
+       "ex": "In addition, climate change is warming the mountains, allowing invasive species to survive at higher altitudes and disrupt their fragile ecosystems.",
+       "forms": []
+      },
+      {
+       "w": "species",
+       "pos": "n.",
+       "zh": "物种",
+       "ex": "In addition, climate change is warming the mountains, allowing invasive species to survive at higher altitudes and disrupt their fragile ecosystems.",
+       "forms": []
+      },
+      {
+       "w": "fragile",
+       "pos": "adj.",
+       "zh": "脆弱的",
+       "ex": "In addition, climate change is warming the mountains, allowing invasive species to survive at higher altitudes and disrupt their fragile ecosystems.",
+       "forms": []
+      },
+      {
+       "w": "ecosystem",
+       "pos": "n.",
+       "zh": "生态系统",
+       "ex": "In addition, climate change is warming the mountains, allowing invasive species to survive at higher altitudes and disrupt their fragile ecosystems.",
+       "forms": [
+        "ecosystems"
+       ]
+      },
+      {
+       "w": "risk",
+       "pos": "n.",
+       "zh": "风险",
+       "ex": "Of the nearly 150 species of frailejons, two-thirds are at risk and 17 are endangered, says Mauricio Diazgranados, a Colombian expert on the plant who is chief science officer at the New York Botanical Garden.",
+       "forms": []
+      },
+      {
+       "w": "plant",
+       "pos": "n.",
+       "zh": "工厂；植物",
+       "ex": "Of the nearly 150 species of frailejons, two-thirds are at risk and 17 are endangered, says Mauricio Diazgranados, a Colombian expert on the plant who is chief science officer at the New York Botanical Garden.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "vital",
+      "water",
+      "supply",
+      "cloud",
+      "threat"
+     ],
+     "keyVocab": [
+      "vital",
+      "water",
+      "supply",
+      "cloud",
+      "threat",
+      "climate",
+      "change",
+      "species"
+     ]
+    },
+    {
+     "id": "2026-11-24-culture",
+     "section": "Culture",
+     "sectionZh": "文化",
+     "title": "Black travelers on Route 66 weren't welcome at most gas stations — except this one",
+     "dek": "During the Jim Crow Era, Black families traveling Route 66, the historic highway that ran more than 2,000 miles from Chicago to Los Angeles, needed to carry food and gas with them. Most…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/24/nx-s1-5928337/threatt-filling-station-oklahoma-route-66",
+     "byline": "Jennifer Vanasco",
+     "dateLabel": "2026-11-24",
+     "words": 328,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "During the Jim Crow Era, Black families traveling Route 66, the historic highway that ran more than 2,000 miles from Chicago to Los Angeles, needed to carry food and gas with them. Most restaurants, gas stations and motels wouldn't serve them.",
+       "zh": "在吉姆·克劳时代，黑人家庭在66号公路上旅行时需要随身携带食物和汽油。这条历史悠久的公路从芝加哥一直延伸到洛杉矶，全长超过2000英里。大多数餐厅、加油站和汽车旅馆都不愿意为他们提供服务。"
+      },
+      {
+       "en": "But there was one place they were guaranteed to find respite: a small, family-owned business just east of Oklahoma City that offered fuel, food and a place to stop for the night. The Threatt Filling Station, according to the National Trust for Historic Preservation, was the only known Black-owned and operated gas station along the famous Mother Road.",
+       "zh": "但有一个地方可以让他们安心歇脚：位于俄克拉荷马城以东的一家小型家族企业，这里提供燃油、食物和过夜场所。据美国国家历史保护信托基金会称，Threatt加油站是著名的“母亲之路”沿线唯一一家已知由黑人拥有和经营的加油站。"
+      },
+      {
+       "en": "\"Grandpa took care of whatever they needed to have,\" said Linda Fisher, the granddaughter of the station's founder, Allen Threatt Sr. Her family still owns the station and the 150 acres around it.",
+       "zh": "“爷爷会满足他们的所有需求。”车站创始人大卫·特雷特（Allen Threatt Sr.）的孙女琳达·费舍尔（Linda Fisher）说道。她的家人至今仍拥有该车站及其周围150英亩的土地。"
+      },
+      {
+       "en": "\"If they didn't have any food, they fed them,\" she said. \"If they needed some kind of shelter or blankets or those types of things, Grandpa and Grandma made sure they got those kinds of things.\"",
+       "zh": "“如果他们没有食物，爷爷奶奶就会给他们吃的，”她说。“如果他们需要某种住所、毯子或类似的东西，爷爷奶奶就会想办法让他们得到这些东西。”"
+      },
+      {
+       "en": "Threatt moved from Alabama to the farming community of Luther, Okla., in the early 1900s as part of the Great Migration. His father had been born into slavery, and Threatt and his wife, Alberta, seeking stability and refuge, wanted their own farm.",
+       "zh": "20 世纪初，Threatt 随大迁徙的浪潮从阿拉巴马州迁至俄克拉荷马州卢瑟的农业社区。他的父亲生来就是奴隶，Threatt和妻子Alberta为了寻求稳定和庇护，希望拥有自己的农场。"
+      },
+      {
+       "en": "At the time, Oklahoma was a place where Black migrants could own land and form their own towns. Between 1865 and 1920, Black Americans settled more than 50 \"all-Black\" municipalities in Oklahoma, the largest number of any state.",
+       "zh": "当时，俄克拉荷马州是黑人移民可以拥有土地并建立自己城镇的地方。1865 年至 1920 年间，黑人美国人在俄克拉荷马州建立了 50 多个“全黑人”城镇，数量之多在全美各州中名列前茅。"
+      },
+      {
+       "en": "But Oklahoma also had its issues — by the time of the Great Depression, many of those all-Black towns had ceased to exist. And there was a rise in \"sundown towns\": all-white communities that warned non-white people to get out before dark, or they would face violence or police harassment. There was a sundown town on either side of the filling station during the Jim Crow era, Fisher said.",
+       "zh": "但俄克拉荷马州也有自己的问题——到大萧条时期，许多全黑人城镇已不复存在。“日落镇”的数量也有所增加：“日落镇”是全白人社区，他们警告非白人要在天黑前离开，否则将面临暴力或警察骚扰。Fisher说，在吉姆·克劳时代，加油站的两侧都有一个日落镇。"
+      },
+      {
+       "en": "But at the Threatt Filling Station, \"everyone was welcome,\" Fisher said.",
+       "zh": "但菲舍尔说，在特雷特加油站，“人人皆受欢迎”。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "family",
+       "pos": "n.",
+       "zh": "家庭",
+       "ex": "During the Jim Crow Era, Black families traveling Route 66, the historic highway that ran more than 2,000 miles from Chicago to Los Angeles, needed to carry food and gas with them.",
+       "forms": [
+        "families"
+       ]
+      },
+      {
+       "w": "food",
+       "pos": "n.",
+       "zh": "食物",
+       "ex": "During the Jim Crow Era, Black families traveling Route 66, the historic highway that ran more than 2,000 miles from Chicago to Los Angeles, needed to carry food and gas with them.",
+       "forms": []
+      },
+      {
+       "w": "gas",
+       "pos": "n.",
+       "zh": "天然气；气体",
+       "ex": "During the Jim Crow Era, Black families traveling Route 66, the historic highway that ran more than 2,000 miles from Chicago to Los Angeles, needed to carry food and gas with them.",
+       "forms": []
+      },
+      {
+       "w": "national",
+       "pos": "adj.",
+       "zh": "国家的；全国的",
+       "ex": "The Threatt Filling Station, according to the National Trust for Historic Preservation, was the only known Black-owned and operated gas station along the famous Mother Road.",
+       "forms": []
+      },
+      {
+       "w": "community",
+       "pos": "n.",
+       "zh": "社区；群体",
+       "ex": "\"If they needed some kind of shelter or blankets or those types of things, Grandpa and Grandma made sure they got those kinds of things.\" Threatt moved from Alabama to the farming community of Luther, Okla., in the early 1900s as part of the Great Migration.",
+       "forms": [
+        "communities"
+       ]
+      },
+      {
+       "w": "migrant",
+       "pos": "n.",
+       "zh": "移民；迁徙者",
+       "ex": "At the time, Oklahoma was a place where Black migrants could own land and form their own towns.",
+       "forms": [
+        "migrants"
+       ]
+      },
+      {
+       "w": "land",
+       "pos": "n.",
+       "zh": "土地；陆地",
+       "ex": "At the time, Oklahoma was a place where Black migrants could own land and form their own towns.",
+       "forms": []
+      },
+      {
+       "w": "number",
+       "pos": "n.",
+       "zh": "数量；数字",
+       "ex": "Between 1865 and 1920, Black Americans settled more than 50 \"all-Black\" municipalities in Oklahoma, the largest number of any state.",
+       "forms": []
+      },
+      {
+       "w": "issue",
+       "pos": "n.",
+       "zh": "议题；问题",
+       "ex": "But Oklahoma also had its issues — by the time of the Great Depression, many of those all-Black towns had ceased to exist.",
+       "forms": [
+        "issues"
+       ]
+      },
+      {
+       "w": "depression",
+       "pos": "n.",
+       "zh": "抑郁症；萧条",
+       "ex": "But Oklahoma also had its issues — by the time of the Great Depression, many of those all-Black towns had ceased to exist.",
+       "forms": []
+      },
+      {
+       "w": "rise",
+       "pos": "n.",
+       "zh": "上升；上涨",
+       "ex": "And there was a rise in \"sundown towns\": all-white communities that warned non-white people to get out before dark, or they would face violence or police harassment.",
+       "forms": []
+      },
+      {
+       "w": "warn",
+       "pos": "v.",
+       "zh": "警告",
+       "ex": "And there was a rise in \"sundown towns\": all-white communities that warned non-white people to get out before dark, or they would face violence or police harassment.",
+       "forms": [
+        "warned"
+       ]
+      }
+     ],
+     "homeWords": [
+      "family",
+      "food",
+      "gas",
+      "national",
+      "community"
+     ],
+     "keyVocab": [
+      "family",
+      "food",
+      "gas",
+      "national",
+      "community",
+      "migrant",
+      "land",
+      "number"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-23",
    "articles": [
@@ -4624,702 +5420,6 @@ window.__MERIDIAN_DATA__ = {
       "trigger",
       "family",
       "expect"
-     ]
-    }
-   ]
-  },
-  {
-   "date": "2026-11-17",
-   "articles": [
-    {
-     "id": "2026-11-17-world",
-     "section": "World",
-     "sectionZh": "国际",
-     "title": "Africa: Trading in yuan",
-     "dek": "The dollar has long ruled Africa's financial landscape. But as more countries turn to China's yuan, the balance of economic power could be shifting.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/16/nx-s1-6035000/africa-trading-in-yuan",
-     "byline": "Kate Bartlett",
-     "dateLabel": "2026-11-17",
-     "words": 383,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "The dollar has long ruled Africa's financial landscape. But as more countries turn to China's yuan, the balance of economic power could be shifting.",
-       "zh": "长期以来，美元一直主导着非洲的金融格局。但随着越来越多的国家转向使用中国的人民币，经济力量的平衡可能正在发生变化。"
-      },
-      {
-       "en": "President Trump will meet Chinese President Xi Jinping in China next week on the sidelines of the Asia-Pacific Economic summit. The meeting is likely to be overshadowed by allegations that the head of U.S. chipmaker Nvidia, Jensen Huang, had an affair with a Chinese spy. The U.S. and China are in the midst of an AI race, and the two countries are also competing on many other fronts, including in mineral-rich Africa, as Kate Bartlett reports from Johannesburg.",
-       "zh": "特朗普总统将于下周在中国与中国国家主席习近平会面，地点是在亚太经济峰会的间隙。这次会晤很可能会被美国芯片制造商英伟达负责人黄仁勋与一名中国间谍有染的指控所掩盖。美中正处于人工智能竞赛中，两国在许多其他领域也在竞争，包括在矿产资源丰富的非洲，凯特·巴特勒从约翰内斯堡报道。"
-      },
-      {
-       "en": "KATE BARTLETT, BYLINE: In Africa, the greenback has long been king.",
-       "zh": "凯特·巴特利特，署名：在非洲，美元长期以来一直是王者。"
-      },
-      {
-       "en": "BARTLETT: Zimbabwe's Victoria Falls Stock Exchange trades exclusively in U.S. dollars, and most everyday transactions on the street are also in dollars, a legacy of the hyperinflation that devastated the country's own currency two decades ago.",
-       "zh": "巴特利特：津巴布韦的维多利亚瀑布证券交易所仅以美元进行交易，而街上的大多数日常交易也使用美元，这是二十多年前严重通货膨胀摧毁该国本国货币的遗留问题。"
-      },
-      {
-       "en": "BARTLETT: Directly across the border in Zambia, it's long been a similar situation, but this is changing, as this recent Zambian government advert points out.",
-       "zh": "巴特利特：就在赞比亚边境对面，情况长期以来也类似，但正如最近这则赞比亚政府的广告所指出的，这一情况正在改变。"
-      },
-      {
-       "en": "UNIDENTIFIED COMMENTATOR: Zambia has officially become the first African nation to accept China's yuans, also known as RMB, for the payment of mine taxes and royalties.",
-       "zh": "不明评论员：赞比亚已正式成为第一个接受中国人民币（也称为RMB）支付矿山税和特许权使用费的非洲国家。"
-      },
-      {
-       "en": "BARTLETT: And it's not only Zambia that's conducting business in RMB. China is, by far, Africa's biggest trading partner, and now more and more African countries are turning to the Chinese yuan for trade and to pay their debt. According to Cobus van Staden, a China expert at the South Africa (ph) Institute of International Affairs in Johannesburg, the trend reflects China's growing influence across the continent.",
-       "zh": "巴特利特：不仅是赞比亚在用人民币进行交易。中国是迄今为止非洲最大的贸易伙伴，现在越来越多的非洲国家正在转向使用人民币进行贸易和偿还债务。根据约翰内斯堡南非国际事务研究所的中国问题专家科布斯·范·斯塔登的说法，这一趋势反映了中国在整个非洲大陆日益增长的影响力。"
-      },
-      {
-       "en": "COBUS VAN STADEN: The interesting thing is going to be whether this starts to chip away at dollar dominance in certain specific commodity fields, whether increasingly, we're going to be looking at lithium or copper or cobalt and see those fields becoming more and more de-dollarized over time. We'll have to see.",
-       "zh": "科布斯·范·斯塔登：有趣的是，这是否会开始削弱美元在某些特定商品领域的支配地位，是否随着时间的推移，我们会越来越多地关注锂、铜或钴，并看到这些领域变得越来越非美元化。我们拭目以待。"
-      },
-      {
-       "en": "BARTLETT: These are some of the critical minerals the U.S. and China are competing for on the continent. Christian-Géraud Neema is an editor with the China-Global South Project, an Africa-based think tank which tracks Beijing's influence across the continent. He points out several African countries, like Kenya, have already restructured their debt to China and are now paying it in yuan rather than dollars.",
-       "zh": "BARTLETT：这些是美国和中国在非洲大陆上竞争的一些关键矿产。Christian-Géraud Neema 是中国-全球南方项目的编辑，该项目是一个总部位于非洲的智库，追踪北京在整个非洲大陆的影响。他指出，一些非洲国家，如肯尼亚，已经重组了对中国的债务，现在以人民币而非美元偿还。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "financial",
-       "pos": "adj.",
-       "zh": "金融的；财务的",
-       "ex": "The dollar has long ruled Africa's financial landscape.",
-       "forms": []
-      },
-      {
-       "w": "economic",
-       "pos": "adj.",
-       "zh": "经济的",
-       "ex": "But as more countries turn to China's yuan, the balance of economic power could be shifting.",
-       "forms": []
-      },
-      {
-       "w": "power",
-       "pos": "n.",
-       "zh": "权力；电力",
-       "ex": "But as more countries turn to China's yuan, the balance of economic power could be shifting.",
-       "forms": []
-      },
-      {
-       "w": "shift",
-       "pos": "n.",
-       "zh": "转变；转移",
-       "ex": "But as more countries turn to China's yuan, the balance of economic power could be shifting.",
-       "forms": [
-        "shifting"
-       ]
-      },
-      {
-       "w": "president",
-       "pos": "n.",
-       "zh": "总统；总裁",
-       "ex": "President Trump will meet Chinese President Xi Jinping in China next week on the sidelines of the Asia-Pacific Economic summit.",
-       "forms": []
-      },
-      {
-       "w": "summit",
-       "pos": "n.",
-       "zh": "峰会；顶峰",
-       "ex": "President Trump will meet Chinese President Xi Jinping in China next week on the sidelines of the Asia-Pacific Economic summit.",
-       "forms": []
-      },
-      {
-       "w": "report",
-       "pos": "n.",
-       "zh": "报告；报道",
-       "ex": "and China are in the midst of an AI race, and the two countries are also competing on many other fronts, including in mineral-rich Africa, as Kate Bartlett reports from Johannesburg.",
-       "forms": [
-        "reports"
-       ]
-      },
-      {
-       "w": "fall",
-       "pos": "n.",
-       "zh": "下降；下跌",
-       "ex": "BARTLETT: Zimbabwe's Victoria Falls Stock Exchange trades exclusively in U.S.",
-       "forms": [
-        "falls"
-       ]
-      },
-      {
-       "w": "currency",
-       "pos": "n.",
-       "zh": "货币",
-       "ex": "dollars, and most everyday transactions on the street are also in dollars, a legacy of the hyperinflation that devastated the country's own currency two decades ago.",
-       "forms": []
-      },
-      {
-       "w": "border",
-       "pos": "n.",
-       "zh": "边境；边界",
-       "ex": "BARTLETT: Directly across the border in Zambia, it's long been a similar situation, but this is changing, as this recent Zambian government advert points out.",
-       "forms": []
-      },
-      {
-       "w": "change",
-       "pos": "n.",
-       "zh": "变化；改变",
-       "ex": "BARTLETT: Directly across the border in Zambia, it's long been a similar situation, but this is changing, as this recent Zambian government advert points out.",
-       "forms": [
-        "changing"
-       ]
-      },
-      {
-       "w": "accept",
-       "pos": "v.",
-       "zh": "接受",
-       "ex": "UNIDENTIFIED COMMENTATOR: Zambia has officially become the first African nation to accept China's yuans, also known as RMB, for the payment of mine taxes and royalties.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "financial",
-      "economic",
-      "power",
-      "shift",
-      "president"
-     ],
-     "keyVocab": [
-      "financial",
-      "economic",
-      "power",
-      "shift",
-      "president",
-      "summit",
-      "report",
-      "fall"
-     ]
-    },
-    {
-     "id": "2026-11-17-business",
-     "section": "Business",
-     "sectionZh": "商业 · 财经",
-     "title": "New rule aims to close loophole on chip exports",
-     "dek": "The Commerce Department released a new rule designed to make it harder for China to gain access to America's most powerful computer chips using third-country data centers.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/16/nx-s1-6042918/new-rule-aims-to-close-loophole-on-chip-exports",
-     "byline": "Scott Horsley",
-     "dateLabel": "2026-11-17",
-     "words": 504,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "The Commerce Department released a new rule designed to make it harder for China to gain access to America's most powerful computer chips using third-country data centers.",
-       "zh": "商务部发布了一项新规定，旨在使中国更难通过第三国数据中心获取美国最强大的计算机芯片。"
-      },
-      {
-       "en": "The Trump administration is taking new steps to prevent China from gaining access to America's most powerful computer chips. The move comes after criticism that existing export controls are too lax. The rules have been under a microscope since the CEO of chipmaker Nvidia stepped down last week. Jensen Huang is accused of having an affair with a woman who is suspected of being a Chinese spy. NPR's Scott Horsley joins us now. Hi, Scott.",
-       "zh": "特朗普政府正在采取新措施，防止中国获得美国最强大的计算机芯片。这一举措是在现有出口管制被批评过于宽松之后提出的。自上周芯片制造商英伟达的首席执行官辞职以来，这些规定一直受到严格审查。黄仁勋被指控与一位涉嫌为中国间谍的女性发生婚外情。现在NPR的斯科特·霍斯利加入了我们的节目。你好，斯科特。"
-      },
-      {
-       "en": "DETROW: So the Commerce Department announced a new rule governing computer chip exports today. How exactly does it change the landscape?",
-       "zh": "DETROW：所以商务部今天宣布了一项关于电脑芯片出口的新规定。这到底会如何改变现状？"
-      },
-      {
-       "en": "HORSLEY: The federal government already prohibits the sale of the most advanced AI chips to China, a country it sees as both an economic and security rival. But critics say there's a loophole in that ban because those chips can be sold to data centers in places like Malaysia, and China can then get the benefit of that advanced computing power by tapping into those data centers remotely. It's a little like someone who lives where gambling is illegal going online to access a gambling website where it's legal.",
-       "zh": "霍斯利：联邦政府已经禁止向中国出售最先进的人工智能芯片，中国被视为经济和安全方面的竞争对手。但批评者称，这项禁令存在一个漏洞，因为这些芯片可以出售给马来西亚等地的数据中心，然后中国可以通过远程访问这些数据中心来获得先进计算能力的好处。这有点像一个生活在赌博非法的地方的人上网访问赌博合法的网站。"
-      },
-      {
-       "en": "This new rule is designed to close that loophole by requiring data centers in third countries to police the people they're working for, and if they're doing business with, say, China, for example, they would be subject to additional restrictions. The rule also limits chip sales to countries like Malaysia, Indonesia and Thailand, which are seen as at high risk of having those chips diverted to China.",
-       "zh": "这项新规定旨在通过要求位于第三国的数据中心监督他们所为之工作的对象来封堵这一漏洞，例如，如果他们与中国做生意，就会受到额外的限制。该规定还限制向马来西亚、印度尼西亚和泰国等国家销售芯片，这些国家被认为有高风险将这些芯片转售给中国。"
-      },
-      {
-       "en": "HORSLEY: Well, news reports have tied that company's former CEO to a woman suspected of spying for China. China has denied that, and NPR has not independently confirmed those reports. But what's clear is the woman used to work for a company called Megaspeed, which was a customer of Nvidia's and bought a lot of its advanced chips for its operating data centers in Malaysia. Now, Megaspeed says the woman left the company over a year ago, and the company insists it follows all existing regulations. But some administration officials worry those regulations are just not strong enough and allowed China this workaround. Treasury Secretary Scott Bessent said on CNBC last week he and others wanted to cut off Megaspeed's access to chips to prevent that computing power from being used remotely by China.",
-       "zh": "HORSLEY：新闻报道将那家公司的前首席执行官与一个被怀疑为中国进行间谍活动的女性联系在一起。中国否认了这一点，而NPR尚未独立证实这些报道。但可以明确的是，这名女性曾在一家名为Megaspeed的公司工作，该公司是英伟达的客户，并为其位于马来西亚的运营数据中心购买了大量先进芯片。现在，Megaspeed表示这名女性在一年前就离开了公司，而且公司坚称遵守所有现有的法规。但一些政府官员担心这些法规不够严格，让中国找到了规避方式。财政部长斯科特·贝森特上周在CNBC表示，他和其他人希望切断Megaspeed获取芯片的渠道，以防止这些计算能力被中国远程利用。"
-      },
-      {
-       "en": "SCOTT BESSENT: Any leakage is very frustrating because it hurts our great companies, and the AI race gives the Chinese an advantage.",
-       "zh": "SCOTT BESSENT：任何泄露都令人沮丧，因为它伤害了我们优秀的公司，而人工智能竞赛让中国占据优势。"
-      },
-      {
-       "en": "HORSLEY: So this new rule's designed to prevent that kind of leakage and stop China from gaining remote access to the most powerful chips. Interestingly, while the new rule was announced by the Commerce Department, it was actually written by and at the direction of the Treasury Department and the National Security Council.",
-       "zh": "HORSLEY：所以这项新规则的目的是防止那种泄漏，并阻止中国远程访问最强大的芯片。有趣的是，虽然这项新规则是由商务部宣布的，但它实际上是由财政部和国家安全委员会撰写并根据他们的指示制定的。"
-      },
-      {
-       "en": "DETROW: Interesting. What does this say about big picture - about what's happening behind the scenes?",
-       "zh": "DETROW：有趣。这说明了整体情况——幕后正在发生什么？"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "chip",
-       "pos": "n.",
-       "zh": "芯片",
-       "ex": "The Commerce Department released a new rule designed to make it harder for China to gain access to America's most powerful computer chips using third-country data centers.",
-       "forms": [
-        "chips"
-       ]
-      },
-      {
-       "w": "data",
-       "pos": "n.",
-       "zh": "数据",
-       "ex": "The Commerce Department released a new rule designed to make it harder for China to gain access to America's most powerful computer chips using third-country data centers.",
-       "forms": []
-      },
-      {
-       "w": "administration",
-       "pos": "n.",
-       "zh": "政府；行政",
-       "ex": "The Trump administration is taking new steps to prevent China from gaining access to America's most powerful computer chips.",
-       "forms": []
-      },
-      {
-       "w": "export",
-       "pos": "n.",
-       "zh": "出口",
-       "ex": "The move comes after criticism that existing export controls are too lax.",
-       "forms": [
-        "exports"
-       ]
-      },
-      {
-       "w": "announce",
-       "pos": "v.",
-       "zh": "宣布；公布",
-       "ex": "DETROW: So the Commerce Department announced a new rule governing computer chip exports today.",
-       "forms": [
-        "announced"
-       ]
-      },
-      {
-       "w": "change",
-       "pos": "n.",
-       "zh": "变化；改变",
-       "ex": "How exactly does it change the landscape?",
-       "forms": []
-      },
-      {
-       "w": "federal",
-       "pos": "adj.",
-       "zh": "联邦的",
-       "ex": "HORSLEY: The federal government already prohibits the sale of the most advanced AI chips to China, a country it sees as both an economic and security rival.",
-       "forms": []
-      },
-      {
-       "w": "prohibit",
-       "pos": "v.",
-       "zh": "禁止",
-       "ex": "HORSLEY: The federal government already prohibits the sale of the most advanced AI chips to China, a country it sees as both an economic and security rival.",
-       "forms": [
-        "prohibits"
-       ]
-      },
-      {
-       "w": "economic",
-       "pos": "adj.",
-       "zh": "经济的",
-       "ex": "HORSLEY: The federal government already prohibits the sale of the most advanced AI chips to China, a country it sees as both an economic and security rival.",
-       "forms": []
-      },
-      {
-       "w": "rival",
-       "pos": "v.",
-       "zh": "与……竞争；媲美",
-       "ex": "HORSLEY: The federal government already prohibits the sale of the most advanced AI chips to China, a country it sees as both an economic and security rival.",
-       "forms": []
-      },
-      {
-       "w": "critic",
-       "pos": "n.",
-       "zh": "评论家；批评家",
-       "ex": "But critics say there's a loophole in that ban because those chips can be sold to data centers in places like Malaysia, and China can then get the benefit of that advanced computing power by tapping into those data centers remotely.",
-       "forms": [
-        "critics"
-       ]
-      },
-      {
-       "w": "computing",
-       "pos": "n.",
-       "zh": "计算；计算技术",
-       "ex": "But critics say there's a loophole in that ban because those chips can be sold to data centers in places like Malaysia, and China can then get the benefit of that advanced computing power by tapping into those data centers remotely.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "chip",
-      "data",
-      "administration",
-      "export",
-      "announce"
-     ],
-     "keyVocab": [
-      "chip",
-      "data",
-      "administration",
-      "export",
-      "announce",
-      "change",
-      "federal",
-      "prohibit"
-     ]
-    },
-    {
-     "id": "2026-11-17-technology",
-     "section": "Technology",
-     "sectionZh": "科技",
-     "title": "California sues OpenAI over hacking risks",
-     "dek": "California sued OpenAI Monday, alleging that the frontier AI company failed to protect the public from its systems' advanced cyber capabilities. The lawsuit stems from OpenAI's agents' attack on…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
-     "byline": "Huo Jingnan",
-     "dateLabel": "2026-11-17",
-     "words": 472,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "California sued OpenAI Monday, alleging that the frontier AI company failed to protect the public from its systems' advanced cyber capabilities. The lawsuit stems from OpenAI's agents' attack on open-source software platform Hugging Face over the summer but also touches on a wide range of other related incidents tied to the company's agents acting without authorization.",
-       "zh": "加利福尼亚州周一起诉了OpenAI，指控这家前沿人工智能公司未能保护公众免受其系统高级网络能力的影响。这起诉讼源于OpenAI的代理人在夏季对开源软件平台Hugging Face的攻击，但也涉及与公司代理人未经授权行为相关的其他一系列相关事件。"
-      },
-      {
-       "en": "\"Just because the technology is new or rapidly evolving doesn't mean the people behind it are above the law,\" said California Attorney General Rob Bonta during a press conference. \"Whether it's a car or a toy, the law is simple: don't build or test things that can hurt people without proper safeguards.\" The lawsuit cited potential concerns about cyberattacks \"on power grids, emergency infrastructure, hospital systems, and financial institutions.\"",
-       "zh": "加利福尼亚州总检察长罗布·邦塔在新闻发布会上表示：“仅仅因为技术是新的或发展迅速，并不意味着背后的人可以凌驾于法律之上。无论是汽车还是玩具，法律都很简单：不要在没有适当安全措施的情况下制造或测试可能伤害人类的东西。” 诉讼中提到对网络攻击的潜在担忧，“涉及电网、应急基础设施、医院系统和金融机构。”"
-      },
-      {
-       "en": "In the complaint, California alleged that OpenAI misled the public about how unsafe its products are. The state said the company admitted to the attorney general's office that \"it lost control of its autonomous AI agents over 80 times during testing.\"",
-       "zh": "在投诉中，加利福尼亚州指控 OpenAI 对其产品有多不安全误导了公众。该州表示，公司向总检察长办公室承认，“在测试过程中，其自主 AI 代理失控超过 80 次。”"
-      },
-      {
-       "en": "That number is higher than what OpenAI has so far disclosed publicly and more than what outside researchers have independently discovered, but OpenAI has otherwise provided little information, California said. The state also accused OpenAI of poor security practices, stonewalling the state's investigation into the company and discouraging employees from speaking up about safety.",
-       "zh": "加利福尼亚州表示，这个数字高于OpenAI迄今公开披露的数字，也高于外部研究人员独立发现的数字，但OpenAI除此之外几乎没有提供任何信息。该州还指责OpenAI存在安全措施不当、阻挠该州对公司的调查，并阻止员工对安全问题发声。"
-      },
-      {
-       "en": "In a statement to NPR, OpenAI spokesperson Drew Pusateri said the lawsuit \"appears to single out OpenAI over a challenge that's been identified by every major AI lab\" and that the company has \"engaged—and will continue to engage—constructively with the Attorney General's office to share information and advance strong, practical safety standards for the entire industry.\"",
-       "zh": "在向 NPR 发布的一份声明中，OpenAI 发言人 Drew Pusateri 表示，这起诉讼“似乎在针对 OpenAI，而该问题已经被每一家主要的人工智能实验室发现”，并且公司“已经并将继续与总检察长办公室建设性地合作，分享信息，并推动整个行业强有力的、切实可行的安全标准。”"
-      },
-      {
-       "en": "After the most notorious of cyber incidents involving OpenAI's agents – the attack on Hugging Face over the summer – the company admitted that it did not monitor its agents in ways its own researchers deemed important. Since then, outside researchers as well as OpenAI itself have found more incidents in which AI agents have interacted with websites and communicated with each other on the internet in ways that OpenAI did not intend. The lawsuit mentions these events as well as other incidents that OpenAI started disclosing voluntarily to the public.",
-       "zh": "在涉及 OpenAI 代理的最臭名昭著的网络事件——今年夏天对 Hugging Face 的攻击——之后，该公司承认它并没有以其自身研究人员认为重要的方式监控其代理。从那时起，外部研究人员以及 OpenAI 自身发现了更多的事件，其中 AI 代理以 OpenAI 未打算的方式与网站互动并在互联网上相互通信。诉讼提到了这些事件以及 OpenAI 开始自愿向公众披露的其他事件。"
-      },
-      {
-       "en": "Other AI companies have also had to wrestle with their systems behaving in unexpected and undesirable ways. Anthropic and Meta have both said they found that their AI systems have hacked into places they shouldn't have. Major AI companies have since signed onto an agreement organized by the White House to develop AI responsibly, but the agreement is nonbinding.",
-       "zh": "其他人工智能公司也不得不应对其系统表现出意外和不良行为的问题。Anthropic 和 Meta 都表示，他们发现自己的人工智能系统入侵了本不该进入的地方。此后，主要人工智能公司已加入由白宫组织的一项旨在负责任地开发人工智能的协议，但该协议并不具约束力。"
-      },
-      {
-       "en": "Drawing from reports including from OpenAI's own disclosures, California alleges that the top AI company has engaged in unfair competition and created a public nuisance. It asked the court to stop the company from further engaging in such activities and order it to pay monetary damages.",
-       "zh": "根据包括OpenAI自身披露的报告，加利福尼亚州指控这家顶级人工智能公司从事不公平竞争并造成公共滋扰。它要求法院制止该公司继续从事此类活动，并命令其支付经济赔偿。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "public",
-       "pos": "adj.",
-       "zh": "公共的；公众的",
-       "ex": "California sued OpenAI Monday, alleging that the frontier AI company failed to protect the public from its systems' advanced cyber capabilities.",
-       "forms": []
-      },
-      {
-       "w": "lawsuit",
-       "pos": "n.",
-       "zh": "诉讼",
-       "ex": "The lawsuit stems from OpenAI's agents' attack on open-source software platform Hugging Face over the summer but also touches on a wide range of other related incidents tied to the company's agents acting without authorization.",
-       "forms": []
-      },
-      {
-       "w": "software",
-       "pos": "n.",
-       "zh": "软件",
-       "ex": "The lawsuit stems from OpenAI's agents' attack on open-source software platform Hugging Face over the summer but also touches on a wide range of other related incidents tied to the company's agents acting without authorization.",
-       "forms": []
-      },
-      {
-       "w": "platform",
-       "pos": "n.",
-       "zh": "平台",
-       "ex": "The lawsuit stems from OpenAI's agents' attack on open-source software platform Hugging Face over the summer but also touches on a wide range of other related incidents tied to the company's agents acting without authorization.",
-       "forms": []
-      },
-      {
-       "w": "technology",
-       "pos": "n.",
-       "zh": "技术；科技",
-       "ex": "\"Just because the technology is new or rapidly evolving doesn't mean the people behind it are above the law,\" said California Attorney General Rob Bonta during a press conference.",
-       "forms": []
-      },
-      {
-       "w": "cite",
-       "pos": "v.",
-       "zh": "引用；援引",
-       "ex": "\"Whether it's a car or a toy, the law is simple: don't build or test things that can hurt people without proper safeguards.\" The lawsuit cited potential concerns about cyberattacks \"on power grids, emergency infrastructure, hospital systems, and financial institutions.\" In the complaint, California alleged that OpenAI misled the public about how unsafe its products are.",
-       "forms": [
-        "cited"
-       ]
-      },
-      {
-       "w": "power",
-       "pos": "n.",
-       "zh": "权力；电力",
-       "ex": "\"Whether it's a car or a toy, the law is simple: don't build or test things that can hurt people without proper safeguards.\" The lawsuit cited potential concerns about cyberattacks \"on power grids, emergency infrastructure, hospital systems, and financial institutions.\" In the complaint, California alleged that OpenAI misled the public about how unsafe its products are.",
-       "forms": []
-      },
-      {
-       "w": "grid",
-       "pos": "n.",
-       "zh": "电网；网格",
-       "ex": "\"Whether it's a car or a toy, the law is simple: don't build or test things that can hurt people without proper safeguards.\" The lawsuit cited potential concerns about cyberattacks \"on power grids, emergency infrastructure, hospital systems, and financial institutions.\" In the complaint, California alleged that OpenAI misled the public about how unsafe its products are.",
-       "forms": [
-        "grids"
-       ]
-      },
-      {
-       "w": "infrastructure",
-       "pos": "n.",
-       "zh": "基础设施",
-       "ex": "\"Whether it's a car or a toy, the law is simple: don't build or test things that can hurt people without proper safeguards.\" The lawsuit cited potential concerns about cyberattacks \"on power grids, emergency infrastructure, hospital systems, and financial institutions.\" In the complaint, California alleged that OpenAI misled the public about how unsafe its products are.",
-       "forms": []
-      },
-      {
-       "w": "hospital",
-       "pos": "n.",
-       "zh": "医院",
-       "ex": "\"Whether it's a car or a toy, the law is simple: don't build or test things that can hurt people without proper safeguards.\" The lawsuit cited potential concerns about cyberattacks \"on power grids, emergency infrastructure, hospital systems, and financial institutions.\" In the complaint, California alleged that OpenAI misled the public about how unsafe its products are.",
-       "forms": []
-      },
-      {
-       "w": "financial",
-       "pos": "adj.",
-       "zh": "金融的；财务的",
-       "ex": "\"Whether it's a car or a toy, the law is simple: don't build or test things that can hurt people without proper safeguards.\" The lawsuit cited potential concerns about cyberattacks \"on power grids, emergency infrastructure, hospital systems, and financial institutions.\" In the complaint, California alleged that OpenAI misled the public about how unsafe its products are.",
-       "forms": []
-      },
-      {
-       "w": "product",
-       "pos": "n.",
-       "zh": "产品",
-       "ex": "\"Whether it's a car or a toy, the law is simple: don't build or test things that can hurt people without proper safeguards.\" The lawsuit cited potential concerns about cyberattacks \"on power grids, emergency infrastructure, hospital systems, and financial institutions.\" In the complaint, California alleged that OpenAI misled the public about how unsafe its products are.",
-       "forms": [
-        "products"
-       ]
-      }
-     ],
-     "homeWords": [
-      "public",
-      "lawsuit",
-      "software",
-      "platform",
-      "technology"
-     ],
-     "keyVocab": [
-      "public",
-      "lawsuit",
-      "software",
-      "platform",
-      "technology",
-      "cite",
-      "power",
-      "grid"
-     ]
-    },
-    {
-     "id": "2026-11-17-science",
-     "section": "Science",
-     "sectionZh": "科学",
-     "title": "SS United States, a historic ship will be sunk to create an artificial reef",
-     "dek": "NPR's Ayesha Rascoe talks to Alex Fogg, Natural Resources Chief of Okaloosa County, Florida, about efforts to deliberately sink the SS United States and create an artificial reef in its wreckage.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/08/nx-s1-6030918/ss-united-states-a-historic-ship-will-be-sunk-to-create-an-artificial-reef",
-     "byline": "Ayesha Rascoe",
-     "dateLabel": "2026-11-17",
-     "words": 472,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "NPR's Ayesha Rascoe talks to Alex Fogg, Natural Resources Chief of Okaloosa County, Florida, about efforts to deliberately sink the SS United States and create an artificial reef in its wreckage.",
-       "zh": "NPR的艾莎·拉斯科（Ayesha Rascoe）与佛罗里达州奥卡卢萨县自然资源主管亚历克斯·福格（Alex Fogg）谈论了故意将美国号客轮沉入海中并在其残骸中创建人工珊瑚礁的努力。"
-      },
-      {
-       "en": "A historic ship docked on the Gulf Coast is getting a second life by being put down, down as in the ocean floor. This Thursday, the SS United States will be sunk on purpose to create the largest artificial reef in the world near Destin, Florida. Joining me now is Alex Fogg, the natural resources chief for Okaloosa County, Florida. Thank you so much for joining us.",
-       "zh": "一艘停靠在墨西哥湾沿岸的历史船正通过被下沉，也就是下沉到海底，获得第二次生命。本周四，SS美国号将被故意沉没，在佛罗里达州德斯廷附近打造世界上最大的人工珊瑚礁。现在加入我们的是佛罗里达州奥卡卢萨县的自然资源主管亚历克斯·福格。非常感谢您加入我们。"
-      },
-      {
-       "en": "RASCOE: So first of all, tell us a little bit about the ship, its history and why it's so special.",
-       "zh": "RASCOE：首先，请告诉我们一些关于这艘船的信息，它的历史以及为什么它如此特别。"
-      },
-      {
-       "en": "FOGG: So the SS United States, it's huge. We've done a lot of artificial reef projects in the past, and this one really sticks out really 'cause of its size, but also its storied past. It's a vessel that was built back in the early 1950s, went back and forth to Europe. It was eventually retired in the late 1960s when air travel just became so much more efficient. But during that time, it carried all sorts of really famous people and was geared to be a troop carrier in the event of the United States getting involved in another world war.",
-       "zh": "FOGG：所以SS United States号，非常巨大。我们过去做过很多人工礁项目，而这个项目确实非常突出，不仅因为它的规模，还因为它丰富的历史。这是一艘建造于20世纪50年代初的船，往返欧洲。到了20世纪60年代末，由于航空旅行变得更加高效，它最终退役了。但在那段时间里，它承载了各种非常有名的人物，并且设计时也考虑到如果美国卷入另一场世界大战，它可以用作运送军队的船只。"
-      },
-      {
-       "en": "RASCOE: My understanding is that it sat for decades in Philadelphia and made its way around the world, as you talked about. But then eventually down to Florida. How did it get down to Florida?",
-       "zh": "RASCOE: 我的理解是，它在费城搁置了数十年，然后像你说的那样走向了世界各地。但最终却到了佛罗里达。它是怎么到佛罗里达的？"
-      },
-      {
-       "en": "FOGG: Yeah. It was a very long tow. So we had to do a lot of checks and balances with our contractor, naval architects, U.S. Coast Guard, all sorts of different entities, to make sure that it was seaworthy enough to be towed from Philadelphia all the way down to Mobile, Alabama, where the full remediation was going to occur.",
-       "zh": "FOGG：是的。这是一次非常长的拖航。因此我们不得不与我们的承包商、海军建筑师、美国海岸警卫队以及各种不同的机构进行大量的检查和平衡，以确保它足够适航，能够从费城拖到阿拉巴马州的莫比尔，在那里将进行全面的修复。"
-      },
-      {
-       "en": "RASCOE: Well, let's talk about the big plans for the ship's new life. Like, why would you sink a nearly 900-foot ship intentionally in the Gulf of Mexico?",
-       "zh": "RASCOE：好吧，让我们谈谈这艘船新生活的大计划。比如，为什么你要故意把一艘接近900英尺的船沉在墨西哥湾？"
-      },
-      {
-       "en": "FOGG: We tried to talk about or tried to figure out ways that we could increase our artificial reef construction to benefit tourism, to benefit the environment. Came up with a whole plan to acquire a bunch of vessels to sink as artificial reefs 'cause when people come diving in a destination, they don't want to dive, you know, sand, or maybe don't want to dive natural reefs all the time. They want to be a bona fide wreck diver. So by deploying these wrecks, it started to put us on the map as a dive destination, and there was a plan that if a vessel of very large size or a very cool story comes along, we would pursue it. And the SS United States was that ship.",
-       "zh": "FOGG：我们尝试讨论或尝试找出方法来增加人工礁的建设，以惠及旅游业和环境。我们制定了一个完整的计划，打算收购一大批船只，作为人工礁沉入海底，因为当人们去某个潜水目的地潜水时，他们不想只是潜入沙子里，或者可能并不总是想潜入天然礁。他们想成为真正的沉船潜水者。所以，通过部署这些沉船，我们开始在潜水目的地地图上占有一席之地。计划是如果有一艘非常大的船或者有非常酷的故事的船出现，我们会去追求它。而美国联合号（SS United States）就是那艘船。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "artificial",
-       "pos": "adj.",
-       "zh": "人工的；人造的",
-       "ex": "NPR's Ayesha Rascoe talks to Alex Fogg, Natural Resources Chief of Okaloosa County, Florida, about efforts to deliberately sink the SS United States and create an artificial reef in its wreckage.",
-       "forms": []
-      },
-      {
-       "w": "history",
-       "pos": "n.",
-       "zh": "历史",
-       "ex": "RASCOE: So first of all, tell us a little bit about the ship, its history and why it's so special.",
-       "forms": []
-      },
-      {
-       "w": "increase",
-       "pos": "v.",
-       "zh": "增加",
-       "ex": "FOGG: We tried to talk about or tried to figure out ways that we could increase our artificial reef construction to benefit tourism, to benefit the environment.",
-       "forms": []
-      },
-      {
-       "w": "acquire",
-       "pos": "v.",
-       "zh": "收购；获得",
-       "ex": "Came up with a whole plan to acquire a bunch of vessels to sink as artificial reefs 'cause when people come diving in a destination, they don't want to dive, you know, sand, or maybe don't want to dive natural reefs all the time.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "artificial",
-      "history",
-      "increase",
-      "acquire"
-     ],
-     "keyVocab": [
-      "artificial",
-      "history",
-      "increase",
-      "acquire"
-     ]
-    },
-    {
-     "id": "2026-11-17-culture",
-     "section": "Culture",
-     "sectionZh": "文化",
-     "title": "Bagel makers, lovers and critics converged in New York for best bagel contest",
-     "dek": "The best bagel contest in New York City last weekend drew competitors from around the world, and of course lots of hometown bagel makers and critics.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/16/nx-s1-5939444/bagel-makers-lovers-and-critics-converged-in-new-york-for-best-bagel-contest",
-     "byline": "Jeff Lunden",
-     "dateLabel": "2026-11-17",
-     "words": 269,
-     "readTime": 3,
-     "level": "B2",
-     "levelEn": "Upper-intermediate",
-     "paragraphs": [
-      {
-       "en": "The best bagel contest in New York City last weekend drew competitors from around the world, and of course lots of hometown bagel makers and critics.",
-       "zh": "上周末在纽约市举行的最佳贝果比赛吸引了来自世界各地的参赛者，当然还有许多本地的贝果制造者和评论家。"
-      },
-      {
-       "en": "A beloved weekend morning ritual for many people is the bagel. Sometimes just toasted with butter or cream cheese hits the spot. Sometimes you want a full-blown bacon, egg and cheese bagel sandwich. If you are a bagel lover, you might have wished you could have attended this weekend's seventh annual BagelFest in New York. Thousands of people were there, including reporter Jeff Lunden. Here's his story.",
-       "zh": "许多人喜爱的周末早晨习惯之一是贝果。有时仅仅烤一下涂上黄油或奶油奶酪就足够了。有时你可能想要一份完整的培根、鸡蛋和奶酪贝果三明治。如果你是贝果爱好者，你可能会希望自己能够参加本周末在纽约举办的第七届年度贝果节。成千上万的人参加了，包括记者杰夫·伦登。这是他的报道。"
-      },
-      {
-       "en": "JEFF LUNDEN: As a New Yorker, I appreciate a good doughy bagel. Sam Silverman, the founder of BagelFest, does too. He grew up in Massachusetts, eating bagels from Dunkin' Donuts, and loved them. But when he moved to New York...",
-       "zh": "JEFF LUNDEN：作为一名纽约人，我很喜欢吃松软的百吉饼。BagelFest的创始人Sam Silverman也一样。他在马萨诸塞州长大，经常吃Dunkin' Donuts的百吉饼，非常喜欢它们。但当他搬到纽约时……"
-      },
-      {
-       "en": "SAM SILVERMAN: And I had my very first bagel, real bagel from Ess-a-Bagel, it changed my life.",
-       "zh": "SAM SILVERMAN：我吃了我的第一个百吉饼，真正的百吉饼，来自 Ess-a-Bagel，这改变了我的生活。"
-      },
-      {
-       "en": "LUNDEN: So much so that seven years ago, he started BagelFest, and every year they crown the best in show. He says there are four criteria - flavor, texture, appearance and aroma.",
-       "zh": "伦登：以至于七年前，他创办了贝果节，每年他们都会评选出最佳作品。他说有四个标准——味道、质地、外观和香气。"
-      },
-      {
-       "en": "SILVERMAN: It needs to be crunchy on the outside, soft and chewy on the inside.",
-       "zh": "SILVERMAN：外面需要酥脆，里面要柔软有嚼劲。"
-      },
-      {
-       "en": "SILVERMAN: From the taste perspective, we want multi notes. We want a sufficient level of salt. And then it needs to look beautiful - golden crust, nice plump shape.",
-       "zh": "SILVERMAN：从口味的角度来看，我们希望有多层次的味道。我们希望有足够的盐分。然后它需要看起来漂亮——金色的外壳，饱满的形状。"
-      },
-      {
-       "en": "LUNDEN: This year, there were 52 vendors, and every one of the attendees got a booklet to make notes on all the bagels so they could vote for their favorites. And the first vendor I saw was Steven Orr from Belfast. Northern Ireland.",
-       "zh": "伦登：今年有52家供应商，每位参会者都获得了一本小册子，用来记录所有百吉饼的笔记，以便投票选出他们最喜欢的百吉饼。我看到的第一位供应商是来自北爱尔兰贝尔法斯特的史蒂文·奥尔。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "critic",
-       "pos": "n.",
-       "zh": "评论家；批评家",
-       "ex": "The best bagel contest in New York City last weekend drew competitors from around the world, and of course lots of hometown bagel makers and critics.",
-       "forms": [
-        "critics"
-       ]
-      },
-      {
-       "w": "ritual",
-       "pos": "n.",
-       "zh": "仪式；惯例",
-       "ex": "A beloved weekend morning ritual for many people is the bagel.",
-       "forms": []
-      },
-      {
-       "w": "change",
-       "pos": "n.",
-       "zh": "变化；改变",
-       "ex": "SAM SILVERMAN: And I had my very first bagel, real bagel from Ess-a-Bagel, it changed my life.",
-       "forms": [
-        "changed"
-       ]
-      },
-      {
-       "w": "sufficient",
-       "pos": "adj.",
-       "zh": "充足的",
-       "ex": "We want a sufficient level of salt.",
-       "forms": []
-      },
-      {
-       "w": "level",
-       "pos": "n.",
-       "zh": "水平；层级",
-       "ex": "We want a sufficient level of salt.",
-       "forms": []
-      },
-      {
-       "w": "vote",
-       "pos": "n.",
-       "zh": "投票；表决",
-       "ex": "LUNDEN: This year, there were 52 vendors, and every one of the attendees got a booklet to make notes on all the bagels so they could vote for their favorites.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "critic",
-      "ritual",
-      "change",
-      "sufficient",
-      "level"
-     ],
-     "keyVocab": [
-      "critic",
-      "ritual",
-      "change",
-      "sufficient",
-      "level",
-      "vote"
      ]
     }
    ]
