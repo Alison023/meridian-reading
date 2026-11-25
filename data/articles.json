@@ -1,6 +1,756 @@
 {
- "updated": "2026-11-24T10:16:08.798122+00:00",
+ "updated": "2026-11-25T08:57:09.667601+00:00",
  "days": [
+  {
+   "date": "2026-11-25",
+   "articles": [
+    {
+     "id": "2026-11-25-world",
+     "section": "World",
+     "sectionZh": "国际",
+     "title": "Who really owns the Albanian land Jared Kushner wants to turn into a 5-star resort?",
+     "dek": "ZVERNEC, Albania — In the summer of 2021, Jared Kushner and Ivanka Trump boarded a yacht owned by Nat Rothschild, an heir to the European banking family. On the way from Montenegro to Greece, the…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/24/g-s1-154623/albania-jared-kushner-land-deal-protests",
+     "byline": "Rob Schmitz",
+     "dateLabel": "2026-11-25",
+     "words": 377,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "ZVERNEC, Albania — In the summer of 2021, Jared Kushner and Ivanka Trump boarded a yacht owned by Nat Rothschild, an heir to the European banking family. On the way from Montenegro to Greece, the yacht anchored off the coast of Albania.",
+       "zh": "阿尔巴尼亚兹韦尔内茨 — 2021年夏天，贾里德·库什纳和伊万卡·特朗普登上了由纳特·罗斯柴尔德拥有的游艇，他是欧洲银行世家的继承人。在从黑山到希腊的途中，游艇在阿尔巴尼亚海岸停泊。"
+      },
+      {
+       "en": "And, as Kushner told an investment conference last year, that's when Albanian Prime Minister Edi Rama arrived at the boat to tell them about his plan for the country.",
+       "zh": "正如库什纳去年在一次投资会议上所说的，那时阿尔巴尼亚总理埃迪·拉马来到船上，向他们讲述他对国家的计划。"
+      },
+      {
+       "en": "\"I was very impressed by what he wanted to do with the country,\" said Kushner. \"I really didn't know anything about the country and I didn't understand the history, and the darkness of the history with the communism and terrible leadership led to it being fully undeveloped as a nation.\"",
+       "zh": "库什纳说：“我对他想要对这个国家所做的事情印象非常深刻。我真的对这个国家一无所知，也不了解历史，而共产主义和可怕领导下的历史黑暗导致它作为一个国家完全未开发。”"
+      },
+      {
+       "en": "A year later, Kushner was looking for development opportunities in the Balkans. He returned to the Albanian coast — to the city of Vlore, which was finishing the construction of an airport atop a wetland near an undeveloped coastline. \"And obviously, a country's going to build an airport by the coast in a place they think is most beautiful,\" Kushner told the conference, \"so we went there and we were looking for opportunities, and we found some incredible opportunities.\"",
+       "zh": "一年后，库什纳正在寻找在巴尔干地区的发展机会。他回到了阿尔巴尼亚海岸——弗洛雷市，那里的湿地靠近一片未开发的海岸线，机场建设即将完工。“显然，一个国家会在他们认为最美的地方沿海建机场，”库什纳在会议上说，“所以我们去了那里，寻找机会，并且我们发现了一些令人难以置信的机会。”"
+      },
+      {
+       "en": "Kushner found those opportunities at Hidrovor Beach, an expanse of caramel-colored sand along the southern Albanian coast, with the gentle waves of the Adriatic lapping its perimeter and a view of an uninhabited island. A company working for Kushner purchased this land and 300 acres surrounding it for more than $130 million in April. But several people here tell NPR this is not Kushner's land.",
+       "zh": "库什纳在Hidrovor海滩发现了这些机会，这里是阿尔巴尼亚南部海岸上一片焦糖色的沙滩，亚得里亚海的温和海浪拍打着海滩边缘，可以看到一座无人居住的岛屿。一家为库什纳工作的公司在四月以超过1.3亿美元的价格购买了这块土地及其周围的300英亩土地。但这里的几个人告诉NPR，这并不是库什纳的土地。"
+      },
+      {
+       "en": "\"This land here belonged to my family for centuries,\" says Gentian Mocka, who claims his family has owned this strip of beach and wetland since the time of the Ottoman Empire. He provided NPR land titles that appear to prove this.",
+       "zh": "“这片土地属于我的家族已经数百年了，”Gentian Mocka说道，他声称他的家族自奥斯曼帝国时期起就拥有这片海滩和湿地。他向NPR提供了似乎可以证明这一点的土地所有权文件。"
+      },
+      {
+       "en": "After World War II, Albania's Communist government seized it — along with all private land.",
+       "zh": "二战后，阿尔巴尼亚的共产党政府没收了它——以及所有私人土地。"
+      },
+      {
+       "en": "When communism fell in 1991, families like Mocka's embarked on a years-long process to get their land back. \"But then our problems started with the guys that were much more powerful than we were — had a lot of political support, were very rich and very well connected with the politics of that time,\" says Mocka.",
+       "zh": "当共产主义在1991年垮台时，像莫卡这样的家庭开始了长达数年的土地取回过程。莫卡说：“但之后我们的问题开始出现在那些比我们强大得多的人身上——他们拥有大量政治支持，非常富有，并且与当时的政治关系密切。”"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "family",
+       "pos": "n.",
+       "zh": "家庭",
+       "ex": "ZVERNEC, Albania — In the summer of 2021, Jared Kushner and Ivanka Trump boarded a yacht owned by Nat Rothschild, an heir to the European banking family.",
+       "forms": [
+        "families"
+       ]
+      },
+      {
+       "w": "investment",
+       "pos": "n.",
+       "zh": "投资",
+       "ex": "And, as Kushner told an investment conference last year, that's when Albanian Prime Minister Edi Rama arrived at the boat to tell them about his plan for the country.",
+       "forms": []
+      },
+      {
+       "w": "minister",
+       "pos": "n.",
+       "zh": "部长；大臣",
+       "ex": "And, as Kushner told an investment conference last year, that's when Albanian Prime Minister Edi Rama arrived at the boat to tell them about his plan for the country.",
+       "forms": []
+      },
+      {
+       "w": "history",
+       "pos": "n.",
+       "zh": "历史",
+       "ex": "\"I really didn't know anything about the country and I didn't understand the history, and the darkness of the history with the communism and terrible leadership led to it being fully undeveloped as a nation.\" A year later, Kushner was looking for development opportunities in the Balkans.",
+       "forms": []
+      },
+      {
+       "w": "opportunity",
+       "pos": "n.",
+       "zh": "机会",
+       "ex": "\"I really didn't know anything about the country and I didn't understand the history, and the darkness of the history with the communism and terrible leadership led to it being fully undeveloped as a nation.\" A year later, Kushner was looking for development opportunities in the Balkans.",
+       "forms": [
+        "opportunities"
+       ]
+      },
+      {
+       "w": "land",
+       "pos": "n.",
+       "zh": "土地；陆地",
+       "ex": "A company working for Kushner purchased this land and 300 acres surrounding it for more than $130 million in April.",
+       "forms": []
+      },
+      {
+       "w": "million",
+       "pos": "n.",
+       "zh": "百万",
+       "ex": "A company working for Kushner purchased this land and 300 acres surrounding it for more than $130 million in April.",
+       "forms": []
+      },
+      {
+       "w": "claim",
+       "pos": "v.",
+       "zh": "声称；主张",
+       "ex": "\"This land here belonged to my family for centuries,\" says Gentian Mocka, who claims his family has owned this strip of beach and wetland since the time of the Ottoman Empire.",
+       "forms": [
+        "claims"
+       ]
+      },
+      {
+       "w": "private",
+       "pos": "adj.",
+       "zh": "私人的；私营的",
+       "ex": "After World War II, Albania's Communist government seized it — along with all private land.",
+       "forms": []
+      },
+      {
+       "w": "problem",
+       "pos": "n.",
+       "zh": "问题",
+       "ex": "\"But then our problems started with the guys that were much more powerful than we were — had a lot of political support, were very rich and very well connected with the politics of that time,\" says Mocka.",
+       "forms": [
+        "problems"
+       ]
+      },
+      {
+       "w": "support",
+       "pos": "v.",
+       "zh": "支持",
+       "ex": "\"But then our problems started with the guys that were much more powerful than we were — had a lot of political support, were very rich and very well connected with the politics of that time,\" says Mocka.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "family",
+      "investment",
+      "minister",
+      "history",
+      "opportunity"
+     ],
+     "keyVocab": [
+      "family",
+      "investment",
+      "minister",
+      "history",
+      "opportunity",
+      "land",
+      "million",
+      "claim"
+     ]
+    },
+    {
+     "id": "2026-11-25-business",
+     "section": "Business",
+     "sectionZh": "商业 · 财经",
+     "title": "Unpacking President Trump's financial stake in Nvidia",
+     "dek": "NPR's Scott Detrow speaks with Dan Alexander, a senior editor at Forbes and author of a book about President Trump's businesses, about the president's holdings in Nvidia given recent news.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/24/nx-s1-6052402/unpacking-president-trumps-financial-stake-in-nvidia",
+     "byline": "Tyler Bartlam",
+     "dateLabel": "2026-11-25",
+     "words": 315,
+     "readTime": 3,
+     "level": "B2",
+     "levelEn": "Upper-intermediate",
+     "paragraphs": [
+      {
+       "en": "NPR's Scott Detrow speaks with Dan Alexander, a senior editor at Forbes and author of a book about President Trump's businesses, about the president's holdings in Nvidia given recent news.",
+       "zh": "NPR的Scott Detrow与福布斯高级编辑、《总统特朗普商业》一书的作者Dan Alexander讨论了关于总统在Nvidia持股的最新消息。"
+      },
+      {
+       "en": "Let's connect a few things we know about this whole Nvidia situation. One is that President Trump said he convinced Nvidia's board of directors to reinstate Jensen Huang as CEO. Another is that Trump, or the people who manage his money, have purchased a lot of Nvidia stock since this second term began. One more thing to consider. Nvidia's stock price has roughly tripled over the past three years during the AI investment boom and as Jensen Huang has become a trusted advisor to the Trump White House. So how should we think about all this? We're going to bring in Dan Alexander, a senior editor at Forbes, who oversees coverage of money and politics. He's also an MS NOW contributor. Thanks for coming by.",
+       "zh": "让我们把关于整个英伟达情况的一些已知信息联系起来。首先，特朗普总统表示他说服了英伟达的董事会，让黄仁勋重新担任首席执行官。其次，特朗普或管理他资金的人，自他第二任期开始以来购买了大量英伟达股票。还有一件事要考虑。过去三年，在人工智能投资热潮期间，随着黄仁勋成为特朗普白宫的可信顾问，英伟达的股价大约翻了三倍。那么，我们该如何看待这一切呢？我们将请来《福布斯》的高级编辑丹·亚历山大，他负责监督财务和政治报道。他还是MS NOW的撰稿人。感谢您的到来。"
+      },
+      {
+       "en": "DETROW: Is there a number or a stat that you can cite that best represents President Trump's holdings in Nvidia?",
+       "zh": "DETROW：有没有一个数字或统计数据可以代表特朗普总统在英伟达的持股情况？"
+      },
+      {
+       "en": "ALEXANDER: But the latest reporting suggests that the range of his holdings is roughly 5 to $54 million. The stock price is moving a lot each year day.",
+       "zh": "亚历山大：但最新的报道显示，他的持股范围大约在 5 到 5400 万美元之间。股票价格每天波动很大。"
+      },
+      {
+       "en": "ALEXANDER: So that's a number that is big, but also undetermined. And keep in mind that Trump's overall liquid holdings are roughly $2 billion.",
+       "zh": "亚历山大：所以这是一个很大的数字，但也是不确定的。记住，特朗普的总体流动资产大约为20亿美元。"
+      },
+      {
+       "en": "DETROW: So this is a large amount of money, incredible wealth for most people. But in the scheme of Donald Trump's holdings, not the biggest asset.",
+       "zh": "DETROW：所以这是一大笔钱，对于大多数人来说是难以置信的财富。但在唐纳德·特朗普的财产中，这并不是最大的资产。"
+      },
+      {
+       "en": "ALEXANDER: Not the biggest asset by a long shot. But that doesn't necessarily mean that he doesn't think about the fact that it's an asset.",
+       "zh": "亚历山大：绝对算不上最大的资产。但这并不一定意味着他不考虑它是一个资产这个事实。"
+      },
+      {
+       "en": "ALEXANDER: And particularly if it's on the higher end of that range, I mean, you know, $50 million certainly matters to Donald Trump.",
+       "zh": "亚历山大：特别是如果它在那个范围的高端，我是说，你知道，5000万美元对唐纳德·特朗普来说肯定很重要。"
+      },
+      {
+       "en": "DETROW: Yeah. I mean, the range that you're giving comes from financial disclosures, right?",
+       "zh": "DETROW：是的。我是说，你给出的范围是来自财务披露，对吧？"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "NPR's Scott Detrow speaks with Dan Alexander, a senior editor at Forbes and author of a book about President Trump's businesses, about the president's holdings in Nvidia given recent news.",
+       "forms": []
+      },
+      {
+       "w": "news",
+       "pos": "n.",
+       "zh": "新闻",
+       "ex": "NPR's Scott Detrow speaks with Dan Alexander, a senior editor at Forbes and author of a book about President Trump's businesses, about the president's holdings in Nvidia given recent news.",
+       "forms": []
+      },
+      {
+       "w": "price",
+       "pos": "n.",
+       "zh": "价格",
+       "ex": "Nvidia's stock price has roughly tripled over the past three years during the AI investment boom and as Jensen Huang has become a trusted advisor to the Trump White House.",
+       "forms": []
+      },
+      {
+       "w": "triple",
+       "pos": "v.",
+       "zh": "增至三倍",
+       "ex": "Nvidia's stock price has roughly tripled over the past three years during the AI investment boom and as Jensen Huang has become a trusted advisor to the Trump White House.",
+       "forms": [
+        "tripled"
+       ]
+      },
+      {
+       "w": "investment",
+       "pos": "n.",
+       "zh": "投资",
+       "ex": "Nvidia's stock price has roughly tripled over the past three years during the AI investment boom and as Jensen Huang has become a trusted advisor to the Trump White House.",
+       "forms": []
+      },
+      {
+       "w": "boom",
+       "pos": "n.",
+       "zh": "繁荣；激增",
+       "ex": "Nvidia's stock price has roughly tripled over the past three years during the AI investment boom and as Jensen Huang has become a trusted advisor to the Trump White House.",
+       "forms": []
+      },
+      {
+       "w": "number",
+       "pos": "n.",
+       "zh": "数量；数字",
+       "ex": "DETROW: Is there a number or a stat that you can cite that best represents President Trump's holdings in Nvidia?",
+       "forms": []
+      },
+      {
+       "w": "cite",
+       "pos": "v.",
+       "zh": "引用；援引",
+       "ex": "DETROW: Is there a number or a stat that you can cite that best represents President Trump's holdings in Nvidia?",
+       "forms": []
+      },
+      {
+       "w": "report",
+       "pos": "n.",
+       "zh": "报告；报道",
+       "ex": "ALEXANDER: But the latest reporting suggests that the range of his holdings is roughly 5 to $54 million.",
+       "forms": [
+        "reporting"
+       ]
+      },
+      {
+       "w": "suggest",
+       "pos": "v.",
+       "zh": "表明；建议",
+       "ex": "ALEXANDER: But the latest reporting suggests that the range of his holdings is roughly 5 to $54 million.",
+       "forms": [
+        "suggests"
+       ]
+      },
+      {
+       "w": "million",
+       "pos": "n.",
+       "zh": "百万",
+       "ex": "ALEXANDER: But the latest reporting suggests that the range of his holdings is roughly 5 to $54 million.",
+       "forms": []
+      },
+      {
+       "w": "billion",
+       "pos": "n.",
+       "zh": "十亿",
+       "ex": "And keep in mind that Trump's overall liquid holdings are roughly $2 billion.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "president",
+      "news",
+      "price",
+      "triple",
+      "investment"
+     ],
+     "keyVocab": [
+      "president",
+      "news",
+      "price",
+      "triple",
+      "investment",
+      "boom",
+      "number",
+      "cite"
+     ]
+    },
+    {
+     "id": "2026-11-25-technology",
+     "section": "Technology",
+     "sectionZh": "科技",
+     "title": "How high technology is changing cargo crime",
+     "dek": "Now our Planet Money podcast brings us a tale of highway bandits and holiday turkeys. Sarah Gonzalez reports that an age-old crime of hijacking is blending with high technology.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/24/nx-s1-6051029/how-high-technology-is-changing-cargo-crime",
+     "byline": "Sarah Gonzalez",
+     "dateLabel": "2026-11-25",
+     "words": 277,
+     "readTime": 3,
+     "level": "B2",
+     "levelEn": "Upper-intermediate",
+     "paragraphs": [
+      {
+       "en": "Now our Planet Money podcast brings us a tale of highway bandits and holiday turkeys. Sarah Gonzalez reports that an age-old crime of hijacking is blending with high technology.",
+       "zh": "现在，我们的《Planet Money》播客为我们带来了一个关于公路强盗和节日火鸡的故事。Sarah Gonzalez 报道说，一种古老的劫夺犯罪正在与高科技结合。"
+      },
+      {
+       "en": "SARAH GONZALEZ, BYLINE: What was the load? What did they steal?",
+       "zh": "萨拉·冈萨雷斯，署名：装载的是什么？他们偷了什么？"
+      },
+      {
+       "en": "JOHN: A hundred and two thousand dollars is what that one was.",
+       "zh": "约翰：那一个是十万二千美元。"
+      },
+      {
+       "en": "GONZALEZ: John (ph) owns a line of trucks that have been targeted and hit twice now. Food and beverage cargo theft, in particular, is up 47%. It's hard to trace a missing turkey, you know? And cargo theft does get a little predictable around the holidays.",
+       "zh": "冈萨雷斯：约翰（音）拥有一条卡车线路，现在已经两次成为目标并受到攻击。特别是食品和饮料货物的盗窃，增加了47%。追踪一只丢失的火鸡很难，你知道吗？而且在假期期间，货物盗窃确实变得有些可预测。"
+      },
+      {
+       "en": "GONZALEZ: Just a couple weeks ago, $10,000 worth of beef was stolen. A tequila truck's been hit. Half a million dollars' worth of shellfish was hijacked. In June, Rob Cook with the company A21 Wine & Spirits, lost half a million dollars' worth of bourbon.",
+       "zh": "冈萨雷斯：就在几周前，价值一万美元的牛肉被盗。一辆龙舌兰酒卡车遭到袭击。价值五十万美元的贝类被劫持。六月，公司A21葡萄酒与烈酒的Rob Cook损失了价值五十万美元的波本威士忌。"
+      },
+      {
+       "en": "ROB COOK: Yeah, it was a full truck load of Noble Oak bourbon.",
+       "zh": "罗布·库克：是的，那是一整卡车的诺布尔橡木波本威士忌。"
+      },
+      {
+       "en": "GONZALEZ: All right, here's how these schemes work. Hackers are targeting the nerve center of the trucking industry, their load boards. Load boards are like these online bulletin boards where a company like Rob's will say, hey, I have a load I need picked up in Philly and sent to New Jersey. And then certified truck drivers go on and say, I want that job. I'll move that load. Rob's bourbon was matched with the trucker on these load boards. The bourbon was picked up, but then never arrived. They called the dispatcher to check in, a guy named Eddie (ph).",
+       "zh": "冈萨雷斯：好吧，这些骗局是这样运作的。黑客瞄准了卡车运输行业的神经中枢——他们的货运板。货运板就像这些在线公告板，公司像Rob's会在上面发布信息，说，嘿，我有一批货物需要从费城运到新泽西。然后认证的卡车司机会上去说，我想接这个工作，我来运这批货。Rob's的波本威士忌就是通过这些货运板与卡车司机匹配的。波本威士忌被取走了，但却从未送到。他们给调度员打电话去确认，一个叫埃迪的人。"
+      },
+      {
+       "en": "COOK: Eddie, hey, where's our load? It hasn't shown up yet. Eddie says, oh, it'll be there in an hour.",
+       "zh": "厨师：埃迪，嘿，我们的货物在哪儿？还没到。埃迪说，哦，一小时后会到的。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "report",
+       "pos": "n.",
+       "zh": "报告；报道",
+       "ex": "Sarah Gonzalez reports that an age-old crime of hijacking is blending with high technology.",
+       "forms": [
+        "reports"
+       ]
+      },
+      {
+       "w": "technology",
+       "pos": "n.",
+       "zh": "技术；科技",
+       "ex": "Sarah Gonzalez reports that an age-old crime of hijacking is blending with high technology.",
+       "forms": []
+      },
+      {
+       "w": "food",
+       "pos": "n.",
+       "zh": "食物",
+       "ex": "Food and beverage cargo theft, in particular, is up 47%.",
+       "forms": []
+      },
+      {
+       "w": "million",
+       "pos": "n.",
+       "zh": "百万",
+       "ex": "Half a million dollars' worth of shellfish was hijacked.",
+       "forms": []
+      },
+      {
+       "w": "industry",
+       "pos": "n.",
+       "zh": "行业；工业",
+       "ex": "Hackers are targeting the nerve center of the trucking industry, their load boards.",
+       "forms": []
+      },
+      {
+       "w": "online",
+       "pos": "adj.",
+       "zh": "在线的",
+       "ex": "Load boards are like these online bulletin boards where a company like Rob's will say, hey, I have a load I need picked up in Philly and sent to New Jersey.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "report",
+      "technology",
+      "food",
+      "million",
+      "industry"
+     ],
+     "keyVocab": [
+      "report",
+      "technology",
+      "food",
+      "million",
+      "industry",
+      "online"
+     ]
+    },
+    {
+     "id": "2026-11-25-science",
+     "section": "Science",
+     "sectionZh": "科学",
+     "title": "Oil slicks in the Strait of Hormuz are harming the environment",
+     "dek": "More than 600 oil slicks threaten marine life in the Strait of Hormuz as war and tanker attacks turn vital waters into an environmental disaster.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/24/nx-s1-6051361-e1/oil-slicks-in-the-strait-of-hormuz-are-harming-the-environment",
+     "byline": "Aya Batrawy",
+     "dateLabel": "2026-11-25",
+     "words": 409,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "More than 600 oil slicks threaten marine life in the Strait of Hormuz as war and tanker attacks turn vital waters into an environmental disaster.",
+       "zh": "随着战争和油轮袭击将关键水域变成环境灾难，霍尔木兹海峡有超过600处油污威胁海洋生物。"
+      },
+      {
+       "en": "Iran's Revolutionary Guard Corps has been attacking oil tankers at a record pace. The IRGC says it's hitting several tankers a day. That's despite U.S. military efforts to guide ships through the Strait of Hormuz. NPR's Aya Batrawy saw oil washing ashore in the nearby United Arab Emirates.",
+       "zh": "伊朗革命卫队以创纪录的速度袭击油轮。伊朗革命卫队表示每天攻击数艘油轮。尽管美国军方努力引导船只通过霍尔木兹海峡，但袭击仍在发生。NPR的阿娅·巴特拉维看到石油冲上海滩，在附近的阿拉伯联合酋长国。"
+      },
+      {
+       "en": "AYA BATRAWY, BYLINE: It's a bright and sunny day here in Khor Fakkan in the United Arab Emirates. And this beach is open, there's families here, the water is clear. But there are several stretches of the beach in the United Arab Emirates that are now closed because of oil spills because Iran continues to attack oil tankers trying to go in or out of the Strait of Hormuz.",
+       "zh": "阿雅·巴特劳伊，署名：这里是阿拉伯联合酋长国的霍尔法坎，今天阳光明媚。这个海滩开放，很多家庭在这里，水很清澈。但阿联酋有几段海滩现在关闭，因为发生了石油泄漏，而伊朗继续攻击试图进出霍尔木兹海峡的油轮。"
+      },
+      {
+       "en": "BATRAWY: The U.N. has tracked around 150 attacks on ships since the start of the war. Greenpeace says its satellite monitoring has identified more than 600 possible oil slicks across Gulf waters from these attacks and the war, stretching some 8,000 square miles. Inesaf Benzaki is a campaigner with Greenpeace Middle East and North Africa.",
+       "zh": "BATRAWY：联合国自战争开始以来已经追踪了大约150起针对船只的袭击。绿色和平组织表示，其卫星监测已经发现这些袭击和战争可能在海湾水域产生了超过600处油污，面积约为8,000平方英里。Inesaf Benzaki 是绿色和平中东和北非地区的活动家。"
+      },
+      {
+       "en": "INESAF BENZAKI: It is really the repeated aspect of it in such a small area that compounds the scale of the damage. And yes, of course long-term monitoring, environmental monitoring is essential. But we can gauge that recovery will need a lot of time.",
+       "zh": "伊内萨夫·本扎基：真正加剧损害规模的是它在如此小的区域内反复发生的特点。当然，长期监测、环境监测是必不可少的。但我们可以判断，恢复将需要很长时间。"
+      },
+      {
+       "en": "BATRAWY: She says the damage from these repeated oil spills is not only harming marine life and sensitive ecosystems like mangroves, but also the food chain and drinking water supplies the Gulf relies on. One of Iran's attacks on October 2 struck a ship carrying 2 million barrels of crude. That oil washed up on the UAE's shores a couple weeks later. The entire coast of the emirate of Umm Al Quwain has been closed to the public ever since. The sand has dark brown hues, and the smell of oil permeates the air.",
+       "zh": "BATRAWY：她说，这些反复发生的石油泄漏造成的损害不仅危害海洋生物和像红树林这样的敏感生态系统，还影响海湾依赖的食物链和饮用水供应。伊朗在10月2日的一次袭击击中了运载200万桶原油的一艘船。几周后，这些原油漂到了阿联酋的海岸。自此之后，乌姆盖万酋长国的整个海岸对公众关闭。沙滩呈深棕色，空气中弥漫着石油的气味。"
+      },
+      {
+       "en": "I can see a clean-up crew. I can see men in, you know, these hazard outfits cleaning up the coast. There's some kind of generator running and a hose to sort of suck, I guess, the oil, the petrol out of the water.",
+       "zh": "我可以看到一个清理队。我可以看到一些穿着危险防护服的人在清理海岸。那里有某种发电机在运转，还有一根管子，好像是用来吸出海水中的油和汽油。"
+      },
+      {
+       "en": "To draw attention to the environmental costs of the war, British endurance swimmer Lewis Pugh swam in the Strait of Hormuz this month. Pugh describes the experience for The Associated Press.",
+       "zh": "为了引起人们对战争环境成本的关注，英国耐力游泳运动员刘易斯·普格本月在霍尔木兹海峡游泳。普格向美联社描述了这一经历。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "oil",
+       "pos": "n.",
+       "zh": "石油",
+       "ex": "More than 600 oil slicks threaten marine life in the Strait of Hormuz as war and tanker attacks turn vital waters into an environmental disaster.",
+       "forms": []
+      },
+      {
+       "w": "vital",
+       "pos": "adj.",
+       "zh": "至关重要的",
+       "ex": "More than 600 oil slicks threaten marine life in the Strait of Hormuz as war and tanker attacks turn vital waters into an environmental disaster.",
+       "forms": []
+      },
+      {
+       "w": "water",
+       "pos": "n.",
+       "zh": "水",
+       "ex": "More than 600 oil slicks threaten marine life in the Strait of Hormuz as war and tanker attacks turn vital waters into an environmental disaster.",
+       "forms": [
+        "waters"
+       ]
+      },
+      {
+       "w": "military",
+       "pos": "n.",
+       "zh": "军队；军方",
+       "ex": "military efforts to guide ships through the Strait of Hormuz.",
+       "forms": []
+      },
+      {
+       "w": "family",
+       "pos": "n.",
+       "zh": "家庭",
+       "ex": "And this beach is open, there's families here, the water is clear.",
+       "forms": [
+        "families"
+       ]
+      },
+      {
+       "w": "satellite",
+       "pos": "n.",
+       "zh": "卫星",
+       "ex": "Greenpeace says its satellite monitoring has identified more than 600 possible oil slicks across Gulf waters from these attacks and the war, stretching some 8,000 square miles.",
+       "forms": []
+      },
+      {
+       "w": "essential",
+       "pos": "adj.",
+       "zh": "必不可少的",
+       "ex": "And yes, of course long-term monitoring, environmental monitoring is essential.",
+       "forms": []
+      },
+      {
+       "w": "recovery",
+       "pos": "n.",
+       "zh": "复苏；恢复",
+       "ex": "But we can gauge that recovery will need a lot of time.",
+       "forms": []
+      },
+      {
+       "w": "ecosystem",
+       "pos": "n.",
+       "zh": "生态系统",
+       "ex": "BATRAWY: She says the damage from these repeated oil spills is not only harming marine life and sensitive ecosystems like mangroves, but also the food chain and drinking water supplies the Gulf relies on.",
+       "forms": [
+        "ecosystems"
+       ]
+      },
+      {
+       "w": "food",
+       "pos": "n.",
+       "zh": "食物",
+       "ex": "BATRAWY: She says the damage from these repeated oil spills is not only harming marine life and sensitive ecosystems like mangroves, but also the food chain and drinking water supplies the Gulf relies on.",
+       "forms": []
+      },
+      {
+       "w": "supply",
+       "pos": "n.",
+       "zh": "供应；供给",
+       "ex": "BATRAWY: She says the damage from these repeated oil spills is not only harming marine life and sensitive ecosystems like mangroves, but also the food chain and drinking water supplies the Gulf relies on.",
+       "forms": [
+        "supplies"
+       ]
+      },
+      {
+       "w": "million",
+       "pos": "n.",
+       "zh": "百万",
+       "ex": "One of Iran's attacks on October 2 struck a ship carrying 2 million barrels of crude.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "oil",
+      "vital",
+      "water",
+      "military",
+      "family"
+     ],
+     "keyVocab": [
+      "oil",
+      "vital",
+      "water",
+      "military",
+      "family",
+      "satellite",
+      "essential",
+      "recovery"
+     ]
+    },
+    {
+     "id": "2026-11-25-culture",
+     "section": "Culture",
+     "sectionZh": "文化",
+     "title": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
+     "dek": "As Sean Gilbert stepped out of his white GMC pickup, he breathed in the scent of applewood and Columbia Basin dust. Here, just south of Wapato, Wash., one of his 50-acre Gala and Red Delicious…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers",
+     "byline": "Anna King",
+     "dateLabel": "2026-11-25",
+     "words": 439,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "As Sean Gilbert stepped out of his white GMC pickup, he breathed in the scent of applewood and Columbia Basin dust. Here, just south of Wapato, Wash., one of his 50-acre Gala and Red Delicious apple orchards is ground into huge piles of mulch chips. The wood chipper is the size of a semi-truck and belts out a screeching racket.",
+       "zh": "当肖恩·吉尔伯特走出他那辆白色的GMC皮卡时，他吸入了苹果木和哥伦比亚盆地尘土的气息。在这里，位于华盛顿州瓦帕托以南，他的50英亩嘎啦苹果和红美味苹果果园之一被碾成了巨大的覆盖物木屑堆。木屑机的大小相当于一辆半挂卡车，发出尖锐刺耳的噪音。"
+      },
+      {
+       "en": "He said this ground will lay fallow. It will cost this fifth-generation apple farmer less to leave it unplanted and weedy than to plant another orchard or crop. He scooped up a handful of applewood mulch. \"It's a bit of a relief that we're not going to continue to be hemorrhaging dollars on orchards that the market doesn't want,\" he said. \"It hasn't been making sense for a while.\"",
+       "zh": "他说这块地将闲置不耕种。对于这位已经传承到第五代的苹果农来说，不种植、任其长满杂草的成本比再种一个果园或农作物要低。他捧起一把苹果木覆盖物，说：“我们不再在市场不需要的果园上不断亏钱，有点松了一口气。”他说，“这已经有一阵子不合算了。”"
+      },
+      {
+       "en": "Washington's $9 billion industry grows nearly 70% of the nation's fresh apples, according to Jon DeVaney, president of the Washington State Tree Fruit Association.",
+       "zh": "根据华盛顿州果树协会主席乔恩·德瓦尼的说法，华盛顿州价值90亿美元的产业生产了全国近70%的鲜苹果。"
+      },
+      {
+       "en": "DeVaney said farmers are being pressed by the costs of labor, fuel, fertilizer, equipment, as well as weak exports from international tariffs and a strong dollar that diminishes foreign purchasing power.",
+       "zh": "DeVaney表示，农民正受到劳动力、燃料、化肥、设备成本的压力，以及由于国际关税和强势美元削弱了外国购买力而导致的出口疲软的影响。"
+      },
+      {
+       "en": "He estimated thousands of acres of apple orchards across the Northwest are being rapidly torn out, or are not being actively cared for, because many farmers aren't making money growing the fruit. And after several years of similar economic conditions, many farms have gone deep into debt – with even some large, well-established operations filing for bankruptcy.",
+       "zh": "他估计，整个西北部的数千英亩苹果园正在迅速被拆除，或者没有得到积极管理，因为许多农民种植苹果无法赚钱。在经历了几年类似的经济状况之后，许多农场已经陷入巨额债务——甚至一些大型、知名的经营实体也不得不申请破产。"
+      },
+      {
+       "en": "In the late summer and fall, unpicked apples have been left to rot in branches and on the ground. Over the past few years, an estimated thousands of acres have only been partially picked or not picked at all, according to Kate Tynan, senior vice president of the Northwest Horticultural Council, a trade association that advocates for the Northwest tree fruit industry on federal policy issues and international trade.",
+       "zh": "在晚夏和秋季，未采摘的苹果被遗留在树枝上和地面上腐烂。根据西北园艺委员会高级副总裁凯特·泰南（Kate Tynan）的说法，过去几年，据估计有数千英亩的苹果园只是部分采摘或根本没有采摘。该委员会是一个贸易协会，代表西北地区的果树产业在联邦政策问题和国际贸易上进行倡导。"
+      },
+      {
+       "en": "Recent federal regulatory changes would effectively lower wages for some immigrant workers and take housing costs out of their paychecks. Tynan said with updates to the way wages are calculated, farm owners are hoping they'll be able to break even – but the farm workers union has pushed back on these changes and an upcoming federal judicial decision could put operators on the hook for backpay for the 2026 season.",
+       "zh": "近期的联邦监管变动实际上会降低一些移民工人的工资，并将住房成本从他们的工资中剔除。泰南表示，随着工资计算方式的更新，农场主希望他们能够保本——但农场工人工会对这些变动提出了反对意见，而即将到来的联邦司法裁决可能会让经营者为2026年的工作季支付补发工资负责。"
+      },
+      {
+       "en": "U.S. farmers have also been especially hard hit by tariffs and high input costs. The Trump administration announced $12 billion in payments to farmers at the end of 2025 that primarily targeted farmers who grow crops such as soybeans and corn. Tynan said much of that relief has not reached farmers that grow specialty crops like fruit and vegetables.",
+       "zh": "美国农民也因关税和高投入成本而受到特别严重的打击。特朗普政府在2025年底宣布向农民提供120亿美元的支付，这些支付主要针对种植大豆和玉米等作物的农民。泰南表示，这些救济金中的大部分尚未到达种植水果和蔬菜等特种作物的农民手中。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "chip",
+       "pos": "n.",
+       "zh": "芯片",
+       "ex": "Here, just south of Wapato, Wash., one of his 50-acre Gala and Red Delicious apple orchards is ground into huge piles of mulch chips.",
+       "forms": [
+        "chips"
+       ]
+      },
+      {
+       "w": "cost",
+       "pos": "n.",
+       "zh": "成本；代价",
+       "ex": "It will cost this fifth-generation apple farmer less to leave it unplanted and weedy than to plant another orchard or crop.",
+       "forms": [
+        "costs"
+       ]
+      },
+      {
+       "w": "plant",
+       "pos": "n.",
+       "zh": "工厂；植物",
+       "ex": "It will cost this fifth-generation apple farmer less to leave it unplanted and weedy than to plant another orchard or crop.",
+       "forms": []
+      },
+      {
+       "w": "market",
+       "pos": "n.",
+       "zh": "市场",
+       "ex": "\"It's a bit of a relief that we're not going to continue to be hemorrhaging dollars on orchards that the market doesn't want,\" he said.",
+       "forms": []
+      },
+      {
+       "w": "billion",
+       "pos": "n.",
+       "zh": "十亿",
+       "ex": "\"It hasn't been making sense for a while.\" Washington's $9 billion industry grows nearly 70% of the nation's fresh apples, according to Jon DeVaney, president of the Washington State Tree Fruit Association.",
+       "forms": []
+      },
+      {
+       "w": "industry",
+       "pos": "n.",
+       "zh": "行业；工业",
+       "ex": "\"It hasn't been making sense for a while.\" Washington's $9 billion industry grows nearly 70% of the nation's fresh apples, according to Jon DeVaney, president of the Washington State Tree Fruit Association.",
+       "forms": []
+      },
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "\"It hasn't been making sense for a while.\" Washington's $9 billion industry grows nearly 70% of the nation's fresh apples, according to Jon DeVaney, president of the Washington State Tree Fruit Association.",
+       "forms": []
+      },
+      {
+       "w": "export",
+       "pos": "n.",
+       "zh": "出口",
+       "ex": "DeVaney said farmers are being pressed by the costs of labor, fuel, fertilizer, equipment, as well as weak exports from international tariffs and a strong dollar that diminishes foreign purchasing power.",
+       "forms": [
+        "exports"
+       ]
+      },
+      {
+       "w": "international",
+       "pos": "adj.",
+       "zh": "国际的",
+       "ex": "DeVaney said farmers are being pressed by the costs of labor, fuel, fertilizer, equipment, as well as weak exports from international tariffs and a strong dollar that diminishes foreign purchasing power.",
+       "forms": []
+      },
+      {
+       "w": "tariff",
+       "pos": "n.",
+       "zh": "关税",
+       "ex": "DeVaney said farmers are being pressed by the costs of labor, fuel, fertilizer, equipment, as well as weak exports from international tariffs and a strong dollar that diminishes foreign purchasing power.",
+       "forms": [
+        "tariffs"
+       ]
+      },
+      {
+       "w": "foreign",
+       "pos": "adj.",
+       "zh": "外国的",
+       "ex": "DeVaney said farmers are being pressed by the costs of labor, fuel, fertilizer, equipment, as well as weak exports from international tariffs and a strong dollar that diminishes foreign purchasing power.",
+       "forms": []
+      },
+      {
+       "w": "power",
+       "pos": "n.",
+       "zh": "权力；电力",
+       "ex": "DeVaney said farmers are being pressed by the costs of labor, fuel, fertilizer, equipment, as well as weak exports from international tariffs and a strong dollar that diminishes foreign purchasing power.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "chip",
+      "cost",
+      "plant",
+      "market",
+      "billion"
+     ],
+     "keyVocab": [
+      "chip",
+      "cost",
+      "plant",
+      "market",
+      "billion",
+      "industry",
+      "president",
+      "export"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-24",
    "articles": [
@@ -4647,779 +5397,6 @@
       "statement",
       "expand",
       "regime"
-     ]
-    }
-   ]
-  },
-  {
-   "date": "2026-11-18",
-   "articles": [
-    {
-     "id": "2026-11-18-world",
-     "section": "World",
-     "sectionZh": "国际",
-     "title": "Xi said China would welcome American students for exchanges. What's the reality?",
-     "dek": "President Trump and China's leader Xi Jinping are due to meet in the Chinese city of Shenzhen. At their last summit in September, Xi said he will welcome 100,000 American students for exchanges.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/17/nx-s1-6026589/xi-said-china-would-welcome-american-students-for-exchanges-whats-the-reality",
-     "byline": "Jennifer Pak",
-     "dateLabel": "2026-11-18",
-     "words": 255,
-     "readTime": 3,
-     "level": "B2",
-     "levelEn": "Upper-intermediate",
-     "paragraphs": [
-      {
-       "en": "President Trump and China's leader Xi Jinping are due to meet in the Chinese city of Shenzhen. At their last summit in September, Xi said he will welcome 100,000 American students for exchanges.",
-       "zh": "特朗普总统和中国领导人习近平预计将在中国深圳会面。在他们九月份的上一次峰会上，习近平表示他将欢迎10万名美国学生进行交流。"
-      },
-      {
-       "en": "President Trump and Chinese leader Xi Jinping are due to meet in the southern Chinese city of Shenzhen this week. At their last summit in September, Xi said he would welcome 100,000 American students for academic exchanges. It's a gesture meant to show that China is open, even as the two countries grow increasingly more closed off to each other. NPR's Jennifer Pak reports from Beijing.",
-       "zh": "特朗普总统和中国领导人习近平本周将在中国南方城市深圳会面。在他们去年九月的上一次峰会上，习近平表示他欢迎10万名美国学生进行学术交流。这一举动旨在展示中国的开放性，即使两国之间的交流越来越受限制。NPR的詹妮弗·帕克从北京报道。"
-      },
-      {
-       "en": "JENNIFER PAK, BYLINE: Ker Gibbs teaches business at the University of San Francisco. He first visited China in 1985 when there were few foreigners.",
-       "zh": "詹妮弗·帕克，记者署名：克尔·吉布斯在旧金山大学教授商业。他第一次访华是在1985年，当时外国人很少。"
-      },
-      {
-       "en": "PAK: And he couldn't use the local currency, the renminbi. Gibbs had to get foreign exchange certificates and spend them at certain state-owned shops.",
-       "zh": "PAK：而且他不能使用当地货币人民币。吉布斯不得不获得外汇兑换证，并在某些国有商店使用它们。"
-      },
-      {
-       "en": "PAK: That changed in the 1990s when China opened up. That's how Gibbs was sent by a U.S. consultancy to work in Shanghai. As a 20-something-year-old, he says he helped Chinese factories with things like management and inventory control.",
-       "zh": "PAK：这种情况在1990年代中国开放时发生了变化。吉布斯就是因此被一家美国咨询公司派往上海工作的。他说，作为一个二十多岁的人，他帮助中国工厂处理管理和库存控制等事务。"
-      },
-      {
-       "en": "GIBBS: And the vibe in businesses was really exciting because local management, they were curious about everything, and we were eager to teach.",
-       "zh": "吉布斯：而且企业中的氛围非常令人兴奋，因为当地管理层对一切都充满好奇，而我们也渴望去教他们。"
-      },
-      {
-       "en": "PAK: Gibbs went on to have a 30-year career in China and even raised a family in Shanghai. He wants the next generation of China watchers to have the same experience. But he says...",
-       "zh": "巴基斯坦：吉布斯在中国开展了为期30年的职业生涯，甚至在上海养家。他希望下一代中国观察者也能有同样的经历。但他说……"
-      },
-      {
-       "en": "GIBBS: I have fewer reasons to be optimistic, put it that way.",
-       "zh": "吉布斯：可以这么说，我乐观的理由更少。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "president",
-       "pos": "n.",
-       "zh": "总统；总裁",
-       "ex": "President Trump and China's leader Xi Jinping are due to meet in the Chinese city of Shenzhen.",
-       "forms": []
-      },
-      {
-       "w": "leader",
-       "pos": "n.",
-       "zh": "领导人",
-       "ex": "President Trump and China's leader Xi Jinping are due to meet in the Chinese city of Shenzhen.",
-       "forms": []
-      },
-      {
-       "w": "summit",
-       "pos": "n.",
-       "zh": "峰会；顶峰",
-       "ex": "At their last summit in September, Xi said he will welcome 100,000 American students for exchanges.",
-       "forms": []
-      },
-      {
-       "w": "student",
-       "pos": "n.",
-       "zh": "学生",
-       "ex": "At their last summit in September, Xi said he will welcome 100,000 American students for exchanges.",
-       "forms": [
-        "students"
-       ]
-      },
-      {
-       "w": "report",
-       "pos": "n.",
-       "zh": "报告；报道",
-       "ex": "NPR's Jennifer Pak reports from Beijing.",
-       "forms": [
-        "reports"
-       ]
-      },
-      {
-       "w": "university",
-       "pos": "n.",
-       "zh": "大学",
-       "ex": "JENNIFER PAK, BYLINE: Ker Gibbs teaches business at the University of San Francisco.",
-       "forms": []
-      },
-      {
-       "w": "local",
-       "pos": "adj.",
-       "zh": "当地的",
-       "ex": "PAK: And he couldn't use the local currency, the renminbi.",
-       "forms": []
-      },
-      {
-       "w": "currency",
-       "pos": "n.",
-       "zh": "货币",
-       "ex": "PAK: And he couldn't use the local currency, the renminbi.",
-       "forms": []
-      },
-      {
-       "w": "foreign",
-       "pos": "adj.",
-       "zh": "外国的",
-       "ex": "Gibbs had to get foreign exchange certificates and spend them at certain state-owned shops.",
-       "forms": []
-      },
-      {
-       "w": "change",
-       "pos": "n.",
-       "zh": "变化；改变",
-       "ex": "PAK: That changed in the 1990s when China opened up.",
-       "forms": [
-        "changed"
-       ]
-      },
-      {
-       "w": "factory",
-       "pos": "n.",
-       "zh": "工厂",
-       "ex": "As a 20-something-year-old, he says he helped Chinese factories with things like management and inventory control.",
-       "forms": [
-        "factories"
-       ]
-      },
-      {
-       "w": "inventory",
-       "pos": "n.",
-       "zh": "库存",
-       "ex": "As a 20-something-year-old, he says he helped Chinese factories with things like management and inventory control.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "president",
-      "leader",
-      "summit",
-      "student",
-      "report"
-     ],
-     "keyVocab": [
-      "president",
-      "leader",
-      "summit",
-      "student",
-      "report",
-      "university",
-      "local",
-      "currency"
-     ]
-    },
-    {
-     "id": "2026-11-18-business",
-     "section": "Business",
-     "sectionZh": "商业 · 财经",
-     "title": "Nvidia tries to get back to business",
-     "dek": "Nvidia quarterly earnings are in. But the biggest question isn't about past business performance it's about the company's future leadership.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/17/nx-s1-6044197/nvidia-tries-to-get-back-to-business",
-     "byline": "Ricky Mulvey",
-     "dateLabel": "2026-11-18",
-     "words": 538,
-     "readTime": 3,
-     "level": "B2",
-     "levelEn": "Upper-intermediate",
-     "paragraphs": [
-      {
-       "en": "Nvidia quarterly earnings are in. But the biggest question isn't about past business performance it's about the company's future leadership.",
-       "zh": "Nvidia季度财报已经发布。但最大的问题不在于过去的业务表现，而在于公司的未来领导力。"
-      },
-      {
-       "en": "It's been a big day for NVIDIA. The tech company seems to be moving past the scandal involving its now former CEO, Jensen Huang's, extramarital affairs, including one with an alleged spy. The company has confirmed it will not reinstate him. NVIDIA's business has been going gangbusters for a while now, and that remains true. Ricky Mulvey of NPR's The Indicator From Planet Money joins us now. Hi, Ricky.",
-       "zh": "对 NVIDIA 来说今天是重要的一天。这家科技公司似乎正在走出其前首席执行官黄仁勋婚外情丑闻的阴影，其中包括与一名被指控的间谍的关系。公司已确认不会恢复他的职务。NVIDIA 的业务已经持续火爆一段时间，这一点仍然成立。NPR《Planet Money》的《The Indicator》的瑞奇·穆尔维现在加入我们。你好，瑞奇。"
-      },
-      {
-       "en": "PFEIFFER: So today, NVIDIA announced its quarterly earnings. That's high stakes for a lot of investors. So what do we know about how this situation with the former CEO has affected the company's financial standing?",
-       "zh": "PFIEFFER：所以今天，英伟达公布了其季度财报。对于很多投资者来说，这是高风险的。那么我们对前任首席执行官的情况如何影响公司财务状况有什么了解吗？"
-      },
-      {
-       "en": "MULVEY: Yeah, just for a moment, take the scandals out of this. The business itself is firing on all cylinders. When NVIDIA makes a dollar, most of that becomes pure profit, and it's making a lot more dollars. Revenue for the quarter was about $116 billion, about double from a year ago, and that beat expectations. Part of that is tied to NVIDIA's new AI supercomputers. They started shipping this quarter, and it was the fastest product launch in history for the company, making them about $20 billion already. And these computers are high-powered stuff. They help scientists look into black holes, and big tech companies develop the latest and greatest large language models. Bottom line, NVIDIA is an extraordinarily profitable business on the bleeding edge of technology, and that did not fundamentally change this quarter or with the scandals.",
-       "zh": "MULVEY：是的，先暂且把丑闻放一边不谈。这个业务本身正全速运作。当 NVIDIA 赚一美元时，大部分都转化为纯利润，而且它赚的钱越来越多。本季度收入约为1160亿美元，比一年前大约翻了一倍，这也超出了预期。部分原因与 NVIDIA 的新型人工智能超级计算机有关。本季度开始发货，这是公司历史上最快的产品发布，已经为他们带来约200亿美元的收入。这些计算机性能非常强大。它们帮助科学家研究黑洞，也帮助大型科技公司开发最新最先进的大型语言模型。总的来说，NVIDIA 是一家技术前沿且极具盈利能力的公司，而这一点在本季度或面对丑闻时并没有根本改变。"
-      },
-      {
-       "en": "PFEIFFER: And what about the basic fundamentals of the company and what it produces? By losing its leader, has that affected any of the fundamentals?",
-       "zh": "PFEIFFER：那么公司的基本面以及它生产的产品呢？失去了领导者，这是否影响了公司的任何基本面？"
-      },
-      {
-       "en": "MULVEY: It does moving forward. Look, NVIDIA lost its chief storyteller and also one of AI's central bankers in the middle of many of those circular deals. Don't forget, Jensen Huang has made a lot of people a lot of money. That's why a lot of people are upset. If you invested a grand in NVIDIA 10 years ago, you've made well over $100,000 today. And since the scandal, since the stories broke, NVIDIA stock has lost about $573 billion. That was before earnings. And for context, that is all of Mastercard the company. Stock is up a bit after hours, but that's not enough to recover from all these scandals.",
-       "zh": "穆尔维：从前进的角度来看是这样的。你看，NVIDIA 在许多循环交易进行中间，失去了其首席讲故事者，同时也失去了 AI 的核心银行家之一。别忘了，黄仁勋让很多人赚了很多钱。这就是为什么很多人感到不满。如果你在 10 年前向 NVIDIA 投资了一千美元，今天你已经赚了超过 10 万美元。而自从丑闻爆发以来，自从这些消息曝光以来，NVIDIA 的股票已经损失了大约 5730 亿美元。这还是在收益发布之前。从背景上看，这相当于整个万事达卡公司。股价在盘后略有上涨，但这还不足以从所有这些丑闻中恢复过来。"
-      },
-      {
-       "en": "PFEIFFER: I understand that Jensen Huang said something today. He spoke out about his hopes. What did he say?",
-       "zh": "PFEIFFER：我了解Jensen Huang今天说了一些话。他谈到了他的希望。他说了什么？"
-      },
-      {
-       "en": "MULVEY: Yeah, he goes on X, and he posts this morning, saying that he is open to returning. And what's notable about that is doing it on the day of earnings. That's making it a part of the earnings conversation. He says that he made some serious mistakes in his personal life. He deeply regrets them, but he's just seen an outpouring of support to return. And he posted that if it's in the best interest of the shareholders and the company and America, you know, well, he has availability to step back into the CEO seat of NVIDIA.",
-       "zh": "MULVEY：是的，他在X上发布了消息，今天早上说他愿意回归。值得注意的是，他选择在财报发布当天发布这个消息，这使其成为财报讨论的一部分。他表示自己在个人生活中犯了一些严重错误，对此深感后悔，但他看到有大量支持让他回归的声音。他还发布说，如果这是股东、公司和美国的最佳利益，他有空可以重新回到NVIDIA的CEO职位上。"
-      },
-      {
-       "en": "PFEIFFER: But as we said, the company's saying it will not reinstate him. Any sense that there's wiggle room there?",
-       "zh": "PFEIFFER：但正如我们所说，公司表示不会恢复他的职位。有什么迹象表明还有回旋余地吗？"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "future",
-       "pos": "n.",
-       "zh": "未来",
-       "ex": "But the biggest question isn't about past business performance it's about the company's future leadership.",
-       "forms": []
-      },
-      {
-       "w": "scandal",
-       "pos": "n.",
-       "zh": "丑闻",
-       "ex": "The tech company seems to be moving past the scandal involving its now former CEO, Jensen Huang's, extramarital affairs, including one with an alleged spy.",
-       "forms": [
-        "scandals"
-       ]
-      },
-      {
-       "w": "confirm",
-       "pos": "v.",
-       "zh": "证实；确认",
-       "ex": "The company has confirmed it will not reinstate him.",
-       "forms": [
-        "confirmed"
-       ]
-      },
-      {
-       "w": "indicator",
-       "pos": "n.",
-       "zh": "指标；迹象",
-       "ex": "Ricky Mulvey of NPR's The Indicator From Planet Money joins us now.",
-       "forms": []
-      },
-      {
-       "w": "announce",
-       "pos": "v.",
-       "zh": "宣布；公布",
-       "ex": "PFEIFFER: So today, NVIDIA announced its quarterly earnings.",
-       "forms": [
-        "announced"
-       ]
-      },
-      {
-       "w": "investor",
-       "pos": "n.",
-       "zh": "投资者",
-       "ex": "That's high stakes for a lot of investors.",
-       "forms": [
-        "investors"
-       ]
-      },
-      {
-       "w": "financial",
-       "pos": "adj.",
-       "zh": "金融的；财务的",
-       "ex": "So what do we know about how this situation with the former CEO has affected the company's financial standing?",
-       "forms": []
-      },
-      {
-       "w": "profit",
-       "pos": "n.",
-       "zh": "利润",
-       "ex": "When NVIDIA makes a dollar, most of that becomes pure profit, and it's making a lot more dollars.",
-       "forms": []
-      },
-      {
-       "w": "revenue",
-       "pos": "n.",
-       "zh": "收入；营收",
-       "ex": "Revenue for the quarter was about $116 billion, about double from a year ago, and that beat expectations.",
-       "forms": []
-      },
-      {
-       "w": "billion",
-       "pos": "n.",
-       "zh": "十亿",
-       "ex": "Revenue for the quarter was about $116 billion, about double from a year ago, and that beat expectations.",
-       "forms": []
-      },
-      {
-       "w": "double",
-       "pos": "v.",
-       "zh": "翻倍",
-       "ex": "Revenue for the quarter was about $116 billion, about double from a year ago, and that beat expectations.",
-       "forms": []
-      },
-      {
-       "w": "product",
-       "pos": "n.",
-       "zh": "产品",
-       "ex": "They started shipping this quarter, and it was the fastest product launch in history for the company, making them about $20 billion already.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "future",
-      "scandal",
-      "confirm",
-      "indicator",
-      "announce"
-     ],
-     "keyVocab": [
-      "future",
-      "scandal",
-      "confirm",
-      "indicator",
-      "announce",
-      "investor",
-      "financial",
-      "profit"
-     ]
-    },
-    {
-     "id": "2026-11-18-technology",
-     "section": "Technology",
-     "sectionZh": "科技",
-     "title": "Air travel, Microsoft, banking: Why are our IT systems failing?",
-     "dek": "NPR's Sacha Pfeiffer speaks with cybersecurity expert Dmitri Alperovitch about the coincidence of several major technical failures in IT infrastructure — and how best to understand it.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/17/nx-s1-6043850/air-travel-microsoft-banking-why-are-our-it-systems-failing",
-     "byline": "Michelle Aslam",
-     "dateLabel": "2026-11-18",
-     "words": 457,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "NPR's Sacha Pfeiffer speaks with cybersecurity expert Dmitri Alperovitch about the coincidence of several major technical failures in IT infrastructure — and how best to understand it.",
-       "zh": "NPR 的 Sacha Pfeiffer 与网络安全专家 Dmitri Alperovitch 谈论 IT 基础设施中发生的几次重大技术故障的巧合——以及如何最好地理解它。"
-      },
-      {
-       "en": "Say that last Thursday, you were trying to email your boss about a business trip this week. But Microsoft Outlook was down, so you had to wait to send that email till Friday. But on Friday, a fiber-optic cable replacement crashed the routers that deal with air traffic, and that held up nearly all departing flights nationwide. When that finally sorted out, and you rebooked a flight on Monday, United Airlines had a brief system outage that further delayed your takeoff, at which point you went to your banking app to see how much all this was costing you, but that was briefly down yesterday too.",
-       "zh": "说上周四，你本来想给老板发邮件，关于这周的商务旅行。但微软Outlook宕机了，所以你不得不等到周五才发送那封邮件。但周五，一条光纤电缆的更换导致处理空中交通的路由器崩溃，几乎全国所有出发航班都因此延误。当情况最终解决后，你在周一重新预订了航班，但联合航空发生了短暂的系统故障，进一步延迟了你的起飞，这时你打开银行应用查看这一切花了你多少钱，但它昨天也短暂宕机了。"
-      },
-      {
-       "en": "PRESIDENT DONALD TRUMP: It's life. It's life. When you're big and powerful and you have all the money, things like that happen. It's fine.",
-       "zh": "唐纳德·特朗普总统：这是生活。这就是生活。当你很大很有权势，而且有所有的钱时，这样的事情就会发生。没关系。"
-      },
-      {
-       "en": "PFEIFFER: President Trump downplayed all the outages today. Although, speaking of being big and powerful, NPR has confirmed that the classified network that the National Security Agency uses for its own internal communications has been having issues today. We have so many questions about all of this, which is why we have called Dmitri Alperovitch. He's cofounder of the cybersecurity technology company CrowdStrike, and he's founder of the Alperovitch Institute for Cybersecurity Studies at Johns Hopkins University. Thank you for coming on the program.",
-       "zh": "PFEIFFER：特朗普总统今天淡化了所有的停电情况。不过，说到强大和有力，NPR 已经确认，美国国家安全局用于内部通信的机密网络今天出现了问题。我们对这一切有很多疑问，这就是为什么我们邀请了德米特里·阿尔佩罗维奇。他是网络安全技术公司 CrowdStrike 的联合创始人，同时也是约翰斯·霍普金斯大学阿尔佩罗维奇网络安全研究所的创始人。感谢您上我们的节目。"
-      },
-      {
-       "en": "PFEIFFER: At this point, is there any evidence that all these incidents are connected in any way or maybe are tied to cybercrime?",
-       "zh": "PFEIFFER：在这一点上，有没有任何证据表明所有这些事件在某种程度上是相互关联的，或者可能与网络犯罪有关？"
-      },
-      {
-       "en": "ALPEROVITCH: No. And I understand that people are very suspicious. Obviously, all of these events happening almost every day is very strange. But these things happen. And, you know, one of Murphy's laws, of course, is that never attribute anything to malice that which is adequately explained by incompetence. I think a lot of these things happening because people are actually in the midst of a lot of upgrading right now.",
-       "zh": "ALPEROVITCH：不。我理解人们非常怀疑。显然，这些事件几乎每天都在发生，非常奇怪。但这种事情确实会发生。你知道，墨菲定律之一当然是，不要把本可以用无能解释的事情归因于恶意。我认为这些事情很多是因为人们目前正处于大量升级的过程中。"
-      },
-      {
-       "en": "There is, of course, the AI threat. A lot of vulnerabilities are being found by these AI models. And as a result, a lot of companies, a lot of organizations across the world, are trying to patch these vulnerabilities as quickly as possible. So we're going through this patch apocalypse right now. And sometimes when you're updating systems, we all know things can go wrong, and I think that's partly what's happening here.",
-       "zh": "当然，存在人工智能的威胁。这些人工智能模型发现了很多漏洞。因此，世界上许多公司和组织都在尽可能快地修补这些漏洞。所以我们现在正经历这场补丁灾难。有时在更新系统时，我们都知道事情可能会出错，我认为这在某种程度上就是这里发生的情况。"
-      },
-      {
-       "en": "PFEIFFER: So are we having this collision of our extreme reliance on technology, overtaxed, often aging systems that, as you said, periodically need updating. We know that cyberattacks are common. We know that rogue AI is a fear. Are we seeing the fragility of the system all coming together?",
-       "zh": "PFEIFFER：那么，我们是否正在经历这样一种碰撞：我们极度依赖技术，而这些系统超负荷运转，且往往已经老化，正如你所说，时不时需要更新。我们知道网络攻击很常见。我们知道失控的人工智能令人担忧。我们是否在看到系统的脆弱性正在集中显现？"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "cybersecurity",
-       "pos": "n.",
-       "zh": "网络安全",
-       "ex": "NPR's Sacha Pfeiffer speaks with cybersecurity expert Dmitri Alperovitch about the coincidence of several major technical failures in IT infrastructure — and how best to understand it.",
-       "forms": []
-      },
-      {
-       "w": "infrastructure",
-       "pos": "n.",
-       "zh": "基础设施",
-       "ex": "NPR's Sacha Pfeiffer speaks with cybersecurity expert Dmitri Alperovitch about the coincidence of several major technical failures in IT infrastructure — and how best to understand it.",
-       "forms": []
-      },
-      {
-       "w": "outlook",
-       "pos": "n.",
-       "zh": "前景；展望",
-       "ex": "But Microsoft Outlook was down, so you had to wait to send that email till Friday.",
-       "forms": []
-      },
-      {
-       "w": "crash",
-       "pos": "n.",
-       "zh": "崩盘；暴跌",
-       "ex": "But on Friday, a fiber-optic cable replacement crashed the routers that deal with air traffic, and that held up nearly all departing flights nationwide.",
-       "forms": [
-        "crashed"
-       ]
-      },
-      {
-       "w": "cost",
-       "pos": "n.",
-       "zh": "成本；代价",
-       "ex": "When that finally sorted out, and you rebooked a flight on Monday, United Airlines had a brief system outage that further delayed your takeoff, at which point you went to your banking app to see how much all this was costing you, but that was briefly down yesterday too.",
-       "forms": [
-        "costing"
-       ]
-      },
-      {
-       "w": "president",
-       "pos": "n.",
-       "zh": "总统；总裁",
-       "ex": "PRESIDENT DONALD TRUMP: It's life.",
-       "forms": []
-      },
-      {
-       "w": "confirm",
-       "pos": "v.",
-       "zh": "证实；确认",
-       "ex": "Although, speaking of being big and powerful, NPR has confirmed that the classified network that the National Security Agency uses for its own internal communications has been having issues today.",
-       "forms": [
-        "confirmed"
-       ]
-      },
-      {
-       "w": "network",
-       "pos": "n.",
-       "zh": "网络",
-       "ex": "Although, speaking of being big and powerful, NPR has confirmed that the classified network that the National Security Agency uses for its own internal communications has been having issues today.",
-       "forms": []
-      },
-      {
-       "w": "national",
-       "pos": "adj.",
-       "zh": "国家的；全国的",
-       "ex": "Although, speaking of being big and powerful, NPR has confirmed that the classified network that the National Security Agency uses for its own internal communications has been having issues today.",
-       "forms": []
-      },
-      {
-       "w": "agency",
-       "pos": "n.",
-       "zh": "机构；代理",
-       "ex": "Although, speaking of being big and powerful, NPR has confirmed that the classified network that the National Security Agency uses for its own internal communications has been having issues today.",
-       "forms": []
-      },
-      {
-       "w": "issue",
-       "pos": "n.",
-       "zh": "议题；问题",
-       "ex": "Although, speaking of being big and powerful, NPR has confirmed that the classified network that the National Security Agency uses for its own internal communications has been having issues today.",
-       "forms": [
-        "issues"
-       ]
-      },
-      {
-       "w": "technology",
-       "pos": "n.",
-       "zh": "技术；科技",
-       "ex": "He's cofounder of the cybersecurity technology company CrowdStrike, and he's founder of the Alperovitch Institute for Cybersecurity Studies at Johns Hopkins University.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "cybersecurity",
-      "infrastructure",
-      "outlook",
-      "crash",
-      "cost"
-     ],
-     "keyVocab": [
-      "cybersecurity",
-      "infrastructure",
-      "outlook",
-      "crash",
-      "cost",
-      "president",
-      "confirm",
-      "network"
-     ]
-    },
-    {
-     "id": "2026-11-18-science",
-     "section": "Science",
-     "sectionZh": "科学",
-     "title": "Trump administration moves to lift ban on roadbuilding and logging in national forests",
-     "dek": "The Trump administration is working to rescind the \"Roadless Rule,\" which blocks road construction in some national forests. This could affect Alaska's Tongass National Forest.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/08/nx-s1-5981452/trump-administration-moves-to-lift-ban-on-roadbuilding-and-logging-in-national-forests",
-     "byline": "Alix Soliman",
-     "dateLabel": "2026-11-18",
-     "words": 363,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "The Trump administration is working to rescind the \"Roadless Rule,\" which blocks road construction in some national forests. This could affect Alaska's Tongass National Forest.",
-       "zh": "特朗普政府正在努力废除“无路规则”，该规则禁止在一些国家森林中修建道路。这可能会影响阿拉斯加的汤加斯国家森林。"
-      },
-      {
-       "en": "For decades, an administrative rule known as the Roadless Rule banned new road building and logging across millions of acres of national forest lands. Now the Trump administration has moved to lift the ban. That's controversial in places like Alaska's Tongass National Forest, the largest national forest in the U.S. Reporter Alix Soliman from member station KTOO has the story.",
-       "zh": "几十年来，一项被称为“无路规则”的行政规定禁止在数百万英亩的国家森林土地上新建道路和采伐木材。如今，特朗普政府已采取行动取消这一禁令。这在阿拉斯加的通加斯国家森林等地引发了争议，该森林是美国最大的国家森林。会员电台KTOO的记者Alix Soliman带来了报道。"
-      },
-      {
-       "en": "ALIX SOLIMAN, BYLINE: Around half of the Tongass National Forest in Southeast Alaska has no active roads. That's more than 9 million acres.",
-       "zh": "阿利克斯·索利曼，署名：阿拉斯加东南部的通加斯国家森林约有一半没有通行道路。这超过 900 万英亩。"
-      },
-      {
-       "en": "SOLIMAN: On a recent afternoon, Judith Daxootsu Ramos walked through a roadless area. She's a Tlingit anthropologist from Yakutat, a small Alaska Native village. And she says the forest supports a number of Tlingit traditions, like harvesting berries and hunting deer.",
-       "zh": "SOLIMAN：在一个最近的下午，朱迪斯·达克苏茨·拉莫斯走过了一片没有道路的区域。她是来自雅库塔，一个阿拉斯加原住民小村庄的特林吉特人类学家。她说，这片森林支持许多特林吉特人的传统活动，比如采摘浆果和打猎鹿。"
-      },
-      {
-       "en": "JUDITH DAXOOTSU RAMOS: Without this, we're going to lose our traditional medicines, our traditional art styles, our traditional foods. And all of that is really connected to the forest.",
-       "zh": "朱迪思·达克舒特苏·拉莫斯：没有这些，我们将失去我们的传统药物、传统艺术风格、传统食物。而这一切都与森林密切相关。"
-      },
-      {
-       "en": "SOLIMAN: Ramos sits on the board of the Southeast Alaska Conservation Council, a local nonprofit advocating to keep the Roadless Rule in place. She visited Prince of Wales Island, a heavily logged part of the forest, and says the trees that grew back in old-growth clearcuts looked sterile.",
-       "zh": "SOLIMAN: 拉莫斯是东南阿拉斯加保护委员会的董事会成员，该委员会是一个本地非营利组织，倡导维持无道路区法规。她访问了威尔士亲王岛，这是森林中被大量伐木的地区，她说在老林采伐区重新长出的树木看起来很贫瘠。"
-      },
-      {
-       "en": "RAMOS: It's a very different forest. And there was no animals, no birds there, and it was kind of really quiet. And so it was kind of scary.",
-       "zh": "拉莫斯：这是一个完全不同的森林。那里没有动物，没有鸟，而且非常安静。所以有点可怕。"
-      },
-      {
-       "en": "SOLIMAN: Others in the region oppose lifting the Roadless Rule because they worry it will hurt ecotourism or undermine the climate benefits of the Tongass, which holds a third of all carbon stored in intact U.S. national forests. But the U.S. Department of Agriculture says that it wants to roll back the Roadless Rule to give firefighters access to fight wildfires and remove what they say are outdated regulatory barriers. But many in this part of Alaska think it's to increase logging. The Trump administration has tried to boost national timber production in the past, and the first Trump administration temporarily rolled back the rule in just the Tongass.",
-       "zh": "SOLIMAN：该地区的其他人反对取消无路区规则，因为他们担心这会损害生态旅游或削弱汤加斯国家森林的气候效益，而汤加斯拥有美国完整国家森林储存的三分之一碳。但美国农业部表示，他们希望取消无路区规则，以便让消防员进入扑灭野火，并移除他们所说的过时监管障碍。但阿拉斯加这一部分的许多人认为这是为了增加伐木。特朗普政府过去曾试图提高国家木材产量，特朗普政府的第一次任期仅在汤加斯暂时取消了该规则。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "administration",
-       "pos": "n.",
-       "zh": "政府；行政",
-       "ex": "The Trump administration is working to rescind the \"Roadless Rule,\" which blocks road construction in some national forests.",
-       "forms": []
-      },
-      {
-       "w": "national",
-       "pos": "adj.",
-       "zh": "国家的；全国的",
-       "ex": "The Trump administration is working to rescind the \"Roadless Rule,\" which blocks road construction in some national forests.",
-       "forms": []
-      },
-      {
-       "w": "forest",
-       "pos": "n.",
-       "zh": "森林",
-       "ex": "The Trump administration is working to rescind the \"Roadless Rule,\" which blocks road construction in some national forests.",
-       "forms": [
-        "forests"
-       ]
-      },
-      {
-       "w": "million",
-       "pos": "n.",
-       "zh": "百万",
-       "ex": "For decades, an administrative rule known as the Roadless Rule banned new road building and logging across millions of acres of national forest lands.",
-       "forms": [
-        "millions"
-       ]
-      },
-      {
-       "w": "land",
-       "pos": "n.",
-       "zh": "土地；陆地",
-       "ex": "For decades, an administrative rule known as the Roadless Rule banned new road building and logging across millions of acres of national forest lands.",
-       "forms": [
-        "lands"
-       ]
-      },
-      {
-       "w": "support",
-       "pos": "v.",
-       "zh": "支持",
-       "ex": "And she says the forest supports a number of Tlingit traditions, like harvesting berries and hunting deer.",
-       "forms": [
-        "supports"
-       ]
-      },
-      {
-       "w": "number",
-       "pos": "n.",
-       "zh": "数量；数字",
-       "ex": "And she says the forest supports a number of Tlingit traditions, like harvesting berries and hunting deer.",
-       "forms": []
-      },
-      {
-       "w": "tradition",
-       "pos": "n.",
-       "zh": "传统",
-       "ex": "And she says the forest supports a number of Tlingit traditions, like harvesting berries and hunting deer.",
-       "forms": [
-        "traditions"
-       ]
-      },
-      {
-       "w": "food",
-       "pos": "n.",
-       "zh": "食物",
-       "ex": "JUDITH DAXOOTSU RAMOS: Without this, we're going to lose our traditional medicines, our traditional art styles, our traditional foods.",
-       "forms": [
-        "foods"
-       ]
-      },
-      {
-       "w": "conservation",
-       "pos": "n.",
-       "zh": "保护；保育",
-       "ex": "SOLIMAN: Ramos sits on the board of the Southeast Alaska Conservation Council, a local nonprofit advocating to keep the Roadless Rule in place.",
-       "forms": []
-      },
-      {
-       "w": "local",
-       "pos": "adj.",
-       "zh": "当地的",
-       "ex": "SOLIMAN: Ramos sits on the board of the Southeast Alaska Conservation Council, a local nonprofit advocating to keep the Roadless Rule in place.",
-       "forms": []
-      },
-      {
-       "w": "advocate",
-       "pos": "v.",
-       "zh": "倡导；拥护",
-       "ex": "SOLIMAN: Ramos sits on the board of the Southeast Alaska Conservation Council, a local nonprofit advocating to keep the Roadless Rule in place.",
-       "forms": [
-        "advocating"
-       ]
-      }
-     ],
-     "homeWords": [
-      "administration",
-      "national",
-      "forest",
-      "million",
-      "land"
-     ],
-     "keyVocab": [
-      "administration",
-      "national",
-      "forest",
-      "million",
-      "land",
-      "support",
-      "number",
-      "tradition"
-     ]
-    },
-    {
-     "id": "2026-11-18-culture",
-     "section": "Culture",
-     "sectionZh": "文化",
-     "title": "Why an SNL comedy sketch about caretaking went viral",
-     "dek": "The SNL ad parody \"Sister\" hit home for daughters caring for parents without help from their brothers. NPR's Juana Summers speaks with writer Liz Plank about her Substack essay on why it resonated.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/17/nx-s1-6044081/why-an-snl-comedy-sketch-about-caretaking-went-viral",
-     "byline": "Sophia Paliza-Carre",
-     "dateLabel": "2026-11-18",
-     "words": 399,
-     "readTime": 3,
-     "level": "B2",
-     "levelEn": "Upper-intermediate",
-     "paragraphs": [
-      {
-       "en": "The SNL ad parody \"Sister\" hit home for daughters caring for parents without help from their brothers. NPR's Juana Summers speaks with writer Liz Plank about her Substack essay on why it resonated.",
-       "zh": "《周六夜现场》的广告恶搞“小妹”让那些在照顾父母时得不到兄弟帮助的女儿感同身受。NPR 的 Juana Summers 与作家 Liz Plank 讨论了她在 Substack 上关于这一共鸣原因的文章。"
-      },
-      {
-       "en": "Sometimes comedy hits a little too close to home. One sketch from this weekend's \"Saturday Night Live\" hosted by John Mulaney is going viral. Here's the setup - a fake ad for this amazing new service to help men care for their aging parents.",
-       "zh": "有时喜剧会让人感到过于贴近生活。本周末由约翰·穆拉尼主持的《周六夜现场》中的一个小品正在病毒式传播。这是场景设定——一个关于这项神奇新服务的假广告，帮助男性照顾他们年迈的父母。"
-      },
-      {
-       "en": "JOHN MULANEY: (As character) That's when I heard about Sister.",
-       "zh": "约翰·穆雷尼：（以角色口吻）那时我听说了兄妹。"
-      },
-      {
-       "en": "MULANEY: Sister is a live-in 24/7 elder care provider that is completely free and also your sister. Now I don't have to worry about Dad getting the care and attention he needs because my sister will do it.",
-       "zh": "穆兰尼：姐姐是一个全天候24小时的住家老人护理提供者，完全免费，而且还是你的姐姐。现在我不用担心爸爸得不到他所需的照顾和关注，因为我姐姐会去做。"
-      },
-      {
-       "en": "SUMMERS: And this sketch resonated with a lot of viewers. Liz Plank wrote an essay about it for her Substack. It's called \"The Sister Sketch Is A Documentary.\" Plank is a writer and host of the podcast \"Boy Problems,\" and she joins me now. Welcome to ALL THINGS CONSIDERED.",
-       "zh": "萨默斯：而这个短剧引起了很多观众的共鸣。莉兹·普兰克为她的Substack写了一篇关于它的文章。标题是《姐妹短剧是一部纪录片》。普兰克是一名作家，也是播客《男孩问题》的主持人，她现在加入了我们。欢迎来到《一切皆考虑》。"
-      },
-      {
-       "en": "SUMMERS: I mean, Liz, I just have to say my group texts have been blowing up. One friend even called me about this sketch and was like, if you did not watch this, you need to go look right now. Here's a link. What was your first reaction when you saw this sketch?",
-       "zh": "SUMMERS：我的意思是，Liz，我只能说我的群聊消息一直在炸。一位朋友甚至给我打电话说这个小品，跟我说，如果你还没看这个，你现在就得去看。这是链接。你第一次看到这个小品时的反应是什么？"
-      },
-      {
-       "en": "PLANK: I had the same experience. I mean, it was exploding in every group chat that I have with women, sharing just a lot of laughter, but also a lot of grief. I think a lot of women...",
-       "zh": "PLANK：我有同样的经历。我的意思是，它在我和女性的每个群聊中都在爆炸，大家分享了很多笑声，但也有很多悲伤。我想很多女性……"
-      },
-      {
-       "en": "PLANK: ...Were both triggered and felt also empowered to send it to their group chat, to their family group chat. I mean, that's what I ended up doing for a lot of my friends who I know have been struggling with brothers, with boyfriends - right? - men in their lives who aren't doing their fair share. And so it was kind of an - it's been kind of an exciting time, to be honest (laughter).",
-       "zh": "PLANK：……两者都被触发了，同时也感到有力量把它发送到他们的群聊，发送到他们的家庭群聊。我的意思是，这就是我最后为我许多朋友做的事情，我知道他们一直在为有兄弟、男朋友——对吧？——生活中那些没有尽到本分的男人而苦恼。所以说，说实话，这是一个有点令人兴奋的时期（笑）。"
-      },
-      {
-       "en": "SUMMERS: I have to say when I watched it, it was kind of this weird cocktail. It was like a mix of I thought it was funny, but I was also frustrated. It tapped into some resentment that I wasn't expecting to feel. Is there something specific about the sketch that you think made it resonate so much?",
-       "zh": "萨默斯：我得说，当我看的时候，这感觉就像是一种奇怪的鸡尾酒。它像是某种混合体，我觉得有趣，但同时也感到沮丧。它触动了一些我没想到会有的怨恨情绪。你觉得这个小品有什么特别之处，让它如此引起共鸣吗？"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "service",
-       "pos": "n.",
-       "zh": "服务",
-       "ex": "Here's the setup - a fake ad for this amazing new service to help men care for their aging parents.",
-       "forms": []
-      },
-      {
-       "w": "documentary",
-       "pos": "n.",
-       "zh": "纪录片",
-       "ex": "It's called \"The Sister Sketch Is A Documentary.\" Plank is a writer and host of the podcast \"Boy Problems,\" and she joins me now.",
-       "forms": []
-      },
-      {
-       "w": "problem",
-       "pos": "n.",
-       "zh": "问题",
-       "ex": "It's called \"The Sister Sketch Is A Documentary.\" Plank is a writer and host of the podcast \"Boy Problems,\" and she joins me now.",
-       "forms": [
-        "problems"
-       ]
-      },
-      {
-       "w": "trigger",
-       "pos": "v.",
-       "zh": "引发；触发",
-       "ex": "PLANK: ...Were both triggered and felt also empowered to send it to their group chat, to their family group chat.",
-       "forms": [
-        "triggered"
-       ]
-      },
-      {
-       "w": "family",
-       "pos": "n.",
-       "zh": "家庭",
-       "ex": "PLANK: ...Were both triggered and felt also empowered to send it to their group chat, to their family group chat.",
-       "forms": []
-      },
-      {
-       "w": "expect",
-       "pos": "v.",
-       "zh": "预期；期待",
-       "ex": "It tapped into some resentment that I wasn't expecting to feel.",
-       "forms": [
-        "expecting"
-       ]
-      }
-     ],
-     "homeWords": [
-      "service",
-      "documentary",
-      "problem",
-      "trigger",
-      "family"
-     ],
-     "keyVocab": [
-      "service",
-      "documentary",
-      "problem",
-      "trigger",
-      "family",
-      "expect"
      ]
     }
    ]
