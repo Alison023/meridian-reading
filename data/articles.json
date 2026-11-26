@@ -1,6 +1,800 @@
 {
- "updated": "2026-11-25T08:57:09.667601+00:00",
+ "updated": "2026-11-26T08:42:21.687547+00:00",
  "days": [
+  {
+   "date": "2026-11-26",
+   "articles": [
+    {
+     "id": "2026-11-26-world",
+     "section": "World",
+     "sectionZh": "国际",
+     "title": "How American Thanksgiving took root -- and evolved -- in Liberia",
+     "dek": "How American Thanksgiving took root — and evolved — in Liberia",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
+     "byline": "Ari Daniel",
+     "dateLabel": "2026-11-26",
+     "words": 266,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "How American Thanksgiving took root — and evolved — in Liberia",
+       "zh": "美国感恩节如何在利比里亚生根——并发展"
+      },
+      {
+       "en": "Yvonne Capehart Weah is from Liberia, a country in West Africa, and she's one of twelve siblings.",
+       "zh": "伊冯·凯普哈特·维亚来自利比里亚，这是西非的一个国家，她有十二个兄弟姐妹中的一个。"
+      },
+      {
+       "en": "\"I'm the second to the last one — I'm the eleventh,\" she says. \"We have large families in Liberia.\"",
+       "zh": "“我是倒数第二个——我是第十一位，”她说。“我们在利比里亚家庭都很大家庭。”"
+      },
+      {
+       "en": "Every year on the first Thursday in November, Weah's family gathers in Caldwell, the township where she grew up, to celebrate Liberian Thanksgiving.",
+       "zh": "每年十一月的第一个星期四，维亚的家人都会在她成长的市镇考德威尔聚会，庆祝利比里亚感恩节。"
+      },
+      {
+       "en": "\"When we come together, the group become [so] large that you are not able to sit around a dining table,\" she explains. \"So we do it outside under the tree. And when we meet, it's almost like we're having a party.\"",
+       "zh": "“当我们聚在一起时，团队变得[如此]庞大，你无法围坐在餐桌旁，”她解释道。 “所以我们就在树下户外进行。当我们见面时，几乎就像是在开派对。”"
+      },
+      {
+       "en": "The Liberian holiday dates back to the first half of the 19th century when the American Colonization Society established the community that would grow into the country. It was founded by Black Americans — both those born free and enslaved people who had been emancipated — whose departure was sometimes voluntary, sometimes forced. \"The settlers from America brought that Thanksgiving Day tradition to Liberia,\" says Weah. Once transplanted, the holiday evolved over time in response to national events.",
+       "zh": "利比里亚的节日起源于19世纪上半叶，当时美国殖民协会建立了逐渐发展成为该国的社区。这个社区由黑人美国人创立——包括那些天生自由的人和已获解放的奴隶——他们的离开有时是自愿的，有时是被迫的。“来自美国的定居者将感恩节的传统带到了利比里亚，”韦亚说。一旦被引入，这个节日随着国家事件的发展逐渐演变。"
+      },
+      {
+       "en": "Liberia gained its independence in 1847 but the British continued trying to take swaths of territory. In 1883, President Alfred Francis Russell, an Episcopalian priest, called upon God to help halt the incursions.",
+       "zh": "利比里亚在1847年获得独立，但英国人继续试图占领大片领土。1883年，主教会牧师、总统阿尔弗雷德·弗朗西斯·拉塞尔呼求上帝帮助阻止入侵。"
+      },
+      {
+       "en": "That invocation was a \"prayer of protection against the intruders, preventing intrusion into our territory,\" says Weah.",
+       "zh": "韦阿说：“那次祈祷是‘为防止入侵者进入我们的领土而进行的保护祈祷’。”"
+      },
+      {
+       "en": "The Liberians managed to maintain their sovereignty. And that year, the legislature officially established Thanksgiving as a national holiday steeped in the religious gratitude of the moment.",
+       "zh": "利比里亚人设法保持了他们的主权。那一年，立法机构正式将感恩节确立为一个国家假日，充满了当时的宗教感恩情怀。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "family",
+       "pos": "n.",
+       "zh": "家庭",
+       "ex": "\"We have large families in Liberia.\" Every year on the first Thursday in November, Weah's family gathers in Caldwell, the township where she grew up, to celebrate Liberian Thanksgiving.",
+       "forms": [
+        "families"
+       ]
+      },
+      {
+       "w": "explain",
+       "pos": "v.",
+       "zh": "解释",
+       "ex": "\"When we come together, the group become [so] large that you are not able to sit around a dining table,\" she explains.",
+       "forms": [
+        "explains"
+       ]
+      },
+      {
+       "w": "party",
+       "pos": "n.",
+       "zh": "政党；一方",
+       "ex": "And when we meet, it's almost like we're having a party.\" The Liberian holiday dates back to the first half of the 19th century when the American Colonization Society established the community that would grow into the country.",
+       "forms": []
+      },
+      {
+       "w": "community",
+       "pos": "n.",
+       "zh": "社区；群体",
+       "ex": "And when we meet, it's almost like we're having a party.\" The Liberian holiday dates back to the first half of the 19th century when the American Colonization Society established the community that would grow into the country.",
+       "forms": []
+      },
+      {
+       "w": "tradition",
+       "pos": "n.",
+       "zh": "传统",
+       "ex": "\"The settlers from America brought that Thanksgiving Day tradition to Liberia,\" says Weah.",
+       "forms": []
+      },
+      {
+       "w": "national",
+       "pos": "adj.",
+       "zh": "国家的；全国的",
+       "ex": "Once transplanted, the holiday evolved over time in response to national events.",
+       "forms": []
+      },
+      {
+       "w": "territory",
+       "pos": "n.",
+       "zh": "领土",
+       "ex": "Liberia gained its independence in 1847 but the British continued trying to take swaths of territory.",
+       "forms": []
+      },
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "In 1883, President Alfred Francis Russell, an Episcopalian priest, called upon God to help halt the incursions.",
+       "forms": []
+      },
+      {
+       "w": "halt",
+       "pos": "v.",
+       "zh": "停止；叫停",
+       "ex": "In 1883, President Alfred Francis Russell, an Episcopalian priest, called upon God to help halt the incursions.",
+       "forms": []
+      },
+      {
+       "w": "sovereignty",
+       "pos": "n.",
+       "zh": "主权",
+       "ex": "The Liberians managed to maintain their sovereignty.",
+       "forms": []
+      },
+      {
+       "w": "steep",
+       "pos": "adj.",
+       "zh": "陡峭的；（涨跌）急剧的",
+       "ex": "And that year, the legislature officially established Thanksgiving as a national holiday steeped in the religious gratitude of the moment.",
+       "forms": [
+        "steeped"
+       ]
+      }
+     ],
+     "homeWords": [
+      "family",
+      "explain",
+      "party",
+      "community",
+      "tradition"
+     ],
+     "keyVocab": [
+      "family",
+      "explain",
+      "party",
+      "community",
+      "tradition",
+      "national",
+      "territory",
+      "president"
+     ]
+    },
+    {
+     "id": "2026-11-26-business",
+     "section": "Business",
+     "sectionZh": "商业 · 财经",
+     "title": "U.S. Judge rules FCC violated ABC's free speech rights to please Trump",
+     "dek": "A federal judge has blocked President Trump and his administration from taking action to challenge the ABC television network's broadcast licenses, finding it to be an unconstitutional punishment…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/26/nx-s1-6000576/fcc-disney-abc-first-amendment-trump-brendan-carr",
+     "byline": "David Folkenflik",
+     "dateLabel": "2026-11-26",
+     "words": 313,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "A federal judge has blocked President Trump and his administration from taking action to challenge the ABC television network's broadcast licenses, finding it to be an unconstitutional punishment for satire, commentary and news coverage that Trump doesn't like.",
+       "zh": "一名联邦法官已阻止特朗普总统及其政府采取行动挑战ABC电视网的广播许可证，裁定这是对特朗普不喜欢的讽刺、评论和新闻报道的违宪惩罚。"
+      },
+      {
+       "en": "In her preliminary injunction filed Wednesday, U.S. District Court Judge Loren AliKhan found that the federal agency's early reviews represented retaliation for speech the Trump administration resented.",
+       "zh": "在她于周三提交的初步禁令中，美国地方法院法官洛伦·阿里汗认定，该联邦机构的早期审查是对特朗普政府不满的言论的报复。"
+      },
+      {
+       "en": "Such perceived offenses included late-night host Jimmy Kimmel's jabs at the president, the critical remarks of hosts on the chat show The View, and the moderation of a presidential debate in September 2024.",
+       "zh": "这种被认为的冒犯包括深夜节目主持人吉米·基梅尔对总统的嘲讽、《观点》访谈节目主持人的批评性言论，以及2024年9月的一场总统辩论的主持方式。"
+      },
+      {
+       "en": "ABC and its corporate parent, the Walt Disney Co., serve six of the 10 largest markets in the U.S., including New York, Los Angeles, and Houston. They contribute significantly to the network's bottom line.",
+       "zh": "ABC及其母公司沃尔特·迪士尼公司在美国最大的十个市场中服务于六个市场，包括纽约、洛杉矶和休斯顿。他们对该网络的盈利贡献显著。"
+      },
+      {
+       "en": "\"Given the extreme, indeed existential, nature of the possible penalty Plaintiffs face -- loss of their broadcast licenses -- the court concludes that early license renewal proceedings create a risk sufficient to chill a broadcaster of ordinary firmness,\" Judge AliKhan wrote.",
+       "zh": "阿里汗法官写道：“鉴于原告可能面临的处罚具有极端性，甚至关系生死——失去他们的广播许可——法院认为，提前的许可证续期程序造成的风险足以使一名普通坚韧的广播员感到畏缩。”"
+      },
+      {
+       "en": "She rejected the Trump administration's motion to dismiss the lawsuit from ABC and Disney challenging the review of the local licenses. Usually the licenses last eight years and are up for review on a staggered basis. They are rarely taken away.",
+       "zh": "她驳回了特朗普政府要求驳回ABC和迪士尼针对地方牌照审查的诉讼的动议。通常，这些牌照有效期为八年，并且是分批进行审查的。它们很少被收回。"
+      },
+      {
+       "en": "In her ruling, AliKhan relied heavily on public statements and social media postings in which Trump attacked ABC and Disney, as well as posts by Trump's pick as the chair of the Federal Communications Commission, Brendan Carr.",
+       "zh": "在她的裁决中，阿里汗主要依赖特朗普攻击ABC和迪士尼的公开声明和社交媒体帖子，以及特朗普提名的联邦通信委员会主席布伦丹·卡尔的帖子。"
+      },
+      {
+       "en": "\"What started in 2020 as questions about how ABC 'can keep getting a license' if it 'report[s] fake news,' ... has crescendoed into repeated calls for the Commission to strip ABC's broadcast licenses for their editorial decisions,\" she wrote. \"The court counts eleven such calls made by President Trump over the past two years -- the most recent being in July 2026.\"",
+       "zh": "她写道：“从2020年开始，人们就开始质疑ABC‘如何在报导假新闻的情况下仍能获得许可’，……这已经升级为反复要求委员会因ABC的编辑决策而剥夺其广播许可证的呼声。” “法院统计了特朗普总统在过去两年中提出的十一次此类呼吁——最近的一次是在2026年7月。”"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "federal",
+       "pos": "adj.",
+       "zh": "联邦的",
+       "ex": "A federal judge has blocked President Trump and his administration from taking action to challenge the ABC television network's broadcast licenses, finding it to be an unconstitutional punishment for satire, commentary and news coverage that Trump doesn't like.",
+       "forms": []
+      },
+      {
+       "w": "judge",
+       "pos": "n.",
+       "zh": "法官",
+       "ex": "A federal judge has blocked President Trump and his administration from taking action to challenge the ABC television network's broadcast licenses, finding it to be an unconstitutional punishment for satire, commentary and news coverage that Trump doesn't like.",
+       "forms": []
+      },
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "A federal judge has blocked President Trump and his administration from taking action to challenge the ABC television network's broadcast licenses, finding it to be an unconstitutional punishment for satire, commentary and news coverage that Trump doesn't like.",
+       "forms": []
+      },
+      {
+       "w": "administration",
+       "pos": "n.",
+       "zh": "政府；行政",
+       "ex": "A federal judge has blocked President Trump and his administration from taking action to challenge the ABC television network's broadcast licenses, finding it to be an unconstitutional punishment for satire, commentary and news coverage that Trump doesn't like.",
+       "forms": []
+      },
+      {
+       "w": "challenge",
+       "pos": "n.",
+       "zh": "挑战",
+       "ex": "A federal judge has blocked President Trump and his administration from taking action to challenge the ABC television network's broadcast licenses, finding it to be an unconstitutional punishment for satire, commentary and news coverage that Trump doesn't like.",
+       "forms": [
+        "challenging"
+       ]
+      },
+      {
+       "w": "broadcast",
+       "pos": "n.",
+       "zh": "广播；播出",
+       "ex": "A federal judge has blocked President Trump and his administration from taking action to challenge the ABC television network's broadcast licenses, finding it to be an unconstitutional punishment for satire, commentary and news coverage that Trump doesn't like.",
+       "forms": []
+      },
+      {
+       "w": "news",
+       "pos": "n.",
+       "zh": "新闻",
+       "ex": "A federal judge has blocked President Trump and his administration from taking action to challenge the ABC television network's broadcast licenses, finding it to be an unconstitutional punishment for satire, commentary and news coverage that Trump doesn't like.",
+       "forms": []
+      },
+      {
+       "w": "court",
+       "pos": "n.",
+       "zh": "法院；法庭",
+       "ex": "District Court Judge Loren AliKhan found that the federal agency's early reviews represented retaliation for speech the Trump administration resented.",
+       "forms": []
+      },
+      {
+       "w": "speech",
+       "pos": "n.",
+       "zh": "演讲；言论",
+       "ex": "District Court Judge Loren AliKhan found that the federal agency's early reviews represented retaliation for speech the Trump administration resented.",
+       "forms": []
+      },
+      {
+       "w": "critical",
+       "pos": "adj.",
+       "zh": "关键的；批评的",
+       "ex": "Such perceived offenses included late-night host Jimmy Kimmel's jabs at the president, the critical remarks of hosts on the chat show The View, and the moderation of a presidential debate in September 2024.",
+       "forms": []
+      },
+      {
+       "w": "debate",
+       "pos": "n.",
+       "zh": "辩论；争论",
+       "ex": "Such perceived offenses included late-night host Jimmy Kimmel's jabs at the president, the critical remarks of hosts on the chat show The View, and the moderation of a presidential debate in September 2024.",
+       "forms": []
+      },
+      {
+       "w": "market",
+       "pos": "n.",
+       "zh": "市场",
+       "ex": "ABC and its corporate parent, the Walt Disney Co., serve six of the 10 largest markets in the U.S., including New York, Los Angeles, and Houston.",
+       "forms": [
+        "markets"
+       ]
+      }
+     ],
+     "homeWords": [
+      "federal",
+      "judge",
+      "president",
+      "administration",
+      "challenge"
+     ],
+     "keyVocab": [
+      "federal",
+      "judge",
+      "president",
+      "administration",
+      "challenge",
+      "broadcast",
+      "news",
+      "court"
+     ]
+    },
+    {
+     "id": "2026-11-26-technology",
+     "section": "Technology",
+     "sectionZh": "科技",
+     "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
+     "dek": "The Trump administration on Wednesday gave SpaceX the green light to deploy 1 million satellites that it said would create data centers in space, a long-lofty goal of Elon Musk's rocket company,…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space",
+     "byline": "The Associated Press",
+     "dateLabel": "2026-11-26",
+     "words": 366,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "The Trump administration on Wednesday gave SpaceX the green light to deploy 1 million satellites that it said would create data centers in space, a long-lofty goal of Elon Musk's rocket company, in a move that has raised both skepticism and alarm among some scientists.",
+       "zh": "特朗普政府周三批准了SpaceX部署100万颗卫星，该公司表示这些卫星将创建太空数据中心，这是埃隆·马斯克的火箭公司的一个长期远大目标，此举引发了一些科学家的怀疑和警觉。"
+      },
+      {
+       "en": "The U.S. Federal Communications Commission lauded its authorization as a historic first amid the artificial intelligence race. It said that SpaceX's one million \"orbital compute modules\" (forming a data center constellation called \"Starmind\") would process massive amounts of data that would be used back on Earth — and bring humans closer to harnessing \"the full power of the sun.\"",
+       "zh": "美国联邦通信委员会称其批准为人工智能竞赛中的历史性首次。委员会表示，SpaceX 的一百万个“轨道计算模块”（形成一个名为“Starmind”的数据中心星座）将处理大量数据，这些数据将用于地球上的应用——并使人类更接近利用“太阳的全部力量”。"
+      },
+      {
+       "en": "\"America is leading the world into the era of super intelligence,\" FCC Chairman Brendan Carr, who was appointed by Republican President Donald Trump, said in a statement. He added that Wednesday's move \"opens a bold new frontier.\"",
+       "zh": "“美国正在引领世界进入超级智能时代，”由共和党总统唐纳德·特朗普任命的FCC主席布伦丹·卡尔在一份声明中表示。他补充说，周三的举措“开启了一个大胆的新前沿。”"
+      },
+      {
+       "en": "A lengthier authorization order published by the FCC noted that the company must deploy at least \"one authorized space station\" by 2033 — and then gradually add more and more through 2040. Musk welcomed the decision over social media.",
+       "zh": "美国联邦通信委员会（FCC）发布的一份较长的授权命令指出，该公司必须在2033年前部署至少“一颗获授权的卫星”，然后在2040年前逐步增加更多。马斯克在社交媒体上对这一决定表示欢迎。"
+      },
+      {
+       "en": "The world's richest man has long vowed to form vast, solar-powered data centers in space to help run AI tools on Earth. But scientists and industry experts have stressed enormous technical and financial obstacles, as well as a host of environmental concerns.",
+       "zh": "世界首富长期以来一直誓言在太空建立庞大的太阳能数据中心，以帮助在地球上运行人工智能工具。但科学家和行业专家强调了巨大的技术和财务障碍，以及一系列环境问题。"
+      },
+      {
+       "en": "Adam Becker, an astrophysicist and author, called the prospect of launching a million satellites into space to create data centers \"a fantasy.\"",
+       "zh": "天体物理学家兼作家亚当·贝克称将一百万颗卫星发射到太空以建立数据中心的前景为“一种幻想”。"
+      },
+      {
+       "en": "Proponents of data centers in space argue that capturing the sun's energy would ease pressure on power grids and cut demand for sprawling computing warehouses on Earth (and resources like water needed to cool them). Space seems to offer a solution because it is cold, but it is also a vacuum, trapping heat inside objects much like a thermos. Becker explained that there are \"basic physical limits\" to otherwise radiating that heat out — and sending lots of smaller satellites could potentially carry the necessary material combined, but it would be expensive and difficult.",
+       "zh": "空间数据中心的支持者认为，捕获太阳能可以减轻电网的压力，并减少对地面大型计算仓库以及用于冷却它们的水等资源的需求。空间似乎提供了一种解决方案，因为那里很冷，但它也是一个真空，就像保温瓶一样将热量困在物体内部。Becker解释说，要将热量辐射出去存在“基本的物理限制”——而发送大量较小的卫星可能可以组合携带所需材料，但这将既昂贵又困难。"
+      },
+      {
+       "en": "He and others also point to additional risks, such as atmospheric pollution through launches and reentries, as well as possible in-orbit collisions that could impact other essential satellites.",
+       "zh": "他和其他人还指出了额外的风险，例如发射和再入大气层导致的大气污染，以及可能发生的轨道内碰撞，这些碰撞可能影响其他重要的卫星。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "administration",
+       "pos": "n.",
+       "zh": "政府；行政",
+       "ex": "The Trump administration on Wednesday gave SpaceX the green light to deploy 1 million satellites that it said would create data centers in space, a long-lofty goal of Elon Musk's rocket company, in a move that has raised both skepticism and alarm among some scientists.",
+       "forms": []
+      },
+      {
+       "w": "million",
+       "pos": "n.",
+       "zh": "百万",
+       "ex": "The Trump administration on Wednesday gave SpaceX the green light to deploy 1 million satellites that it said would create data centers in space, a long-lofty goal of Elon Musk's rocket company, in a move that has raised both skepticism and alarm among some scientists.",
+       "forms": []
+      },
+      {
+       "w": "satellite",
+       "pos": "n.",
+       "zh": "卫星",
+       "ex": "The Trump administration on Wednesday gave SpaceX the green light to deploy 1 million satellites that it said would create data centers in space, a long-lofty goal of Elon Musk's rocket company, in a move that has raised both skepticism and alarm among some scientists.",
+       "forms": [
+        "satellites"
+       ]
+      },
+      {
+       "w": "data",
+       "pos": "n.",
+       "zh": "数据",
+       "ex": "The Trump administration on Wednesday gave SpaceX the green light to deploy 1 million satellites that it said would create data centers in space, a long-lofty goal of Elon Musk's rocket company, in a move that has raised both skepticism and alarm among some scientists.",
+       "forms": []
+      },
+      {
+       "w": "scientist",
+       "pos": "n.",
+       "zh": "科学家",
+       "ex": "The Trump administration on Wednesday gave SpaceX the green light to deploy 1 million satellites that it said would create data centers in space, a long-lofty goal of Elon Musk's rocket company, in a move that has raised both skepticism and alarm among some scientists.",
+       "forms": [
+        "scientists"
+       ]
+      },
+      {
+       "w": "federal",
+       "pos": "adj.",
+       "zh": "联邦的",
+       "ex": "Federal Communications Commission lauded its authorization as a historic first amid the artificial intelligence race.",
+       "forms": []
+      },
+      {
+       "w": "artificial",
+       "pos": "adj.",
+       "zh": "人工的；人造的",
+       "ex": "Federal Communications Commission lauded its authorization as a historic first amid the artificial intelligence race.",
+       "forms": []
+      },
+      {
+       "w": "intelligence",
+       "pos": "n.",
+       "zh": "情报；智能",
+       "ex": "Federal Communications Commission lauded its authorization as a historic first amid the artificial intelligence race.",
+       "forms": []
+      },
+      {
+       "w": "power",
+       "pos": "n.",
+       "zh": "权力；电力",
+       "ex": "It said that SpaceX's one million \"orbital compute modules\" (forming a data center constellation called \"Starmind\") would process massive amounts of data that would be used back on Earth — and bring humans closer to harnessing \"the full power of the sun.\" \"America is leading the world into the era of super intelligence,\" FCC Chairman Brendan Carr, who was appointed by Republican President Donald Trump, said in a statement.",
+       "forms": []
+      },
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "It said that SpaceX's one million \"orbital compute modules\" (forming a data center constellation called \"Starmind\") would process massive amounts of data that would be used back on Earth — and bring humans closer to harnessing \"the full power of the sun.\" \"America is leading the world into the era of super intelligence,\" FCC Chairman Brendan Carr, who was appointed by Republican President Donald Trump, said in a statement.",
+       "forms": []
+      },
+      {
+       "w": "statement",
+       "pos": "n.",
+       "zh": "声明；陈述",
+       "ex": "It said that SpaceX's one million \"orbital compute modules\" (forming a data center constellation called \"Starmind\") would process massive amounts of data that would be used back on Earth — and bring humans closer to harnessing \"the full power of the sun.\" \"America is leading the world into the era of super intelligence,\" FCC Chairman Brendan Carr, who was appointed by Republican President Donald Trump, said in a statement.",
+       "forms": []
+      },
+      {
+       "w": "social",
+       "pos": "adj.",
+       "zh": "社会的；社交的",
+       "ex": "Musk welcomed the decision over social media.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "administration",
+      "million",
+      "satellite",
+      "data",
+      "scientist"
+     ],
+     "keyVocab": [
+      "administration",
+      "million",
+      "satellite",
+      "data",
+      "scientist",
+      "federal",
+      "artificial",
+      "intelligence"
+     ]
+    },
+    {
+     "id": "2026-11-26-science",
+     "section": "Science",
+     "sectionZh": "科学",
+     "title": "These deer walk 300 miles a year. The race is on to save their migration",
+     "dek": "On a spring morning, a mule deer and her fawn follow a well-worn trail through the Wyoming sagebrush. They're on a 150-mile journey, one of the longest land migrations in the lower 48 states.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/24/nx-s1-6022517/wildlife-migration-wyoming-deer-yellowstone",
+     "byline": "Lauren Sommer",
+     "dateLabel": "2026-11-26",
+     "words": 366,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "On a spring morning, a mule deer and her fawn follow a well-worn trail through the Wyoming sagebrush. They're on a 150-mile journey, one of the longest land migrations in the lower 48 states.",
+       "zh": "在一个春天的早晨，一只骡鹿和她的幼鹿沿着怀俄明州鼠尾草丛中的一条常走的小径行进。它们正在进行一次150英里的旅程，这是美国本土48州中最长的陆地迁徙之一。"
+      },
+      {
+       "en": "Like many other migrations in the U.S., the mule deer's epic journey is hidden in plain sight. Mule deer move in small groups instead of large herds, following pathways likely used for millennia. They're part of the Greater Yellowstone Ecosystem in western Wyoming, a place where elk, deer and pronghorn antelope still have the space to move across vast landscapes.",
+       "zh": "像美国的许多其他迁徙一样，骡鹿的史诗般旅程隐藏在显眼之处。骡鹿以小群体而不是大群体移动，沿着可能已使用千年的路径行进。它们是怀俄明州西部大黄石生态系统的一部分，在那里，麋鹿、鹿和叉角羚羚仍然有空间在广阔的土地上迁徙。"
+      },
+      {
+       "en": "They migrate with careful seasonal choreography, timed to reach the best feeding grounds in summer and avoid the harshest winter weather. Still, as the climate gets hotter, that timing is being tested.",
+       "zh": "它们按着精心安排的季节性节奏迁徙，时机掌握在夏季到达最佳觅食地，并躲避最严酷的冬季天气。然而，随着气候变得更热，这种时机正在受到考验。"
+      },
+      {
+       "en": "Droughts are getting more intense in the Western U.S., limiting the food supplies for deer. Their migrations are also being constricted by development, forcing them to navigate a complex maze of fences, roads and subdivisions. Research shows mule deer may be able to adapt to increasingly unpredictable seasons, but development is limiting that ability.",
+       "zh": "美国西部的干旱越来越严重，限制了鹿的食物供应。它们的迁徙也受到开发的限制，迫使它们穿越复杂的围栏、道路和住宅区迷宫。研究表明，骡鹿可能能够适应越来越不可预测的季节，但开发正在限制这一能力。"
+      },
+      {
+       "en": "Wyoming is working to keep migration routes from being severed. It's one of the few states that has protected migratory corridors for wildlife, restricting development in the most crucial paths. Landowners and conservation groups are also permanently preserving open lands and working ranches.",
+       "zh": "怀俄明州正在努力防止迁徙路线被切断。它是为数不多的几个为野生动物保护迁徙通道的州之一，在最关键的路径上限制开发。土地所有者和保护组织也在永久保护开放土地和运作中的农场。"
+      },
+      {
+       "en": "The question is whether that work can keep pace with growth. Wyoming's migratory wildlife are on the decline. The state's mule deer population was more than 500,000 in 1990. It's now half of that number.",
+       "zh": "问题是那项工作是否能跟上增长的步伐。怀俄明州的候鸟野生动物数量正在下降。1990 年，该州的骡鹿数量超过 50 万。现在只剩一半。"
+      },
+      {
+       "en": "\"The history of wildlife migration is one of loss – we've lost migrations around the world,\" says Matt Kauffman, wildlife biologist with the U.S. Geological Survey and the University of Wyoming. \"We are in this little race to map the migrations and figure out what tools we need to keep those landscapes open, as the American West continues to change.\"",
+       "zh": "“野生动物迁徙的历史是一个失落的历史——我们已经在世界各地失去了迁徙，”美国地质调查局和怀俄明大学的野生动物生物学家马特·考夫曼说。“我们正处在这场小小的竞赛中，试图绘制迁徙路线图，并弄清楚我们需要什么工具来保持这些景观的开放，因为美国西部正在不断变化。”"
+      },
+      {
+       "en": "In the foothills outside Pinedale, Wyoming, Kauffman and research associate Ashley Townsend make their way through the sagebrush, scanning for a radio signal. They pick one up – a beep, beep, beep – from a mule deer with a tracking collar, which the team put on months earlier.",
+       "zh": "在怀俄明州派恩代尔外的山麓地带，考夫曼和研究助理阿什利·汤森穿过鼠尾草丛，搜索无线电信号。他们接收到一个信号——哔、哔、哔——来自一只戴着跟踪项圈的骡鹿，这是团队几个月前给它戴上的。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "land",
+       "pos": "n.",
+       "zh": "土地；陆地",
+       "ex": "They're on a 150-mile journey, one of the longest land migrations in the lower 48 states.",
+       "forms": [
+        "lands"
+       ]
+      },
+      {
+       "w": "ecosystem",
+       "pos": "n.",
+       "zh": "生态系统",
+       "ex": "They're part of the Greater Yellowstone Ecosystem in western Wyoming, a place where elk, deer and pronghorn antelope still have the space to move across vast landscapes.",
+       "forms": []
+      },
+      {
+       "w": "vast",
+       "pos": "adj.",
+       "zh": "巨大的；广阔的",
+       "ex": "They're part of the Greater Yellowstone Ecosystem in western Wyoming, a place where elk, deer and pronghorn antelope still have the space to move across vast landscapes.",
+       "forms": []
+      },
+      {
+       "w": "climate",
+       "pos": "n.",
+       "zh": "气候",
+       "ex": "Still, as the climate gets hotter, that timing is being tested.",
+       "forms": []
+      },
+      {
+       "w": "drought",
+       "pos": "n.",
+       "zh": "干旱",
+       "ex": "Droughts are getting more intense in the Western U.S., limiting the food supplies for deer.",
+       "forms": [
+        "droughts"
+       ]
+      },
+      {
+       "w": "food",
+       "pos": "n.",
+       "zh": "食物",
+       "ex": "Droughts are getting more intense in the Western U.S., limiting the food supplies for deer.",
+       "forms": []
+      },
+      {
+       "w": "supply",
+       "pos": "n.",
+       "zh": "供应；供给",
+       "ex": "Droughts are getting more intense in the Western U.S., limiting the food supplies for deer.",
+       "forms": [
+        "supplies"
+       ]
+      },
+      {
+       "w": "research",
+       "pos": "n.",
+       "zh": "研究",
+       "ex": "Research shows mule deer may be able to adapt to increasingly unpredictable seasons, but development is limiting that ability.",
+       "forms": []
+      },
+      {
+       "w": "severe",
+       "pos": "adj.",
+       "zh": "严重的；严峻的",
+       "ex": "Wyoming is working to keep migration routes from being severed.",
+       "forms": [
+        "severed"
+       ]
+      },
+      {
+       "w": "wildlife",
+       "pos": "n.",
+       "zh": "野生动物",
+       "ex": "It's one of the few states that has protected migratory corridors for wildlife, restricting development in the most crucial paths.",
+       "forms": []
+      },
+      {
+       "w": "restrict",
+       "pos": "v.",
+       "zh": "限制",
+       "ex": "It's one of the few states that has protected migratory corridors for wildlife, restricting development in the most crucial paths.",
+       "forms": [
+        "restricting"
+       ]
+      },
+      {
+       "w": "crucial",
+       "pos": "adj.",
+       "zh": "至关重要的",
+       "ex": "It's one of the few states that has protected migratory corridors for wildlife, restricting development in the most crucial paths.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "land",
+      "ecosystem",
+      "vast",
+      "climate",
+      "drought"
+     ],
+     "keyVocab": [
+      "land",
+      "ecosystem",
+      "vast",
+      "climate",
+      "drought",
+      "food",
+      "supply",
+      "research"
+     ]
+    },
+    {
+     "id": "2026-11-26-culture",
+     "section": "Culture",
+     "sectionZh": "文化",
+     "title": "Andy Taylor, guitarist of new wave icons Duran Duran, dies at 65",
+     "dek": "Andy Taylor, the original guitarist of the 1980s English new wave band Duran Duran, whose huge pop hits included \"Hungry Like the Wolf,\" \"The Reflex\" and \"Rio\" and were inextricably linked to the…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/26/g-s1-155934/andy-taylor-duran-duran-obit",
+     "byline": "The Associated Press",
+     "dateLabel": "2026-11-26",
+     "words": 384,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "Andy Taylor, the original guitarist of the 1980s English new wave band Duran Duran, whose huge pop hits included \"Hungry Like the Wolf,\" \"The Reflex\" and \"Rio\" and were inextricably linked to the launch of MTV, has died. He was 65.",
+       "zh": "安迪·泰勒，1980年代英国新浪潮乐队Duran Duran的原吉他手，该乐队的巨大流行曲目包括《Hungry Like the Wolf》《The Reflex》和《Rio》，并与MTV的启动密不可分，已去世。他享年65岁。"
+      },
+      {
+       "en": "Taylor's death was confirmed by his family and bandmates in a statement posted on social media and Duran Duran's website.",
+       "zh": "泰勒的死亡得到了他的家人和乐队成员的确认，他们在社交媒体和杜兰杜兰乐队的网站上发布了声明。"
+      },
+      {
+       "en": "\"From the moment he arrived in Birmingham from the North East with a guitar and an unshakeable belief in what we could become, he brought an indelible fire and swagger to our music. His playing drove the songs that took us around the world, and with a dry wit that was matched only by his wonderfully unsentimental, no-nonsense outlook on life he kept us grounded and gave the band its edge through the extraordinary years that followed,\" the band said.",
+       "zh": "乐队表示：“从他从东北带着吉他和对我们未来可能成就的坚定信念抵达伯明翰的那一刻起，他就为我们的音乐带来了不可磨灭的激情和自信。他的演奏推动了那些带我们走遍世界的歌曲，而他那干练的机智，以及他那极其实际、毫不矫情的人生态度，让我们保持脚踏实地，并在接下来的非凡岁月中赋予乐队锋芒。”"
+      },
+      {
+       "en": "On the night he was inducted into the Rock & Roll Hall of Fame in November 2022, Taylor revealed that he had been battling Stage 4 metastatic prostate cancer for several years and was unable to attend.",
+       "zh": "2022年11月，在他入选摇滚名人堂的那个晚上，泰勒透露他已经与四期转移性前列腺癌抗争了数年，因此无法出席。"
+      },
+      {
+       "en": "\"I would like to thank each of my brothers in this great band,\" he wrote. \"You can dream about what happened to us but to experience it, on one's own terms, as mates, was beyond incredible.\"",
+       "zh": "他写道：“我想感谢这个伟大乐队中的每一位兄弟。你可以梦想我们所经历的事情，但亲身体验它，以自己的方式，作为伙伴，那真是难以置信。”"
+      },
+      {
+       "en": "The two-time Grammy Award-winners had nine gold records and six platinum ones, with 20 Top 20 singles in the U.K. and 18 in the U.S. They were two-time Ivor Novello Award winners and are MTV Video Visionary Award recipients.",
+       "zh": "这两次格莱美奖得主拥有九张金唱片和六张白金唱片，在英国有20首进入前20名的单曲，在美国有18首。他们是两次艾沃·诺维洛奖得主，也是MTV视频先锋奖的获得者。"
+      },
+      {
+       "en": "The band's 1981 debut album \"Duran Duran\" had their first hit single, \"Planet Earth,\" but it was \"Rio\" that transformed them into trans-Atlantic stars. The Rock Hall explained their appeal this way: \"They were new wave outsiders who became music video stars — 'Tiger Beat' fashion pinups who rocked arenas.\"",
+       "zh": "该乐队1981年的首张专辑《Duran Duran》推出了他们的第一首热门单曲《Planet Earth》，但正是《Rio》让他们成为跨大西洋的明星。摇滚名人堂这样解释他们的吸引力：“他们是成为音乐视频明星的新潮外来者——《Tiger Beat》时尚偶像，在大型体育馆演出。”"
+      },
+      {
+       "en": "The band's imperial stage occurred with a trio of hit albums between 1981 and 1983, with such dance-floor barnburners as \"Girls on Film\" and \"Union of the Snake\" and the moody ballads \"The Chauffeur\" and \"Save a Prayer.\" Other hits in the coming years included \"The Wild Boys,\" \"New Moon on Monday\" and \"Come Undone.\" Their popularity was cemented when they recorded the James Bond theme song \"A View to a Kill\" and earned a slot at Live Aid in 1985.",
+       "zh": "乐队的巅峰时期发生在1981年至1983年之间，他们推出了三张热门专辑，其中包括舞池热曲《Girls on Film》和《Union of the Snake》，以及情绪化的抒情歌《The Chauffeur》和《Save a Prayer》。在接下来的几年里，其他热门歌曲还包括《The Wild Boys》、《New Moon on Monday》和《Come Undone》。他们的人气在录制詹姆斯·邦德主题曲《A View to a Kill》并获得1985年Live Aid演出机会时得到了巩固。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "confirm",
+       "pos": "v.",
+       "zh": "证实；确认",
+       "ex": "Taylor's death was confirmed by his family and bandmates in a statement posted on social media and Duran Duran's website.",
+       "forms": [
+        "confirmed"
+       ]
+      },
+      {
+       "w": "family",
+       "pos": "n.",
+       "zh": "家庭",
+       "ex": "Taylor's death was confirmed by his family and bandmates in a statement posted on social media and Duran Duran's website.",
+       "forms": []
+      },
+      {
+       "w": "statement",
+       "pos": "n.",
+       "zh": "声明；陈述",
+       "ex": "Taylor's death was confirmed by his family and bandmates in a statement posted on social media and Duran Duran's website.",
+       "forms": []
+      },
+      {
+       "w": "social",
+       "pos": "adj.",
+       "zh": "社会的；社交的",
+       "ex": "Taylor's death was confirmed by his family and bandmates in a statement posted on social media and Duran Duran's website.",
+       "forms": []
+      },
+      {
+       "w": "media",
+       "pos": "n.",
+       "zh": "媒体",
+       "ex": "Taylor's death was confirmed by his family and bandmates in a statement posted on social media and Duran Duran's website.",
+       "forms": []
+      },
+      {
+       "w": "outlook",
+       "pos": "n.",
+       "zh": "前景；展望",
+       "ex": "His playing drove the songs that took us around the world, and with a dry wit that was matched only by his wonderfully unsentimental, no-nonsense outlook on life he kept us grounded and gave the band its edge through the extraordinary years that followed,\" the band said.",
+       "forms": []
+      },
+      {
+       "w": "reveal",
+       "pos": "v.",
+       "zh": "揭示；透露",
+       "ex": "On the night he was inducted into the Rock & Roll Hall of Fame in November 2022, Taylor revealed that he had been battling Stage 4 metastatic prostate cancer for several years and was unable to attend.",
+       "forms": [
+        "revealed"
+       ]
+      },
+      {
+       "w": "album",
+       "pos": "n.",
+       "zh": "专辑；唱片",
+       "ex": "The band's 1981 debut album \"Duran Duran\" had their first hit single, \"Planet Earth,\" but it was \"Rio\" that transformed them into trans-Atlantic stars.",
+       "forms": [
+        "albums"
+       ]
+      },
+      {
+       "w": "explain",
+       "pos": "v.",
+       "zh": "解释",
+       "ex": "The Rock Hall explained their appeal this way: \"They were new wave outsiders who became music video stars — 'Tiger Beat' fashion pinups who rocked arenas.\" The band's imperial stage occurred with a trio of hit albums between 1981 and 1983, with such dance-floor barnburners as \"Girls on Film\" and \"Union of the Snake\" and the moody ballads \"The Chauffeur\" and \"Save a Prayer.\" Other hits in the coming years included \"The Wild Boys,\" \"New Moon on Monday\" and \"Come Undone.\" Their popularity was cemented when they recorded the James Bond theme song \"A View to a Kill\" and earned a slot at Live Aid in 1985.",
+       "forms": [
+        "explained"
+       ]
+      },
+      {
+       "w": "appeal",
+       "pos": "n.",
+       "zh": "上诉；呼吁",
+       "ex": "The Rock Hall explained their appeal this way: \"They were new wave outsiders who became music video stars — 'Tiger Beat' fashion pinups who rocked arenas.\" The band's imperial stage occurred with a trio of hit albums between 1981 and 1983, with such dance-floor barnburners as \"Girls on Film\" and \"Union of the Snake\" and the moody ballads \"The Chauffeur\" and \"Save a Prayer.\" Other hits in the coming years included \"The Wild Boys,\" \"New Moon on Monday\" and \"Come Undone.\" Their popularity was cemented when they recorded the James Bond theme song \"A View to a Kill\" and earned a slot at Live Aid in 1985.",
+       "forms": []
+      },
+      {
+       "w": "fashion",
+       "pos": "n.",
+       "zh": "时尚；时装",
+       "ex": "The Rock Hall explained their appeal this way: \"They were new wave outsiders who became music video stars — 'Tiger Beat' fashion pinups who rocked arenas.\" The band's imperial stage occurred with a trio of hit albums between 1981 and 1983, with such dance-floor barnburners as \"Girls on Film\" and \"Union of the Snake\" and the moody ballads \"The Chauffeur\" and \"Save a Prayer.\" Other hits in the coming years included \"The Wild Boys,\" \"New Moon on Monday\" and \"Come Undone.\" Their popularity was cemented when they recorded the James Bond theme song \"A View to a Kill\" and earned a slot at Live Aid in 1985.",
+       "forms": []
+      },
+      {
+       "w": "film",
+       "pos": "n.",
+       "zh": "电影；影片",
+       "ex": "The Rock Hall explained their appeal this way: \"They were new wave outsiders who became music video stars — 'Tiger Beat' fashion pinups who rocked arenas.\" The band's imperial stage occurred with a trio of hit albums between 1981 and 1983, with such dance-floor barnburners as \"Girls on Film\" and \"Union of the Snake\" and the moody ballads \"The Chauffeur\" and \"Save a Prayer.\" Other hits in the coming years included \"The Wild Boys,\" \"New Moon on Monday\" and \"Come Undone.\" Their popularity was cemented when they recorded the James Bond theme song \"A View to a Kill\" and earned a slot at Live Aid in 1985.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "confirm",
+      "family",
+      "statement",
+      "social",
+      "media"
+     ],
+     "keyVocab": [
+      "confirm",
+      "family",
+      "statement",
+      "social",
+      "media",
+      "outlook",
+      "reveal",
+      "album"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-25",
    "articles": [
@@ -4651,752 +5445,6 @@
       "museum",
       "audience",
       "film"
-     ]
-    }
-   ]
-  },
-  {
-   "date": "2026-11-19",
-   "articles": [
-    {
-     "id": "2026-11-19-world",
-     "section": "World",
-     "sectionZh": "国际",
-     "title": "Karl Kani dressed hip-hop royalty for decades. Now he's telling his own story",
-     "dek": "Hip-hop streetwear pioneer Karl Kani shares how he built his brand in new memoir",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
-     "byline": "Ruby Siefken",
-     "dateLabel": "2026-11-19",
-     "words": 249,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "Hip-hop streetwear pioneer Karl Kani shares how he built his brand in new memoir",
-       "zh": "嘻哈街头服饰先驱卡尔·卡尼在新回忆录中分享了他如何打造自己的品牌"
-      },
-      {
-       "en": "Fashion designer Karl Kani believes hip-hop needed its own clothing brand, one that reflected the music, culture and style of the artists who were changing fashion in the 1990s.",
-       "zh": "时尚设计师卡尔·卡尼认为嘻哈需要自己的服装品牌，一个能够反映那些在1990年代改变时尚的艺术家的音乐、文化和风格的品牌。"
-      },
-      {
-       "en": "\"Hip-hop needed the clothing brand that fit that look, who was from the culture,\" Kani told NPR's A Martínez on Morning Edition. \"And I felt like the marriage between Kani and hip-hop was, like, heaven-sent.\"",
-       "zh": "卡尼在《晨间版》节目中告诉 NPR 的 A·马丁内斯：“嘻哈需要符合那种外观的服装品牌，来自那个文化的品牌。我觉得卡尼和嘻哈之间的结合简直是天赐的。”"
-      },
-      {
-       "en": "Kani, born Carl Williams, started designing clothing in Brooklyn, New York, in the late 1980s. He was inspired by watching his father, a Haitian tailor, make matching linen suits to sell around the neighborhood.",
-       "zh": "卡尼，本名卡尔·威廉姆斯，生于纽约布鲁克林，于20世纪80年代末开始设计服装。他的灵感来自于观察他的父亲——一位海地裁缝——制作成套亚麻西装在邻里间销售。"
-      },
-      {
-       "en": "At the time, hip-hop artists were already wearing names like Ralph Lauren, Tommy Hilfiger and Calvin Klein. But they weren't necessarily wearing the clothes as their designers intended. They favored oversized fits, mixed colors and created looks of their own.",
-       "zh": "当时，嘻哈艺术家已经穿着拉尔夫·劳伦、汤米·希尔费格和卡尔文·克莱因等品牌的服装。但他们穿衣并不一定按照设计师的原意。他们喜欢超大尺码、混搭颜色，并创造自己独特的造型。"
-      },
-      {
-       "en": "Kani understood the appeal. He began making clothes as a self-taught designer in Brooklyn, New York, in the late 1980s. He helped turn that emerging streetwear style into a brand worn by some of hip-hop's biggest stars, including Tupac Shakur, Aaliyah and The Notorious B.I.G.",
-       "zh": "Kani理解这种吸引力。他在1980年代末在纽约布鲁克林自学成才，开始制作衣服。他帮助将那种新兴的街头服饰风格发展成一个被一些嘻哈界最大明星穿着的品牌，包括图派克·沙库尔、艾莉亚和著名的B.I.G."
-      },
-      {
-       "en": "But the designer's ambitions extended beyond dressing famous musicians. He wanted to build an international fashion business that could last.",
-       "zh": "但这位设计师的野心不仅仅是为著名音乐人设计服装。他想要建立一个能够持久发展的国际时尚企业。"
-      },
-      {
-       "en": "In his new memoir, Karl Kani: A Life By Design, Kani reflects on the creative instincts and business decisions that helped his brand survive long after the decade that made it famous.",
-       "zh": "在他的新回忆录《凯尔·卡尼：设计人生》中，卡尼回顾了那些帮助他的品牌在成名的那个年代之后仍能存续的创意本能和商业决策。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "memoir",
-       "pos": "n.",
-       "zh": "回忆录",
-       "ex": "Hip-hop streetwear pioneer Karl Kani shares how he built his brand in new memoir Fashion designer Karl Kani believes hip-hop needed its own clothing brand, one that reflected the music, culture and style of the artists who were changing fashion in the 1990s.",
-       "forms": []
-      },
-      {
-       "w": "fashion",
-       "pos": "n.",
-       "zh": "时尚；时装",
-       "ex": "Hip-hop streetwear pioneer Karl Kani shares how he built his brand in new memoir Fashion designer Karl Kani believes hip-hop needed its own clothing brand, one that reflected the music, culture and style of the artists who were changing fashion in the 1990s.",
-       "forms": []
-      },
-      {
-       "w": "culture",
-       "pos": "n.",
-       "zh": "文化",
-       "ex": "Hip-hop streetwear pioneer Karl Kani shares how he built his brand in new memoir Fashion designer Karl Kani believes hip-hop needed its own clothing brand, one that reflected the music, culture and style of the artists who were changing fashion in the 1990s.",
-       "forms": []
-      },
-      {
-       "w": "change",
-       "pos": "n.",
-       "zh": "变化；改变",
-       "ex": "Hip-hop streetwear pioneer Karl Kani shares how he built his brand in new memoir Fashion designer Karl Kani believes hip-hop needed its own clothing brand, one that reflected the music, culture and style of the artists who were changing fashion in the 1990s.",
-       "forms": [
-        "changing"
-       ]
-      },
-      {
-       "w": "appeal",
-       "pos": "n.",
-       "zh": "上诉；呼吁",
-       "ex": "Kani understood the appeal.",
-       "forms": []
-      },
-      {
-       "w": "emerge",
-       "pos": "v.",
-       "zh": "出现；浮现",
-       "ex": "He helped turn that emerging streetwear style into a brand worn by some of hip-hop's biggest stars, including Tupac Shakur, Aaliyah and The Notorious B.I.G.",
-       "forms": [
-        "emerging"
-       ]
-      },
-      {
-       "w": "musician",
-       "pos": "n.",
-       "zh": "音乐家",
-       "ex": "But the designer's ambitions extended beyond dressing famous musicians.",
-       "forms": [
-        "musicians"
-       ]
-      },
-      {
-       "w": "international",
-       "pos": "adj.",
-       "zh": "国际的",
-       "ex": "He wanted to build an international fashion business that could last.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "memoir",
-      "fashion",
-      "culture",
-      "change",
-      "appeal"
-     ],
-     "keyVocab": [
-      "memoir",
-      "fashion",
-      "culture",
-      "change",
-      "appeal",
-      "emerge",
-      "musician",
-      "international"
-     ]
-    },
-    {
-     "id": "2026-11-19-business",
-     "section": "Business",
-     "sectionZh": "商业 · 财经",
-     "title": "Nvidia hold first earnings call since former CEO's departure",
-     "dek": "Chip giant Nvidia held its first earnings call since the departure of former CEO Jensen Huang, as interim CEO Colette Kress takes over.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/18/nx-s1-6042563/nvidia-hold-first-earnings-call-since-former-ceos-departure",
-     "byline": "A Martínez",
-     "dateLabel": "2026-11-19",
-     "words": 268,
-     "readTime": 3,
-     "level": "B2",
-     "levelEn": "Upper-intermediate",
-     "paragraphs": [
-      {
-       "en": "Chip giant Nvidia held its first earnings call since the departure of former CEO Jensen Huang, as interim CEO Colette Kress takes over.",
-       "zh": "芯片巨头英伟达在前首席执行官黄仁勋离职后进行了首次财报电话会议，由临时首席执行官科莱特·克雷斯接任。"
-      },
-      {
-       "en": "Nvidia executives yesterday held their first earnings call since CEO Jensen Huang stepped down over allegations about extramarital affairs and possible spying attempts by China.",
-       "zh": "昨天，英伟达高管举行了自首席执行官黄仁勋因婚外情指控及中国可能的间谍行为尝试而辞职以来的首次财报电话会议。"
-      },
-      {
-       "en": "And board chairman Harvey Jones shot down speculation that Huang might be brought back after vocal supporters mounted a Stand with Jensen campaign.",
-       "zh": "董事会主席哈维·琼斯驳斥了关于黄可能在公开支持者发起“支持詹森”活动后被召回的猜测。"
-      },
-      {
-       "en": "HARVEY JONES: The Nvidia board unanimously accepted his resignation and does not intend to reinstate Jensen as CEO.",
-       "zh": "哈维·琼斯：英伟达董事会一致接受了他的辞职，并且无意重新任命詹森为首席执行官。"
-      },
-      {
-       "en": "MARTÍNEZ: NPR tech correspondent John Ruwitch has been following the saga. John, it sounds like they are pretty clear about not wanting to bring Jensen Huang back. But beyond that, what were the main messages executives tried to get across?",
-       "zh": "MARTÍNEZ：NPR科技记者约翰·鲁维奇一直在跟踪这一事件。约翰，看起来他们很明确地表示不想让黄仁勋回来。但除此之外，管理层试图传达的主要信息是什么？"
-      },
-      {
-       "en": "JOHN RUWITCH, BYLINE: Yeah. Board chairman Harvey Jones clearly wanted to quash rumors right at the outset. It was notable that he said the board had unanimously agreed to accept Huang's resignation. And he also threw his support behind interim CEO Colette Kress, who has served as chief financial officer for years, and in Jones' words, has been at the center of the company's extraordinary growth. Now, Kress was also on the call, and she tried to project business as usual.",
-       "zh": "约翰·鲁维奇，署名：是的。董事会主席哈维·琼斯显然希望一开始就平息谣言。值得注意的是，他说董事会一致同意接受黄的辞职。他还表达了对临时首席执行官科莱特·克雷斯的支持，克雷斯多年来一直担任首席财务官，用琼斯的话说，她一直处于公司非凡增长的核心位置。现在，克雷斯也参加了电话会议，她试图展示一切如常。"
-      },
-      {
-       "en": "COLETTE KRESS: Our ambition will not change. Our passion to innovate will not change. And our commitment to customers, partners and shareholders will not change.",
-       "zh": "科莱特·克雷斯：我们的雄心不会改变。我们对创新的热情不会改变。我们对客户、合作伙伴和股东的承诺也不会改变。"
-      },
-      {
-       "en": "RUWITCH: She said, effectively, the company's doing great. Its customers and employees are sticking with it. And, A, get this - at the end, she ended the call by saying, we've got this.",
-       "zh": "RUWITCH：她实际上说，公司做得很棒。它的客户和员工都在支持它。而且，听这个——最后，她在结束通话时说，我们可以应对这个。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "chip",
-       "pos": "n.",
-       "zh": "芯片",
-       "ex": "Chip giant Nvidia held its first earnings call since the departure of former CEO Jensen Huang, as interim CEO Colette Kress takes over.",
-       "forms": []
-      },
-      {
-       "w": "speculation",
-       "pos": "n.",
-       "zh": "投机；猜测",
-       "ex": "And board chairman Harvey Jones shot down speculation that Huang might be brought back after vocal supporters mounted a Stand with Jensen campaign.",
-       "forms": []
-      },
-      {
-       "w": "campaign",
-       "pos": "n.",
-       "zh": "竞选；运动",
-       "ex": "And board chairman Harvey Jones shot down speculation that Huang might be brought back after vocal supporters mounted a Stand with Jensen campaign.",
-       "forms": []
-      },
-      {
-       "w": "accept",
-       "pos": "v.",
-       "zh": "接受",
-       "ex": "HARVEY JONES: The Nvidia board unanimously accepted his resignation and does not intend to reinstate Jensen as CEO.",
-       "forms": [
-        "accepted"
-       ]
-      },
-      {
-       "w": "resignation",
-       "pos": "n.",
-       "zh": "辞职",
-       "ex": "HARVEY JONES: The Nvidia board unanimously accepted his resignation and does not intend to reinstate Jensen as CEO.",
-       "forms": []
-      },
-      {
-       "w": "support",
-       "pos": "v.",
-       "zh": "支持",
-       "ex": "And he also threw his support behind interim CEO Colette Kress, who has served as chief financial officer for years, and in Jones' words, has been at the center of the company's extraordinary growth.",
-       "forms": []
-      },
-      {
-       "w": "financial",
-       "pos": "adj.",
-       "zh": "金融的；财务的",
-       "ex": "And he also threw his support behind interim CEO Colette Kress, who has served as chief financial officer for years, and in Jones' words, has been at the center of the company's extraordinary growth.",
-       "forms": []
-      },
-      {
-       "w": "growth",
-       "pos": "n.",
-       "zh": "增长",
-       "ex": "And he also threw his support behind interim CEO Colette Kress, who has served as chief financial officer for years, and in Jones' words, has been at the center of the company's extraordinary growth.",
-       "forms": []
-      },
-      {
-       "w": "change",
-       "pos": "n.",
-       "zh": "变化；改变",
-       "ex": "COLETTE KRESS: Our ambition will not change.",
-       "forms": []
-      },
-      {
-       "w": "customer",
-       "pos": "n.",
-       "zh": "顾客；客户",
-       "ex": "And our commitment to customers, partners and shareholders will not change.",
-       "forms": [
-        "customers"
-       ]
-      },
-      {
-       "w": "employee",
-       "pos": "n.",
-       "zh": "雇员",
-       "ex": "Its customers and employees are sticking with it.",
-       "forms": [
-        "employees"
-       ]
-      }
-     ],
-     "homeWords": [
-      "chip",
-      "speculation",
-      "campaign",
-      "accept",
-      "resignation"
-     ],
-     "keyVocab": [
-      "chip",
-      "speculation",
-      "campaign",
-      "accept",
-      "resignation",
-      "support",
-      "financial",
-      "growth"
-     ]
-    },
-    {
-     "id": "2026-11-19-technology",
-     "section": "Technology",
-     "sectionZh": "科技",
-     "title": "Grand Theft Auto VI is a grounded love story, a gonzo crime thriller and a gaming triumph",
-     "dek": "I want to tell you about the time I saw Bigfoot. I want to tell you about sitting in the rain on a city street in a muscle car and prepping to rob a bank while lightning split the sky between…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/18/nx-s1-6040326/grand-theft-auto-6-review-vice-city-masterpiece",
-     "byline": "Jason Sheehan",
-     "dateLabel": "2026-11-19",
-     "words": 623,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "I want to tell you about the time I saw Bigfoot. I want to tell you about sitting in the rain on a city street in a muscle car and prepping to rob a bank while lightning split the sky between high-rise condo towers in the distance and the drum fill from In The Air Tonight played on the radio. I want to tell you about gunfights and fistfights, the perfect satire of radio commercials and how the sunrise looks over Ocean Beach. But more than any of that, I want to tell you about the time an alligator bit my mom.",
-       "zh": "我想告诉你我看到大脚怪的那段经历。我想告诉你我坐在城市街道的肌肉车里淋着雨的情景，以及在远处高层公寓塔楼间闪电劈开天空时，准备抢银行的经历，而《今夜空气中》的鼓声在收音机里响起。我想告诉你关于枪战和拳击，关于电台广告的完美讽刺，以及日出时海洋海滩的景色。但比起这些，我更想告诉你有一次一只鳄鱼咬了我妈妈的事情。"
-      },
-      {
-       "en": "It happened in the backyard of an abandoned house with a rotting inground pool. My mom, Mia Caminos (mother of Lucia Caminos, one of the two leads in Rockstar Games' Grand Theft Auto VI, probably the most highly anticipated video game sequel of all time), was thrilled by the pool. Standing there, amid the artfully rendered weeds and trash, she spread her arms and told me to use my imagination, to see her vision for this ruin of a house with its upmarket water feature, in a scabby neighborhood on the outskirts of Vice City. She speaks in tones of increasingly frantic desperation because she has already put money down on this house, sight unseen. All of her money, actually, in hopes of flipping it and selling it fast to keep her startup real estate business afloat.",
-       "zh": "这件事发生在一座废弃房子的后院，那里有一个正在腐烂的地面游泳池。我的妈妈，Mia Caminos（Lucia Caminos的母亲，Lucia是《侠盗猎车手 VI》中两位主角之一，这可能是有史以来最令人期待的视频游戏续作），对这个游泳池感到非常兴奋。站在那里，在精心描绘的杂草和垃圾中，她张开双臂，告诉我用想象力去看她对这座废墟般的房子及其高档水景的设想，这座房子位于Vice City郊区的一个破旧社区。她的语气越来越带有惊慌和绝望，因为她已经在这所房子上下了钱，实际上是把她所有的钱都投入进去，希望能迅速翻修后出售，以维持她的创业房地产生意。"
-      },
-      {
-       "en": "The pool is still half full of water. There's a dirty, sodden mattress floating in it. And as if this is the main thing standing between her and success, Mia is fixated on getting it out of the pool.",
-       "zh": "游泳池里仍然有一半是水。里面漂着一张又脏又湿的床垫。仿佛这就是她成功与否的主要障碍，米娅专注于把它从泳池里拿出来。"
-      },
-      {
-       "en": "And, dutifully, I do. Playing as Lucia, I grab hold, mash buttons, help my mom drag away the wet, heavy, stinking mattress. And just as we get it up and over the lip of the pool that's going to be the thing that makes this wreck of a house suddenly desirable – that's when the alligator lunges out of the murky water, grabs my mom by the arm and tries to drag her back in.",
-       "zh": "于是，我尽职尽责地去做了。扮演卢西亚时，我抓住，把玩按钮，帮妈妈拖走那张湿漉漉、沉重、发臭的床垫。正当我们把它抬过游泳池的边缘——那个游泳池将使这座破旧的房子突然变得令人向往——就在这时，一只鳄鱼从浑浊的水中跃出，抓住我妈妈的手臂，试图把她拉回水里。"
-      },
-      {
-       "en": "This is a story about folly, fixation, unrealistic expectations of success at the ass-end of late capitalism, and the vicious, whip-crack cruelty of predators who lie in wait for anyone trying to improve a terrible situation.",
-       "zh": "这是一个关于愚蠢、执着、对在晚期资本主义末端取得成功的不切实际的期望，以及潜伏的捕食者残酷、鞭打般的残忍——他们等待任何试图改善糟糕状况的人——的故事。"
-      },
-      {
-       "en": "But then I shoot the alligator in the head before it can eat my mom. Because this is also a story about violence, and how sometimes (maybe all the times), the loud, cathartic rip of gunfire is the only solution left for people who have already lost so much and can't bear to see one more thing taken from them.",
-       "zh": "但后来我就朝鳄鱼的头部开枪，免得它吃掉我妈。因为这也是一个关于暴力的故事，有时（也许是所有时候），响亮的枪声是那些已经失去太多、再也无法忍受看到自己被夺走一切的人唯一剩下的办法。"
-      },
-      {
-       "en": "But let's back up a little. For anyone who has somehow missed the shrieking, neon-and-swamp-water marketing onslaught over the past several days, weeks, months and years, Grand Theft Auto VI is the newest release from Rockstar Games. It is a Bonnie and Clyde love story, a knife-edged satire of modern American culture and politics, an unapologetic murder simulator, a love letter to 50 years of crime movies, and a thoughtful, emotional meditation on the sacrifices, small and large, that we make for family. A massive open world game set in the fictional state of Leonida (based on the very real state of Florida), it represents a return to a location that Rockstar hasn't visited in-depth since its 2002 release of GTA: Vice City, and is the first new game in the franchise since GTA5 launched in 2013. According to estimates, it already earned over $1.5 billion in pre-sales and will likely make a total of $3 to $5 billion in its first week, which could make it the largest single entertainment product launch ever.",
-       "zh": "不过，让我们先稍稍回顾一下。对于那些在过去几天、几周、几个月甚至几年里不知何故错过了那场喧嚣的、霓虹灯与沼泽水交织的营销攻势的人来说，《侠盗猎车手6》是Rockstar Games的最新力作。这是一个邦妮和克莱德式的爱情故事，是对现代美国文化和政治的尖锐讽刺，是一款毫不掩饰的杀戮模拟游戏，是对50年来犯罪电影的致敬，也是对我们为家人所作出的种种牺牲（无论大小）的一次深思熟虑、充满情感的沉思。这是一款以虚构的莱昂尼达州（灵感源自现实中的佛罗里达州）为背景的大型开放世界游戏，标志着Rockstar重返一个自2002年《GTA：罪恶都市》发布以来未曾深入探索的地点，也是自2013年《GTA5》发布以来该系列的首款新游戏。据估计，它已经在预售中赚取了超过 15 亿美元的收入，并且很可能在第一周内赚取总计 30 亿至 50 亿美元的收入，这可能使其成为有史以来规模最大的单项娱乐产品发布。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "sequel",
-       "pos": "n.",
-       "zh": "续集",
-       "ex": "My mom, Mia Caminos (mother of Lucia Caminos, one of the two leads in Rockstar Games' Grand Theft Auto VI, probably the most highly anticipated video game sequel of all time), was thrilled by the pool.",
-       "forms": []
-      },
-      {
-       "w": "water",
-       "pos": "n.",
-       "zh": "水",
-       "ex": "Standing there, amid the artfully rendered weeds and trash, she spread her arms and told me to use my imagination, to see her vision for this ruin of a house with its upmarket water feature, in a scabby neighborhood on the outskirts of Vice City.",
-       "forms": []
-      },
-      {
-       "w": "startup",
-       "pos": "n.",
-       "zh": "初创公司",
-       "ex": "All of her money, actually, in hopes of flipping it and selling it fast to keep her startup real estate business afloat.",
-       "forms": []
-      },
-      {
-       "w": "solution",
-       "pos": "n.",
-       "zh": "解决方案",
-       "ex": "Because this is also a story about violence, and how sometimes (maybe all the times), the loud, cathartic rip of gunfire is the only solution left for people who have already lost so much and can't bear to see one more thing taken from them.",
-       "forms": []
-      },
-      {
-       "w": "market",
-       "pos": "n.",
-       "zh": "市场",
-       "ex": "For anyone who has somehow missed the shrieking, neon-and-swamp-water marketing onslaught over the past several days, weeks, months and years, Grand Theft Auto VI is the newest release from Rockstar Games.",
-       "forms": [
-        "marketing"
-       ]
-      },
-      {
-       "w": "culture",
-       "pos": "n.",
-       "zh": "文化",
-       "ex": "It is a Bonnie and Clyde love story, a knife-edged satire of modern American culture and politics, an unapologetic murder simulator, a love letter to 50 years of crime movies, and a thoughtful, emotional meditation on the sacrifices, small and large, that we make for family.",
-       "forms": []
-      },
-      {
-       "w": "family",
-       "pos": "n.",
-       "zh": "家庭",
-       "ex": "It is a Bonnie and Clyde love story, a knife-edged satire of modern American culture and politics, an unapologetic murder simulator, a love letter to 50 years of crime movies, and a thoughtful, emotional meditation on the sacrifices, small and large, that we make for family.",
-       "forms": []
-      },
-      {
-       "w": "estimate",
-       "pos": "n.",
-       "zh": "估计；估算",
-       "ex": "According to estimates, it already earned over $1.5 billion in pre-sales and will likely make a total of $3 to $5 billion in its first week, which could make it the largest single entertainment product launch ever.",
-       "forms": [
-        "estimates"
-       ]
-      },
-      {
-       "w": "billion",
-       "pos": "n.",
-       "zh": "十亿",
-       "ex": "According to estimates, it already earned over $1.5 billion in pre-sales and will likely make a total of $3 to $5 billion in its first week, which could make it the largest single entertainment product launch ever.",
-       "forms": []
-      },
-      {
-       "w": "total",
-       "pos": "n.",
-       "zh": "总数",
-       "ex": "According to estimates, it already earned over $1.5 billion in pre-sales and will likely make a total of $3 to $5 billion in its first week, which could make it the largest single entertainment product launch ever.",
-       "forms": []
-      },
-      {
-       "w": "product",
-       "pos": "n.",
-       "zh": "产品",
-       "ex": "According to estimates, it already earned over $1.5 billion in pre-sales and will likely make a total of $3 to $5 billion in its first week, which could make it the largest single entertainment product launch ever.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "sequel",
-      "water",
-      "startup",
-      "solution",
-      "market"
-     ],
-     "keyVocab": [
-      "sequel",
-      "water",
-      "startup",
-      "solution",
-      "market",
-      "culture",
-      "family",
-      "estimate"
-     ]
-    },
-    {
-     "id": "2026-11-19-science",
-     "section": "Science",
-     "sectionZh": "科学",
-     "title": "Researchers are studying how large storms spread microplastics in the environment",
-     "dek": "In communities struck by Hurricane Helene, researchers have a rare chance to see how big storms increase the amount of microplastics in the environment.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/18/nx-s1-6036678-e1/researchers-are-studying-how-large-storms-spread-microplastics-in-the-environment",
-     "byline": "Nick Gilmore",
-     "dateLabel": "2026-11-19",
-     "words": 352,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "In communities struck by Hurricane Helene, researchers have a rare chance to see how big storms increase the amount of microplastics in the environment.",
-       "zh": "在受到飓风海伦袭击的社区，研究人员有一个难得的机会观察大风暴如何增加环境中的微塑料数量。"
-      },
-      {
-       "en": "Communities in western North Carolina are still picking up the pieces more than two years after Hurricane Helene unleashed huge amounts of rain. A new study suggests Helene also left behind a lot of microplastics. Here's meteorologist Nick Gilmore with member station Radio IQ.",
-       "zh": "美国北卡罗来纳州西部的社区在飓风海伦（Hurricane Helene）带来大量降雨后，已经过去两年多仍在收拾残局。一项新的研究表明，海伦还留下了大量微塑料。这里是会员电台Radio IQ的气象学家Nick Gilmore报道。"
-      },
-      {
-       "en": "NICK GILMORE, BYLINE: Even in science, sometimes you just have to be in the right place at the right time.",
-       "zh": "尼克·吉尔摩，署名：即使在科学领域，有时候你也必须在正确的时间出现在正确的地点。"
-      },
-      {
-       "en": "AUSTIN GRAY: Literally, it was a perfect storm of, well, we got our samplers already out.",
-       "zh": "奥斯汀·格雷：从字面上看，这简直是一个完美的风暴，我们的取样器已经准备好了。"
-      },
-      {
-       "en": "GILMORE: That's Austin Gray, a biologist at his lab at Virginia Tech. He and his team were already looking into how microplastics end up in streams and waterways in parts of western North Carolina before Helene hit in 2024. Microplastics are tiny, microscopic fragments of plastic that end up in the air, our water and even us, as larger pieces of plastic break down. Gray's team had set up collection buckets to get samples for research at a biological station in Highlands, North Carolina. That's where Jason Love is the associate director.",
-       "zh": "吉尔莫：那是奥斯汀·格雷，他是在弗吉尼亚理工大学实验室的生物学家。在2024年海伦飓风袭击之前，他和他的团队已经在研究微塑料如何最终进入北卡罗来纳州西部的一些溪流和水道。微塑料是微小的、显微的塑料碎片，当较大的塑料块分解时，它们最终会进入空气、水，甚至进入我们的体内。格雷的团队在北卡罗来纳州高地的一个生物站设立了收集桶，以便获取研究样本。杰森·洛夫在那里担任副主任。"
-      },
-      {
-       "en": "JASON LOVE: So we basically pour the sample through this filter. The filter catches all the microplastics and other debris from the sample. And then we put that under petri dish and look at it under a microscope.",
-       "zh": "杰森·洛夫：所以我们基本上是把样品倒过这个过滤器。过滤器会捕捉样品中的所有微塑料和其他杂质。然后我们把它放在培养皿下，用显微镜观察。"
-      },
-      {
-       "en": "GILMORE: Helene provided researchers a unique opportunity to look at microplastic deposition from a tropical system in an understudied area, and to collect data before, during and after the storm. Gray says that was practically unheard of in this part of the world before their study.",
-       "zh": "吉尔莫：海伦为研究人员提供了一个独特的机会，可以在一个研究不足的地区从热带系统中观察微塑料沉积，并在风暴发生前、期间和之后收集数据。格雷表示，在他们的研究之前，这在世界的这一部分几乎是闻所未闻的。"
-      },
-      {
-       "en": "GRAY: A lot of the work within hurricanes and typhoons is always in Asia. It's always in the eastern parts of the world. Where in the United States, or at least within the Western Hemisphere, the only study that has been done was in 2021, Hurricane Larry. And that was a Category 1 storm. So even then, it's like, OK, well, this is a Category 4. This is a huge storm event.",
-       "zh": "GRAY：很多关于飓风和台风的研究工作总是在亚洲。总是在世界的东部地区。在美国，或者至少在西半球，唯一进行过的研究是在2021年的飓风拉里。那是一级风暴。所以即便如此，人们也会说，好吧，这只是一级风暴。而这次，这是四级风暴，这是一个巨大的风暴事件。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "community",
-       "pos": "n.",
-       "zh": "社区；群体",
-       "ex": "In communities struck by Hurricane Helene, researchers have a rare chance to see how big storms increase the amount of microplastics in the environment.",
-       "forms": [
-        "communities"
-       ]
-      },
-      {
-       "w": "hurricane",
-       "pos": "n.",
-       "zh": "飓风",
-       "ex": "In communities struck by Hurricane Helene, researchers have a rare chance to see how big storms increase the amount of microplastics in the environment.",
-       "forms": [
-        "hurricanes"
-       ]
-      },
-      {
-       "w": "researcher",
-       "pos": "n.",
-       "zh": "研究人员",
-       "ex": "In communities struck by Hurricane Helene, researchers have a rare chance to see how big storms increase the amount of microplastics in the environment.",
-       "forms": [
-        "researchers"
-       ]
-      },
-      {
-       "w": "increase",
-       "pos": "v.",
-       "zh": "增加",
-       "ex": "In communities struck by Hurricane Helene, researchers have a rare chance to see how big storms increase the amount of microplastics in the environment.",
-       "forms": []
-      },
-      {
-       "w": "microplastic",
-       "pos": "n.",
-       "zh": "微塑料",
-       "ex": "In communities struck by Hurricane Helene, researchers have a rare chance to see how big storms increase the amount of microplastics in the environment.",
-       "forms": [
-        "microplastics"
-       ]
-      },
-      {
-       "w": "study",
-       "pos": "n.",
-       "zh": "研究；学习",
-       "ex": "A new study suggests Helene also left behind a lot of microplastics.",
-       "forms": []
-      },
-      {
-       "w": "suggest",
-       "pos": "v.",
-       "zh": "表明；建议",
-       "ex": "A new study suggests Helene also left behind a lot of microplastics.",
-       "forms": [
-        "suggests"
-       ]
-      },
-      {
-       "w": "water",
-       "pos": "n.",
-       "zh": "水",
-       "ex": "Microplastics are tiny, microscopic fragments of plastic that end up in the air, our water and even us, as larger pieces of plastic break down.",
-       "forms": []
-      },
-      {
-       "w": "research",
-       "pos": "n.",
-       "zh": "研究",
-       "ex": "Gray's team had set up collection buckets to get samples for research at a biological station in Highlands, North Carolina.",
-       "forms": []
-      },
-      {
-       "w": "opportunity",
-       "pos": "n.",
-       "zh": "机会",
-       "ex": "GILMORE: Helene provided researchers a unique opportunity to look at microplastic deposition from a tropical system in an understudied area, and to collect data before, during and after the storm.",
-       "forms": []
-      },
-      {
-       "w": "data",
-       "pos": "n.",
-       "zh": "数据",
-       "ex": "GILMORE: Helene provided researchers a unique opportunity to look at microplastic deposition from a tropical system in an understudied area, and to collect data before, during and after the storm.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "community",
-      "hurricane",
-      "researcher",
-      "increase",
-      "microplastic"
-     ],
-     "keyVocab": [
-      "community",
-      "hurricane",
-      "researcher",
-      "increase",
-      "microplastic",
-      "study",
-      "suggest",
-      "water"
-     ]
-    },
-    {
-     "id": "2026-11-19-culture",
-     "section": "Culture",
-     "sectionZh": "文化",
-     "title": "'Huna' writer wins National Book Award for non-fiction, after not being allowed into the U.S.",
-     "dek": "The writer Abdelrahman ElGendy won the non-fiction prize at this year's National Book Awards, for his book Huna. The memoir looks at the six years he spent as a political prisoner in Egypt. But…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/19/nx-s1-6037553/huna-writer-wins-national-book-award-for-non-fiction-after-not-being-allowed-into-the-u-s",
-     "byline": "Andrew Limbong",
-     "dateLabel": "2026-11-19",
-     "words": 482,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "The writer Abdelrahman ElGendy won the non-fiction prize at this year's National Book Awards, for his book Huna. The memoir looks at the six years he spent as a political prisoner in Egypt. But ElGendy wasn't present to accept the award.",
-       "zh": "作家阿卜杜勒拉赫曼·埃尔根迪因其作品《Huna》获得了今年国家图书奖的非虚构类奖项。这本回忆录讲述了他在埃及作为政治犯度过的六年时光。但埃尔根迪未能出席领奖。"
-      },
-      {
-       "en": "In an essay published in The New Yorker last week, he wrote about not being able to attend the ceremony, because his visa to enter the U.S. from Europe was denied. The article led to questions about his eligibility for the award in the first place. The National Book Foundation issued a statement just hours before the ceremony, stating they expanded eligibility criteria in 2024, and were \"proud to celebrate Huna.\"",
-       "zh": "在《纽约客》上周发表的一篇文章中，他写到了自己无法参加颁奖典礼，因为他从欧洲进入美国的签证被拒绝。这篇文章引发了关于他是否有资格获得该奖项的质疑。全国图书基金会在颁奖典礼前几小时发表声明，表示他们在2024年扩大了资格标准，并“为庆祝胡纳感到自豪。”"
-      },
-      {
-       "en": "Helen Thomaides, ElGendy's editor, accepted the award at the ceremony in New York City and read a statement on ElGendy's behalf. \"Years ago in my prison cell in Egypt, I used to fantasize about writing a memoir,\" he wrote. \"Today, that dream should've come full circle. But like so many of the circles ruptured in my life, it will remain unfinished, broken by an oppressive regime with a fascist ideology.\"",
-       "zh": "Helen Thomaides，ElGendy的编辑，在纽约市的颁奖典礼上接受了奖项，并代表ElGendy宣读了一份声明。“多年前在埃及的监狱里，我常常幻想写一本回忆录，”他写道。“今天，这个梦想本应该圆满实现。但就像我生活中许多破碎的循环一样，这个梦想将保持未完成，被一个拥有法西斯意识形态的压迫性政权所破坏。”"
-      },
-      {
-       "en": "Novelist Hannah Lilith Assadi won the Fiction award, for the novel Paradiso 17. The book follows Sufien, a Palestinian man travelling the world after being exiled from his home in 1948. In her acceptance speech, she spoke about the book's origins being at her Palestinian father's deathbed. \"I watched cancer ravage my father's body, and genocide ravage his people and their children,\" she said. \"And perhaps this is the Palestinian story on this Earth. So beautiful, so painful. And isn't that story all of ours.\"",
-       "zh": "小说家汉娜·莉莉丝·阿萨迪凭借小说《天堂17号》赢得了小说奖。这本书讲述了苏菲恩的故事，他是一名巴勒斯坦男子，在1948年被流放出家乡后开始环游世界。在颁奖感言中，她谈到了这本书的起源是在她巴勒斯坦父亲的临终床前。她说：“我看着癌症蹂躏父亲的身体，看着灭绝蹂躏他的人民及其子孙。或许这就是地球上的巴勒斯坦故事。如此美丽，如此痛苦。难道这个故事不也是我们所有人的故事吗。”"
-      },
-      {
-       "en": "Brenda Hillman won the award for Poetry, for her book Still House in the Desert: An eco-contemplation. The book is a meditation on returning to her childhood home after her mother's death. In her acceptance speech, Hillman thanked everyone who had ever written a poem, and advocated for poetry's place in the literary landscape and in everyday life, nudging the press and critics working on year-end best books lists to keep poetry in mind.",
-       "zh": "布伦达·希尔曼凭借她的诗集《沙漠中的静屋：生态沉思》获得了诗歌奖。这本书是她在母亲去世后回到童年家园的沉思。在获奖感言中，希尔曼感谢了所有曾经写过诗的人，并倡导诗歌在文学领域和日常生活中的地位，同时提醒新闻媒体和负责年度最佳书单的评论家们记得关注诗歌。"
-      },
-      {
-       "en": "The award for Translated Literature went to Spanish author Vicente Luis Mora and translator Rahul Bery for the book Centroeuropa. The stylistically experimental novel centers around a man in the 19th century attempting to bury his dead wife, and upon digging up the earth, finds soldiers from various eras and wars.",
-       "zh": "翻译文学奖授予西班牙作家维森特·路易斯·莫拉（Vicente Luis Mora）和译者拉胡尔·贝里（Rahul Bery），他们的作品是《中欧》（Centroeuropa）。这本风格上有实验性的小说围绕着19世纪的一名男子展开，他试图埋葬自己去世的妻子，而在挖掘土地时，发现了来自不同年代和战争的士兵。"
-      },
-      {
-       "en": "And the award for Young People's Literature went to The Fight of Our Lives: AIDS in America by David Levithan and Gabriel Duckels. The non-fiction book is a history of HIV and AIDS, and the grassroots response to the AIDS crisis.",
-       "zh": "青年文学奖颁给了《我们生命中的斗争：美国的艾滋病》，作者是大卫·莱维森和加布里埃尔·达克尔斯。这本非虚构作品讲述了艾滋病毒和艾滋病的历史，以及对艾滋病危机的基层应对。"
-      },
-      {
-       "en": "The National Book Foundation also awarded two lifetime achievement awards to pediatrician and literacy advocate Perri Klass, and author Salman Rushdie. Klass, who worked with clinics to give kids books during visits, accepted her award while bringing a stethoscope and a copy of Goodnight Moon up to the stage.",
-       "zh": "国家图书基金会还向儿科医生兼识字倡导者佩里·克拉斯以及作家萨尔曼·鲁西迪颁发了两项终生成就奖。克拉斯曾与诊所合作，在就诊期间给孩子们提供书籍，她在上台领奖时带着听诊器和一本《晚安月亮》。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "national",
-       "pos": "adj.",
-       "zh": "国家的；全国的",
-       "ex": "The writer Abdelrahman ElGendy won the non-fiction prize at this year's National Book Awards, for his book Huna.",
-       "forms": []
-      },
-      {
-       "w": "memoir",
-       "pos": "n.",
-       "zh": "回忆录",
-       "ex": "The memoir looks at the six years he spent as a political prisoner in Egypt.",
-       "forms": []
-      },
-      {
-       "w": "accept",
-       "pos": "v.",
-       "zh": "接受",
-       "ex": "But ElGendy wasn't present to accept the award.",
-       "forms": [
-        "accepted"
-       ]
-      },
-      {
-       "w": "deny",
-       "pos": "v.",
-       "zh": "否认",
-       "ex": "from Europe was denied.",
-       "forms": [
-        "denied"
-       ]
-      },
-      {
-       "w": "issue",
-       "pos": "n.",
-       "zh": "议题；问题",
-       "ex": "The National Book Foundation issued a statement just hours before the ceremony, stating they expanded eligibility criteria in 2024, and were \"proud to celebrate Huna.\" Helen Thomaides, ElGendy's editor, accepted the award at the ceremony in New York City and read a statement on ElGendy's behalf.",
-       "forms": [
-        "issued"
-       ]
-      },
-      {
-       "w": "statement",
-       "pos": "n.",
-       "zh": "声明；陈述",
-       "ex": "The National Book Foundation issued a statement just hours before the ceremony, stating they expanded eligibility criteria in 2024, and were \"proud to celebrate Huna.\" Helen Thomaides, ElGendy's editor, accepted the award at the ceremony in New York City and read a statement on ElGendy's behalf.",
-       "forms": []
-      },
-      {
-       "w": "expand",
-       "pos": "v.",
-       "zh": "扩大；扩张",
-       "ex": "The National Book Foundation issued a statement just hours before the ceremony, stating they expanded eligibility criteria in 2024, and were \"proud to celebrate Huna.\" Helen Thomaides, ElGendy's editor, accepted the award at the ceremony in New York City and read a statement on ElGendy's behalf.",
-       "forms": [
-        "expanded"
-       ]
-      },
-      {
-       "w": "regime",
-       "pos": "n.",
-       "zh": "政权；体制",
-       "ex": "But like so many of the circles ruptured in my life, it will remain unfinished, broken by an oppressive regime with a fascist ideology.\" Novelist Hannah Lilith Assadi won the Fiction award, for the novel Paradiso 17.",
-       "forms": []
-      },
-      {
-       "w": "ideology",
-       "pos": "n.",
-       "zh": "意识形态",
-       "ex": "But like so many of the circles ruptured in my life, it will remain unfinished, broken by an oppressive regime with a fascist ideology.\" Novelist Hannah Lilith Assadi won the Fiction award, for the novel Paradiso 17.",
-       "forms": []
-      },
-      {
-       "w": "novelist",
-       "pos": "n.",
-       "zh": "小说家",
-       "ex": "But like so many of the circles ruptured in my life, it will remain unfinished, broken by an oppressive regime with a fascist ideology.\" Novelist Hannah Lilith Assadi won the Fiction award, for the novel Paradiso 17.",
-       "forms": []
-      },
-      {
-       "w": "fiction",
-       "pos": "n.",
-       "zh": "小说；虚构",
-       "ex": "The writer Abdelrahman ElGendy won the non-fiction prize at this year's National Book Awards, for his book Huna.",
-       "forms": []
-      },
-      {
-       "w": "speech",
-       "pos": "n.",
-       "zh": "演讲；言论",
-       "ex": "In her acceptance speech, she spoke about the book's origins being at her Palestinian father's deathbed.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "national",
-      "memoir",
-      "accept",
-      "deny",
-      "issue"
-     ],
-     "keyVocab": [
-      "national",
-      "memoir",
-      "accept",
-      "deny",
-      "issue",
-      "statement",
-      "expand",
-      "regime"
      ]
     }
    ]
