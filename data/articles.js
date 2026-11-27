@@ -1,6 +1,708 @@
 window.__MERIDIAN_DATA__ = {
- "updated": "2026-11-26T08:42:21.687547+00:00",
+ "updated": "2026-11-27T08:53:04.729841+00:00",
  "days": [
+  {
+   "date": "2026-11-27",
+   "articles": [
+    {
+     "id": "2026-11-27-world",
+     "section": "World",
+     "sectionZh": "国际",
+     "title": "Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died",
+     "dek": "Strobe Talbott, a former Time magazine reporter who later served as deputy secretary of state under President Bill Clinton and then headed the Brookings Institution, died Thursday. He was 80.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/27/g-s1-155990/strobe-talbott-obit",
+     "byline": "The Associated Press",
+     "dateLabel": "2026-11-27",
+     "words": 284,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "Strobe Talbott, a former Time magazine reporter who later served as deputy secretary of state under President Bill Clinton and then headed the Brookings Institution, died Thursday. He was 80.",
+       "zh": "斯特罗布·塔尔博特，一位曾任《时代》杂志记者，后来在比尔·克林顿总统任内担任副国务卿，并随后领导布鲁金斯学会的人，于周四去世。他享年80岁。"
+      },
+      {
+       "en": "His son, Devin Talbott, confirmed he passed away peacefully after a long illness in his East Hampton, New York, home.",
+       "zh": "他的儿子德文·塔尔博特证实，他在纽约东汉普顿的家中，经过长期病痛后平静地去世。"
+      },
+      {
+       "en": "The elder Talbott was educated at Yale and Oxford, where he bunked with Clinton. While at the British university, after interning for Time in Moscow, the magazine asked Talbott to help translate the leaked memoirs of Nikita Khrushchev, the former first secretary of the Communist Party of the Soviet Union who was ousted in 1964.",
+       "zh": "年长的塔尔博特曾在耶鲁和牛津受教育，在那里他与克林顿同住宿舍。在英国大学期间，在莫斯科为《时代》杂志实习后，该杂志要求塔尔博特协助翻译尼基塔·赫鲁晓夫的泄露回忆录，赫鲁晓夫是苏联共产党前第一书记，1964年被免职。"
+      },
+      {
+       "en": "Talbott did, and it gave him some notoriety as a young man and a job at the magazine.",
+       "zh": "Talbott 确实这样做了，这让他作为一个年轻人获得了一些名声，也在那本杂志上找到了工作。"
+      },
+      {
+       "en": "After 21 years at Time, where he focused on Soviet-American relations and held positions including Washington bureau chief and a foreign-affairs columnist, according to his U.S. State Department biography, he received a call from the newly elected Clinton.",
+       "zh": "据美国国务院的简历，他在《时代》工作21年，专注于苏美关系，并担任包括华盛顿分社社长和外交事务专栏作家等职位，他接到了新当选的克林顿的电话。"
+      },
+      {
+       "en": "Talbott joined the U.S. State Department in 1994, swiftly becoming deputy secretary of state. In that role, he was the architect of the Clinton administration's approach to Russia and other formerly Soviet countries and conducted negotiations between the U.S. and India after the latter's nuclear tests in 1998.",
+       "zh": "塔尔博特于1994年加入美国国务院，很快就成为副国务卿。在这一职务上，他是克林顿政府对俄罗斯及其他前苏联国家政策的设计者，并在1998年印度进行核试验后主持了美印之间的谈判。"
+      },
+      {
+       "en": "\"Strobe was a good and brilliant man who made our world more peaceful and secure,\" said Clinton in a statement after Talbott's death. When Talbott was translating Khrushchev's memoirs while at Oxford, it was Clinton's job to make him breakfast every day, he said, adding, \"somehow, I got the better end of the deal.\"",
+       "zh": "“斯特罗布是一个善良而聪明的人，他让我们的世界更加和平与安全，”克林顿在塔尔博特去世后的一份声明中说。他表示，当塔尔博特在牛津翻译赫鲁晓夫的回忆录时，他的工作是每天为塔尔博特准备早餐，并补充道，“不知怎的，我在这笔交易中占了上风。”"
+      },
+      {
+       "en": "Both he and Hillary were \"deeply saddened\" by the passing of \"a wonderful friend, and a world-class human being,\" he said.",
+       "zh": "他说，他和希拉里都因“一位了不起的朋友和世界级的人”的去世而“深感悲痛”。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "Strobe Talbott, a former Time magazine reporter who later served as deputy secretary of state under President Bill Clinton and then headed the Brookings Institution, died Thursday.",
+       "forms": []
+      },
+      {
+       "w": "confirm",
+       "pos": "v.",
+       "zh": "证实；确认",
+       "ex": "His son, Devin Talbott, confirmed he passed away peacefully after a long illness in his East Hampton, New York, home.",
+       "forms": [
+        "confirmed"
+       ]
+      },
+      {
+       "w": "university",
+       "pos": "n.",
+       "zh": "大学",
+       "ex": "While at the British university, after interning for Time in Moscow, the magazine asked Talbott to help translate the leaked memoirs of Nikita Khrushchev, the former first secretary of the Communist Party of the Soviet Union who was ousted in 1964.",
+       "forms": []
+      },
+      {
+       "w": "memoir",
+       "pos": "n.",
+       "zh": "回忆录",
+       "ex": "While at the British university, after interning for Time in Moscow, the magazine asked Talbott to help translate the leaked memoirs of Nikita Khrushchev, the former first secretary of the Communist Party of the Soviet Union who was ousted in 1964.",
+       "forms": [
+        "memoirs"
+       ]
+      },
+      {
+       "w": "party",
+       "pos": "n.",
+       "zh": "政党；一方",
+       "ex": "While at the British university, after interning for Time in Moscow, the magazine asked Talbott to help translate the leaked memoirs of Nikita Khrushchev, the former first secretary of the Communist Party of the Soviet Union who was ousted in 1964.",
+       "forms": []
+      },
+      {
+       "w": "union",
+       "pos": "n.",
+       "zh": "工会；联盟",
+       "ex": "While at the British university, after interning for Time in Moscow, the magazine asked Talbott to help translate the leaked memoirs of Nikita Khrushchev, the former first secretary of the Communist Party of the Soviet Union who was ousted in 1964.",
+       "forms": []
+      },
+      {
+       "w": "young",
+       "pos": "adj.",
+       "zh": "年轻的",
+       "ex": "Talbott did, and it gave him some notoriety as a young man and a job at the magazine.",
+       "forms": []
+      },
+      {
+       "w": "biography",
+       "pos": "n.",
+       "zh": "传记",
+       "ex": "State Department biography, he received a call from the newly elected Clinton.",
+       "forms": []
+      },
+      {
+       "w": "negotiation",
+       "pos": "n.",
+       "zh": "谈判；协商",
+       "ex": "In that role, he was the architect of the Clinton administration's approach to Russia and other formerly Soviet countries and conducted negotiations between the U.S.",
+       "forms": [
+        "negotiations"
+       ]
+      },
+      {
+       "w": "nuclear",
+       "pos": "adj.",
+       "zh": "核的；核能的",
+       "ex": "and India after the latter's nuclear tests in 1998.",
+       "forms": []
+      },
+      {
+       "w": "statement",
+       "pos": "n.",
+       "zh": "声明；陈述",
+       "ex": "\"Strobe was a good and brilliant man who made our world more peaceful and secure,\" said Clinton in a statement after Talbott's death.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "president",
+      "confirm",
+      "university",
+      "memoir",
+      "party"
+     ],
+     "keyVocab": [
+      "president",
+      "confirm",
+      "university",
+      "memoir",
+      "party",
+      "union",
+      "young",
+      "biography"
+     ]
+    },
+    {
+     "id": "2026-11-27-business",
+     "section": "Business",
+     "sectionZh": "商业 · 财经",
+     "title": "How Jensen Huang's return as NVIDIA's CEO is going over in China",
+     "dek": "In China, Jensen Huang's return as Nvidia CEO is being met with a mixed reaction – as Beijing weighs whether it wants the US company's chips at all.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/25/nx-s1-6053915/how-jensen-huangs-return-as-nvidias-ceo-is-going-over-in-china",
+     "byline": "Jennifer Pak",
+     "dateLabel": "2026-11-27",
+     "words": 351,
+     "readTime": 3,
+     "level": "B2",
+     "levelEn": "Upper-intermediate",
+     "paragraphs": [
+      {
+       "en": "In China, Jensen Huang's return as Nvidia CEO is being met with a mixed reaction – as Beijing weighs whether it wants the US company's chips at all.",
+       "zh": "在中国，黄仁勋重返英伟达首席执行官一职的消息引起了复杂的反响——北京正在权衡是否真正需要这家美国公司的芯片。"
+      },
+      {
+       "en": "Jensen Huang now has his job back at NVIDIA. Whether China should have access to NVIDIA's best computer chips - that debate is now back, too. And how is all this playing out in China? Well, we've reached NPR's Jennifer Pak in Beijing. Hi there.",
+       "zh": "黄仁勋现在已经重新在英伟达上班了。关于中国是否应该能够使用英伟达最好的电脑芯片——这一争论现在也回来了。那这一切在中国的发展情况如何呢？我们现在连线到了在北京的NPR记者詹妮弗·帕克。你好。"
+      },
+      {
+       "en": "SUMMERS: Jennifer, you're there in Beijing. Tell us what you've been hearing from people.",
+       "zh": "萨默斯：詹妮弗，你现在在北京。告诉我们你从人们那里听到了什么。"
+      },
+      {
+       "en": "PAK: Well, from the general public, some say this whole saga of Jensen Huang's swift fall and sudden return is kind of like a microdrama. I don't know if you're familiar with these. These are super popular, kind of like soap operas. They're broken down into bite-size episodes, two to three minutes each, super fast pace. And just like a microdrama, this Huang scandal has had a lot of twists and turns.",
+       "zh": "PAK：嗯，从公众的角度来看，有人说黄仁勋迅速下台又突然复出的整个事件有点像一个微型剧。我不知道你是否熟悉这些东西。这些非常受欢迎，有点像肥皂剧。它们被分解成小片段，每集两到三分钟，节奏非常快。就像一部微型剧一样，这场黄氏丑闻也经历了很多曲折。"
+      },
+      {
+       "en": "In China's tech circles, the views are split. I spoke to Du Chen, a technology media editor at Ifanr in Beijing. He says one group believes Huang's conduct raises serious ethical violations and shouldn't be in charge. While the other group, he says, are ones who have had business dealings with NVIDIA or interacted with Huang directly and indirectly.",
+       "zh": "在中国的科技圈里，观点分歧。我在北京采访了爱范儿的科技媒体编辑杜晨。他表示，一部分人认为黄的行为涉及严重的道德违规，不应该担任领导职务。而另一部分人，他说，是那些与英伟达有过业务往来或直接、间接与黄有过接触的人。"
+      },
+      {
+       "en": "PAK: This group, he says, generally trusts Huang's ability as the company's CEO and believes he would return, just not as fast as it happened, like 11 days.",
+       "zh": "PAK：他说，这个团队通常信任黄作为公司首席执行官的能力，并且相信他会回来，只是不会像发生的那样快，比如11天。"
+      },
+      {
+       "en": "SUMMERS: It was really fast, yeah. Now, what about the allegation that China launched a spy operation targeting NVIDIA and Huang? Has there been much discussion about that?",
+       "zh": "萨默斯：真的很快，是的。那么，关于中国发起针对英伟达和黄的间谍行动的指控呢？对此有很多讨论吗？"
+      },
+      {
+       "en": "PAK: China's foreign ministry has denied these spy allegations. NPR has just heard that in the U.S., congressional staff have been briefed by American intelligence officials. And a person familiar with the matter said there is no evidence the woman who had an affair with NVIDIA chief Jensen Huang, named Alice Huang - of no relation - is a Chinese spy, though she is believed to have passed along information to the Chinese after the affair started.",
+       "zh": "巴基斯坦：中国外交部否认了这些间谍指控。NPR 刚获悉，在美国，国会工作人员已由美国情报官员进行了简报。一位知情人士表示，没有证据表明与英伟达首席执行官黄仁勋有婚外情的女性，名叫Alice Huang——与黄仁勋无亲属关系——是中国间谍，尽管据认为在婚外情开始后她曾向中国传递信息。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "chip",
+       "pos": "n.",
+       "zh": "芯片",
+       "ex": "In China, Jensen Huang's return as Nvidia CEO is being met with a mixed reaction – as Beijing weighs whether it wants the US company's chips at all.",
+       "forms": [
+        "chips"
+       ]
+      },
+      {
+       "w": "debate",
+       "pos": "n.",
+       "zh": "辩论；争论",
+       "ex": "Whether China should have access to NVIDIA's best computer chips - that debate is now back, too.",
+       "forms": []
+      },
+      {
+       "w": "public",
+       "pos": "adj.",
+       "zh": "公共的；公众的",
+       "ex": "PAK: Well, from the general public, some say this whole saga of Jensen Huang's swift fall and sudden return is kind of like a microdrama.",
+       "forms": []
+      },
+      {
+       "w": "fall",
+       "pos": "n.",
+       "zh": "下降；下跌",
+       "ex": "PAK: Well, from the general public, some say this whole saga of Jensen Huang's swift fall and sudden return is kind of like a microdrama.",
+       "forms": []
+      },
+      {
+       "w": "scandal",
+       "pos": "n.",
+       "zh": "丑闻",
+       "ex": "And just like a microdrama, this Huang scandal has had a lot of twists and turns.",
+       "forms": []
+      },
+      {
+       "w": "technology",
+       "pos": "n.",
+       "zh": "技术；科技",
+       "ex": "I spoke to Du Chen, a technology media editor at Ifanr in Beijing.",
+       "forms": []
+      },
+      {
+       "w": "media",
+       "pos": "n.",
+       "zh": "媒体",
+       "ex": "I spoke to Du Chen, a technology media editor at Ifanr in Beijing.",
+       "forms": []
+      },
+      {
+       "w": "charge",
+       "pos": "v.",
+       "zh": "指控；收费",
+       "ex": "He says one group believes Huang's conduct raises serious ethical violations and shouldn't be in charge.",
+       "forms": []
+      },
+      {
+       "w": "foreign",
+       "pos": "adj.",
+       "zh": "外国的",
+       "ex": "PAK: China's foreign ministry has denied these spy allegations.",
+       "forms": []
+      },
+      {
+       "w": "deny",
+       "pos": "v.",
+       "zh": "否认",
+       "ex": "PAK: China's foreign ministry has denied these spy allegations.",
+       "forms": [
+        "denied"
+       ]
+      },
+      {
+       "w": "intelligence",
+       "pos": "n.",
+       "zh": "情报；智能",
+       "ex": "NPR has just heard that in the U.S., congressional staff have been briefed by American intelligence officials.",
+       "forms": []
+      },
+      {
+       "w": "official",
+       "pos": "n.",
+       "zh": "官员；adj. 官方的",
+       "ex": "NPR has just heard that in the U.S., congressional staff have been briefed by American intelligence officials.",
+       "forms": [
+        "officials"
+       ]
+      }
+     ],
+     "homeWords": [
+      "chip",
+      "debate",
+      "public",
+      "fall",
+      "scandal"
+     ],
+     "keyVocab": [
+      "chip",
+      "debate",
+      "public",
+      "fall",
+      "scandal",
+      "technology",
+      "media",
+      "charge"
+     ]
+    },
+    {
+     "id": "2026-11-27-technology",
+     "section": "Technology",
+     "sectionZh": "科技",
+     "title": "How to talk AI around the Thanksgiving table",
+     "dek": "You're gathered with family this Thanksgiving when the topic of AI comes up. How can you have a productive, fact-based conversation?",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/25/nx-s1-6053216/how-to-talk-ai-around-the-thanksgiving-table",
+     "byline": "Kevin Roose",
+     "dateLabel": "2026-11-27",
+     "words": 364,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "You're gathered with family this Thanksgiving when the topic of AI comes up. How can you have a productive, fact-based conversation?",
+       "zh": "在这个感恩节，你和家人聚在一起时，话题转到了人工智能。你如何进行一次富有成效、基于事实的对话？"
+      },
+      {
+       "en": "Thanksgiving dinner conversations can be fraught in some families. It is best to avoid certain topics, like politics or religion, and 2026 has given us a new land mine of small talk - AI. Machine Gods is here to help. Machine Gods is the new podcast from NPR about the AI future. In this excerpt, hosts Kevin Roose and Casey Newton offer some friendly advice for how to navigate AI dinner table talk.",
+       "zh": "在一些家庭中，感恩节晚餐的对话可能会充满紧张气氛。最好避免某些话题，例如政治或宗教，而2026年又为闲聊带来了新的雷区——人工智能。Machine Gods 来帮忙。Machine Gods 是 NPR 关于人工智能未来的新播客。在这段摘录中，主持人 Kevin Roose 和 Casey Newton 提供了一些友好的建议，教你如何应对围绕人工智能的餐桌话题。"
+      },
+      {
+       "en": "CASEY NEWTON, BYLINE: Casey here with a quick disclosure at the top. As regular Machine Gods listeners know, my fiance works for Anthropic.",
+       "zh": "凯西·牛顿，署名：这里是凯西，先快速说明一下。如常听《机器之神》的听众所知，我的未婚夫在Anthropic工作。"
+      },
+      {
+       "en": "ROOSE: ...We wanted to do something a little seasonal. We wanted to help our listeners with their Thanksgivings.",
+       "zh": "ROOSE: ...我们想做一些应季的事情。我们想帮助我们的听众准备他们的感恩节。"
+      },
+      {
+       "en": "NEWTON: Yes. You know, many podcasts will do advice around the holidays, and we got a question that it felt like we might actually be in a good position to answer.",
+       "zh": "牛顿：是的。你知道，许多播客会在假期期间提供建议，我们收到一个问题，感觉我们实际上可能处于一个可以回答的好位置。"
+      },
+      {
+       "en": "ROOSE: So listener, Blythe (ph), wrote in to ask us, what are the three concise AI talking points you would have ready to share with your family at Thanksgiving, presumably, as we head into 2027? Let's first of all, start by examining the premise here.",
+       "zh": "ROOSE：所以听众 Blythe（音）写信来问我们，你会准备哪三条简明的人工智能讨论要点，在感恩节与家人分享，大概是在我们迎接 2027 年的时候？让我们首先从审视这里的前提开始。"
+      },
+      {
+       "en": "ROOSE: Is AI something you should be discussing with your family at Thanksgiving?",
+       "zh": "鲁斯：人工智能是你应该在感恩节与家人讨论的话题吗？"
+      },
+      {
+       "en": "NEWTON: (Laughter) Listen, when it comes to discussing AI, I try to operate in a consent-based culture. So I am not out there just volunteering my opinions about AI to people. Now, it so happens that it will often come up in conversation. So I have given this some thought, and the first thing I would suggest you might want to tell your family, Kevin, is to try it. And what I mean by that is, have you actually sat down in front of ChatGPT recently and asked it to do something? And I say all of this not as an unrelenting promoter of the AI industry, but because it remains the best way I know how to wrap your brain around what is happening.",
+       "zh": "牛顿：（笑声）听着，当谈到人工智能时，我尽量在一种基于同意的文化中运作。所以我不会去随便向别人提供关于人工智能的意见。现在，碰巧的是，这通常会在对话中出现。所以我考虑过这个问题，我首先会建议你可能想告诉你的家人，凯文，是去尝试它。我的意思是，你最近是否真的坐在ChatGPT面前，让它去做某件事情？我说这些话不是作为人工智能行业的无条件推广者，而是因为它仍然是我所知道的理解正在发生的事情的最好方式。"
+      },
+      {
+       "en": "ROOSE: Yes. That was my first piece of advice, too, is, like, show, don't tell.",
+       "zh": "鲁斯：是的。那也是我的第一个建议，就是，像是，展示，而不是讲述。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "family",
+       "pos": "n.",
+       "zh": "家庭",
+       "ex": "You're gathered with family this Thanksgiving when the topic of AI comes up.",
+       "forms": [
+        "families"
+       ]
+      },
+      {
+       "w": "land",
+       "pos": "n.",
+       "zh": "土地；陆地",
+       "ex": "It is best to avoid certain topics, like politics or religion, and 2026 has given us a new land mine of small talk - AI.",
+       "forms": []
+      },
+      {
+       "w": "future",
+       "pos": "n.",
+       "zh": "未来",
+       "ex": "Machine Gods is the new podcast from NPR about the AI future.",
+       "forms": []
+      },
+      {
+       "w": "discuss",
+       "pos": "v.",
+       "zh": "讨论",
+       "ex": "ROOSE: Is AI something you should be discussing with your family at Thanksgiving?",
+       "forms": [
+        "discussing"
+       ]
+      },
+      {
+       "w": "culture",
+       "pos": "n.",
+       "zh": "文化",
+       "ex": "NEWTON: (Laughter) Listen, when it comes to discussing AI, I try to operate in a consent-based culture.",
+       "forms": []
+      },
+      {
+       "w": "suggest",
+       "pos": "v.",
+       "zh": "表明；建议",
+       "ex": "So I have given this some thought, and the first thing I would suggest you might want to tell your family, Kevin, is to try it.",
+       "forms": []
+      },
+      {
+       "w": "industry",
+       "pos": "n.",
+       "zh": "行业；工业",
+       "ex": "And I say all of this not as an unrelenting promoter of the AI industry, but because it remains the best way I know how to wrap your brain around what is happening.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "family",
+      "land",
+      "future",
+      "discuss",
+      "culture"
+     ],
+     "keyVocab": [
+      "family",
+      "land",
+      "future",
+      "discuss",
+      "culture",
+      "suggest",
+      "industry"
+     ]
+    },
+    {
+     "id": "2026-11-27-science",
+     "section": "Science",
+     "sectionZh": "科学",
+     "title": "A sweeping permitting reform bill is headed to the House. Critics want to stop it",
+     "dek": "President Trump supports a bipartisan bill that would speed up approval of federal infrastructure and energy projects. Critics say it will do so at the expense of the climate, tribes and public lands.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/26/nx-s1-6046134/a-sweeping-permitting-reform-bill-is-headed-to-the-house-critics-want-to-stop-it",
+     "byline": "Rachel Treisman",
+     "dateLabel": "2026-11-27",
+     "words": 277,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "President Trump supports a bipartisan bill that would speed up approval of federal infrastructure and energy projects. Critics say it will do so at the expense of the climate, tribes and public lands.",
+       "zh": "特朗普总统支持一项两党法案，该法案将加快联邦基础设施和能源项目的批准。批评人士称，这样做会以气候、部落和公共土地为代价。"
+      },
+      {
+       "en": "With just weeks left in its term, Congress could reshape the country's physical landscape for generations. The Senate passed a bipartisan permitting reform bill that supporters say will pave the way for much needed infrastructure projects. But critics argue it will do so at the expense of the environment, tribes and public lands. They want the House to either fix or reject the bill before the year ends, as NPR's Rachel Treisman reports.",
+       "zh": "只剩下几个星期任期，国会可能会重塑国家的物理景观，影响几代人。参议院通过了一项两党共同支持的许可改革法案，支持者表示这将为急需的基础设施项目铺平道路。但批评者认为，这样做将以环境、部落和公共土地为代价。他们希望众议院在年底前要么修正这项法案，要么予以否决，正如NPR的Rachel Treisman报道的那样。"
+      },
+      {
+       "en": "RACHEL TREISMAN, BYLINE: Last week, the Senate passed a bill that aims to speed up the approval process for federal infrastructure and energy projects, from wind turbines to data centers. It's called the Bipartisan American Affordability and Jobs Act, or BAAJA, and it's nearly 500 pages long.",
+       "zh": "雷切尔·特雷斯曼，署名：上周，参议院通过了一项法案，旨在加快联邦基础设施和能源项目的审批流程，从风力涡轮机到数据中心。它被称为《两党美国可负担性与就业法案》（BAAJA），长达近500页。"
+      },
+      {
+       "en": "XAN FISHMAN: This isn't just, like, a mushy, middle, moderate, do-nothing bill. Like, it's actually a big-deal bill.",
+       "zh": "XAN FISHMAN：这不仅仅是那种柔软、中庸、无所作为的法案。它实际上是一个重要的法案。"
+      },
+      {
+       "en": "TREISMAN: Xan Fishman leads the energy program at the Bipartisan Policy Center.",
+       "zh": "特雷斯曼：扎恩·费什曼领导两党政策中心的能源项目。"
+      },
+      {
+       "en": "FISHMAN: At its heart, it's about trying to take a permitting system which has just grown out of proportion and make sure that it's protecting the environment but getting to a yes or no answer in a reasonable amount of time.",
+       "zh": "FISHMAN：归根结底，这关乎尝试将一个已经发展得失控的许可系统进行调整，确保它在保护环境的同时，也能在合理的时间内得出是或否的答案。"
+      },
+      {
+       "en": "TREISMAN: Supporters of the bill say it will improve America's aging grid while creating jobs and lowering electricity bills. But critics say it would weaken bedrock environmental and historic preservation laws, including by limiting input from tribes and the public.",
+       "zh": "特里斯曼：该法案的支持者表示，它将改善美国老化的电网，同时创造就业机会并降低电费。但批评者则表示，它将削弱基础的环境和历史保护法律，包括通过限制部落和公众的意见。"
+      },
+      {
+       "en": "WESLEY FURLONG: From our perspective, there are no pros. There are only cons.",
+       "zh": "韦斯利·富兰：从我们的角度来看，没有优点，只有缺点。"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "President Trump supports a bipartisan bill that would speed up approval of federal infrastructure and energy projects.",
+       "forms": []
+      },
+      {
+       "w": "support",
+       "pos": "v.",
+       "zh": "支持",
+       "ex": "President Trump supports a bipartisan bill that would speed up approval of federal infrastructure and energy projects.",
+       "forms": [
+        "supports"
+       ]
+      },
+      {
+       "w": "federal",
+       "pos": "adj.",
+       "zh": "联邦的",
+       "ex": "President Trump supports a bipartisan bill that would speed up approval of federal infrastructure and energy projects.",
+       "forms": []
+      },
+      {
+       "w": "infrastructure",
+       "pos": "n.",
+       "zh": "基础设施",
+       "ex": "President Trump supports a bipartisan bill that would speed up approval of federal infrastructure and energy projects.",
+       "forms": []
+      },
+      {
+       "w": "energy",
+       "pos": "n.",
+       "zh": "能源；精力",
+       "ex": "President Trump supports a bipartisan bill that would speed up approval of federal infrastructure and energy projects.",
+       "forms": []
+      },
+      {
+       "w": "critic",
+       "pos": "n.",
+       "zh": "评论家；批评家",
+       "ex": "Critics say it will do so at the expense of the climate, tribes and public lands.",
+       "forms": [
+        "critics"
+       ]
+      },
+      {
+       "w": "climate",
+       "pos": "n.",
+       "zh": "气候",
+       "ex": "Critics say it will do so at the expense of the climate, tribes and public lands.",
+       "forms": []
+      },
+      {
+       "w": "public",
+       "pos": "adj.",
+       "zh": "公共的；公众的",
+       "ex": "Critics say it will do so at the expense of the climate, tribes and public lands.",
+       "forms": []
+      },
+      {
+       "w": "land",
+       "pos": "n.",
+       "zh": "土地；陆地",
+       "ex": "Critics say it will do so at the expense of the climate, tribes and public lands.",
+       "forms": [
+        "lands"
+       ]
+      },
+      {
+       "w": "congress",
+       "pos": "n.",
+       "zh": "国会",
+       "ex": "With just weeks left in its term, Congress could reshape the country's physical landscape for generations.",
+       "forms": []
+      },
+      {
+       "w": "generation",
+       "pos": "n.",
+       "zh": "一代人；世代",
+       "ex": "With just weeks left in its term, Congress could reshape the country's physical landscape for generations.",
+       "forms": [
+        "generations"
+       ]
+      },
+      {
+       "w": "senate",
+       "pos": "n.",
+       "zh": "参议院",
+       "ex": "The Senate passed a bipartisan permitting reform bill that supporters say will pave the way for much needed infrastructure projects.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "president",
+      "support",
+      "federal",
+      "infrastructure",
+      "energy"
+     ],
+     "keyVocab": [
+      "president",
+      "support",
+      "federal",
+      "infrastructure",
+      "energy",
+      "critic",
+      "climate",
+      "public"
+     ]
+    },
+    {
+     "id": "2026-11-27-culture",
+     "section": "Culture",
+     "sectionZh": "文化",
+     "title": "A dish with a story, Thanksgiving with culinary historian Michael Twitty",
+     "dek": "Culinary historian Michael Twitty on tracing familial connections through food",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/26/nx-s1-6044602/michael-twitty-thanksgiving-food-culinary-history",
+     "byline": "Adriana Gallardo",
+     "dateLabel": "2026-11-27",
+     "words": 303,
+     "readTime": 3,
+     "level": "C2",
+     "levelEn": "Proficient",
+     "paragraphs": [
+      {
+       "en": "Culinary historian Michael Twitty on tracing familial connections through food",
+       "zh": "美食历史学家迈克尔·特维通过食物追溯家庭联系"
+      },
+      {
+       "en": "This Thanksgiving, Morning Edition host Leila Fadel left the studio for her kitchen, where she was met by the two-time James Beard Award winner Michael Twitty, who came with a spice blend, fresh sage, fish peppers and onions from his garden.",
+       "zh": "这个感恩节，《早间版》主持人莱拉·法德尔离开了演播室，走进她的厨房，在那里她遇到了两届詹姆斯·比尔德奖得主迈克尔·特维蒂，他带来了自己调制的香料、 свеж鼠尾草、鱼椒和他花园里的洋葱。"
+      },
+      {
+       "en": "His book, The Cooking Gene, planted him as one of the nation's foremost chronologists tracing his ancestry through African American culinary history.",
+       "zh": "他的书《烹饪基因》使他成为全国最重要的编年史家之一，通过非裔美国人的烹饪历史追溯他的祖先。"
+      },
+      {
+       "en": "Kush is one of Twitty's most beloved Thanksgiving offerings and one he's been making since he was a teen. The name and the ingredients show the way food became a tool for the enslaved in the Americas to preserve their cultures.",
+       "zh": "Kush 是 Twitty 最受欢迎的感恩节美食之一，也是他从青少年时期就开始制作的菜肴。这个名字和食材展示了食物如何成为美洲被奴役者用来保存他们文化的工具。"
+      },
+      {
+       "en": "\"The name comes from Hausa, the language of West Africa. They are a predominantly Muslim people, but Muslim in the way that West Africans do Islam – which is Islam with a lot of the influence from the traditional culture and spirituality,\" he said on the origins of the side dish. \"And so the name Kush, it's like, couscous,\" he added.",
+       "zh": "他说起这道配菜的起源时表示：“这个名字来自西非的语言豪萨语。他们是以穆斯林为主的民族，但他们的穆斯林信仰方式是西非人的方式——也就是说，他们的伊斯兰教融入了很多传统文化和灵性影响。”他补充道：“所以名字 Kush，就像是库斯库斯一样。”"
+      },
+      {
+       "en": "\"There was a time when I couldn't tell you what particular African ethnic groups I came from, but now that I know that I'm part Wolof, Hausa, Fula, and Serer and so many others,\" he said. \"Now, I know this dish has a connection to who I am and my roots and where I came from.\"",
+       "zh": "“曾经我无法告诉你我来自哪些特定的非洲族群，但现在我知道我部分是沃洛夫族、豪萨族、富拉族和瑟雷族以及许多其他族群，”他说。“现在，我知道这道菜与我是谁、我的根源以及我来自哪里有联系。”"
+      },
+      {
+       "en": "In the making of this dish, Twitty also shared his work documenting the ways African American Jewish people create hybrid dishes in the kitchen.",
+       "zh": "在制作这道菜的过程中，特维蒂还分享了他记录非裔美国犹太人如何在厨房中制作混合菜肴的作品。"
+      },
+      {
+       "en": "\"It's Matzah ball gumbo, and it's black-eyed peas and quiche,\" he said of his Black and Jewish identity. \"It's a lot of dishes that were from North Africa or from Ethiopia, it's kosher jollof rice and Shito. Shito usually has shellfish in it – we don't put that.\"",
+       "zh": "“这是马扎球炖菜，还有黑眼豆和乳蛋饼，”他说到他的黑人和犹太身份时说。“有很多菜肴来自北非或埃塞俄比亚，是犹太洁食的焦洛夫米饭和Shito酱。Shito酱通常含有贝类——我们不放这个。”"
+      }
+     ],
+     "vocab": [
+      {
+       "w": "food",
+       "pos": "n.",
+       "zh": "食物",
+       "ex": "Culinary historian Michael Twitty on tracing familial connections through food This Thanksgiving, Morning Edition host Leila Fadel left the studio for her kitchen, where she was met by the two-time James Beard Award winner Michael Twitty, who came with a spice blend, fresh sage, fish peppers and onions from his garden.",
+       "forms": []
+      },
+      {
+       "w": "gene",
+       "pos": "n.",
+       "zh": "基因",
+       "ex": "His book, The Cooking Gene, planted him as one of the nation's foremost chronologists tracing his ancestry through African American culinary history.",
+       "forms": []
+      },
+      {
+       "w": "plant",
+       "pos": "n.",
+       "zh": "工厂；植物",
+       "ex": "His book, The Cooking Gene, planted him as one of the nation's foremost chronologists tracing his ancestry through African American culinary history.",
+       "forms": [
+        "planted"
+       ]
+      },
+      {
+       "w": "history",
+       "pos": "n.",
+       "zh": "历史",
+       "ex": "His book, The Cooking Gene, planted him as one of the nation's foremost chronologists tracing his ancestry through African American culinary history.",
+       "forms": []
+      },
+      {
+       "w": "culture",
+       "pos": "n.",
+       "zh": "文化",
+       "ex": "The name and the ingredients show the way food became a tool for the enslaved in the Americas to preserve their cultures.",
+       "forms": [
+        "cultures"
+       ]
+      }
+     ],
+     "homeWords": [
+      "food",
+      "gene",
+      "plant",
+      "history",
+      "culture"
+     ],
+     "keyVocab": [
+      "food",
+      "gene",
+      "plant",
+      "history",
+      "culture"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-26",
    "articles": [
@@ -4715,736 +5417,6 @@ window.__MERIDIAN_DATA__ = {
       "confirm",
       "ruling",
       "statement"
-     ]
-    }
-   ]
-  },
-  {
-   "date": "2026-11-20",
-   "articles": [
-    {
-     "id": "2026-11-20-world",
-     "section": "World",
-     "sectionZh": "国际",
-     "title": "Iran's attacks on ships in the Strait of Hormuz escalate",
-     "dek": "Iran takes the offensive with attacks on ships in the Strait of Hormuz and airstrikes on several countries around the Persian Gulf.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate",
-     "byline": "Aya Batrawy",
-     "dateLabel": "2026-11-20",
-     "words": 541,
-     "readTime": 3,
-     "level": "B2",
-     "levelEn": "Upper-intermediate",
-     "paragraphs": [
-      {
-       "en": "Iran takes the offensive with attacks on ships in the Strait of Hormuz and airstrikes on several countries around the Persian Gulf.",
-       "zh": "伊朗发起进攻，对霍尔木兹海峡的船只进行攻击，并对波斯湾周边的几个国家进行空袭。"
-      },
-      {
-       "en": "Iran's attacks on ships in the Strait of Hormuz are ramping up. Data shows attacks have hit a record high since the start of the war. And it's not just ships that are blowing up in the Gulf. The U.S. has been striking an Iranian island. And Iran has launched drones at U.S. radars and air defense systems in two Arab Gulf countries. Joining us to talk about all these escalations is NPR correspondent in Dubai, Aya Batrawy. So let's start with the Iranian attacks on ships in the Strait of Hormuz. What makes this period different from others during the war?",
-       "zh": "伊朗对霍尔木兹海峡船只的袭击正在升级。数据显示，自战争开始以来，袭击次数已达到创纪录的高点。而在海湾中爆炸的并不仅仅是船只。美国一直在打击伊朗的一个岛屿。伊朗也向两个阿拉伯海湾国家的美国雷达和防空系统发射了无人机。加入我们讨论所有这些升级事件的是NPR驻迪拜记者Aya Batrawy。那么，让我们先从伊朗对霍尔木兹海峡船只的袭击开始。这一时期与战争期间的其他时期有何不同？"
-      },
-      {
-       "en": "AYA BATRAWY, BYLINE: So, A, it's simply the sheer number of attacks. So in just one 24-hour period this week, Iran struck two ships, an oil tanker and another one carrying liquefied gas. And that vessel that was carrying gas exploded into a ball of fire. And the Indian crewmembers had to jump straight into the water without time to even get on lifeboats.",
-       "zh": "阿雅·巴特拉维，署名：所以，A，这只是攻击次数的数量。就在本周的一个24小时内，伊朗袭击了两艘船，一艘油轮和另一艘运送液化气的船。那艘运送天然气的船爆炸成一团火球。印度船员不得不直接跳入水中，甚至没有时间乘坐救生艇。"
-      },
-      {
-       "en": "BATRAWY: That's according to Indian officials. Yeah. And Oman says its forces rescued the 24 men. But then also a tanker belonging to Abu Dhabi's oil company was struck that same day, with 11 crewmembers on that hospitalized and one missing. So this is a glimpse of just one day this week. They've been hitting ships daily. Now, the International Maritime Organization has some figures based on confirmed incidents, which I'll note here are conservative because not all crews report attacks.",
-       "zh": "BATRAWY：这是根据印度官员的说法。是的。而阿曼表示，其部队救出了24人。但同一天，属于阿布扎比石油公司的油轮也遭遇袭击，船上11名船员住院，1人失踪。这只是本周一天的情况。他们每天都在攻击船只。现在，国际海事组织根据已确认的事件提供了一些数据，我在这里指出，这些数据是保守的，因为并非所有船员都会报告袭击事件。"
-      },
-      {
-       "en": "But even with that in mind, there were far more attacks on ships in the Strait of Hormuz in October than any month since the start of the war. And November is on pace to exceed that. And, obviously, this isn't just keeping oil prices high. It's also killing seafarers. Bulk carriers with fertilizers and other essential products from the Gulf are also facing similar threats. And some of these tankers have sunk or spilled their oil out.",
-       "zh": "但即便考虑到这一点，10月份在霍尔木兹海峡对船只的袭击仍比战争开始以来的任何一个月份都多。而11月的情况可能会超过这个数字。显然，这不仅仅是让油价保持高位。这同样在危害海员的生命。从海湾运送化肥和其他必需品的散货船也面临类似的威胁。其中一些油轮已经沉没或泄漏了石油。"
-      },
-      {
-       "en": "BATRAWY: All right. So for several weeks, there were huge stretches of the UAE's coastline that were closed to the public after an oil tanker was struck on October 9. And that oil slick washed up on the shores of various emirates here. And the cleanup effort is ongoing in some of these places. So I want to share with you what I saw this week when I drove up to the emirate of Umm Al Quwain, where its entire coast is still closed off to the public.",
-       "zh": "BATRAWY：好吧。几周以来，在10月9日一艘油轮被撞后，阿联酋海岸线的大片区域对公众关闭。那次泄漏的油污冲到了这里各酋长国的海岸上。在一些地方，清理工作仍在进行中。所以我想和你们分享我这周开车前往乌姆盖万酋长国时看到的景象，那里的整个海岸线仍然对公众封闭。"
-      },
-      {
-       "en": "I'm approaching an area with some benches that overlook the water. And the whole area smells like petrol. This is another consequence of this war that is now in its ninth month. I think this is the cleanup crew. I can see them cleaning up here. They're all wearing the hazard outfits.",
-       "zh": "我正接近一个有几张长椅的区域，这些长椅可以俯瞰水面。整个区域都弥漫着汽油味。这是这场已经持续到第九个月战争的另一个后果。我想这是清理队。我看到他们正在这里清理。他们都穿着防护服。"
-      },
-      {
-       "en": "BATRAWY: Yeah. So it smelled like petrol. And, look, these Gulf Arab countries, they don't want to have to seek permission and pay transit fees to Iran to use a waterway that was free to navigate before this war. So the U.S. is escorting ships that want to pass the strait. But attacks continue.",
-       "zh": "BATRAWY：是的。所以它闻起来像汽油。而且，你看，这些海湾阿拉伯国家，他们不想为了使用在这场战争之前可以自由通行的水道而不得不向伊朗寻求许可并支付过境费。所以美国正在护送想通过海峡的船只。但袭击仍在继续。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "data",
-       "pos": "n.",
-       "zh": "数据",
-       "ex": "Data shows attacks have hit a record high since the start of the war.",
-       "forms": []
-      },
-      {
-       "w": "strike",
-       "pos": "n.",
-       "zh": "罢工；打击",
-       "ex": "has been striking an Iranian island.",
-       "forms": [
-        "striking"
-       ]
-      },
-      {
-       "w": "drone",
-       "pos": "n.",
-       "zh": "无人机",
-       "ex": "And Iran has launched drones at U.S.",
-       "forms": [
-        "drones"
-       ]
-      },
-      {
-       "w": "escalation",
-       "pos": "n.",
-       "zh": "升级；加剧",
-       "ex": "Joining us to talk about all these escalations is NPR correspondent in Dubai, Aya Batrawy.",
-       "forms": [
-        "escalations"
-       ]
-      },
-      {
-       "w": "number",
-       "pos": "n.",
-       "zh": "数量；数字",
-       "ex": "AYA BATRAWY, BYLINE: So, A, it's simply the sheer number of attacks.",
-       "forms": []
-      },
-      {
-       "w": "oil",
-       "pos": "n.",
-       "zh": "石油",
-       "ex": "So in just one 24-hour period this week, Iran struck two ships, an oil tanker and another one carrying liquefied gas.",
-       "forms": []
-      },
-      {
-       "w": "gas",
-       "pos": "n.",
-       "zh": "天然气；气体",
-       "ex": "So in just one 24-hour period this week, Iran struck two ships, an oil tanker and another one carrying liquefied gas.",
-       "forms": []
-      },
-      {
-       "w": "water",
-       "pos": "n.",
-       "zh": "水",
-       "ex": "And the Indian crewmembers had to jump straight into the water without time to even get on lifeboats.",
-       "forms": []
-      },
-      {
-       "w": "official",
-       "pos": "n.",
-       "zh": "官员；adj. 官方的",
-       "ex": "BATRAWY: That's according to Indian officials.",
-       "forms": [
-        "officials"
-       ]
-      },
-      {
-       "w": "international",
-       "pos": "adj.",
-       "zh": "国际的",
-       "ex": "Now, the International Maritime Organization has some figures based on confirmed incidents, which I'll note here are conservative because not all crews report attacks.",
-       "forms": []
-      },
-      {
-       "w": "confirm",
-       "pos": "v.",
-       "zh": "证实；确认",
-       "ex": "Now, the International Maritime Organization has some figures based on confirmed incidents, which I'll note here are conservative because not all crews report attacks.",
-       "forms": [
-        "confirmed"
-       ]
-      },
-      {
-       "w": "report",
-       "pos": "n.",
-       "zh": "报告；报道",
-       "ex": "Now, the International Maritime Organization has some figures based on confirmed incidents, which I'll note here are conservative because not all crews report attacks.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "data",
-      "strike",
-      "drone",
-      "escalation",
-      "number"
-     ],
-     "keyVocab": [
-      "data",
-      "strike",
-      "drone",
-      "escalation",
-      "number",
-      "oil",
-      "gas",
-      "water"
-     ]
-    },
-    {
-     "id": "2026-11-20-business",
-     "section": "Business",
-     "sectionZh": "商业 · 财经",
-     "title": "AI giant Anthropic's shares pop in debut after blockbuster IPO",
-     "dek": "Shares in the AI juggernaut Anthropic are now trading on the stock market. They debuted Thursday, after a record-breaking IPO.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/19/nx-s1-6042560/ai-giant-anthropics-shares-pop-in-debut-after-blockbuster-ipo",
-     "byline": "John Ruwitch",
-     "dateLabel": "2026-11-20",
-     "words": 338,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "Shares in the AI juggernaut Anthropic are now trading on the stock market. They debuted Thursday, after a record-breaking IPO.",
-       "zh": "人工智能巨头Anthropic的股票现在在股市交易。它们在创纪录的首次公开募股后于周四首次亮相。"
-      },
-      {
-       "en": "Shares in the AI juggernaut Anthropic are now trading on the stock market. They debuted today after a record-breaking IPO.",
-       "zh": "人工智能巨头Anthropic的股票现在在股市交易。它们在创纪录的首次公开募股后今天首次亮相。"
-      },
-      {
-       "en": "ADENA FRIEDMAN: Today, Anthropic becomes a public company and begins trading on NASDAQ under the ticker symbol ANT.",
-       "zh": "阿德娜·弗里德曼：今天，Anthropic 成为一家上市公司，并开始在纳斯达克交易，股票代码为 ANT。"
-      },
-      {
-       "en": "DETROW: The chair and CEO of NASDAQ celebrated the listing this morning. The CEO of Anthropic, Dario Amodei, had a big grin when he rang the opening bell.",
-       "zh": "DETROW：纳斯达克的董事长兼首席执行官今天早上庆祝了上市。Anthropic 的首席执行官 Dario Amodei 在敲响开盘钟时露出了灿烂的笑容。"
-      },
-      {
-       "en": "DETROW: And speaking of Anthropic and speaking of money, here is where we do have to note that Anthropic is a financial supporter of NPR. NPR's John Ruwitch is on the line from Silicon Valley with more from today. Hey, John.",
-       "zh": "DETROW: 说到Anthropic，也说到钱，我们确实需要注意的是，Anthropic是NPR的财务支持者。NPR的约翰·鲁维奇现在从硅谷连线，为我们带来今天的最新情况。嗨，约翰。"
-      },
-      {
-       "en": "RUWITCH: It was big. Anthropic sold nearly a billion shares to the public and sold others at the same time to a handful of big tech firms in what's known as a private placement. The total haul for the company, its founders, was more than $107 billion, with a B. The IPO alone was the biggest in history, blowing past SpaceX's listing from June, which had set the previous record.",
-       "zh": "RUWITCH：规模很大。Anthropic 向公众出售了近十亿股股票，同时以所谓的私募方式向少数大型科技公司出售了其他股票。公司及其创始人的总收入超过了 1070 亿美元，仅首次公开募股（IPO）就创下了历史最大纪录，远超今年六月 SpaceX 的上市，后者此前创造了纪录。"
-      },
-      {
-       "en": "You know, IPOs are kind of a two-step process. The company sells the shares at a fixed price to investors who apply in advance to get in on the IPO. That price was 83 bucks, which was higher than expected. And then the shares start trading on the stock market, which is what happened today, and they started out with a bang, opening up 34% from the IPO price. Now, they've come down off of the high over the course of the trading day, but they did end trading still well above the IPO price.",
-       "zh": "你知道，首次公开募股（IPO）有点像一个两步走的过程。公司以固定价格向提前申请参与IPO的投资者出售股票。那个价格是83美元，比预期的要高。然后股票开始在证券市场交易，这就是今天发生的情况，并且它们开盘表现非常好，开盘价比IPO价格上涨了34%。现在，在交易日内股价已经从高点回落，但收盘时仍然远高于IPO价格。"
-      },
-      {
-       "en": "DETROW: What's interesting here is there's so many worries about AI right now, and one of the big worries is that, you know, the industry is possibly in a big bubble. Given that, why do you think investors were so eager to snap up these shares?",
-       "zh": "DETROW：这里有趣的是，现在人们对人工智能有这么多担忧，其中一个大担忧是，你知道，这个行业可能正处于一个大泡沫中。既然如此，你认为为什么投资者如此急于抢购这些股票？"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "market",
-       "pos": "n.",
-       "zh": "市场",
-       "ex": "Shares in the AI juggernaut Anthropic are now trading on the stock market.",
-       "forms": []
-      },
-      {
-       "w": "public",
-       "pos": "adj.",
-       "zh": "公共的；公众的",
-       "ex": "ADENA FRIEDMAN: Today, Anthropic becomes a public company and begins trading on NASDAQ under the ticker symbol ANT.",
-       "forms": []
-      },
-      {
-       "w": "financial",
-       "pos": "adj.",
-       "zh": "金融的；财务的",
-       "ex": "DETROW: And speaking of Anthropic and speaking of money, here is where we do have to note that Anthropic is a financial supporter of NPR.",
-       "forms": []
-      },
-      {
-       "w": "billion",
-       "pos": "n.",
-       "zh": "十亿",
-       "ex": "Anthropic sold nearly a billion shares to the public and sold others at the same time to a handful of big tech firms in what's known as a private placement.",
-       "forms": []
-      },
-      {
-       "w": "private",
-       "pos": "adj.",
-       "zh": "私人的；私营的",
-       "ex": "Anthropic sold nearly a billion shares to the public and sold others at the same time to a handful of big tech firms in what's known as a private placement.",
-       "forms": []
-      },
-      {
-       "w": "total",
-       "pos": "n.",
-       "zh": "总数",
-       "ex": "The total haul for the company, its founders, was more than $107 billion, with a B.",
-       "forms": []
-      },
-      {
-       "w": "history",
-       "pos": "n.",
-       "zh": "历史",
-       "ex": "The IPO alone was the biggest in history, blowing past SpaceX's listing from June, which had set the previous record.",
-       "forms": []
-      },
-      {
-       "w": "price",
-       "pos": "n.",
-       "zh": "价格",
-       "ex": "The company sells the shares at a fixed price to investors who apply in advance to get in on the IPO.",
-       "forms": []
-      },
-      {
-       "w": "investor",
-       "pos": "n.",
-       "zh": "投资者",
-       "ex": "The company sells the shares at a fixed price to investors who apply in advance to get in on the IPO.",
-       "forms": [
-        "investors"
-       ]
-      },
-      {
-       "w": "expect",
-       "pos": "v.",
-       "zh": "预期；期待",
-       "ex": "That price was 83 bucks, which was higher than expected.",
-       "forms": [
-        "expected"
-       ]
-      },
-      {
-       "w": "industry",
-       "pos": "n.",
-       "zh": "行业；工业",
-       "ex": "DETROW: What's interesting here is there's so many worries about AI right now, and one of the big worries is that, you know, the industry is possibly in a big bubble.",
-       "forms": []
-      },
-      {
-       "w": "bubble",
-       "pos": "n.",
-       "zh": "泡沫",
-       "ex": "DETROW: What's interesting here is there's so many worries about AI right now, and one of the big worries is that, you know, the industry is possibly in a big bubble.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "market",
-      "public",
-      "financial",
-      "billion",
-      "private"
-     ],
-     "keyVocab": [
-      "market",
-      "public",
-      "financial",
-      "billion",
-      "private",
-      "total",
-      "history",
-      "price"
-     ]
-    },
-    {
-     "id": "2026-11-20-technology",
-     "section": "Technology",
-     "sectionZh": "科技",
-     "title": "OpenAI announces new AI safety program; researchers worry it won't be enough",
-     "dek": "AI safety researchers say OpenAI's new third party evaluator program falls far short of what the company promised, raising concerns about its effectiveness.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/18/nx-s1-6044223/openai-embedded-evaluators-program-critics",
-     "byline": "Huo Jingnan",
-     "dateLabel": "2026-11-20",
-     "words": 322,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "AI safety researchers say OpenAI's new third party evaluator program falls far short of what the company promised, raising concerns about its effectiveness.",
-       "zh": "人工智能安全研究人员表示，OpenAI 新推出的第三方评估者计划远未达到公司承诺的水平，这引发了人们对其有效性的担忧。"
-      },
-      {
-       "en": "The company announced Monday that staff from four AI safety and research organizations will become \"embedded assessors\" to \"give people a clearer view of how labs are evaluating and managing [potential] risks.\"",
-       "zh": "公司周一宣布，来自四个人工智能安全和研究组织的员工将成为“嵌入式评估员”，以“让人们更清楚地了解实验室如何评估和管理[潜在]风险。”"
-      },
-      {
-       "en": "\"Getting an outside opinion on the safety work and the robustness of these systems is going to be increasingly important and valuable,\" CEO Sam Altman said at Semafor's Silicon Valley and the World conference on Monday.",
-       "zh": "首席执行官萨姆·奥特曼（Sam Altman）在周一的Semafor硅谷与世界大会上表示：“对这些系统的安全工作和稳健性获得外部意见将变得越来越重要和有价值。”"
-      },
-      {
-       "en": "However, many AI safety researchers say the new program is a far cry from Altman's vow in September that independent evaluators would have \"employee-like access\" to internal company systems.",
-       "zh": "然而，许多人工智能安全研究人员表示，这个新项目与奥特曼在九月份承诺的独立评估人员将拥有“类似员工的访问权限”使用公司内部系统的愿景相去甚远。"
-      },
-      {
-       "en": "Altman's promise came after details of the Hugging Face attack by OpenAI's autonomous systems shook the AI field. Worries of the technology's catastrophic risk captured public attention, and rival Anthropic said it would set up such a program.",
-       "zh": "在OpenAI的自主系统袭击Hugging Face的细节震动了人工智能领域之后，Altman的承诺随之而来。人们对该技术可能带来的灾难性风险的担忧引起了公众的关注，而竞争对手Anthropic表示将建立这样的项目。"
-      },
-      {
-       "en": "\"We are giving deep access to some of the most sensitive tools and models our researchers use...that are the most important for assessing key, relevant and timely safety claims,\" said Lama Ahmad, OpenAI's frontier assurances lead, on X.",
-       "zh": "OpenAI的前沿保障负责人Lama Ahmad在X上表示：“我们正在向我们的研究人员使用的一些最敏感的工具和模型提供深度访问权限……这些工具和模型对于评估关键、相关和及时的安全声明至关重要。”"
-      },
-      {
-       "en": "Prior to these new embedded evaluation programs, AI companies have brought in outside researchers to assess the capabilities of AI models and identify safety loopholes the companies have missed.",
-       "zh": "在这些新的嵌入式评估程序出现之前，人工智能公司曾邀请外部研究人员来评估人工智能模型的能力，并识别公司忽略的安全漏洞。"
-      },
-      {
-       "en": "The work of outside evaluators have already helped shed light on the companies' work, and have raised public awareness of safety risks that the technology poses. One recent report about Anthropic using AI to significantly speed up model development has prompted concerns in the field about how close the top companies are to using AI to autonomously build even more powerful models, a stage known as recursive self-improvement. Some in the field worry that if this happens, the velocity of development could lead to catastrophic consequences for humanity and are calling for new regulation against the practice.",
-       "zh": "外部评估人员的工作已经帮助揭示了公司的工作，并提高了公众对该技术带来的安全风险的认识。最近一份关于Anthropic使用人工智能显著加快模型开发的报告，引发了该领域对顶尖公司距离使用人工智能自主构建更强大模型的阶段（称为递归自我改进）有多近的担忧。该领域的一些人担心，如果发生这种情况，开发速度可能导致对人类的灾难性后果，因此呼吁对这一做法进行新的监管。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "researcher",
-       "pos": "n.",
-       "zh": "研究人员",
-       "ex": "AI safety researchers say OpenAI's new third party evaluator program falls far short of what the company promised, raising concerns about its effectiveness.",
-       "forms": [
-        "researchers"
-       ]
-      },
-      {
-       "w": "party",
-       "pos": "n.",
-       "zh": "政党；一方",
-       "ex": "AI safety researchers say OpenAI's new third party evaluator program falls far short of what the company promised, raising concerns about its effectiveness.",
-       "forms": []
-      },
-      {
-       "w": "fall",
-       "pos": "n.",
-       "zh": "下降；下跌",
-       "ex": "AI safety researchers say OpenAI's new third party evaluator program falls far short of what the company promised, raising concerns about its effectiveness.",
-       "forms": [
-        "falls"
-       ]
-      },
-      {
-       "w": "announce",
-       "pos": "v.",
-       "zh": "宣布；公布",
-       "ex": "The company announced Monday that staff from four AI safety and research organizations will become \"embedded assessors\" to \"give people a clearer view of how labs are evaluating and managing [potential] risks.\" \"Getting an outside opinion on the safety work and the robustness of these systems is going to be increasingly important and valuable,\" CEO Sam Altman said at Semafor's Silicon Valley and the World conference on Monday.",
-       "forms": [
-        "announced"
-       ]
-      },
-      {
-       "w": "research",
-       "pos": "n.",
-       "zh": "研究",
-       "ex": "The company announced Monday that staff from four AI safety and research organizations will become \"embedded assessors\" to \"give people a clearer view of how labs are evaluating and managing [potential] risks.\" \"Getting an outside opinion on the safety work and the robustness of these systems is going to be increasingly important and valuable,\" CEO Sam Altman said at Semafor's Silicon Valley and the World conference on Monday.",
-       "forms": []
-      },
-      {
-       "w": "risk",
-       "pos": "n.",
-       "zh": "风险",
-       "ex": "The company announced Monday that staff from four AI safety and research organizations will become \"embedded assessors\" to \"give people a clearer view of how labs are evaluating and managing [potential] risks.\" \"Getting an outside opinion on the safety work and the robustness of these systems is going to be increasingly important and valuable,\" CEO Sam Altman said at Semafor's Silicon Valley and the World conference on Monday.",
-       "forms": [
-        "risks"
-       ]
-      },
-      {
-       "w": "vow",
-       "pos": "v.",
-       "zh": "发誓；郑重承诺",
-       "ex": "However, many AI safety researchers say the new program is a far cry from Altman's vow in September that independent evaluators would have \"employee-like access\" to internal company systems.",
-       "forms": []
-      },
-      {
-       "w": "public",
-       "pos": "adj.",
-       "zh": "公共的；公众的",
-       "ex": "Worries of the technology's catastrophic risk captured public attention, and rival Anthropic said it would set up such a program.",
-       "forms": []
-      },
-      {
-       "w": "rival",
-       "pos": "v.",
-       "zh": "与……竞争；媲美",
-       "ex": "Worries of the technology's catastrophic risk captured public attention, and rival Anthropic said it would set up such a program.",
-       "forms": []
-      },
-      {
-       "w": "claim",
-       "pos": "v.",
-       "zh": "声称；主张",
-       "ex": "\"We are giving deep access to some of the most sensitive tools and models our researchers use...that are the most important for assessing key, relevant and timely safety claims,\" said Lama Ahmad, OpenAI's frontier assurances lead, on X.",
-       "forms": [
-        "claims"
-       ]
-      },
-      {
-       "w": "technology",
-       "pos": "n.",
-       "zh": "技术；科技",
-       "ex": "Worries of the technology's catastrophic risk captured public attention, and rival Anthropic said it would set up such a program.",
-       "forms": []
-      },
-      {
-       "w": "report",
-       "pos": "n.",
-       "zh": "报告；报道",
-       "ex": "One recent report about Anthropic using AI to significantly speed up model development has prompted concerns in the field about how close the top companies are to using AI to autonomously build even more powerful models, a stage known as recursive self-improvement.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "researcher",
-      "party",
-      "fall",
-      "announce",
-      "research"
-     ],
-     "keyVocab": [
-      "researcher",
-      "party",
-      "fall",
-      "announce",
-      "research",
-      "risk",
-      "vow",
-      "public"
-     ]
-    },
-    {
-     "id": "2026-11-20-science",
-     "section": "Science",
-     "sectionZh": "科学",
-     "title": "They tried to torture him into leaving Iraq. He refused to abandon the nature he protects",
-     "dek": "Drought threatens Iraq’s marshes, risking one of the oldest ways of life",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/18/nx-s1-6043167/iraq-environmentalist-marshes-iran-backed-militia-kidnapped",
-     "byline": "Jane Arraf",
-     "dateLabel": "2026-11-20",
-     "words": 276,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "Drought threatens Iraq’s marshes, risking one of the oldest ways of life",
-       "zh": "干旱威胁伊拉克的沼泽地，危及最古老的生活方式之一"
-      },
-      {
-       "en": "CENTRAL MARSHES, southern Iraq — For all he's been through, environmentalist Jassim al-Asadi still approaches each sighting of wildlife in Iraq's marshes as if it's the very first time — even though he has seen them thousands of times before.",
-       "zh": "伊拉克南部中央沼泽——尽管经历过这么多，环保主义者贾西姆·阿尔-阿萨迪在看到伊拉克沼泽的野生动物时，仍然像第一次见到一样——即便他以前已经见过成千上万次。"
-      },
-      {
-       "en": "\"Do you see?\" he asks excitedly, pointing out a white egret perched on the back of a water buffalo as his long, narrow boat glides by. \"It's a buffalo! With a bird on its back!\"",
-       "zh": "“你看到了吗？”他兴奋地问，指着一只停在水牛背上的白鹭，当他那条又长又窄的小船滑过时。“是一头水牛！背上还有一只鸟！”"
-      },
-      {
-       "en": "Kingfishers with bright flashes of blue on their wings perch on reeds rising up from the shallow water. A wild boar and her piglets dart in front of the boat and disappear into the tangled grass.",
-       "zh": "翠鸟翅膀上闪烁着明亮的蓝色，栖息在从浅水中长出的芦苇上。一只野猪和她的小猪在船前疾驰，然后消失在杂乱的草丛中。"
-      },
-      {
-       "en": "Despite having been kidnapped, tortured and accused by an Iran-backed militia of being an Israeli agent, Asadi is back in the marshes, monitoring water levels and talking to fishermen and buffalo herders to find out what difference a season of rain has made in the biggest wetlands in the Middle East.",
-       "zh": "尽管曾被绑架、折磨并被一个伊朗支持的民兵指控为以色列特工，阿萨迪现在回到了湿地，监测水位，与渔民和水牛牧民交谈，以了解一季降雨在中东最大的湿地中带来了什么变化。"
-      },
-      {
-       "en": "Five devastating years of drought dried out some of the marshlands. In places where water remained, it was brackish, stunting the reeds and grass. Water buffalo were dying from lack of food and contaminated water.",
-       "zh": "五年毁灭性的干旱让一些沼泽地干涸。在仍有水的地方，水是咸的，抑制了芦苇和草的生长。水牛因缺乏食物和被污染的水而死亡。"
-      },
-      {
-       "en": "Residents who make their living from breeding the animals and selling milk and cream headed with their remaining herds in search of water or to the outskirts of southern Iraqi cities.",
-       "zh": "靠饲养动物和出售牛奶及奶油为生的居民带着剩余的牲畜，前往寻找水源或伊拉克南部城市的边缘地区。"
-      },
-      {
-       "en": "They have now begun to return, repopulating some of the tiny floating islands where, aside from some modern technology, marsh residents live a way of life little changed since Sumerian times, more than 4,000 years ago.",
-       "zh": "他们现在已经开始返回，重新在一些微小的浮岛上定居，除了少量现代技术之外，这些沼泽居民的生活方式自4000多年前的苏美尔时期以来几乎没有改变。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "drought",
-       "pos": "n.",
-       "zh": "干旱",
-       "ex": "Drought threatens Iraq’s marshes, risking one of the oldest ways of life CENTRAL MARSHES, southern Iraq — For all he's been through, environmentalist Jassim al-Asadi still approaches each sighting of wildlife in Iraq's marshes as if it's the very first time — even though he has seen them thousands of times before.",
-       "forms": []
-      },
-      {
-       "w": "risk",
-       "pos": "n.",
-       "zh": "风险",
-       "ex": "Drought threatens Iraq’s marshes, risking one of the oldest ways of life CENTRAL MARSHES, southern Iraq — For all he's been through, environmentalist Jassim al-Asadi still approaches each sighting of wildlife in Iraq's marshes as if it's the very first time — even though he has seen them thousands of times before.",
-       "forms": [
-        "risking"
-       ]
-      },
-      {
-       "w": "wildlife",
-       "pos": "n.",
-       "zh": "野生动物",
-       "ex": "Drought threatens Iraq’s marshes, risking one of the oldest ways of life CENTRAL MARSHES, southern Iraq — For all he's been through, environmentalist Jassim al-Asadi still approaches each sighting of wildlife in Iraq's marshes as if it's the very first time — even though he has seen them thousands of times before.",
-       "forms": []
-      },
-      {
-       "w": "water",
-       "pos": "n.",
-       "zh": "水",
-       "ex": "\"Do you see?\" he asks excitedly, pointing out a white egret perched on the back of a water buffalo as his long, narrow boat glides by.",
-       "forms": []
-      },
-      {
-       "w": "rise",
-       "pos": "n.",
-       "zh": "上升；上涨",
-       "ex": "With a bird on its back!\" Kingfishers with bright flashes of blue on their wings perch on reeds rising up from the shallow water.",
-       "forms": [
-        "rising"
-       ]
-      },
-      {
-       "w": "level",
-       "pos": "n.",
-       "zh": "水平；层级",
-       "ex": "Despite having been kidnapped, tortured and accused by an Iran-backed militia of being an Israeli agent, Asadi is back in the marshes, monitoring water levels and talking to fishermen and buffalo herders to find out what difference a season of rain has made in the biggest wetlands in the Middle East.",
-       "forms": [
-        "levels"
-       ]
-      },
-      {
-       "w": "food",
-       "pos": "n.",
-       "zh": "食物",
-       "ex": "Water buffalo were dying from lack of food and contaminated water.",
-       "forms": []
-      },
-      {
-       "w": "resident",
-       "pos": "n.",
-       "zh": "居民",
-       "ex": "Residents who make their living from breeding the animals and selling milk and cream headed with their remaining herds in search of water or to the outskirts of southern Iraqi cities.",
-       "forms": [
-        "residents"
-       ]
-      },
-      {
-       "w": "technology",
-       "pos": "n.",
-       "zh": "技术；科技",
-       "ex": "They have now begun to return, repopulating some of the tiny floating islands where, aside from some modern technology, marsh residents live a way of life little changed since Sumerian times, more than 4,000 years ago.",
-       "forms": []
-      },
-      {
-       "w": "change",
-       "pos": "n.",
-       "zh": "变化；改变",
-       "ex": "They have now begun to return, repopulating some of the tiny floating islands where, aside from some modern technology, marsh residents live a way of life little changed since Sumerian times, more than 4,000 years ago.",
-       "forms": [
-        "changed"
-       ]
-      }
-     ],
-     "homeWords": [
-      "drought",
-      "risk",
-      "wildlife",
-      "water",
-      "rise"
-     ],
-     "keyVocab": [
-      "drought",
-      "risk",
-      "wildlife",
-      "water",
-      "rise",
-      "level",
-      "food",
-      "resident"
-     ]
-    },
-    {
-     "id": "2026-11-20-culture",
-     "section": "Culture",
-     "sectionZh": "文化",
-     "title": "How the Steadicam sprinted up the stairs along with Rocky",
-     "dek": "Sylvester Stallone's underdog story Rocky was crowned the Best Picture at the 1977 Academy Awards. The film's most famous sequence shows the character Rocky Balboa training for his big heavyweight…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/19/nx-s1-6027243/rocky-steadicam-garrett-brown",
-     "byline": "Mandalit del Barco",
-     "dateLabel": "2026-11-20",
-     "words": 332,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "Sylvester Stallone's underdog story Rocky was crowned the Best Picture at the 1977 Academy Awards. The film's most famous sequence shows the character Rocky Balboa training for his big heavyweight boxing championship.",
-       "zh": "西尔维斯特·史泰龙的逆袭故事《洛奇》在1977年奥斯卡颁奖礼上被评为最佳影片。电影中最著名的片段展示了角色洛奇·巴尔博亚为他的重量级拳击冠军赛进行训练。"
-      },
-      {
-       "en": "He runs through trainyards, a crowded outdoor market, and a jogging path. He punches a speedbag, does push-ups and sit-ups, gets repeatedly jabbed in the stomach, and slugs frozen sides of beef with his bare knuckles. Finally, Rocky sprints up the steps of the Philadelphia Art Museum, all the way to the top, where he jumps up and down and raises his arms in triumph.",
-       "zh": "他穿过火车场、拥挤的露天市场和慢跑道。他打着速度包，做俯卧撑和仰卧起坐，肚子被反复戳，还用赤手空拳猛击冻牛肉。最后，洛基冲上费城艺术博物馆的台阶，一路冲到顶端，跳上跳下，举起双臂示意胜利。"
-      },
-      {
-       "en": "Now the new movie I Play Rocky tells the story about how Stallone wrote and starred in his movie. It also celebrates the original cinematographer, Garrett Brown. He invented the Steadicam — which is still in use today.",
-       "zh": "现在我演的这部新电影《洛基》讲述了史泰龙如何编剧并主演他的电影的故事。它还庆祝了原摄像师加勒特·布朗。他发明了史蒂迪摄像机——直到今天仍在使用。"
-      },
-      {
-       "en": "For Rocky, Brown used his invention to shoot from inside the boxing ring; he also wove through the frozen meat locker and ran up those steps with Rocky.",
-       "zh": "对于洛基，布朗用他的发明从拳击台内开枪；他还穿过冷冻肉库，并和洛基一起跑上那些台阶。"
-      },
-      {
-       "en": "\"He's not just holding a camera, he's telling a story,\" says I Play Rocky director Peter Farrelly. Garrett's smooth camera movements captured Rocky's iconic moment at the top of the stairs that still — a half-century later — has fans cheering wildly.",
-       "zh": "《我玩过洛基》的导演彼得·法雷利说：“他不仅仅是在拿着相机，他在讲述一个故事。”加勒特流畅的摄影动作捕捉到了洛基在楼梯顶端的标志性瞬间，这一时刻即便在半个世纪后，依然让观众热烈欢呼。"
-      },
-      {
-       "en": "\"Garrett Brown was smart enough and savvy enough and artistic enough,\" says Farrelly, \"[that] he didn't just shoot him going up the stairs, he followed him around and we got to be part of it as an audience.\"",
-       "zh": "Farrelly说：“Garrett Brown 足够聪明、足够精明、足够有艺术感，他不仅仅拍摄他上楼的画面，他还跟着他走动，而我们作为观众也得以参与其中。”"
-      },
-      {
-       "en": "All the while, Brown was filming with his invention strapped to his chest.",
-       "zh": "与此同时，布朗胸前绑着他的发明进行拍摄。"
-      },
-      {
-       "en": "\"It has a harness instead of being in your hands,\" Brown tells NPR about his Steadicam. \"And at the business end of that arm is a so-called gimbal, so that any angular thing that I did not get through to the camera.\"",
-       "zh": "布朗在接受NPR采访时谈到他的Steadicam：“它是一个挂带，而不是用手拿着。那根臂的末端是一个所谓的万向节，所以任何我没有传递给摄像机的角度动作都会通过它实现。”"
-      },
-      {
-       "en": "Brown's contraption included a fiber optic viewfinder strapped to his head. \"I can only imagine what that looked like,\" he chuckles. \"You have to be immune to embarrassment to try out inventions like that.\"",
-       "zh": "布朗的装置包括一个绑在他头上的光纤取景器。“我只能想象那看起来是什么样子，”他笑着说。“要尝试那样的发明，你必须对尴尬免疫。”"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "market",
-       "pos": "n.",
-       "zh": "市场",
-       "ex": "He runs through trainyards, a crowded outdoor market, and a jogging path.",
-       "forms": []
-      },
-      {
-       "w": "museum",
-       "pos": "n.",
-       "zh": "博物馆",
-       "ex": "Finally, Rocky sprints up the steps of the Philadelphia Art Museum, all the way to the top, where he jumps up and down and raises his arms in triumph.",
-       "forms": []
-      },
-      {
-       "w": "audience",
-       "pos": "n.",
-       "zh": "观众；受众",
-       "ex": "\"Garrett Brown was smart enough and savvy enough and artistic enough,\" says Farrelly, \"[that] he didn't just shoot him going up the stairs, he followed him around and we got to be part of it as an audience.\" All the while, Brown was filming with his invention strapped to his chest.",
-       "forms": []
-      },
-      {
-       "w": "film",
-       "pos": "n.",
-       "zh": "电影；影片",
-       "ex": "\"Garrett Brown was smart enough and savvy enough and artistic enough,\" says Farrelly, \"[that] he didn't just shoot him going up the stairs, he followed him around and we got to be part of it as an audience.\" All the while, Brown was filming with his invention strapped to his chest.",
-       "forms": [
-        "filming"
-       ]
-      }
-     ],
-     "homeWords": [
-      "market",
-      "museum",
-      "audience",
-      "film"
-     ],
-     "keyVocab": [
-      "market",
-      "museum",
-      "audience",
-      "film"
      ]
     }
    ]
