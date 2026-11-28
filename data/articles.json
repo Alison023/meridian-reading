@@ -1,6 +1,715 @@
 {
- "updated": "2026-11-27T08:53:04.729841+00:00",
+ "updated": "2026-11-28T08:19:37.555226+00:00",
  "days": [
+  {
+   "date": "2026-11-28",
+   "articles": [
+    {
+     "id": "2026-11-28-world",
+     "section": "World",
+     "sectionZh": "国际",
+     "title": "As UN Secretary General's last day approaches, search for his replacement continues",
+     "dek": "The UN Secretary General's term ends this year, but the big powers at the UN have been unable to agree on a replacement. UN watchers worry that there will be little time to get up to speed.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/27/nx-s1-6050907/as-un-secretary-generals-last-day-approaches-search-for-his-replacement-continues",
+     "byline": "Michele Kelemen",
+     "dateLabel": "2026-11-28",
+     "words": 378,
+     "readTime": 3,
+     "level": "B2",
+     "levelEn": "Upper-intermediate",
+     "paragraphs": [
+      {
+       "en": "The UN Secretary General's term ends this year, but the big powers at the UN have been unable to agree on a replacement. UN watchers worry that there will be little time to get up to speed.",
+       "zh": ""
+      },
+      {
+       "en": "It's crunch time for the U.N., as it looks to appoint its next secretary-general. Antonio Guterres is due to step down next month. But after nine rounds of straw polls in the Security Council, there's still no consensus on a successor. Here's NPR's Michele Kelemen.",
+       "zh": ""
+      },
+      {
+       "en": "MICHELE KELEMEN, BYLINE: The Trump administration has been tight-lipped about its preferences for a new secretary-general and had been holding out hope for new candidates to jump in the race. But time is running out, says former U.S. Ambassador Robert Wood.",
+       "zh": ""
+      },
+      {
+       "en": "ROBERT WOOD: I think it's too late, and I'm not sure anybody would want to enter the race at this particular point.",
+       "zh": ""
+      },
+      {
+       "en": "WOOD: Given the turmoil that we have in the world, all these raging wars, the bad need for the U.N. to be reformed, confidence in the U.N. at an all-time low, we need to get this decision right. It has to be the right person.",
+       "zh": ""
+      },
+      {
+       "en": "KELEMEN: Wood sees this mostly as a race between two candidates - Rebeca Grynspan, a former vice president of Costa Rica who's led the U.N.'s Trade and Development Organization, and Italian Argentinian Rafael Grossi, who heads the U.N.'s nuclear watchdog. Guyana's former foreign minister and U.N. ambassador, Carolyn Rodrigues-Burkett, is also in the mix. A former ambassador from the United Arab Emirates, Lana Nusseibeh, is, too, though she's facing opposition from activists because of her country's support for a militia carrying out atrocities in Sudan. Latin American countries also say that this is their region's turn to lead the U.N., according to U.N. traditions of regional rotations.",
+       "zh": ""
+      },
+      {
+       "en": "ELIZABETH COUSENS: It's a confounding process at this point because it is a very strong field.",
+       "zh": ""
+      },
+      {
+       "en": "KELEMEN: That's Elizabeth Cousens, president of the U.N. Foundation, which advocates for a strong U.S. presence at the U.N. In the straw polls, all four of these top candidates have faced opposition from two or more permanent Security Council members. Cousens says it's time for the council to rally behind someone to get the candidate to the General Assembly floor before the year is up.",
+       "zh": ""
+      }
+     ],
+     "vocab": [
+      {
+       "w": "power",
+       "pos": "n.",
+       "zh": "权力；电力",
+       "ex": "The UN Secretary General's term ends this year, but the big powers at the UN have been unable to agree on a replacement.",
+       "forms": [
+        "powers"
+       ]
+      },
+      {
+       "w": "poll",
+       "pos": "n.",
+       "zh": "民意调查",
+       "ex": "But after nine rounds of straw polls in the Security Council, there's still no consensus on a successor.",
+       "forms": [
+        "polls"
+       ]
+      },
+      {
+       "w": "administration",
+       "pos": "n.",
+       "zh": "政府；行政",
+       "ex": "MICHELE KELEMEN, BYLINE: The Trump administration has been tight-lipped about its preferences for a new secretary-general and had been holding out hope for new candidates to jump in the race.",
+       "forms": []
+      },
+      {
+       "w": "candidate",
+       "pos": "n.",
+       "zh": "候选人",
+       "ex": "MICHELE KELEMEN, BYLINE: The Trump administration has been tight-lipped about its preferences for a new secretary-general and had been holding out hope for new candidates to jump in the race.",
+       "forms": [
+        "candidates"
+       ]
+      },
+      {
+       "w": "ambassador",
+       "pos": "n.",
+       "zh": "大使",
+       "ex": "Ambassador Robert Wood.",
+       "forms": []
+      },
+      {
+       "w": "reform",
+       "pos": "n.",
+       "zh": "改革",
+       "ex": "to be reformed, confidence in the U.N.",
+       "forms": [
+        "reformed"
+       ]
+      },
+      {
+       "w": "president",
+       "pos": "n.",
+       "zh": "总统；总裁",
+       "ex": "KELEMEN: Wood sees this mostly as a race between two candidates - Rebeca Grynspan, a former vice president of Costa Rica who's led the U.N.'s Trade and Development Organization, and Italian Argentinian Rafael Grossi, who heads the U.N.'s nuclear watchdog.",
+       "forms": []
+      },
+      {
+       "w": "nuclear",
+       "pos": "adj.",
+       "zh": "核的；核能的",
+       "ex": "KELEMEN: Wood sees this mostly as a race between two candidates - Rebeca Grynspan, a former vice president of Costa Rica who's led the U.N.'s Trade and Development Organization, and Italian Argentinian Rafael Grossi, who heads the U.N.'s nuclear watchdog.",
+       "forms": []
+      },
+      {
+       "w": "foreign",
+       "pos": "adj.",
+       "zh": "外国的",
+       "ex": "Guyana's former foreign minister and U.N.",
+       "forms": []
+      },
+      {
+       "w": "minister",
+       "pos": "n.",
+       "zh": "部长；大臣",
+       "ex": "Guyana's former foreign minister and U.N.",
+       "forms": []
+      },
+      {
+       "w": "opposition",
+       "pos": "n.",
+       "zh": "反对派；反对",
+       "ex": "A former ambassador from the United Arab Emirates, Lana Nusseibeh, is, too, though she's facing opposition from activists because of her country's support for a militia carrying out atrocities in Sudan.",
+       "forms": []
+      },
+      {
+       "w": "activist",
+       "pos": "n.",
+       "zh": "活动家；积极分子",
+       "ex": "A former ambassador from the United Arab Emirates, Lana Nusseibeh, is, too, though she's facing opposition from activists because of her country's support for a militia carrying out atrocities in Sudan.",
+       "forms": [
+        "activists"
+       ]
+      }
+     ],
+     "homeWords": [
+      "power",
+      "poll",
+      "administration",
+      "candidate",
+      "ambassador"
+     ],
+     "keyVocab": [
+      "power",
+      "poll",
+      "administration",
+      "candidate",
+      "ambassador",
+      "reform",
+      "president",
+      "nuclear"
+     ]
+    },
+    {
+     "id": "2026-11-28-business",
+     "section": "Business",
+     "sectionZh": "商业 · 财经",
+     "title": "Can luxury save Macy's?",
+     "dek": "Leaving the Macy's flagship store in New York, the Niesig family visiting from Germany sizes up their loot: a pair of sweatpants for mom, a Hurley jacket for dad, Ugg boots for their daughter. Son…",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/27/nx-s1-6026486/macys-tries-to-reinvent-with-luxury",
+     "byline": "Alina Selyukh",
+     "dateLabel": "2026-11-28",
+     "words": 281,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "Leaving the Macy's flagship store in New York, the Niesig family visiting from Germany sizes up their loot: a pair of sweatpants for mom, a Hurley jacket for dad, Ugg boots for their daughter. Son Mika, 16, is the only one empty-handed.",
+       "zh": ""
+      },
+      {
+       "en": "\"I like zipper hoodies, and there was one zipper from Levi's that was pretty cool,\" he says. \"But in the end, I didn't buy it because it was just a little boring.\"",
+       "zh": ""
+      },
+      {
+       "en": "As Macy's this week celebrates the 100th edition of its Thanksgiving Day Parade, the department store finds itself at a turning point. After years of questionable financial prospects, Macy's is trying to reinvent — as a luxury destination.",
+       "zh": ""
+      },
+      {
+       "en": "The retailer's gambit is to keep its old shoppers while also attracting new customers, who will perhaps pay more for real leather and upscale brands.",
+       "zh": ""
+      },
+      {
+       "en": "Long before the pandemic, Macy's was grappling with America's shrinking middle class — and its own lack of fresh vision.",
+       "zh": ""
+      },
+      {
+       "en": "The department store business, to begin with, has become challenging. Big store space is expensive. Online competition is stiff. Shoppers are increasingly buying directly from their favorite brands.",
+       "zh": ""
+      },
+      {
+       "en": "And Macy's faces its own struggle. The chain is neither a discounter like Kohl's or T.J.Maxx, nor an upscale store like Bergdorf Goodman or Nordstrom. Macy's has languished in between.",
+       "zh": ""
+      },
+      {
+       "en": "\"They were kind of like right in the middle,\" says Michael Prendergast, who advises retailers and brands at the consulting firm Alvarez & Marsal. \"Now over time, that middle tier basically got crushed.\"",
+       "zh": ""
+      },
+      {
+       "en": "When the pandemic hit, store closures had Macy's forecasting an estimated $1.1 billion in losses. Its stock value dropped so low that the company was kicked off the big-league index, the S&P 500.",
+       "zh": ""
+      }
+     ],
+     "vocab": [
+      {
+       "w": "family",
+       "pos": "n.",
+       "zh": "家庭",
+       "ex": "Leaving the Macy's flagship store in New York, the Niesig family visiting from Germany sizes up their loot: a pair of sweatpants for mom, a Hurley jacket for dad, Ugg boots for their daughter.",
+       "forms": []
+      },
+      {
+       "w": "financial",
+       "pos": "adj.",
+       "zh": "金融的；财务的",
+       "ex": "After years of questionable financial prospects, Macy's is trying to reinvent — as a luxury destination.",
+       "forms": []
+      },
+      {
+       "w": "customer",
+       "pos": "n.",
+       "zh": "顾客；客户",
+       "ex": "The retailer's gambit is to keep its old shoppers while also attracting new customers, who will perhaps pay more for real leather and upscale brands.",
+       "forms": [
+        "customers"
+       ]
+      },
+      {
+       "w": "pandemic",
+       "pos": "n.",
+       "zh": "大流行病",
+       "ex": "Long before the pandemic, Macy's was grappling with America's shrinking middle class — and its own lack of fresh vision.",
+       "forms": []
+      },
+      {
+       "w": "shrink",
+       "pos": "v.",
+       "zh": "缩小；萎缩",
+       "ex": "Long before the pandemic, Macy's was grappling with America's shrinking middle class — and its own lack of fresh vision.",
+       "forms": [
+        "shrinking"
+       ]
+      },
+      {
+       "w": "challenge",
+       "pos": "n.",
+       "zh": "挑战",
+       "ex": "The department store business, to begin with, has become challenging.",
+       "forms": [
+        "challenging"
+       ]
+      },
+      {
+       "w": "online",
+       "pos": "adj.",
+       "zh": "在线的",
+       "ex": "Online competition is stiff.",
+       "forms": []
+      },
+      {
+       "w": "forecast",
+       "pos": "n.",
+       "zh": "预测；预报",
+       "ex": "\"Now over time, that middle tier basically got crushed.\" When the pandemic hit, store closures had Macy's forecasting an estimated $1.1 billion in losses.",
+       "forms": [
+        "forecasting"
+       ]
+      },
+      {
+       "w": "estimate",
+       "pos": "n.",
+       "zh": "估计；估算",
+       "ex": "\"Now over time, that middle tier basically got crushed.\" When the pandemic hit, store closures had Macy's forecasting an estimated $1.1 billion in losses.",
+       "forms": [
+        "estimated"
+       ]
+      },
+      {
+       "w": "billion",
+       "pos": "n.",
+       "zh": "十亿",
+       "ex": "\"Now over time, that middle tier basically got crushed.\" When the pandemic hit, store closures had Macy's forecasting an estimated $1.1 billion in losses.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "family",
+      "financial",
+      "customer",
+      "pandemic",
+      "shrink"
+     ],
+     "keyVocab": [
+      "family",
+      "financial",
+      "customer",
+      "pandemic",
+      "shrink",
+      "challenge",
+      "online",
+      "forecast"
+     ]
+    },
+    {
+     "id": "2026-11-28-technology",
+     "section": "Technology",
+     "sectionZh": "科技",
+     "title": "Screen-free tweens try their hand at Dungeons & Dragons",
+     "dek": "Dungeons & Dragons has captivated players for more than 50 years.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/27/nx-s1-6042445/screen-free-tweens-try-their-hand-at-dungeons-dragons",
+     "byline": "Sequoia Carrillo",
+     "dateLabel": "2026-11-28",
+     "words": 287,
+     "readTime": 3,
+     "level": "C1",
+     "levelEn": "Advanced",
+     "paragraphs": [
+      {
+       "en": "Dungeons & Dragons has captivated players for more than 50 years.",
+       "zh": ""
+      },
+      {
+       "en": "In its early days, some parents complained that the role-playing game kept kids holed up inside for hours at a time. NPR even did a 10-minute piece on it in 1979.",
+       "zh": ""
+      },
+      {
+       "en": "More recently, D&D has come back into popular culture through shows including Stranger Things, a 2023 blockbuster movie and an influx of interest during the COVID-19 lockdowns.",
+       "zh": ""
+      },
+      {
+       "en": "Now, what was once a nerdy pastime has become a screen-free parent's dream — a game that relies on imagination, a role of the dice and in-person communication.",
+       "zh": ""
+      },
+      {
+       "en": "\"It's a great concoction,\" Ted Fair says. He's the (grown-up) Dungeon Master for a group of 9- to 12-year-old kids in Washington Heights in New York. \"When you're able to sit down with … other people and harmonize like that.\"",
+       "zh": ""
+      },
+      {
+       "en": "Fair's group is part of Tweens Without Screens, a parent collective that focuses on providing technology-free activities for kids. They host events like knitting clubs and urban hikes. They have multiple D&D groups that meet monthly.",
+       "zh": ""
+      },
+      {
+       "en": "\"I feel like part of what's kind of fun about it is we're trying to figure it out as we go along,\" said Rose Watson, a 12-year-old member of Fair's D&D crew.",
+       "zh": ""
+      },
+      {
+       "en": "In their most recent session, the group explored a cave and discovered a mysterious egg. Possibly a dragon egg? They didn't get a chance to find out! A low roll of the dice meant that instead of successfully stealing the egg, it crashed into pieces on the floor.",
+       "zh": ""
+      },
+      {
+       "en": "\"It's like painting a picture in your mind,\" said Watson. She likes the in-person nature of the game. \"A big part of it is getting together with other people and friendship and making jokes.\"",
+       "zh": ""
+      }
+     ],
+     "vocab": [
+      {
+       "w": "culture",
+       "pos": "n.",
+       "zh": "文化",
+       "ex": "More recently, D&D has come back into popular culture through shows including Stranger Things, a 2023 blockbuster movie and an influx of interest during the COVID-19 lockdowns.",
+       "forms": []
+      },
+      {
+       "w": "crash",
+       "pos": "n.",
+       "zh": "崩盘；暴跌",
+       "ex": "A low roll of the dice meant that instead of successfully stealing the egg, it crashed into pieces on the floor.",
+       "forms": [
+        "crashed"
+       ]
+      }
+     ],
+     "homeWords": [
+      "culture",
+      "crash"
+     ],
+     "keyVocab": [
+      "culture",
+      "crash"
+     ]
+    },
+    {
+     "id": "2026-11-28-science",
+     "section": "Science",
+     "sectionZh": "科学",
+     "title": "EPA testing for lead contamination after lead azide detonation in Iowa",
+     "dek": "The Army detonated the country's stockpile of lead azide. Now EPA teams are testing the soil, air and water for any lead contamination.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/26/nx-s1-6054149/epa-testing-for-lead-contamination-after-lead-azide-detonation-in-iowa",
+     "byline": "A Martínez",
+     "dateLabel": "2026-11-28",
+     "words": 359,
+     "readTime": 3,
+     "level": "B2",
+     "levelEn": "Upper-intermediate",
+     "paragraphs": [
+      {
+       "en": "The Army detonated the country's stockpile of lead azide. Now EPA teams are testing the soil, air and water for any lead contamination.",
+       "zh": ""
+      },
+      {
+       "en": "Federal scientists are testing the air, soil and water in eastern Iowa for lead contamination. The Army detonated thousands of pounds of lead azide on Wednesday. That's the stuff bombs are made with. The Army said it was unstable and a controlled explosion would've been the only way to get rid of it.",
+       "zh": ""
+      },
+      {
+       "en": "Iowa Public Radio's Eliza Billingham is now with us. So, Eliza, let's start with the explosion itself and why the Army is calling it a success.",
+       "zh": ""
+      },
+      {
+       "en": "ELIZA BILLINGHAM, BYLINE: Of course. The detonation took place at the Iowa Army Ammunition Plant in Middletown, Iowa, and the major concern around this detonation was how much lead would be released in the air when this lead azide exploded. The Army worked to mitigate the explosion. The barrels were already underground, and then those bunkers were covered with tarps, water, and particle-collecting foam. And the EPA has been running tests ever since the explosion, and so far, it has not found any lead in the air. Shortly after the detonation, Major General Eric Shirley said the results exceeded his expectations.",
+       "zh": ""
+      },
+      {
+       "en": "ERIC SHIRLEY: Every indication is that all of the munitions that were employed absolutely reduced the lead azide threat.",
+       "zh": ""
+      },
+      {
+       "en": "MARTÍNEZ: All right. So tell us about the testing that's going on. How's it happening?",
+       "zh": ""
+      },
+      {
+       "en": "BILLINGHAM: The EPA says it has about 300 people sampling the air, ground and nearby surface water for lead contamination. Lead is dangerous because it's a neurotoxin. It's especially dangerous to children and people who are pregnant because of how it can inhibit childhood development. The EPA has set legal limits for how much lead can be on windowsills and floors of houses, for example, so it and the Army are watching for lead levels on surfaces near the detonation zone to see if they exceed those limits, but so far, the EPA says its measurements haven't shown any lead dust.",
+       "zh": ""
+      },
+      {
+       "en": "MARTÍNEZ: Now, what's been the reaction from residents? Because - I don't know - I'd be worried if I were there.",
+       "zh": ""
+      }
+     ],
+     "vocab": [
+      {
+       "w": "stockpile",
+       "pos": "v.",
+       "zh": "囤积；储备",
+       "ex": "The Army detonated the country's stockpile of lead azide.",
+       "forms": []
+      },
+      {
+       "w": "water",
+       "pos": "n.",
+       "zh": "水",
+       "ex": "Now EPA teams are testing the soil, air and water for any lead contamination.",
+       "forms": []
+      },
+      {
+       "w": "federal",
+       "pos": "adj.",
+       "zh": "联邦的",
+       "ex": "Federal scientists are testing the air, soil and water in eastern Iowa for lead contamination.",
+       "forms": []
+      },
+      {
+       "w": "scientist",
+       "pos": "n.",
+       "zh": "科学家",
+       "ex": "Federal scientists are testing the air, soil and water in eastern Iowa for lead contamination.",
+       "forms": [
+        "scientists"
+       ]
+      },
+      {
+       "w": "public",
+       "pos": "adj.",
+       "zh": "公共的；公众的",
+       "ex": "Iowa Public Radio's Eliza Billingham is now with us.",
+       "forms": []
+      },
+      {
+       "w": "plant",
+       "pos": "n.",
+       "zh": "工厂；植物",
+       "ex": "The detonation took place at the Iowa Army Ammunition Plant in Middletown, Iowa, and the major concern around this detonation was how much lead would be released in the air when this lead azide exploded.",
+       "forms": []
+      },
+      {
+       "w": "result",
+       "pos": "n.",
+       "zh": "结果",
+       "ex": "Shortly after the detonation, Major General Eric Shirley said the results exceeded his expectations.",
+       "forms": [
+        "results"
+       ]
+      },
+      {
+       "w": "exceed",
+       "pos": "v.",
+       "zh": "超过",
+       "ex": "Shortly after the detonation, Major General Eric Shirley said the results exceeded his expectations.",
+       "forms": [
+        "exceeded"
+       ]
+      },
+      {
+       "w": "threat",
+       "pos": "n.",
+       "zh": "威胁",
+       "ex": "ERIC SHIRLEY: Every indication is that all of the munitions that were employed absolutely reduced the lead azide threat.",
+       "forms": []
+      },
+      {
+       "w": "level",
+       "pos": "n.",
+       "zh": "水平；层级",
+       "ex": "The EPA has set legal limits for how much lead can be on windowsills and floors of houses, for example, so it and the Army are watching for lead levels on surfaces near the detonation zone to see if they exceed those limits, but so far, the EPA says its measurements haven't shown any lead dust.",
+       "forms": [
+        "levels"
+       ]
+      },
+      {
+       "w": "resident",
+       "pos": "n.",
+       "zh": "居民",
+       "ex": "MARTÍNEZ: Now, what's been the reaction from residents?",
+       "forms": [
+        "residents"
+       ]
+      }
+     ],
+     "homeWords": [
+      "stockpile",
+      "water",
+      "federal",
+      "scientist",
+      "public"
+     ],
+     "keyVocab": [
+      "stockpile",
+      "water",
+      "federal",
+      "scientist",
+      "public",
+      "plant",
+      "result",
+      "exceed"
+     ]
+    },
+    {
+     "id": "2026-11-28-culture",
+     "section": "Culture",
+     "sectionZh": "文化",
+     "title": "Contrary to popular belief, foot traffic and spending at malls is up",
+     "dek": "This is the biggest shopping weekend for the American mall, which — despite widespread belief to the contrary — is not dying. One reason? Teens and tweens have rediscovered the hangout.",
+     "source": "NPR",
+     "sourceUrl": "https://www.npr.org/2026/11/27/nx-s1-6026490/contrary-to-popular-belief-foot-traffic-and-spending-at-malls-is-up",
+     "byline": "Alina Selyukh",
+     "dateLabel": "2026-11-28",
+     "words": 313,
+     "readTime": 3,
+     "level": "B2",
+     "levelEn": "Upper-intermediate",
+     "paragraphs": [
+      {
+       "en": "This is the biggest shopping weekend for the American mall, which — despite widespread belief to the contrary — is not dying. One reason? Teens and tweens have rediscovered the hangout.",
+       "zh": ""
+      },
+      {
+       "en": "Today, the day after Thanksgiving, is the biggest shopping day of the year. It is a huge day for American malls. Now, you might be thinking, aren't shopping malls dying out? NPR's retail correspondent Alina Selyukh gets this question a lot.",
+       "zh": ""
+      },
+      {
+       "en": "ALINA SELYUKH, BYLINE: The idea of ailing malls comes up constantly. I was recently interviewing holiday shoppers in Manhattan, talking to cousins Chelsea Bates and Sawyer Hunley, visiting from Tennessee, and they brought it up.",
+       "zh": ""
+      },
+      {
+       "en": "SELYUKH: And of course, like any conventional wisdom, there is truth to it. Lots of malls have died, says Michael Brown, who advises retailers at Carney Consulting.",
+       "zh": ""
+      },
+      {
+       "en": "SELYUKH: Because they were small, outdated, boring. But here's what's also happening. Shopping malls today are one of the most valuable property types of all commercial real estate. Last month, visits to indoor malls increased 4% from a year ago, according to foot traffic tracking firm Placer.ai. Visits to outdoor malls grew almost 6%.",
+       "zh": ""
+      },
+      {
+       "en": "BROWN: Malls are not dying. The moles are alive and prospering.",
+       "zh": ""
+      },
+      {
+       "en": "SELYUKH: Even if we're far from their heyday. That was in the '80s and the '90s, when any teenager would tell you it was the place to go. America had built so much retail space, more than any other country, and that became an expensive problem when people began to shop on the internet. Add to that the 2008 recession, then came the fallout from private equity buying up so many retailers, then the COVID pandemic. This long shake-up claimed legendary victims, like Sears and Toys \"R\" Us and Forever 21. The American Mall was gutted.",
+       "zh": ""
+      },
+      {
+       "en": "MOLLY MORGAN: I stopped coming, I think, a lot to do in part with the department stores closing.",
+       "zh": ""
+      }
+     ],
+     "vocab": [
+      {
+       "w": "widespread",
+       "pos": "adj.",
+       "zh": "广泛的；普遍的",
+       "ex": "This is the biggest shopping weekend for the American mall, which — despite widespread belief to the contrary — is not dying.",
+       "forms": []
+      },
+      {
+       "w": "reason",
+       "pos": "n.",
+       "zh": "原因；理由",
+       "ex": "One reason?",
+       "forms": []
+      },
+      {
+       "w": "retail",
+       "pos": "n.",
+       "zh": "零售",
+       "ex": "NPR's retail correspondent Alina Selyukh gets this question a lot.",
+       "forms": []
+      },
+      {
+       "w": "interview",
+       "pos": "n.",
+       "zh": "采访；面试",
+       "ex": "I was recently interviewing holiday shoppers in Manhattan, talking to cousins Chelsea Bates and Sawyer Hunley, visiting from Tennessee, and they brought it up.",
+       "forms": [
+        "interviewing"
+       ]
+      },
+      {
+       "w": "conventional",
+       "pos": "adj.",
+       "zh": "传统的；常规的",
+       "ex": "SELYUKH: And of course, like any conventional wisdom, there is truth to it.",
+       "forms": []
+      },
+      {
+       "w": "increase",
+       "pos": "v.",
+       "zh": "增加",
+       "ex": "Last month, visits to indoor malls increased 4% from a year ago, according to foot traffic tracking firm Placer.ai.",
+       "forms": [
+        "increased"
+       ]
+      },
+      {
+       "w": "problem",
+       "pos": "n.",
+       "zh": "问题",
+       "ex": "America had built so much retail space, more than any other country, and that became an expensive problem when people began to shop on the internet.",
+       "forms": []
+      },
+      {
+       "w": "internet",
+       "pos": "n.",
+       "zh": "互联网",
+       "ex": "America had built so much retail space, more than any other country, and that became an expensive problem when people began to shop on the internet.",
+       "forms": []
+      },
+      {
+       "w": "recession",
+       "pos": "n.",
+       "zh": "经济衰退",
+       "ex": "Add to that the 2008 recession, then came the fallout from private equity buying up so many retailers, then the COVID pandemic.",
+       "forms": []
+      },
+      {
+       "w": "private",
+       "pos": "adj.",
+       "zh": "私人的；私营的",
+       "ex": "Add to that the 2008 recession, then came the fallout from private equity buying up so many retailers, then the COVID pandemic.",
+       "forms": []
+      },
+      {
+       "w": "equity",
+       "pos": "n.",
+       "zh": "股权；股票",
+       "ex": "Add to that the 2008 recession, then came the fallout from private equity buying up so many retailers, then the COVID pandemic.",
+       "forms": []
+      },
+      {
+       "w": "pandemic",
+       "pos": "n.",
+       "zh": "大流行病",
+       "ex": "Add to that the 2008 recession, then came the fallout from private equity buying up so many retailers, then the COVID pandemic.",
+       "forms": []
+      }
+     ],
+     "homeWords": [
+      "widespread",
+      "reason",
+      "retail",
+      "interview",
+      "conventional"
+     ],
+     "keyVocab": [
+      "widespread",
+      "reason",
+      "retail",
+      "interview",
+      "conventional",
+      "increase",
+      "problem",
+      "internet"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-27",
    "articles": [
@@ -4615,808 +5324,6 @@
       "school",
       "career",
       "aesthetic"
-     ]
-    }
-   ]
-  },
-  {
-   "date": "2026-11-21",
-   "articles": [
-    {
-     "id": "2026-11-21-world",
-     "section": "World",
-     "sectionZh": "国际",
-     "title": "Another day of survival for a family in Ukraine",
-     "dek": "On the outskirts of Kyiv, one family prepares for the fifth winter of war against Russia — stockpiling food and fuel and trying to maintain as much a sense of normalcy as possible.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/20/nx-s1-6042206/another-day-of-survival-for-a-family-in-ukraine",
-     "byline": "Eleanor Beardsley",
-     "dateLabel": "2026-11-21",
-     "words": 385,
-     "readTime": 3,
-     "level": "C1",
-     "levelEn": "Advanced",
-     "paragraphs": [
-      {
-       "en": "On the outskirts of Kyiv, one family prepares for the fifth winter of war against Russia — stockpiling food and fuel and trying to maintain as much a sense of normalcy as possible.",
-       "zh": "在基辅郊区，一个家庭正在为与俄罗斯交战的第五个冬天做准备——储存粮食和燃料，并尽量保持一种正常的生活状态。"
-      },
-      {
-       "en": "For a fifth straight winter, Ukrainians fully expect that Russia will again attack their already weakened energy grid in an effort to break their will. But many Ukrainians are more determined than ever to hold on. NPR's Eleanor Beardsley spent time with one family outside Kyiv that has equipped itself for the worst.",
-       "zh": "连续第五个冬天，乌克兰人完全预计俄罗斯将再次攻击他们已经脆弱不堪的电网，以摧垮他们的意志。但许多乌克兰人比以往任何时候都更加坚定地要坚持下去。美国国家公共电台（NPR）的埃莉诺·比尔兹利（Eleanor Beardsley）与基辅郊外的一家人共度了一段时间，他们已经为最坏的情况做好了准备。"
-      },
-      {
-       "en": "ELEANOR BEARDSLEY, BYLINE: It's dinner time at the Pavlenco household in the town of Irpin just north of Kyiv. The power is out and, the streets are dark across most of the Kyiv region. But the Pavlenco duplex is a pocket of warmth and light as parents Roman and Tanya make dinner.",
-       "zh": "ELEANOR BEARDSLEY，署名：在基辅以北的伊尔平镇，帕夫连科一家正在享用晚餐。基辅地区大部分地方停电，街道一片漆黑。但帕夫连科家的双拼别墅却是一处温暖明亮的空间，父母罗曼和塔尼娅正在准备晚餐。"
-      },
-      {
-       "en": "BEARDSLEY: Eggplant, mashed potatoes and pickled tomatoes from Roman's father's garden in Moldova. Roman, a doctor, now sells medical equipment. He's been in Ukraine for two decades, but he was born in Moldova on Ukraine's southwest border, which means he does not have to serve in Ukraine's military. So the family could leave the country, but they choose to stay.",
-       "zh": "BEARDSLEY：茄子、土豆泥和腌番茄，来自罗曼父亲在摩尔多瓦的菜园。罗曼是一名医生，现在从事医疗器械销售。他在乌克兰已经生活了二十年，但他出生在乌克兰西南边境的摩尔多瓦，这意味着他不必在乌克兰军队服役。因此，这个家庭本可以离开乌克兰，但他们选择留下。"
-      },
-      {
-       "en": "ROMAN: We are still at home. We are still in our country. I really trust that our country will survive, and I want that my children will live here because I want that my children will grow up like Ukrainians. They should study here because if they will be there in Europe, they are not will be Ukrainians.",
-       "zh": "ROMAN：我们仍然在自己的家园。我们仍然在自己的国家。我真心相信我们的国家会挺过去，我希望我的孩子们能在这里生活，因为我希望我的孩子们能像乌克兰人一样成长。他们应该在这里上学，因为如果他们去欧洲，他们就不会是乌克兰人了。"
-      },
-      {
-       "en": "TANYA: Yes, it's the right choice because my children have good teachers here and music school and coach, sports coach, and the education here is very good.",
-       "zh": "TANYA：是的，这是正确的选择，因为我的孩子们在这里有优秀的老师，有音乐学校和教练，有体育教练，这里的教育非常好。"
-      },
-      {
-       "en": "BEARDSLEY: And they are ready for this fifth winter of war. We go to the basement for a look.",
-       "zh": "BEARDSLEY：他们已经为这场战争的第五个冬天做好了准备。我们去地下室看看。"
-      },
-      {
-       "en": "BEARDSLEY: Lodged between the washer and dryer is a massive electrical system with batteries called an inverter that is connected to several energy sources and toggles between them.",
-       "zh": "BEARDSLEY：在洗衣机和烘干机之间，有一个带有电池的大型电气系统，称为逆变器，它连接到多个能源并在这两者之间切换。"
-      },
-      {
-       "en": "ROMAN: I have the whole system. I have the solar panels on my roof. Another thing is batteries here. Thirdly, I have a grid electricity from the central electricity. Three sources - in the day from the sun, in the night from the batteries, and if we have from the central, we use that one.",
-       "zh": "ROMAN：我有一整套系统。我的屋顶上装有太阳能电池板。还有就是这里的电池。第三，我还有来自中央电网的电。有三种来源：白天用太阳能，晚上用电池，如果有中央电网的电，我们就用中央电网的电。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "family",
-       "pos": "n.",
-       "zh": "家庭",
-       "ex": "On the outskirts of Kyiv, one family prepares for the fifth winter of war against Russia — stockpiling food and fuel and trying to maintain as much a sense of normalcy as possible.",
-       "forms": []
-      },
-      {
-       "w": "stockpile",
-       "pos": "v.",
-       "zh": "囤积；储备",
-       "ex": "On the outskirts of Kyiv, one family prepares for the fifth winter of war against Russia — stockpiling food and fuel and trying to maintain as much a sense of normalcy as possible.",
-       "forms": [
-        "stockpiling"
-       ]
-      },
-      {
-       "w": "food",
-       "pos": "n.",
-       "zh": "食物",
-       "ex": "On the outskirts of Kyiv, one family prepares for the fifth winter of war against Russia — stockpiling food and fuel and trying to maintain as much a sense of normalcy as possible.",
-       "forms": []
-      },
-      {
-       "w": "expect",
-       "pos": "v.",
-       "zh": "预期；期待",
-       "ex": "For a fifth straight winter, Ukrainians fully expect that Russia will again attack their already weakened energy grid in an effort to break their will.",
-       "forms": []
-      },
-      {
-       "w": "energy",
-       "pos": "n.",
-       "zh": "能源；精力",
-       "ex": "For a fifth straight winter, Ukrainians fully expect that Russia will again attack their already weakened energy grid in an effort to break their will.",
-       "forms": []
-      },
-      {
-       "w": "grid",
-       "pos": "n.",
-       "zh": "电网；网格",
-       "ex": "For a fifth straight winter, Ukrainians fully expect that Russia will again attack their already weakened energy grid in an effort to break their will.",
-       "forms": []
-      },
-      {
-       "w": "power",
-       "pos": "n.",
-       "zh": "权力；电力",
-       "ex": "The power is out and, the streets are dark across most of the Kyiv region.",
-       "forms": []
-      },
-      {
-       "w": "region",
-       "pos": "n.",
-       "zh": "地区；区域",
-       "ex": "The power is out and, the streets are dark across most of the Kyiv region.",
-       "forms": []
-      },
-      {
-       "w": "doctor",
-       "pos": "n.",
-       "zh": "医生",
-       "ex": "Roman, a doctor, now sells medical equipment.",
-       "forms": []
-      },
-      {
-       "w": "border",
-       "pos": "n.",
-       "zh": "边境；边界",
-       "ex": "He's been in Ukraine for two decades, but he was born in Moldova on Ukraine's southwest border, which means he does not have to serve in Ukraine's military.",
-       "forms": []
-      },
-      {
-       "w": "military",
-       "pos": "n.",
-       "zh": "军队；军方",
-       "ex": "He's been in Ukraine for two decades, but he was born in Moldova on Ukraine's southwest border, which means he does not have to serve in Ukraine's military.",
-       "forms": []
-      },
-      {
-       "w": "study",
-       "pos": "n.",
-       "zh": "研究；学习",
-       "ex": "They should study here because if they will be there in Europe, they are not will be Ukrainians.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "family",
-      "stockpile",
-      "food",
-      "expect",
-      "energy"
-     ],
-     "keyVocab": [
-      "family",
-      "stockpile",
-      "food",
-      "expect",
-      "energy",
-      "grid",
-      "power",
-      "region"
-     ]
-    },
-    {
-     "id": "2026-11-21-business",
-     "section": "Business",
-     "sectionZh": "商业 · 财经",
-     "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
-     "dek": "NEW YORK — A bruising sell-off in artificial intelligence stocks on Friday pulled the S&P 500 down 3.7%, dragging the index to its worst weekly loss in more than 18 months, and knocking the Nasdaq…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
-     "byline": "The Associated Press",
-     "dateLabel": "2026-11-21",
-     "words": 295,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "NEW YORK — A bruising sell-off in artificial intelligence stocks on Friday pulled the S&P 500 down 3.7%, dragging the index to its worst weekly loss in more than 18 months, and knocking the Nasdaq composite into the red for the year.",
-       "zh": "纽约讯——周五，人工智能股遭遇重挫性抛售，导致标准普尔500指数下跌3.7%，创下18个多月以来的最大单周跌幅，并使纳斯达克综合指数今年以来转为下跌。"
-      },
-      {
-       "en": "The benchmark index is now in what professional investors call a \"correction,\" having fallen more than 10% from its Oct. 6 all-time high.",
-       "zh": "该基准指数目前正处于专业投资者所称的“回调”阶段，较10月6日历史高点已下跌超过10%。"
-      },
-      {
-       "en": "The last time the S&P 500 had a correction was March 2025, as the Trump administration's trade war rattled the market. Its weekly loss, marking its worst such decline since April 2025, as the trade war escalated, capped a seven-day losing streak, the longest such string of losses since the onset of the COVID-19 pandemic in 2020.",
-       "zh": "标普500指数上一次出现回调是在2025年3月，当时特朗普政府的贸易战令市场动荡不安。随着贸易战的升级，标普500指数的周跌幅创下2025年4月以来的最大跌幅，结束了七连跌的走势，这是自2020年新冠疫情爆发以来的最长连跌纪录。"
-      },
-      {
-       "en": "The Nasdaq composite, which is more greatly influenced by tech stocks, slumped 5.3%, pulling it into negative territory for the year. Its weekly loss was also just shy of its worst week since March 2020, when the pandemic ground the global economy to a halt.",
-       "zh": "受科技股影响更大的纳斯达克综合指数暴跌 5.3%，跌入年度负值区间。其周跌幅也仅次于2020年3月以来的最差一周，当时新冠疫情使全球经济陷入停滞。"
-      },
-      {
-       "en": "The Dow Jones Industrial Average, with less exposure to technology stocks, fell 1.9%.",
-       "zh": "道琼斯工业平均指数受科技股影响较小，下跌了1.9%。"
-      },
-      {
-       "en": "Chip stocks like Nvidia, Micron Technology, Broadcom and Advanced Micro Devices bore the brunt of the selling, but other companies connected to the AI buildout tanked as well, including the optical products company Corning and the energy provider Bloom Energy. The AI lab Anthropic, coming off a successful IPO Thursday, tumbled 9.1%.",
-       "zh": "英伟达、美光科技、博通和超威半导体等芯片股首当其冲，但与人工智能发展相关的其他公司也遭遇重挫，包括光学产品公司康宁和能源供应商Bloom Energy。人工智能实验室Anthropic周四成功上市，但股价随即大跌9.1%。"
-      },
-      {
-       "en": "The sell-off in technology stocks spread around the globe: Japan's Nikkei and South Korea's Kospi each fell more than 5% overnight. European indexes fell sharply as well.",
-       "zh": "科技股的抛售蔓延至全球：日本的日经指数和韩国的科斯达克指数隔夜均下跌超过 5%。欧洲股市也大幅下挫。"
-      },
-      {
-       "en": "AI stocks have hefty market values and have a much bigger impact on the market's direction. They were responsible for Wall Street's big gains this year and are now behind the big slide for the market.",
-       "zh": "人工智能股票的市值庞大，对市场走势的影响也大得多。它们是今年华尔街大涨的功臣，现在又成了市场大跌的幕后推手。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "artificial",
-       "pos": "adj.",
-       "zh": "人工的；人造的",
-       "ex": "NEW YORK — A bruising sell-off in artificial intelligence stocks on Friday pulled the S&P 500 down 3.7%, dragging the index to its worst weekly loss in more than 18 months, and knocking the Nasdaq composite into the red for the year.",
-       "forms": []
-      },
-      {
-       "w": "intelligence",
-       "pos": "n.",
-       "zh": "情报；智能",
-       "ex": "NEW YORK — A bruising sell-off in artificial intelligence stocks on Friday pulled the S&P 500 down 3.7%, dragging the index to its worst weekly loss in more than 18 months, and knocking the Nasdaq composite into the red for the year.",
-       "forms": []
-      },
-      {
-       "w": "benchmark",
-       "pos": "n.",
-       "zh": "基准；参照标准",
-       "ex": "The benchmark index is now in what professional investors call a \"correction,\" having fallen more than 10% from its Oct.",
-       "forms": []
-      },
-      {
-       "w": "investor",
-       "pos": "n.",
-       "zh": "投资者",
-       "ex": "The benchmark index is now in what professional investors call a \"correction,\" having fallen more than 10% from its Oct.",
-       "forms": [
-        "investors"
-       ]
-      },
-      {
-       "w": "market",
-       "pos": "n.",
-       "zh": "市场",
-       "ex": "The last time the S&P 500 had a correction was March 2025, as the Trump administration's trade war rattled the market.",
-       "forms": []
-      },
-      {
-       "w": "decline",
-       "pos": "n.",
-       "zh": "下降；衰退",
-       "ex": "Its weekly loss, marking its worst such decline since April 2025, as the trade war escalated, capped a seven-day losing streak, the longest such string of losses since the onset of the COVID-19 pandemic in 2020.",
-       "forms": []
-      },
-      {
-       "w": "pandemic",
-       "pos": "n.",
-       "zh": "大流行病",
-       "ex": "Its weekly loss, marking its worst such decline since April 2025, as the trade war escalated, capped a seven-day losing streak, the longest such string of losses since the onset of the COVID-19 pandemic in 2020.",
-       "forms": []
-      },
-      {
-       "w": "slump",
-       "pos": "n.",
-       "zh": "暴跌；低迷",
-       "ex": "The Nasdaq composite, which is more greatly influenced by tech stocks, slumped 5.3%, pulling it into negative territory for the year.",
-       "forms": [
-        "slumped"
-       ]
-      },
-      {
-       "w": "territory",
-       "pos": "n.",
-       "zh": "领土",
-       "ex": "The Nasdaq composite, which is more greatly influenced by tech stocks, slumped 5.3%, pulling it into negative territory for the year.",
-       "forms": []
-      },
-      {
-       "w": "global",
-       "pos": "adj.",
-       "zh": "全球的",
-       "ex": "Its weekly loss was also just shy of its worst week since March 2020, when the pandemic ground the global economy to a halt.",
-       "forms": []
-      },
-      {
-       "w": "economy",
-       "pos": "n.",
-       "zh": "经济",
-       "ex": "Its weekly loss was also just shy of its worst week since March 2020, when the pandemic ground the global economy to a halt.",
-       "forms": []
-      },
-      {
-       "w": "halt",
-       "pos": "v.",
-       "zh": "停止；叫停",
-       "ex": "Its weekly loss was also just shy of its worst week since March 2020, when the pandemic ground the global economy to a halt.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "artificial",
-      "intelligence",
-      "benchmark",
-      "investor",
-      "market"
-     ],
-     "keyVocab": [
-      "artificial",
-      "intelligence",
-      "benchmark",
-      "investor",
-      "market",
-      "decline",
-      "pandemic",
-      "slump"
-     ]
-    },
-    {
-     "id": "2026-11-21-technology",
-     "section": "Technology",
-     "sectionZh": "科技",
-     "title": "Tech stocks end the week on a down note, despite Anthropic's mega-IPO",
-     "dek": "The stock market is ending the week down despite Anthropic's blockbuster IPO and a strong Nvidia earnings report, largely thanks to investor jitters about the future of AI.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/20/nx-s1-6048645/tech-stocks-end-the-week-on-a-down-note-despite-anthropics-mega-ipo",
-     "byline": "Scott Detrow",
-     "dateLabel": "2026-11-21",
-     "words": 432,
-     "readTime": 3,
-     "level": "B2",
-     "levelEn": "Upper-intermediate",
-     "paragraphs": [
-      {
-       "en": "The stock market is ending the week down despite Anthropic's blockbuster IPO and a strong Nvidia earnings report, largely thanks to investor jitters about the future of AI.",
-       "zh": "尽管有Anthropic的重磅IPO和英伟达强劲的财报，但股市本周仍以下跌收官，这主要归因于投资者对人工智能未来的担忧。"
-      },
-      {
-       "en": "The stock market is ending the week down, way down. The tech-heavy NASDAQ has fallen 10% since last Friday. That is despite two really big events in tech that should have made investors feel pretty good. NPR tech correspondent John Ruwitch is here to walk us through the week. Hey, John.",
-       "zh": "股市本周收盘下跌，跌幅很大。自上周五以来，科技股为主的纳斯达克指数已下跌10%。尽管科技领域发生了两件非常重大的事件，本应让投资者感到相当振奋。NPR科技记者John Ruwitch将在这里为我们回顾本周行情。嗨，John。"
-      },
-      {
-       "en": "DETROW: A quick note before we get into the story - Anthropic is a financial supporter of NPR, and we are obviously going to talk about Anthropic. So that being said, John, bring us up to speed on what's been going on in the stock market this week.",
-       "zh": "DETROW：在进入正题之前，先简单说明一下——Anthropic是NPR的资助方，我们显然要谈到Anthropic。话虽如此，John，请向我们介绍一下本周股市的最新动态。"
-      },
-      {
-       "en": "RUWITCH: Yeah, let me tell you about the first of those two events that you mentioned there that, seen through one lens or maybe some different quantum reality, could be seen as positive for the markets. It was Nvidia's earnings report. This is the most important chip company on Earth because it makes the most in-demand microchips that are powering the AI boom. Its quarterly financials on Tuesday were great. Its revenues were up over 100% from the same quarter last year, and the company raised its projection for next year's revenues. These are signs the company is doing very well.",
-       "zh": "RUWITCH：是的，让我来谈谈你刚才提到的这两个事件中的第一个。从一个角度来看，或者从某种不同的量子现实来看，它可以被视为对市场有利的。那就是英伟达的财报。这是地球上最重要的芯片公司，因为它生产着最受欢迎的微芯片，这些微芯片正在推动人工智能的蓬勃发展。该公司周二公布的季度财务业绩非常出色。其收入较去年同期增长超过100%，公司上调了明年的收入预期。这些迹象表明公司经营状况非常好。"
-      },
-      {
-       "en": "But, of course, this is a company in a state of turmoil, right? Founder Jensen Huang stepped down as CEO last week over allegations of marital infidelity, including with a woman who might have been spying for China. Now, those financial figures were baked in long ago - right? - before the scandal and before Huang was replaced by an interim CEO. The market didn't like it, though. Nvidia's share price is down over 20% from last Friday's close and nearly 40% over the past month as this saga played out.",
-       "zh": "但当然，这家公司正处于动荡之中，对吧？创始人黄仁勋上周因婚外情指控而辞去首席执行官职务，其中涉及一名可能为中国从事间谍活动的女性。现在，这些财务数据是很久以前就定下来的，对吧？是在丑闻发生之前，在黄仁勋被临时首席执行官取代之前。不过，市场并不买账。随着这场风波的演进，英伟达的股价较上周五收盘时下跌了20%以上，较上月下跌了近40%。"
-      },
-      {
-       "en": "DETROW: So a complicated week, to put it mildly for an Nvidia.",
-       "zh": "DETROW：对于英伟达来说，这周可谓相当复杂，这还只是委婉的说法。"
-      },
-      {
-       "en": "DETROW: What about the second big event that investors were focused on?",
-       "zh": "DETROW：投资者关注的第二个大事件是什么？"
-      },
-      {
-       "en": "RUWITCH: ...The record-breaking IPO that this AI company had. It was the biggest in history. There was strong demand from institutional investors leading up to the IPO. The company was able to price its shares much higher than they had expected. And yesterday, on day one of trading to the public, its shares opened strong. They were 34% higher than the IPO price. That was all taken by some analysts as a sign that the AI trade is back and that there's robust demand for companies linked to AI.",
-       "zh": "RUWITCH：……这家人工智能公司创下IPO纪录。这是历史上规模最大的IPO。在IPO之前，机构投资者的需求非常旺盛。该公司得以将其股票定价定得比预期高得多。昨天，在面向公众交易的第一天，其股价开盘强劲。比IPO价格高出34%。一些分析师认为，所有这些都表明人工智能交易已经回归，与人工智能相关的公司需求强劲。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "market",
-       "pos": "n.",
-       "zh": "市场",
-       "ex": "The stock market is ending the week down despite Anthropic's blockbuster IPO and a strong Nvidia earnings report, largely thanks to investor jitters about the future of AI.",
-       "forms": [
-        "markets"
-       ]
-      },
-      {
-       "w": "report",
-       "pos": "n.",
-       "zh": "报告；报道",
-       "ex": "The stock market is ending the week down despite Anthropic's blockbuster IPO and a strong Nvidia earnings report, largely thanks to investor jitters about the future of AI.",
-       "forms": []
-      },
-      {
-       "w": "investor",
-       "pos": "n.",
-       "zh": "投资者",
-       "ex": "The stock market is ending the week down despite Anthropic's blockbuster IPO and a strong Nvidia earnings report, largely thanks to investor jitters about the future of AI.",
-       "forms": [
-        "investors"
-       ]
-      },
-      {
-       "w": "future",
-       "pos": "n.",
-       "zh": "未来",
-       "ex": "The stock market is ending the week down despite Anthropic's blockbuster IPO and a strong Nvidia earnings report, largely thanks to investor jitters about the future of AI.",
-       "forms": []
-      },
-      {
-       "w": "financial",
-       "pos": "adj.",
-       "zh": "金融的；财务的",
-       "ex": "DETROW: A quick note before we get into the story - Anthropic is a financial supporter of NPR, and we are obviously going to talk about Anthropic.",
-       "forms": [
-        "financials"
-       ]
-      },
-      {
-       "w": "quantum",
-       "pos": "n.",
-       "zh": "量子",
-       "ex": "RUWITCH: Yeah, let me tell you about the first of those two events that you mentioned there that, seen through one lens or maybe some different quantum reality, could be seen as positive for the markets.",
-       "forms": []
-      },
-      {
-       "w": "chip",
-       "pos": "n.",
-       "zh": "芯片",
-       "ex": "This is the most important chip company on Earth because it makes the most in-demand microchips that are powering the AI boom.",
-       "forms": []
-      },
-      {
-       "w": "power",
-       "pos": "n.",
-       "zh": "权力；电力",
-       "ex": "This is the most important chip company on Earth because it makes the most in-demand microchips that are powering the AI boom.",
-       "forms": [
-        "powering"
-       ]
-      },
-      {
-       "w": "boom",
-       "pos": "n.",
-       "zh": "繁荣；激增",
-       "ex": "This is the most important chip company on Earth because it makes the most in-demand microchips that are powering the AI boom.",
-       "forms": []
-      },
-      {
-       "w": "revenue",
-       "pos": "n.",
-       "zh": "收入；营收",
-       "ex": "Its revenues were up over 100% from the same quarter last year, and the company raised its projection for next year's revenues.",
-       "forms": [
-        "revenues"
-       ]
-      },
-      {
-       "w": "projection",
-       "pos": "n.",
-       "zh": "预测；推算",
-       "ex": "Its revenues were up over 100% from the same quarter last year, and the company raised its projection for next year's revenues.",
-       "forms": []
-      },
-      {
-       "w": "scandal",
-       "pos": "n.",
-       "zh": "丑闻",
-       "ex": "- before the scandal and before Huang was replaced by an interim CEO.",
-       "forms": []
-      }
-     ],
-     "homeWords": [
-      "market",
-      "report",
-      "investor",
-      "future",
-      "financial"
-     ],
-     "keyVocab": [
-      "market",
-      "report",
-      "investor",
-      "future",
-      "financial",
-      "quantum",
-      "chip",
-      "power"
-     ]
-    },
-    {
-     "id": "2026-11-21-science",
-     "section": "Science",
-     "sectionZh": "科学",
-     "title": "Trump's impact on an Ohio steel plant",
-     "dek": "The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal. The switch would have cut hazardous air pollution — and greenhouse gas emissions. But that…",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant",
-     "byline": "Reid Frazier",
-     "dateLabel": "2026-11-21",
-     "words": 354,
-     "readTime": 3,
-     "level": "B2",
-     "levelEn": "Upper-intermediate",
-     "paragraphs": [
-      {
-       "en": "The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal. The switch would have cut hazardous air pollution — and greenhouse gas emissions. But that plan has changed under President Trump",
-       "zh": "位于俄亥俄州米德尔敦的这家大型钢铁厂计划不再使用焦炭（一种精炼煤）。这一转变本可以减少有害空气污染和温室气体排放。但在特朗普总统执政期间，该计划发生了变化。"
-      },
-      {
-       "en": "In Middletown, Ohio, a big steel mill is the city's largest employer and the biggest source of local air pollution. Under the Biden administration, the mill had planned to clean up its operations by shifting away from coal, but that has changed under President Trump. Middletown is now one example of the administration's efforts to boost fossil fuels. The Allegheny Front's Reid Frazier reports.",
-       "zh": "在俄亥俄州米德尔敦，一家大型钢铁厂是该市最大的雇主，也是当地最大的空气污染源。在拜登政府执政期间，该钢厂曾计划通过弃用煤炭来净化其生产运营，但在特朗普总统执政期间，这一计划发生了变化。米德尔敦现在是政府大力发展化石燃料的一个范例。阿勒格尼前线（Allegheny Front）的Reid Frazier为您报道。"
-      },
-      {
-       "en": "REID FRAZIER, BYLINE: Donna Ballinger stands outside her house in Middletown, Ohio.",
-       "zh": "REID FRAZIER，署名：Donna Ballinger站在俄亥俄州米德尔敦的自家门外。"
-      },
-      {
-       "en": "FRAZIER: Through a thicket of trees, she points to the Middletown Works, a steel mill which rises several stories above her home.",
-       "zh": "弗雷泽：她指着一丛树林后面的米德尔敦钢铁厂，这座钢铁厂比她的家高出好几层。"
-      },
-      {
-       "en": "FRAZIER: The plant makes steel the traditional way - using coke, a refined form of coal. That process emits a lot of air pollution, including carbon dioxide, which contributes to climate change. It also releases lots of soot, which drifts down onto Ballinger's neighborhood.",
-       "zh": "FRAZIER：该厂采用传统方式炼钢，使用焦炭，这是一种精炼的煤炭。该工艺会排放大量空气污染物，包括二氧化碳，这会加剧气候变化。它还会释放大量烟尘，这些烟尘飘落到巴林格所在的街区。"
-      },
-      {
-       "en": "BALLINGER: It's the fallout that's on everything we own, cars, property, kids' toys. You can't touch anything. You can't open your windows.",
-       "zh": "BALLINGER：放射性尘埃落在我们拥有的所有东西上，汽车、房产、孩子的玩具。你什么都不能碰。你不能打开窗户。"
-      },
-      {
-       "en": "FRAZIER: That soot is bad for human health. According to the EPA, the tiny particles are linked to higher rates of heart and lung problems, including asthma. Ballinger eventually got so fed up with the air quality, she began working with the local Sierra Club to try to force the plant to clean up.",
-       "zh": "FRAZIER：这种烟尘对人体健康有害。根据美国环保署的说法，这些微小颗粒与更高的心脏和肺部疾病发病率有关，包括哮喘。Ballinger最终对空气质量感到厌烦，她开始与当地的塞拉俱乐部合作，试图迫使该工厂进行整治。"
-      },
-      {
-       "en": "Then a few years ago, the steel mill did announce plans to cut its air pollution. Its owner, Cleveland-Cliffs, said it would convert to a new steelmaking process that doesn't use coal. Instead, it would switch to using natural gas or hydrogen. That would cut both the plant's local air pollution and its carbon footprint. That's important because the steel industry is a major source of climate pollution. CEO Lourenco Goncalves told investors at the time, hydrogen was the solution.",
-       "zh": "然后，几年前，这家钢铁厂确实宣布了减少空气污染的计划。其所有者Cliffs表示，将改用一种不使用煤炭的新型炼钢工艺。而是改用天然气或氢气。这将减少该厂的本地空气污染及其碳足迹。这一点很重要，因为钢铁行业是气候污染的主要来源。首席执行官Lourenco Goncalves当时对投资者表示，氢气是解决方案。"
-      },
-      {
-       "en": "LAURENCO GONCALVES: We believe hydrogen will be the true game changer for the decarbonization of steel.",
-       "zh": "LAURENCO GONCALVES：我们相信，氢能将成为钢铁脱碳的真正颠覆性因素。"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "plant",
-       "pos": "n.",
-       "zh": "工厂；植物",
-       "ex": "The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal.",
-       "forms": []
-      },
-      {
-       "w": "pollution",
-       "pos": "n.",
-       "zh": "污染",
-       "ex": "The switch would have cut hazardous air pollution — and greenhouse gas emissions.",
-       "forms": []
-      },
-      {
-       "w": "gas",
-       "pos": "n.",
-       "zh": "天然气；气体",
-       "ex": "The switch would have cut hazardous air pollution — and greenhouse gas emissions.",
-       "forms": []
-      },
-      {
-       "w": "emission",
-       "pos": "n.",
-       "zh": "排放；排放物",
-       "ex": "The switch would have cut hazardous air pollution — and greenhouse gas emissions.",
-       "forms": [
-        "emissions"
-       ]
-      },
-      {
-       "w": "change",
-       "pos": "n.",
-       "zh": "变化；改变",
-       "ex": "But that plan has changed under President Trump In Middletown, Ohio, a big steel mill is the city's largest employer and the biggest source of local air pollution.",
-       "forms": [
-        "changed"
-       ]
-      },
-      {
-       "w": "president",
-       "pos": "n.",
-       "zh": "总统；总裁",
-       "ex": "But that plan has changed under President Trump In Middletown, Ohio, a big steel mill is the city's largest employer and the biggest source of local air pollution.",
-       "forms": []
-      },
-      {
-       "w": "local",
-       "pos": "adj.",
-       "zh": "当地的",
-       "ex": "But that plan has changed under President Trump In Middletown, Ohio, a big steel mill is the city's largest employer and the biggest source of local air pollution.",
-       "forms": []
-      },
-      {
-       "w": "administration",
-       "pos": "n.",
-       "zh": "政府；行政",
-       "ex": "Under the Biden administration, the mill had planned to clean up its operations by shifting away from coal, but that has changed under President Trump.",
-       "forms": []
-      },
-      {
-       "w": "shift",
-       "pos": "n.",
-       "zh": "转变；转移",
-       "ex": "Under the Biden administration, the mill had planned to clean up its operations by shifting away from coal, but that has changed under President Trump.",
-       "forms": [
-        "shifting"
-       ]
-      },
-      {
-       "w": "boost",
-       "pos": "v.",
-       "zh": "提振；推动",
-       "ex": "Middletown is now one example of the administration's efforts to boost fossil fuels.",
-       "forms": []
-      },
-      {
-       "w": "fossil",
-       "pos": "n.",
-       "zh": "化石",
-       "ex": "Middletown is now one example of the administration's efforts to boost fossil fuels.",
-       "forms": []
-      },
-      {
-       "w": "report",
-       "pos": "n.",
-       "zh": "报告；报道",
-       "ex": "The Allegheny Front's Reid Frazier reports.",
-       "forms": [
-        "reports"
-       ]
-      }
-     ],
-     "homeWords": [
-      "plant",
-      "pollution",
-      "gas",
-      "emission",
-      "change"
-     ],
-     "keyVocab": [
-      "plant",
-      "pollution",
-      "gas",
-      "emission",
-      "change",
-      "president",
-      "local",
-      "administration"
-     ]
-    },
-    {
-     "id": "2026-11-21-culture",
-     "section": "Culture",
-     "sectionZh": "文化",
-     "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
-     "dek": "A federal judge in Virginia plans to issue a preliminary injunction blocking President Trump's triumphal arch indefinitely.",
-     "source": "NPR",
-     "sourceUrl": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington",
-     "byline": "Rachel Treisman",
-     "dateLabel": "2026-11-21",
-     "words": 332,
-     "readTime": 3,
-     "level": "C2",
-     "levelEn": "Proficient",
-     "paragraphs": [
-      {
-       "en": "A federal judge in Virginia plans to issue a preliminary injunction blocking President Trump's triumphal arch indefinitely.",
-       "zh": "弗吉尼亚州的一名联邦法官计划发布一项初步禁令，无限期阻止特朗普总统的凯旋门项目。"
-      },
-      {
-       "en": "District Judge Leonie Brinkema said during a Friday hearing that she would grant the request of the county board of Arlington, Va., which sued over the arch in October. Democracy Forward, the nonprofit representing the plaintiffs, confirmed the ruling in a statement shared with NPR.",
-       "zh": "地区法官Leonie Brinkema在周五的听证会上表示，她将批准弗吉尼亚州阿灵顿县委员会的请求，该委员会于10月就该拱门提起诉讼。代表原告的非营利组织Democracy Forward在与NPR分享的一份声明中确认了该裁决。"
-      },
-      {
-       "en": "\"We are pleased that the court has recognized the irreparable harm that will come to people who live and work in Arlington and stopped the massive vanity project while our case is heard and considered by the court,\" said senior counsel Kate Talmor.",
-       "zh": "“我们很高兴法院认识到在阿灵顿生活和工作的人们将遭受不可挽回的伤害，并在法院审理和审议我们的案件期间叫停了这个庞大的沽名钓誉项目。”高级律师Kate Talmor表示。"
-      },
-      {
-       "en": "Justice Department spokesperson Matthew Nies told NPR it will appeal the decision immediately.",
-       "zh": "司法部发言人马修·尼斯（Matthew Nies）告诉美国国家公共电台（NPR），司法部将立即对该裁决提起上诉。"
-      },
-      {
-       "en": "The 250-foot arch would be built in Memorial Circle, which is part of D.C. but sits on the Virginia side of the Potomac River, a short distance from both Arlington National Cemetery and Ronald Reagan Washington National Airport, both in Arlington.",
-       "zh": "这座76米高的拱门将建在纪念广场（Memorial Circle），该广场属于华盛顿特区，但位于波托马克河的弗吉尼亚州一侧，距离阿灵顿国家公墓和罗纳德·里根华盛顿国家机场（均位于阿灵顿）不远。"
-      },
-      {
-       "en": "Arlington County has argued that the arch would \"cause significant harm\" to its residents in multiple ways, including increasing noise and air pollution and \"clogging thoroughfares needed for emergency transport services.\" And it said an arch that doubles as a military complex — as Trump has suggested — would pose public safety risks and require additional county resources to manage.",
-       "zh": "阿灵顿县认为，拱门将以多种方式对该县居民“造成重大危害”，包括加剧噪音和空气污染，以及“堵塞紧急运输服务所需的交通要道”。该县还表示，正如特朗普所建议的那样，一座兼具军事建筑功能的拱门将对公共安全构成威胁，并需要县政府投入额外资源来管理。"
-      },
-      {
-       "en": "Arlington also argues the arch would disrupt historic sightlines between Arlington National Cemetery and D.C.'s National Mall, and pose logistical challenges for the roughly 24 to 27 funerals the cemetery holds every weekday. The county also has concerns about air and road traffic, saying construction-related delays could cause more accidents and disrupt emergency vehicles far beyond the traffic circle.",
-       "zh": "阿灵顿还认为，这座拱门将破坏阿灵顿国家公墓与华盛顿特区国家广场之间的历史视线，并给该公墓每个工作日举行的约24至27场葬礼带来后勤方面的挑战。该县还对空中和道路交通表示担忧，称与施工相关的延误可能导致更多事故，并对环岛以外的应急车辆造成干扰。"
-      },
-      {
-       "en": "\"In the last 60 days, Arlington police, fire, and emergency units have responded to approximately 200 incidents in the area surrounding the Circle, including traffic stops and assisting with unconscious persons within Arlington National Cemetery,\" they wrote. \"And the visitors the Arch is intended to attract will increase demand for those same emergency services.\"",
-       "zh": "他们写道：“在过去的60天里，阿灵顿的警察、消防和应急部门在环形广场周边地区处置了大约200起事件，包括拦停车辆和在阿灵顿国家公墓内协助处理昏迷人员。” “而拱门旨在吸引的游客将增加对这些同样应急服务的需求。”"
-      }
-     ],
-     "vocab": [
-      {
-       "w": "federal",
-       "pos": "adj.",
-       "zh": "联邦的",
-       "ex": "A federal judge in Virginia plans to issue a preliminary injunction blocking President Trump's triumphal arch indefinitely.",
-       "forms": []
-      },
-      {
-       "w": "judge",
-       "pos": "n.",
-       "zh": "法官",
-       "ex": "A federal judge in Virginia plans to issue a preliminary injunction blocking President Trump's triumphal arch indefinitely.",
-       "forms": []
-      },
-      {
-       "w": "issue",
-       "pos": "n.",
-       "zh": "议题；问题",
-       "ex": "A federal judge in Virginia plans to issue a preliminary injunction blocking President Trump's triumphal arch indefinitely.",
-       "forms": []
-      },
-      {
-       "w": "president",
-       "pos": "n.",
-       "zh": "总统；总裁",
-       "ex": "A federal judge in Virginia plans to issue a preliminary injunction blocking President Trump's triumphal arch indefinitely.",
-       "forms": []
-      },
-      {
-       "w": "democracy",
-       "pos": "n.",
-       "zh": "民主；民主制度",
-       "ex": "Democracy Forward, the nonprofit representing the plaintiffs, confirmed the ruling in a statement shared with NPR.",
-       "forms": []
-      },
-      {
-       "w": "confirm",
-       "pos": "v.",
-       "zh": "证实；确认",
-       "ex": "Democracy Forward, the nonprofit representing the plaintiffs, confirmed the ruling in a statement shared with NPR.",
-       "forms": [
-        "confirmed"
-       ]
-      },
-      {
-       "w": "ruling",
-       "pos": "n.",
-       "zh": "裁决；裁定",
-       "ex": "Democracy Forward, the nonprofit representing the plaintiffs, confirmed the ruling in a statement shared with NPR.",
-       "forms": []
-      },
-      {
-       "w": "statement",
-       "pos": "n.",
-       "zh": "声明；陈述",
-       "ex": "Democracy Forward, the nonprofit representing the plaintiffs, confirmed the ruling in a statement shared with NPR.",
-       "forms": []
-      },
-      {
-       "w": "court",
-       "pos": "n.",
-       "zh": "法院；法庭",
-       "ex": "\"We are pleased that the court has recognized the irreparable harm that will come to people who live and work in Arlington and stopped the massive vanity project while our case is heard and considered by the court,\" said senior counsel Kate Talmor.",
-       "forms": []
-      },
-      {
-       "w": "appeal",
-       "pos": "n.",
-       "zh": "上诉；呼吁",
-       "ex": "Justice Department spokesperson Matthew Nies told NPR it will appeal the decision immediately.",
-       "forms": []
-      },
-      {
-       "w": "national",
-       "pos": "adj.",
-       "zh": "国家的；全国的",
-       "ex": "but sits on the Virginia side of the Potomac River, a short distance from both Arlington National Cemetery and Ronald Reagan Washington National Airport, both in Arlington.",
-       "forms": []
-      },
-      {
-       "w": "argue",
-       "pos": "v.",
-       "zh": "主张；争论",
-       "ex": "Arlington County has argued that the arch would \"cause significant harm\" to its residents in multiple ways, including increasing noise and air pollution and \"clogging thoroughfares needed for emergency transport services.\" And it said an arch that doubles as a military complex — as Trump has suggested — would pose public safety risks and require additional county resources to manage.",
-       "forms": [
-        "argued",
-        "argues"
-       ]
-      }
-     ],
-     "homeWords": [
-      "federal",
-      "judge",
-      "issue",
-      "president",
-      "democracy"
-     ],
-     "keyVocab": [
-      "federal",
-      "judge",
-      "issue",
-      "president",
-      "democracy",
-      "confirm",
-      "ruling",
-      "statement"
      ]
     }
    ]
